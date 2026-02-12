@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#003399"/>
+  <text x="32" y="28" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#FFCC00">EPSO</text>
+  <text x="32" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">AD5</text>
+  <circle cx="32" cy="56" r="2" fill="#FFCC00"/>
+</svg>
