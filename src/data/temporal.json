@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "temp-001",
+    "question_it": "In quale anno fu firmato il Trattato di Roma che istituì la Comunità Economica Europea?",
+    "question_en": "In which year was the Treaty of Rome signed, establishing the European Economic Community?",
+    "options": [
+      {
+        "text_it": "1951",
+        "text_en": "1951"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      },
+      {
+        "text_it": "1962",
+        "text_en": "1962"
+      },
+      {
+        "text_it": "1967",
+        "text_en": "1967"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Roma** fu firmato il *25 marzo 1957* da sei paesi fondatori: Francia, Germania, Italia, Belgio, Paesi Bassi e Lussemburgo.",
+    "explanation_en": "The **Treaty of Rome** was signed on *25 March 1957* by six founding countries: France, Germany, Italy, Belgium, the Netherlands, and Luxembourg.",
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "motivation_it": "Il Trattato di Roma del 1957 creò la CEE e l'Euratom, ponendo le basi dell'integrazione economica europea.",
+    "motivation_en": "The 1957 Treaty of Rome created the EEC and Euratom, laying the foundations of European economic integration.",
+    "wrong_explanations_it": [
+      "Il 1951 è l'anno del Trattato CECA, non del Trattato di Roma.",
+      "",
+      "Nel 1962 non fu firmato alcun trattato fondamentale europeo.",
+      "Il 1967 è l'anno del Trattato di fusione degli esecutivi."
+    ],
+    "wrong_explanations_en": [
+      "1951 is the year of the ECSC Treaty, not the Treaty of Rome.",
+      "",
+      "No fundamental European treaty was signed in 1962.",
+      "1967 is the year of the Merger Treaty of the executives."
+    ]
+  },
+  {
+    "id": "temp-002",
+    "question_it": "Il Trattato CECA (Comunità Europea del Carbone e dell'Acciaio) fu firmato in quale anno?",
+    "question_en": "The ECSC (European Coal and Steel Community) Treaty was signed in which year?",
+    "options": [
+      {
+        "text_it": "1948",
+        "text_en": "1948"
+      },
+      {
+        "text_it": "1951",
+        "text_en": "1951"
+      },
+      {
+        "text_it": "1955",
+        "text_en": "1955"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato CECA** fu firmato a Parigi il *18 aprile 1951* ed entrò in vigore il 23 luglio 1952.",
+    "explanation_en": "The **ECSC Treaty** was signed in Paris on *18 April 1951* and entered into force on 23 July 1952.",
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "motivation_it": "La CECA, proposta da Robert Schuman nel 1950, fu la prima comunità europea e pose le basi per l'integrazione.",
+    "motivation_en": "The ECSC, proposed by Robert Schuman in 1950, was the first European community and laid the groundwork for integration.",
+    "wrong_explanations_it": [
+      "Nel 1948 non esisteva ancora il progetto della CECA; la Dichiarazione Schuman è del 1950.",
+      "",
+      "Il 1955 è l'anno della Conferenza di Messina, non del Trattato CECA.",
+      "Il 1957 è l'anno del Trattato di Roma, non della CECA."
+    ],
+    "wrong_explanations_en": [
+      "In 1948 the ECSC project did not yet exist; the Schuman Declaration was in 1950.",
+      "",
+      "1955 is the year of the Messina Conference, not the ECSC Treaty.",
+      "1957 is the year of the Treaty of Rome, not the ECSC."
+    ]
+  },
+  {
+    "id": "temp-003",
+    "question_it": "In quale anno il Trattato di Maastricht fu firmato, creando l'Unione Europea?",
+    "question_en": "In which year was the Maastricht Treaty signed, creating the European Union?",
+    "options": [
+      {
+        "text_it": "1989",
+        "text_en": "1989"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      },
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Trattato di Maastricht** (TUE) fu firmato il *7 febbraio 1992* ed entrò in vigore il 1º novembre 1993.",
+    "explanation_en": "The **Maastricht Treaty** (TEU) was signed on *7 February 1992* and entered into force on 1 November 1993.",
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "motivation_it": "Il Trattato di Maastricht creò formalmente l'Unione Europea con i suoi tre pilastri e stabilì i criteri per l'unione monetaria.",
+    "motivation_en": "The Maastricht Treaty formally created the European Union with its three pillars and established the criteria for monetary union.",
+    "wrong_explanations_it": [
+      "Il 1989 è l'anno della caduta del Muro di Berlino, non del Trattato di Maastricht.",
+      "Nel 1990 ci fu la riunificazione tedesca, non la firma del TUE.",
+      "",
+      "Nel 1995 ci fu l'allargamento a Austria, Finlandia e Svezia."
+    ],
+    "wrong_explanations_en": [
+      "1989 is the year the Berlin Wall fell, not the Maastricht Treaty.",
+      "1990 saw German reunification, not the signing of the TEU.",
+      "",
+      "1995 was the year of enlargement to Austria, Finland and Sweden."
+    ]
+  },
+  {
+    "id": "temp-004",
+    "question_it": "L'Atto Unico Europeo, che modificò i trattati fondativi per completare il mercato interno, fu firmato nel:",
+    "question_en": "The Single European Act, which amended the founding treaties to complete the internal market, was signed in:",
+    "options": [
+      {
+        "text_it": "1983",
+        "text_en": "1983"
+      },
+      {
+        "text_it": "1986",
+        "text_en": "1986"
+      },
+      {
+        "text_it": "1989",
+        "text_en": "1989"
+      },
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**Atto Unico Europeo** fu firmato nel *febbraio 1986* con l'obiettivo di completare il mercato unico entro il 1992.",
+    "explanation_en": "The **Single European Act** was signed in *February 1986* with the goal of completing the single market by 1992.",
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "motivation_it": "L'AUE fu la prima revisione importante dei trattati e introdusse il voto a maggioranza qualificata per le misure del mercato interno.",
+    "motivation_en": "The SEA was the first major treaty revision and introduced qualified majority voting for internal market measures.",
+    "wrong_explanations_it": [
+      "Nel 1983 fu adottata la Dichiarazione solenne di Stoccarda, non l'AUE.",
+      "",
+      "Il 1989 non corrisponde alla firma dell'AUE ma alla caduta del Muro di Berlino.",
+      "Il 1992 è l'anno del Trattato di Maastricht, non dell'AUE."
+    ],
+    "wrong_explanations_en": [
+      "In 1983 the Solemn Declaration of Stuttgart was adopted, not the SEA.",
+      "",
+      "1989 does not correspond to the SEA signing but to the fall of the Berlin Wall.",
+      "1992 is the year of the Maastricht Treaty, not the SEA."
+    ]
+  },
+  {
+    "id": "temp-005",
+    "question_it": "Il Trattato di Lisbona fu firmato nel:",
+    "question_en": "The Treaty of Lisbon was signed in:",
+    "options": [
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      },
+      {
+        "text_it": "2005",
+        "text_en": "2005"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2009",
+        "text_en": "2009"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Trattato di Lisbona** fu firmato il *13 dicembre 2007* ed entrò in vigore il 1º dicembre 2009.",
+    "explanation_en": "The **Treaty of Lisbon** was signed on *13 December 2007* and entered into force on 1 December 2009.",
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "motivation_it": "Il Trattato di Lisbona riformò le istituzioni UE, creò la figura del Presidente del Consiglio europeo e dell'Alto rappresentante.",
+    "motivation_en": "The Treaty of Lisbon reformed EU institutions, creating the posts of President of the European Council and High Representative.",
+    "wrong_explanations_it": [
+      "Nel 2004 fu firmata la Costituzione europea (poi bocciata), non il Trattato di Lisbona.",
+      "Nel 2005 i referendum in Francia e Paesi Bassi bocciarono la Costituzione europea.",
+      "",
+      "Il 2009 è l'anno di entrata in vigore, non di firma del Trattato."
+    ],
+    "wrong_explanations_en": [
+      "In 2004 the European Constitution was signed (later rejected), not the Lisbon Treaty.",
+      "In 2005 referendums in France and the Netherlands rejected the European Constitution.",
+      "",
+      "2009 is the year the Treaty entered into force, not when it was signed."
+    ]
+  },
+  {
+    "id": "temp-006",
+    "question_it": "Il Trattato di Amsterdam fu firmato nel:",
+    "question_en": "The Treaty of Amsterdam was signed in:",
+    "options": [
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "1997",
+        "text_en": "1997"
+      },
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      },
+      {
+        "text_it": "2001",
+        "text_en": "2001"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Amsterdam** fu firmato il *2 ottobre 1997* ed entrò in vigore il 1º maggio 1999.",
+    "explanation_en": "The **Treaty of Amsterdam** was signed on *2 October 1997* and entered into force on 1 May 1999.",
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "motivation_it": "Il Trattato di Amsterdam rafforzò la politica sociale, incorporò l'acquis di Schengen e rinumerò gli articoli dei trattati.",
+    "motivation_en": "The Treaty of Amsterdam strengthened social policy, incorporated the Schengen acquis, and renumbered the treaty articles.",
+    "wrong_explanations_it": [
+      "Il 1995 fu l'anno dell'allargamento EFTA, non del Trattato di Amsterdam.",
+      "",
+      "Il 1999 è l'anno di entrata in vigore del Trattato, non della firma.",
+      "Il 2001 è l'anno del Trattato di Nizza."
+    ],
+    "wrong_explanations_en": [
+      "1995 was the year of the EFTA enlargement, not the Amsterdam Treaty.",
+      "",
+      "1999 is when the Treaty entered into force, not when it was signed.",
+      "2001 is the year of the Treaty of Nice."
+    ]
+  },
+  {
+    "id": "temp-007",
+    "question_it": "Il Trattato di Nizza, che preparò l'UE al grande allargamento del 2004, fu firmato nel:",
+    "question_en": "The Treaty of Nice, which prepared the EU for the major 2004 enlargement, was signed in:",
+    "options": [
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      },
+      {
+        "text_it": "2001",
+        "text_en": "2001"
+      },
+      {
+        "text_it": "2003",
+        "text_en": "2003"
+      },
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Nizza** fu firmato il *26 febbraio 2001* ed entrò in vigore il 1º febbraio 2003.",
+    "explanation_en": "The **Treaty of Nice** was signed on *26 February 2001* and entered into force on 1 February 2003.",
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "motivation_it": "Il Trattato di Nizza riformò la composizione della Commissione e il sistema di voto al Consiglio in vista dell'allargamento.",
+    "motivation_en": "The Treaty of Nice reformed the Commission's composition and Council voting system ahead of enlargement.",
+    "wrong_explanations_it": [
+      "Il 1999 è l'anno di entrata in vigore del Trattato di Amsterdam.",
+      "",
+      "Il 2003 è l'anno di entrata in vigore del Trattato di Nizza, non della firma.",
+      "Il 2004 è l'anno del grande allargamento, non della firma del Trattato."
+    ],
+    "wrong_explanations_en": [
+      "1999 is when the Amsterdam Treaty entered into force.",
+      "",
+      "2003 is when the Nice Treaty entered into force, not when it was signed.",
+      "2004 is the year of the big enlargement, not the Treaty signing."
+    ]
+  },
+  {
+    "id": "temp-008",
+    "question_it": "Nel primo allargamento del 1973, quali paesi aderirono alla CEE?",
+    "question_en": "In the first enlargement of 1973, which countries joined the EEC?",
+    "options": [
+      {
+        "text_it": "Spagna, Portogallo, Grecia",
+        "text_en": "Spain, Portugal, Greece"
+      },
+      {
+        "text_it": "Regno Unito, Danimarca, Irlanda",
+        "text_en": "United Kingdom, Denmark, Ireland"
+      },
+      {
+        "text_it": "Austria, Finlandia, Svezia",
+        "text_en": "Austria, Finland, Sweden"
+      },
+      {
+        "text_it": "Norvegia, Islanda, Regno Unito",
+        "text_en": "Norway, Iceland, United Kingdom"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **primo allargamento** del *1º gennaio 1973* portò nella CEE **Regno Unito, Danimarca e Irlanda**.",
+    "explanation_en": "The **first enlargement** on *1 January 1973* brought **the United Kingdom, Denmark, and Ireland** into the EEC.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "Anche la Norvegia aveva negoziato l'adesione ma un referendum popolare nel 1972 la respinse.",
+    "motivation_en": "Norway had also negotiated accession but a popular referendum in 1972 rejected it.",
+    "wrong_explanations_it": [
+      "Spagna e Portogallo aderirono nel 1986, la Grecia nel 1981.",
+      "",
+      "Austria, Finlandia e Svezia aderirono nel 1995.",
+      "La Norvegia non ha mai aderito all'UE; l'Islanda non è membro UE."
+    ],
+    "wrong_explanations_en": [
+      "Spain and Portugal joined in 1986, Greece in 1981.",
+      "",
+      "Austria, Finland and Sweden joined in 1995.",
+      "Norway never joined the EU; Iceland is not an EU member."
+    ]
+  },
+  {
+    "id": "temp-009",
+    "question_it": "La Grecia aderì alla CEE nel:",
+    "question_en": "Greece joined the EEC in:",
+    "options": [
+      {
+        "text_it": "1973",
+        "text_en": "1973"
+      },
+      {
+        "text_it": "1981",
+        "text_en": "1981"
+      },
+      {
+        "text_it": "1986",
+        "text_en": "1986"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Grecia** aderì alla CEE il *1º gennaio 1981*, diventando il decimo Stato membro.",
+    "explanation_en": "**Greece** joined the EEC on *1 January 1981*, becoming the tenth Member State.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "L'adesione della Grecia fu il primo allargamento mediterraneo, dopo la caduta della dittatura dei colonnelli nel 1974.",
+    "motivation_en": "Greece's accession was the first Mediterranean enlargement, following the fall of the military junta in 1974.",
+    "wrong_explanations_it": [
+      "Nel 1973 aderirono Regno Unito, Danimarca e Irlanda.",
+      "",
+      "Nel 1986 aderirono Spagna e Portogallo.",
+      "Nel 1990 non ci fu nessun allargamento."
+    ],
+    "wrong_explanations_en": [
+      "In 1973 the UK, Denmark and Ireland joined.",
+      "",
+      "In 1986 Spain and Portugal joined.",
+      "There was no enlargement in 1990."
+    ]
+  },
+  {
+    "id": "temp-010",
+    "question_it": "Spagna e Portogallo aderirono alla CEE nel:",
+    "question_en": "Spain and Portugal joined the EEC in:",
+    "options": [
+      {
+        "text_it": "1981",
+        "text_en": "1981"
+      },
+      {
+        "text_it": "1984",
+        "text_en": "1984"
+      },
+      {
+        "text_it": "1986",
+        "text_en": "1986"
+      },
+      {
+        "text_it": "1989",
+        "text_en": "1989"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "**Spagna e Portogallo** aderirono alla CEE il *1º gennaio 1986*, portando gli Stati membri a 12.",
+    "explanation_en": "**Spain and Portugal** joined the EEC on *1 January 1986*, bringing the Member States to 12.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "Entrambi i paesi avevano ristabilito la democrazia negli anni '70 dopo lunghe dittature.",
+    "motivation_en": "Both countries had re-established democracy in the 1970s after long dictatorships.",
+    "wrong_explanations_it": [
+      "Nel 1981 aderì solo la Grecia.",
+      "Il 1984 non corrisponde a nessun allargamento.",
+      "",
+      "Nel 1989 non ci fu alcun allargamento."
+    ],
+    "wrong_explanations_en": [
+      "In 1981 only Greece joined.",
+      "1984 does not correspond to any enlargement.",
+      "",
+      "There was no enlargement in 1989."
+    ]
+  },
+  {
+    "id": "temp-011",
+    "question_it": "Nel 1995, quali tre paesi aderirono all'Unione Europea?",
+    "question_en": "In 1995, which three countries joined the European Union?",
+    "options": [
+      {
+        "text_it": "Norvegia, Svizzera, Austria",
+        "text_en": "Norway, Switzerland, Austria"
+      },
+      {
+        "text_it": "Austria, Finlandia, Svezia",
+        "text_en": "Austria, Finland, Sweden"
+      },
+      {
+        "text_it": "Polonia, Ungheria, Repubblica Ceca",
+        "text_en": "Poland, Hungary, Czech Republic"
+      },
+      {
+        "text_it": "Cipro, Malta, Estonia",
+        "text_en": "Cyprus, Malta, Estonia"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**Austria, Finlandia e Svezia** aderirono all'UE il *1º gennaio 1995*. La Norvegia rifiutò nuovamente con referendum.",
+    "explanation_en": "**Austria, Finland, and Sweden** joined the EU on *1 January 1995*. Norway again rejected membership by referendum.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "Fu il cosiddetto allargamento EFTA, dato che i tre paesi provenivano dall'Associazione europea di libero scambio.",
+    "motivation_en": "This was the so-called EFTA enlargement, as the three countries came from the European Free Trade Association.",
+    "wrong_explanations_it": [
+      "La Norvegia rifiutò l'adesione con referendum nel 1994; la Svizzera non ha mai aderito.",
+      "",
+      "Polonia, Ungheria e Repubblica Ceca aderirono nel 2004.",
+      "Cipro, Malta ed Estonia aderirono nel 2004."
+    ],
+    "wrong_explanations_en": [
+      "Norway rejected membership by referendum in 1994; Switzerland has never joined.",
+      "",
+      "Poland, Hungary and Czech Republic joined in 2004.",
+      "Cyprus, Malta and Estonia joined in 2004."
+    ]
+  },
+  {
+    "id": "temp-012",
+    "question_it": "Il grande allargamento del 2004 portò quanti nuovi Stati membri nell'UE?",
+    "question_en": "The big enlargement of 2004 brought how many new Member States into the EU?",
+    "options": [
+      {
+        "text_it": "8",
+        "text_en": "8"
+      },
+      {
+        "text_it": "10",
+        "text_en": "10"
+      },
+      {
+        "text_it": "12",
+        "text_en": "12"
+      },
+      {
+        "text_it": "15",
+        "text_en": "15"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il *1º maggio 2004* aderirono **10 nuovi Stati**: Polonia, Ungheria, Repubblica Ceca, Slovacchia, Slovenia, Estonia, Lettonia, Lituania, Cipro e Malta.",
+    "explanation_en": "On *1 May 2004*, **10 new States** joined: Poland, Hungary, Czech Republic, Slovakia, Slovenia, Estonia, Latvia, Lithuania, Cyprus, and Malta.",
+    "category": "Accession History",
+    "difficulty": "medium",
+    "motivation_it": "Fu il più grande allargamento nella storia dell'UE, riunificando l'Europa dopo la Guerra Fredda.",
+    "motivation_en": "It was the largest enlargement in EU history, reuniting Europe after the Cold War.",
+    "wrong_explanations_it": [
+      "8 non include Cipro e Malta che aderirono insieme ai paesi dell'Europa centrale.",
+      "",
+      "12 confonde il numero con l'aggiunta successiva di Bulgaria e Romania nel 2007.",
+      "15 era il numero totale di Stati membri prima dell'allargamento del 2004."
+    ],
+    "wrong_explanations_en": [
+      "8 does not include Cyprus and Malta which joined along with Central European countries.",
+      "",
+      "12 confuses the number with the later addition of Bulgaria and Romania in 2007.",
+      "15 was the total number of Member States before the 2004 enlargement."
+    ]
+  },
+  {
+    "id": "temp-013",
+    "question_it": "Bulgaria e Romania aderirono all'Unione Europea nel:",
+    "question_en": "Bulgaria and Romania joined the European Union in:",
+    "options": [
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      },
+      {
+        "text_it": "2005",
+        "text_en": "2005"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "**Bulgaria e Romania** aderirono all'UE il *1º gennaio 2007*, portando il totale a 27 Stati membri.",
+    "explanation_en": "**Bulgaria and Romania** joined the EU on *1 January 2007*, bringing the total to 27 Member States.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "La loro adesione era stata ritardata rispetto al 2004 per la necessità di ulteriori riforme.",
+    "motivation_en": "Their accession had been delayed from 2004 due to the need for further reforms.",
+    "wrong_explanations_it": [
+      "Nel 2004 aderirono 10 paesi, ma non Bulgaria e Romania.",
+      "Il 2005 non corrisponde ad alcun allargamento dell'UE.",
+      "",
+      "Nel 2010 non ci fu alcun allargamento."
+    ],
+    "wrong_explanations_en": [
+      "In 2004, 10 countries joined, but not Bulgaria and Romania.",
+      "2005 does not correspond to any EU enlargement.",
+      "",
+      "There was no enlargement in 2010."
+    ]
+  },
+  {
+    "id": "temp-014",
+    "question_it": "La Croazia, ultimo paese ad aderire all'UE prima della Brexit, entrò nell'Unione nel:",
+    "question_en": "Croatia, the last country to join the EU before Brexit, entered the Union in:",
+    "options": [
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      },
+      {
+        "text_it": "2011",
+        "text_en": "2011"
+      },
+      {
+        "text_it": "2013",
+        "text_en": "2013"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Croazia** aderì all'UE il *1º luglio 2013*, diventando il 28º Stato membro.",
+    "explanation_en": "**Croatia** joined the EU on *1 July 2013*, becoming the 28th Member State.",
+    "category": "Accession History",
+    "difficulty": "easy",
+    "motivation_it": "La Croazia è il più recente Stato membro ad aver completato il processo di adesione.",
+    "motivation_en": "Croatia is the most recent Member State to have completed the accession process.",
+    "wrong_explanations_it": [
+      "Nel 2010 non ci fu alcun allargamento dell'UE.",
+      "Nel 2011 non aderì nessun nuovo Stato membro.",
+      "",
+      "Nel 2015 non ci fu alcun allargamento."
+    ],
+    "wrong_explanations_en": [
+      "There was no EU enlargement in 2010.",
+      "No new Member State joined in 2011.",
+      "",
+      "There was no enlargement in 2015."
+    ]
+  },
+  {
+    "id": "temp-015",
+    "question_it": "L'euro fu introdotto come moneta scritturale (transazioni elettroniche) nel:",
+    "question_en": "The euro was introduced as a book currency (electronic transactions) in:",
+    "options": [
+      {
+        "text_it": "1997",
+        "text_en": "1997"
+      },
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      },
+      {
+        "text_it": "2001",
+        "text_en": "2001"
+      },
+      {
+        "text_it": "2002",
+        "text_en": "2002"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**euro** fu introdotto come moneta scritturale il *1º gennaio 1999* in 11 paesi. Le banconote e monete fisiche arrivarono il 1º gennaio 2002.",
+    "explanation_en": "The **euro** was introduced as a book currency on *1 January 1999* in 11 countries. Physical banknotes and coins arrived on 1 January 2002.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "I tassi di cambio delle valute nazionali furono fissati irrevocabilmente il 31 dicembre 1998.",
+    "motivation_en": "The exchange rates of national currencies were irrevocably fixed on 31 December 1998.",
+    "wrong_explanations_it": [
+      "Nel 1997 fu firmato il Trattato di Amsterdam, non introdotto l'euro.",
+      "",
+      "Nel 2001 la Grecia adottò l'euro, ma la moneta era già stata introdotta nel 1999.",
+      "Il 2002 è l'anno delle banconote e monete fisiche, non dell'introduzione scritturale."
+    ],
+    "wrong_explanations_en": [
+      "In 1997 the Amsterdam Treaty was signed, the euro was not introduced.",
+      "",
+      "In 2001 Greece adopted the euro, but the currency had already been introduced in 1999.",
+      "2002 is the year of physical banknotes and coins, not the book currency introduction."
+    ]
+  },
+  {
+    "id": "temp-016",
+    "question_it": "L'Accordo di Schengen sulla libera circolazione fu firmato nel:",
+    "question_en": "The Schengen Agreement on free movement was signed in:",
+    "options": [
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      },
+      {
+        "text_it": "1993",
+        "text_en": "1993"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Accordo di Schengen** fu firmato il *14 giugno 1985* da 5 paesi. La Convenzione di applicazione seguì nel 1990 e l'area divenne operativa nel 1995.",
+    "explanation_en": "The **Schengen Agreement** was signed on *14 June 1985* by 5 countries. The implementing Convention followed in 1990 and the area became operational in 1995.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "I cinque firmatari originali furono Francia, Germania, Belgio, Paesi Bassi e Lussemburgo.",
+    "motivation_en": "The five original signatories were France, Germany, Belgium, the Netherlands, and Luxembourg.",
+    "wrong_explanations_it": [
+      "",
+      "Il 1990 è l'anno della Convenzione di applicazione di Schengen, non dell'accordo originale.",
+      "Nel 1993 entrò in vigore il Trattato di Maastricht, non l'accordo di Schengen.",
+      "Il 1995 è l'anno in cui l'area Schengen divenne operativa, non della firma."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "1990 is the year of the Schengen Convention, not the original agreement.",
+      "In 1993 the Maastricht Treaty entered into force, not the Schengen agreement.",
+      "1995 is when the Schengen area became operational, not when it was signed."
+    ]
+  },
+  {
+    "id": "temp-017",
+    "question_it": "Le prime elezioni dirette del Parlamento europeo si tennero nel:",
+    "question_en": "The first direct elections to the European Parliament were held in:",
+    "options": [
+      {
+        "text_it": "1975",
+        "text_en": "1975"
+      },
+      {
+        "text_it": "1979",
+        "text_en": "1979"
+      },
+      {
+        "text_it": "1984",
+        "text_en": "1984"
+      },
+      {
+        "text_it": "1989",
+        "text_en": "1989"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Le **prime elezioni dirette** del Parlamento europeo si tennero nel *giugno 1979*. Prima di allora, i membri erano delegati dai parlamenti nazionali.",
+    "explanation_en": "The **first direct elections** to the European Parliament were held in *June 1979*. Before that, members were delegated by national parliaments.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "Le elezioni del 1979 diedero per la prima volta ai cittadini europei il diritto di eleggere direttamente i propri rappresentanti al PE.",
+    "motivation_en": "The 1979 elections gave European citizens the right to directly elect their MEPs for the first time.",
+    "wrong_explanations_it": [
+      "Nel 1975 non si tennero elezioni europee dirette.",
+      "",
+      "Le elezioni del 1984 furono le seconde elezioni dirette del PE.",
+      "Le elezioni del 1989 furono le terze."
+    ],
+    "wrong_explanations_en": [
+      "No direct European elections were held in 1975.",
+      "",
+      "The 1984 elections were the second direct EP elections.",
+      "The 1989 elections were the third."
+    ]
+  },
+  {
+    "id": "temp-018",
+    "question_it": "Il referendum sulla Brexit nel Regno Unito si tenne nel:",
+    "question_en": "The Brexit referendum in the United Kingdom was held in:",
+    "options": [
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      },
+      {
+        "text_it": "2017",
+        "text_en": "2017"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **referendum sulla Brexit** si tenne il *23 giugno 2016*. Il 51,9% votò per l'uscita dall'UE.",
+    "explanation_en": "The **Brexit referendum** was held on *23 June 2016*. 51.9% voted to leave the EU.",
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "motivation_it": "Il referendum fu promesso dal primo ministro David Cameron e portò alle sue dimissioni il giorno dopo il risultato.",
+    "motivation_en": "The referendum was promised by Prime Minister David Cameron and led to his resignation the day after the result.",
+    "wrong_explanations_it": [
+      "Nel 2014 si tenne il referendum sull'indipendenza della Scozia, non sulla Brexit.",
+      "Nel 2015 ci furono le elezioni generali britanniche, non il referendum.",
+      "",
+      "Nel 2017 fu attivato l'Articolo 50, ma il referendum si era tenuto nel 2016."
+    ],
+    "wrong_explanations_en": [
+      "In 2014 the Scottish independence referendum was held, not Brexit.",
+      "In 2015 UK general elections took place, not the referendum.",
+      "",
+      "In 2017 Article 50 was triggered, but the referendum was held in 2016."
+    ]
+  },
+  {
+    "id": "temp-019",
+    "question_it": "Il Regno Unito uscì formalmente dall'Unione Europea il:",
+    "question_en": "The United Kingdom formally left the European Union on:",
+    "options": [
+      {
+        "text_it": "29 marzo 2019",
+        "text_en": "29 March 2019"
+      },
+      {
+        "text_it": "31 gennaio 2020",
+        "text_en": "31 January 2020"
+      },
+      {
+        "text_it": "31 dicembre 2020",
+        "text_en": "31 December 2020"
+      },
+      {
+        "text_it": "1º gennaio 2021",
+        "text_en": "1 January 2021"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Regno Unito** uscì formalmente dall'UE il *31 gennaio 2020*. Il periodo di transizione terminò il 31 dicembre 2020.",
+    "explanation_en": "The **United Kingdom** formally left the EU on *31 January 2020*. The transition period ended on 31 December 2020.",
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "motivation_it": "Il 29 marzo 2019 era la data iniziale prevista, poi posticipata tre volte prima della data effettiva.",
+    "motivation_en": "29 March 2019 was the originally planned date, which was postponed three times before the actual date.",
+    "wrong_explanations_it": [
+      "Il 29 marzo 2019 era la scadenza originale dell'Articolo 50, poi rinviata.",
+      "",
+      "Il 31 dicembre 2020 segnò la fine del periodo di transizione, non l'uscita formale.",
+      "Il 1º gennaio 2021 è il primo giorno post-transizione, non la data di uscita."
+    ],
+    "wrong_explanations_en": [
+      "29 March 2019 was the original Article 50 deadline, later postponed.",
+      "",
+      "31 December 2020 marked the end of the transition period, not the formal exit.",
+      "1 January 2021 is the first post-transition day, not the exit date."
+    ]
+  },
+  {
+    "id": "temp-020",
+    "question_it": "La Dichiarazione Schuman, considerata l'atto di nascita dell'integrazione europea, fu pronunciata il:",
+    "question_en": "The Schuman Declaration, considered the founding act of European integration, was delivered on:",
+    "options": [
+      {
+        "text_it": "9 maggio 1949",
+        "text_en": "9 May 1949"
+      },
+      {
+        "text_it": "9 maggio 1950",
+        "text_en": "9 May 1950"
+      },
+      {
+        "text_it": "25 marzo 1957",
+        "text_en": "25 March 1957"
+      },
+      {
+        "text_it": "9 maggio 1951",
+        "text_en": "9 May 1951"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Dichiarazione Schuman** fu pronunciata il *9 maggio 1950* dal ministro degli esteri francese Robert Schuman. Questa data è oggi la **Giornata dell'Europa**.",
+    "explanation_en": "The **Schuman Declaration** was delivered on *9 May 1950* by French Foreign Minister Robert Schuman. This date is now **Europe Day**.",
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "motivation_it": "Schuman propose di mettere in comune la produzione di carbone e acciaio di Francia e Germania, aperta agli altri paesi europei.",
+    "motivation_en": "Schuman proposed pooling the coal and steel production of France and Germany, open to other European countries.",
+    "wrong_explanations_it": [
+      "Il 9 maggio 1949 non corrisponde alla Dichiarazione Schuman; il Consiglio d'Europa fu fondato nel 1949.",
+      "",
+      "Il 25 marzo 1957 è la data del Trattato di Roma.",
+      "Il 9 maggio 1951 è un anno dopo la Dichiarazione; il Trattato CECA fu firmato ad aprile 1951."
+    ],
+    "wrong_explanations_en": [
+      "9 May 1949 does not correspond to the Schuman Declaration; the Council of Europe was founded in 1949.",
+      "",
+      "25 March 1957 is the date of the Treaty of Rome.",
+      "9 May 1951 is one year after the Declaration; the ECSC Treaty was signed in April 1951."
+    ]
+  },
+  {
+    "id": "temp-021",
+    "question_it": "La Carta dei diritti fondamentali dell'UE fu proclamata solennemente per la prima volta nel:",
+    "question_en": "The EU Charter of Fundamental Rights was solemnly proclaimed for the first time in:",
+    "options": [
+      {
+        "text_it": "1998",
+        "text_en": "1998"
+      },
+      {
+        "text_it": "2000",
+        "text_en": "2000"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2009",
+        "text_en": "2009"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Carta dei diritti fondamentali** fu proclamata il *7 dicembre 2000* a Nizza. Divenne giuridicamente vincolante con il Trattato di Lisbona nel 2009.",
+    "explanation_en": "The **Charter of Fundamental Rights** was proclaimed on *7 December 2000* in Nice. It became legally binding with the Lisbon Treaty in 2009.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "La Carta fu redatta da una Convenzione presieduta da Roman Herzog e raccoglie i diritti civili, politici, economici e sociali dei cittadini UE.",
+    "motivation_en": "The Charter was drafted by a Convention chaired by Roman Herzog and gathers the civil, political, economic and social rights of EU citizens.",
+    "wrong_explanations_it": [
+      "Nel 1998 non fu proclamata la Carta; i lavori preparatori erano ancora in corso.",
+      "",
+      "Nel 2007 fu firmato il Trattato di Lisbona che rese la Carta vincolante, ma la prima proclamazione fu nel 2000.",
+      "Nel 2009 la Carta divenne vincolante, ma la proclamazione iniziale risale al 2000."
+    ],
+    "wrong_explanations_en": [
+      "The Charter was not proclaimed in 1998; preparatory work was still ongoing.",
+      "",
+      "In 2007 the Lisbon Treaty was signed making the Charter binding, but the first proclamation was in 2000.",
+      "In 2009 the Charter became binding, but the initial proclamation dates to 2000."
+    ]
+  },
+  {
+    "id": "temp-022",
+    "question_it": "Il Consiglio europeo fu formalmente riconosciuto come istituzione dell'UE con quale trattato?",
+    "question_en": "The European Council was formally recognized as an EU institution by which treaty?",
+    "options": [
+      {
+        "text_it": "Trattato di Maastricht (1992)",
+        "text_en": "Maastricht Treaty (1992)"
+      },
+      {
+        "text_it": "Trattato di Amsterdam (1997)",
+        "text_en": "Amsterdam Treaty (1997)"
+      },
+      {
+        "text_it": "Trattato di Nizza (2001)",
+        "text_en": "Nice Treaty (2001)"
+      },
+      {
+        "text_it": "Trattato di Lisbona (2007)",
+        "text_en": "Lisbon Treaty (2007)"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Il **Trattato di Lisbona** (2007/2009) riconobbe formalmente il **Consiglio europeo** come istituzione dell'UE e creò la carica di Presidente permanente.",
+    "explanation_en": "The **Lisbon Treaty** (2007/2009) formally recognized the **European Council** as an EU institution and created the post of permanent President.",
+    "category": "EU Treaties",
+    "difficulty": "hard",
+    "motivation_it": "Prima di Lisbona, il Consiglio europeo esisteva dal 1974 come vertice informale dei capi di Stato e di governo.",
+    "motivation_en": "Before Lisbon, the European Council had existed since 1974 as an informal summit of heads of state and government.",
+    "wrong_explanations_it": [
+      "Maastricht menzionò il Consiglio europeo ma non lo riconobbe come istituzione formale.",
+      "Il Trattato di Amsterdam non modificò lo status istituzionale del Consiglio europeo.",
+      "Il Trattato di Nizza non fece del Consiglio europeo un'istituzione formale.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "Maastricht mentioned the European Council but did not recognize it as a formal institution.",
+      "The Amsterdam Treaty did not change the institutional status of the European Council.",
+      "The Nice Treaty did not make the European Council a formal institution.",
+      ""
+    ]
+  },
+  {
+    "id": "temp-023",
+    "question_it": "Il Patto di Stabilità e Crescita, che disciplina i bilanci nazionali nell'eurozona, fu adottato nel:",
+    "question_en": "The Stability and Growth Pact, which governs national budgets in the eurozone, was adopted in:",
+    "options": [
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      },
+      {
+        "text_it": "1997",
+        "text_en": "1997"
+      },
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      },
+      {
+        "text_it": "2002",
+        "text_en": "2002"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Patto di Stabilità e Crescita** fu adottato nel *1997* al Consiglio europeo di Amsterdam per garantire la disciplina fiscale nell'UEM.",
+    "explanation_en": "The **Stability and Growth Pact** was adopted in *1997* at the Amsterdam European Council to ensure fiscal discipline in EMU.",
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "motivation_it": "Il Patto stabilisce i limiti del 3% per il deficit e del 60% per il debito pubblico rispetto al PIL.",
+    "motivation_en": "The Pact sets the limits of 3% for the deficit and 60% for public debt relative to GDP.",
+    "wrong_explanations_it": [
+      "Il 1992 è l'anno del Trattato di Maastricht che stabilì i criteri di convergenza, non il Patto.",
+      "",
+      "Nel 1999 fu introdotto l'euro, ma il Patto era già stato adottato nel 1997.",
+      "Nel 2002 entrarono in circolazione le banconote euro, non fu adottato il Patto."
+    ],
+    "wrong_explanations_en": [
+      "1992 is the year of the Maastricht Treaty which set convergence criteria, not the Pact.",
+      "",
+      "In 1999 the euro was introduced, but the Pact had already been adopted in 1997.",
+      "In 2002 euro banknotes entered circulation, the Pact was not adopted then."
+    ]
+  },
+  {
+    "id": "temp-024",
+    "question_it": "La Convenzione europea dei diritti dell'uomo (CEDU), spesso confusa con strumenti UE, fu adottata dal Consiglio d'Europa nel:",
+    "question_en": "The European Convention on Human Rights (ECHR), often confused with EU instruments, was adopted by the Council of Europe in:",
+    "options": [
+      {
+        "text_it": "1948",
+        "text_en": "1948"
+      },
+      {
+        "text_it": "1950",
+        "text_en": "1950"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      },
+      {
+        "text_it": "2000",
+        "text_en": "2000"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **CEDU** fu adottata il *4 novembre 1950* a Roma dal **Consiglio d'Europa** (non dall'UE). Entrò in vigore nel 1953.",
+    "explanation_en": "The **ECHR** was adopted on *4 November 1950* in Rome by the **Council of Europe** (not the EU). It entered into force in 1953.",
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "motivation_it": "La CEDU è uno strumento del Consiglio d'Europa, non dell'UE. La Carta dei diritti fondamentali UE è un documento separato.",
+    "motivation_en": "The ECHR is a Council of Europe instrument, not an EU one. The EU Charter of Fundamental Rights is a separate document.",
+    "wrong_explanations_it": [
+      "Il 1948 è l'anno della Dichiarazione Universale dei Diritti Umani delle Nazioni Unite.",
+      "",
+      "Il 1957 è l'anno del Trattato di Roma CEE.",
+      "Il 2000 è l'anno della Carta dei diritti fondamentali dell'UE, non della CEDU."
+    ],
+    "wrong_explanations_en": [
+      "1948 is the year of the UN Universal Declaration of Human Rights.",
+      "",
+      "1957 is the year of the EEC Treaty of Rome.",
+      "2000 is the year of the EU Charter of Fundamental Rights, not the ECHR."
+    ]
+  },
+  {
+    "id": "temp-025",
+    "question_it": "Quale evento storico del 1989 accelerò il processo di riunificazione europea e futuri allargamenti a Est?",
+    "question_en": "Which historic event of 1989 accelerated the process of European reunification and future Eastern enlargements?",
+    "options": [
+      {
+        "text_it": "Firma del Trattato di Maastricht",
+        "text_en": "Signing of the Maastricht Treaty"
+      },
+      {
+        "text_it": "Caduta del Muro di Berlino",
+        "text_en": "Fall of the Berlin Wall"
+      },
+      {
+        "text_it": "Introduzione dell'euro",
+        "text_en": "Introduction of the euro"
+      },
+      {
+        "text_it": "Adesione della Grecia all'UE",
+        "text_en": "Greece's accession to the EU"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **caduta del Muro di Berlino** il *9 novembre 1989* segnò la fine della Guerra Fredda e aprì la strada all'allargamento a Est.",
+    "explanation_en": "The **fall of the Berlin Wall** on *9 November 1989* marked the end of the Cold War and paved the way for Eastern enlargement.",
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "motivation_it": "La riunificazione tedesca del 1990 portò automaticamente l'ex Germania Est nell'UE. Gli allargamenti del 2004 e 2007 seguirono.",
+    "motivation_en": "German reunification in 1990 automatically brought former East Germany into the EU. The 2004 and 2007 enlargements followed.",
+    "wrong_explanations_it": [
+      "Il Trattato di Maastricht fu firmato nel 1992, non nel 1989.",
+      "",
+      "L'euro fu introdotto nel 1999, non nel 1989.",
+      "La Grecia aderì nel 1981, non nel 1989."
+    ],
+    "wrong_explanations_en": [
+      "The Maastricht Treaty was signed in 1992, not 1989.",
+      "",
+      "The euro was introduced in 1999, not 1989.",
+      "Greece joined in 1981, not 1989."
+    ]
+  },
+  {
+    "id": "temp-026",
+    "question_it": "In quale ordine cronologico furono firmati questi trattati?",
+    "question_en": "In which chronological order were these treaties signed?",
+    "options": [
+      {
+        "text_it": "Roma → Maastricht → Amsterdam → Lisbona",
+        "text_en": "Rome → Maastricht → Amsterdam → Lisbon"
+      },
+      {
+        "text_it": "Roma → Amsterdam → Maastricht → Lisbona",
+        "text_en": "Rome → Amsterdam → Maastricht → Lisbon"
+      },
+      {
+        "text_it": "Maastricht → Roma → Nizza → Lisbona",
+        "text_en": "Maastricht → Rome → Nice → Lisbon"
+      },
+      {
+        "text_it": "Roma → Maastricht → Lisbona → Amsterdam",
+        "text_en": "Rome → Maastricht → Lisbon → Amsterdam"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'ordine corretto è: **Roma** (1957) → **Maastricht** (1992) → **Amsterdam** (1997) → **Lisbona** (2007).",
+    "explanation_en": "The correct order is: **Rome** (1957) → **Maastricht** (1992) → **Amsterdam** (1997) → **Lisbon** (2007).",
+    "category": "EU Timeline",
+    "difficulty": "medium",
+    "motivation_it": "Tra Amsterdam e Lisbona c'è anche il Trattato di Nizza (2001), non incluso nelle opzioni.",
+    "motivation_en": "Between Amsterdam and Lisbon there is also the Treaty of Nice (2001), not included in the options.",
+    "wrong_explanations_it": [
+      "",
+      "Amsterdam (1997) fu firmato dopo Maastricht (1992), non prima.",
+      "Roma (1957) fu il primo trattato CEE, non Maastricht.",
+      "Lisbona (2007) fu firmato dopo Amsterdam (1997), non prima."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Amsterdam (1997) was signed after Maastricht (1992), not before.",
+      "Rome (1957) was the first EEC treaty, not Maastricht.",
+      "Lisbon (2007) was signed after Amsterdam (1997), not before."
+    ]
+  },
+  {
+    "id": "temp-027",
+    "question_it": "Il mercato unico europeo divenne pienamente operativo il:",
+    "question_en": "The European single market became fully operational on:",
+    "options": [
+      {
+        "text_it": "1º gennaio 1986",
+        "text_en": "1 January 1986"
+      },
+      {
+        "text_it": "1º gennaio 1993",
+        "text_en": "1 January 1993"
+      },
+      {
+        "text_it": "1º novembre 1993",
+        "text_en": "1 November 1993"
+      },
+      {
+        "text_it": "1º gennaio 1999",
+        "text_en": "1 January 1999"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **mercato unico** divenne operativo il *1º gennaio 1993*, come previsto dall'Atto Unico Europeo del 1986.",
+    "explanation_en": "The **single market** became operational on *1 January 1993*, as planned by the 1986 Single European Act.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "Il mercato unico garantisce le quattro libertà: libera circolazione di merci, persone, servizi e capitali.",
+    "motivation_en": "The single market guarantees the four freedoms: free movement of goods, people, services, and capital.",
+    "wrong_explanations_it": [
+      "Il 1986 è l'anno della firma dell'Atto Unico Europeo, non del completamento del mercato.",
+      "",
+      "Il 1º novembre 1993 è la data di entrata in vigore del Trattato di Maastricht.",
+      "Il 1999 è l'anno dell'introduzione dell'euro."
+    ],
+    "wrong_explanations_en": [
+      "1986 is the year the Single European Act was signed, not when the market was completed.",
+      "",
+      "1 November 1993 is when the Maastricht Treaty entered into force.",
+      "1999 is the year the euro was introduced."
+    ]
+  },
+  {
+    "id": "temp-028",
+    "question_it": "I sei paesi fondatori della CECA nel 1951 erano:",
+    "question_en": "The six founding countries of the ECSC in 1951 were:",
+    "options": [
+      {
+        "text_it": "Francia, Germania, Italia, Belgio, Paesi Bassi, Lussemburgo",
+        "text_en": "France, Germany, Italy, Belgium, Netherlands, Luxembourg"
+      },
+      {
+        "text_it": "Francia, Germania, Italia, Belgio, Regno Unito, Lussemburgo",
+        "text_en": "France, Germany, Italy, Belgium, United Kingdom, Luxembourg"
+      },
+      {
+        "text_it": "Francia, Germania, Italia, Spagna, Paesi Bassi, Lussemburgo",
+        "text_en": "France, Germany, Italy, Spain, Netherlands, Luxembourg"
+      },
+      {
+        "text_it": "Francia, Germania, Austria, Belgio, Paesi Bassi, Lussemburgo",
+        "text_en": "France, Germany, Austria, Belgium, Netherlands, Luxembourg"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "I **sei fondatori** erano: **Francia, Germania, Italia** e i tre paesi del **Benelux** (Belgio, Paesi Bassi, Lussemburgo).",
+    "explanation_en": "The **six founders** were: **France, Germany, Italy** and the three **Benelux** countries (Belgium, Netherlands, Luxembourg).",
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "motivation_it": "Il Regno Unito rifiutò di partecipare al progetto CECA; la Spagna era sotto dittatura; l'Austria era neutrale.",
+    "motivation_en": "The UK refused to participate in the ECSC project; Spain was under dictatorship; Austria was neutral.",
+    "wrong_explanations_it": [
+      "",
+      "Il Regno Unito non partecipò alla fondazione della CECA.",
+      "La Spagna sotto Franco non poteva aderire a progetti democratici europei.",
+      "L'Austria era neutrale e non fu tra i fondatori."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The United Kingdom did not participate in the founding of the ECSC.",
+      "Spain under Franco could not join democratic European projects.",
+      "Austria was neutral and was not among the founders."
+    ]
+  },
+  {
+    "id": "temp-029",
+    "question_it": "Il Regolamento generale sulla protezione dei dati (GDPR) è diventato applicabile nel:",
+    "question_en": "The General Data Protection Regulation (GDPR) became applicable in:",
+    "options": [
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      },
+      {
+        "text_it": "2017",
+        "text_en": "2017"
+      },
+      {
+        "text_it": "2018",
+        "text_en": "2018"
+      },
+      {
+        "text_it": "2020",
+        "text_en": "2020"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **GDPR** divenne applicabile il *25 maggio 2018*. Fu adottato nel 2016 con un periodo transitorio di due anni.",
+    "explanation_en": "The **GDPR** became applicable on *25 May 2018*. It was adopted in 2016 with a two-year transition period.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "Il GDPR sostituì la Direttiva 95/46/CE sulla protezione dei dati e si applica direttamente in tutti gli Stati membri.",
+    "motivation_en": "The GDPR replaced Directive 95/46/EC on data protection and applies directly in all Member States.",
+    "wrong_explanations_it": [
+      "Nel 2016 il GDPR fu adottato, ma non era ancora applicabile.",
+      "Il 2017 rientrava nel periodo transitorio di due anni.",
+      "",
+      "Il 2020 è troppo tardi; il GDPR era già applicabile dal 2018."
+    ],
+    "wrong_explanations_en": [
+      "In 2016 the GDPR was adopted, but it was not yet applicable.",
+      "2017 fell within the two-year transition period.",
+      "",
+      "2020 is too late; the GDPR had been applicable since 2018."
+    ]
+  },
+  {
+    "id": "temp-030",
+    "question_it": "Quale paese tenne un referendum nel 1972 che ne impedì l'adesione alla CEE, ripetuto con lo stesso risultato nel 1994?",
+    "question_en": "Which country held a referendum in 1972 that prevented its accession to the EEC, repeated with the same result in 1994?",
+    "options": [
+      {
+        "text_it": "Svizzera",
+        "text_en": "Switzerland"
+      },
+      {
+        "text_it": "Islanda",
+        "text_en": "Iceland"
+      },
+      {
+        "text_it": "Norvegia",
+        "text_en": "Norway"
+      },
+      {
+        "text_it": "Turchia",
+        "text_en": "Turkey"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Norvegia** rifiutò l'adesione con referendum sia nel *1972* che nel *1994*, nonostante i negoziati conclusi positivamente.",
+    "explanation_en": "**Norway** rejected accession by referendum both in *1972* and in *1994*, despite successfully concluded negotiations.",
+    "category": "Accession History",
+    "difficulty": "medium",
+    "motivation_it": "La Norvegia partecipa comunque al mercato unico tramite lo Spazio Economico Europeo (SEE) e all'area Schengen.",
+    "motivation_en": "Norway participates in the single market through the European Economic Area (EEA) and in the Schengen area.",
+    "wrong_explanations_it": [
+      "La Svizzera rifiutò l'adesione al SEE nel 1992, ma non tenne referendum sull'adesione UE nel 1972.",
+      "L'Islanda non ha mai tenuto referendum sull'adesione alla CEE/UE in quegli anni.",
+      "",
+      "La Turchia è paese candidato dal 1999, non ha mai avuto referendum di adesione."
+    ],
+    "wrong_explanations_en": [
+      "Switzerland rejected EEA membership in 1992, but did not hold EU accession referendums in 1972.",
+      "Iceland never held referendums on EEC/EU accession in those years.",
+      "",
+      "Turkey has been a candidate country since 1999 and never held accession referendums."
+    ]
+  },
+  {
+    "id": "temp-031",
+    "question_it": "Il Trattato che istituì una Costituzione per l'Europa fu firmato nel 2004 ma non entrò mai in vigore a causa di:",
+    "question_en": "The Treaty establishing a Constitution for Europe was signed in 2004 but never entered into force because of:",
+    "options": [
+      {
+        "text_it": "Opposizione del Parlamento europeo",
+        "text_en": "Opposition of the European Parliament"
+      },
+      {
+        "text_it": "Referendum negativi in Francia e Paesi Bassi",
+        "text_en": "Negative referendums in France and Netherlands"
+      },
+      {
+        "text_it": "Veto del Regno Unito",
+        "text_en": "UK veto"
+      },
+      {
+        "text_it": "Sentenza della Corte di Giustizia",
+        "text_en": "Court of Justice ruling"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Costituzione europea** fu bocciata dai *referendum in Francia (29 maggio 2005) e Paesi Bassi (1º giugno 2005)*.",
+    "explanation_en": "The **European Constitution** was rejected by *referendums in France (29 May 2005) and the Netherlands (1 June 2005)*.",
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "motivation_it": "Il Trattato di Lisbona del 2007 riprese gran parte del contenuto della Costituzione ma in forma di emendamento ai trattati esistenti.",
+    "motivation_en": "The 2007 Lisbon Treaty took over most of the Constitution's content but as amendments to existing treaties.",
+    "wrong_explanations_it": [
+      "Il PE era favorevole alla Costituzione e non si oppose.",
+      "",
+      "Il Regno Unito non esercitò un veto formale; i referendum francese e olandese fermarono il processo.",
+      "La Corte di Giustizia non emise sentenze che bloccarono la Costituzione."
+    ],
+    "wrong_explanations_en": [
+      "The EP was in favour of the Constitution and did not oppose it.",
+      "",
+      "The UK did not exercise a formal veto; the French and Dutch referendums stopped the process.",
+      "The Court of Justice did not issue rulings blocking the Constitution."
+    ]
+  },
+  {
+    "id": "temp-032",
+    "question_it": "Il Meccanismo Europeo di Stabilità (MES), fondo salva-Stati permanente, fu istituito nel:",
+    "question_en": "The European Stability Mechanism (ESM), the permanent bailout fund, was established in:",
+    "options": [
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      },
+      {
+        "text_it": "2012",
+        "text_en": "2012"
+      },
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **MES** entrò in vigore il *27 settembre 2012*, sostituendo il fondo temporaneo EFSF.",
+    "explanation_en": "The **ESM** entered into force on *27 September 2012*, replacing the temporary EFSF fund.",
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "motivation_it": "Il MES ha una capacità di prestito massima di 500 miliardi di euro e ha sede a Lussemburgo.",
+    "motivation_en": "The ESM has a maximum lending capacity of 500 billion euros and is headquartered in Luxembourg.",
+    "wrong_explanations_it": [
+      "Nel 2010 fu creato il fondo temporaneo EFSF, non il MES permanente.",
+      "",
+      "Nel 2014 il MES era già operativo da due anni.",
+      "Nel 2016 il MES esisteva già da quattro anni."
+    ],
+    "wrong_explanations_en": [
+      "In 2010 the temporary EFSF was created, not the permanent ESM.",
+      "",
+      "In 2014 the ESM had already been operational for two years.",
+      "In 2016 the ESM had already existed for four years."
+    ]
+  },
+  {
+    "id": "temp-033",
+    "question_it": "Il programma Erasmus per la mobilità studentesca fu lanciato nel:",
+    "question_en": "The Erasmus student mobility programme was launched in:",
+    "options": [
+      {
+        "text_it": "1983",
+        "text_en": "1983"
+      },
+      {
+        "text_it": "1987",
+        "text_en": "1987"
+      },
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il programma **Erasmus** fu lanciato nel *1987*. Nel primo anno parteciparono 3.244 studenti da 11 paesi.",
+    "explanation_en": "The **Erasmus** programme was launched in *1987*. In the first year, 3,244 students from 11 countries participated.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "Dal 2014 il programma è stato rinominato Erasmus+ ed esteso a formazione, gioventù e sport.",
+    "motivation_en": "Since 2014 the programme has been renamed Erasmus+ and extended to training, youth and sport.",
+    "wrong_explanations_it": [
+      "Nel 1983 il programma Erasmus non esisteva ancora.",
+      "",
+      "Nel 1992 Erasmus era già operativo da cinque anni.",
+      "Nel 1995 fu lanciato il programma Socrates, che includeva Erasmus come sotto-programma."
+    ],
+    "wrong_explanations_en": [
+      "In 1983 the Erasmus programme did not yet exist.",
+      "",
+      "In 1992 Erasmus had already been operational for five years.",
+      "In 1995 the Socrates programme was launched, which included Erasmus as a sub-programme."
+    ]
+  },
+  {
+    "id": "temp-034",
+    "question_it": "L'Unione bancaria europea, con il Meccanismo di vigilanza unico (MVU), divenne operativa nel:",
+    "question_en": "The European banking union, with the Single Supervisory Mechanism (SSM), became operational in:",
+    "options": [
+      {
+        "text_it": "2012",
+        "text_en": "2012"
+      },
+      {
+        "text_it": "2013",
+        "text_en": "2013"
+      },
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **MVU** divenne operativo il *4 novembre 2014*, affidando alla BCE la vigilanza diretta sulle maggiori banche dell'eurozona.",
+    "explanation_en": "The **SSM** became operational on *4 November 2014*, entrusting the ECB with direct supervision of the eurozone's largest banks.",
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "motivation_it": "L'Unione bancaria comprende il MVU, il Meccanismo di risoluzione unico (MRU) e il sistema di garanzia dei depositi.",
+    "motivation_en": "The banking union comprises the SSM, the Single Resolution Mechanism (SRM) and the deposit guarantee system.",
+    "wrong_explanations_it": [
+      "Nel 2012 fu annunciato il progetto dell'Unione bancaria, ma non era ancora operativa.",
+      "Nel 2013 fu adottato il regolamento del MVU, ma non era ancora operativo.",
+      "",
+      "Nel 2016 il MVU era operativo già da due anni."
+    ],
+    "wrong_explanations_en": [
+      "In 2012 the banking union project was announced, but it was not yet operational.",
+      "In 2013 the SSM regulation was adopted, but it was not yet operational.",
+      "",
+      "In 2016 the SSM had been operational for two years already."
+    ]
+  },
+  {
+    "id": "temp-035",
+    "question_it": "Quale anno vide la crisi del debito sovrano greco raggiungere il picco con il primo programma di salvataggio?",
+    "question_en": "Which year saw the Greek sovereign debt crisis peak with the first bailout programme?",
+    "options": [
+      {
+        "text_it": "2008",
+        "text_en": "2008"
+      },
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      },
+      {
+        "text_it": "2012",
+        "text_en": "2012"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il primo programma di salvataggio per la **Grecia** fu concordato nel *maggio 2010* per 110 miliardi di euro.",
+    "explanation_en": "The first bailout programme for **Greece** was agreed in *May 2010* for 110 billion euros.",
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "motivation_it": "La crisi greca portò alla creazione del fondo EFSF (2010) e poi del MES permanente (2012).",
+    "motivation_en": "The Greek crisis led to the creation of the EFSF fund (2010) and then the permanent ESM (2012).",
+    "wrong_explanations_it": [
+      "Il 2008 fu l'anno della crisi finanziaria globale, ma la crisi greca esplose nel 2010.",
+      "",
+      "Nel 2012 fu concordato il secondo programma di salvataggio.",
+      "Nel 2015 ci fu il terzo programma e il referendum greco."
+    ],
+    "wrong_explanations_en": [
+      "2008 was the year of the global financial crisis, but the Greek crisis erupted in 2010.",
+      "",
+      "In 2012 the second bailout programme was agreed.",
+      "In 2015 there was the third programme and the Greek referendum."
+    ]
+  },
+  {
+    "id": "temp-036",
+    "question_it": "Il Next Generation EU, il piano di ripresa post-COVID, fu concordato nel:",
+    "question_en": "Next Generation EU, the post-COVID recovery plan, was agreed in:",
+    "options": [
+      {
+        "text_it": "Marzo 2020",
+        "text_en": "March 2020"
+      },
+      {
+        "text_it": "Luglio 2020",
+        "text_en": "July 2020"
+      },
+      {
+        "text_it": "Gennaio 2021",
+        "text_en": "January 2021"
+      },
+      {
+        "text_it": "Giugno 2021",
+        "text_en": "June 2021"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Next Generation EU** da 750 miliardi fu concordato al Consiglio europeo del *17-21 luglio 2020*.",
+    "explanation_en": "**Next Generation EU** worth 750 billion was agreed at the European Council of *17-21 July 2020*.",
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "motivation_it": "Fu la prima volta che l'UE emise debito comune su larga scala per finanziare la ripresa economica.",
+    "motivation_en": "It was the first time the EU issued large-scale common debt to finance economic recovery.",
+    "wrong_explanations_it": [
+      "A marzo 2020 iniziarono le restrizioni COVID, ma il piano non era ancora stato formulato.",
+      "",
+      "A gennaio 2021 il piano era già stato concordato; iniziava la fase di ratifica.",
+      "A giugno 2021 il dispositivo RRF era già operativo."
+    ],
+    "wrong_explanations_en": [
+      "In March 2020 COVID restrictions began, but the plan had not yet been formulated.",
+      "",
+      "In January 2021 the plan had already been agreed; the ratification phase was starting.",
+      "In June 2021 the RRF facility was already operational."
+    ]
+  },
+  {
+    "id": "temp-037",
+    "question_it": "Il Consiglio d'Europa (da non confondere col Consiglio europeo) fu fondato nel:",
+    "question_en": "The Council of Europe (not to be confused with the European Council) was founded in:",
+    "options": [
+      {
+        "text_it": "1945",
+        "text_en": "1945"
+      },
+      {
+        "text_it": "1949",
+        "text_en": "1949"
+      },
+      {
+        "text_it": "1951",
+        "text_en": "1951"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Consiglio d'Europa** fu fondato il *5 maggio 1949* con il Trattato di Londra. Ha sede a Strasburgo e conta 46 membri.",
+    "explanation_en": "The **Council of Europe** was founded on *5 May 1949* by the Treaty of London. It is based in Strasbourg and has 46 members.",
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "motivation_it": "Il Consiglio d'Europa è un'organizzazione internazionale separata dall'UE, focalizzata su diritti umani, democrazia e stato di diritto.",
+    "motivation_en": "The Council of Europe is an international organisation separate from the EU, focused on human rights, democracy, and the rule of law.",
+    "wrong_explanations_it": [
+      "Il 1945 è l'anno della fine della Seconda Guerra Mondiale e della fondazione delle Nazioni Unite.",
+      "",
+      "Il 1951 è l'anno del Trattato CECA.",
+      "Il 1957 è l'anno del Trattato di Roma."
+    ],
+    "wrong_explanations_en": [
+      "1945 is the year WWII ended and the United Nations was founded.",
+      "",
+      "1951 is the year of the ECSC Treaty.",
+      "1957 is the year of the Treaty of Rome."
+    ]
+  },
+  {
+    "id": "temp-038",
+    "question_it": "La politica europea di vicinato (PEV) fu lanciata nel:",
+    "question_en": "The European Neighbourhood Policy (ENP) was launched in:",
+    "options": [
+      {
+        "text_it": "2000",
+        "text_en": "2000"
+      },
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **PEV** fu lanciata nel *2004* per gestire le relazioni con i paesi confinanti dell'UE allargata, sia a Est che a Sud.",
+    "explanation_en": "The **ENP** was launched in *2004* to manage relations with the enlarged EU's neighbouring countries, both East and South.",
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "motivation_it": "La PEV copre 16 paesi partner e offre un'alternativa all'adesione attraverso accordi di associazione e cooperazione.",
+    "motivation_en": "The ENP covers 16 partner countries and offers an alternative to membership through association and cooperation agreements.",
+    "wrong_explanations_it": [
+      "Nel 2000 la PEV non era ancora stata concepita.",
+      "",
+      "Nel 2007 la PEV era già operativa da tre anni.",
+      "Nel 2010 la PEV fu rivista, non lanciata."
+    ],
+    "wrong_explanations_en": [
+      "In 2000 the ENP had not yet been conceived.",
+      "",
+      "In 2007 the ENP had already been operational for three years.",
+      "In 2010 the ENP was reviewed, not launched."
+    ]
+  },
+  {
+    "id": "temp-039",
+    "question_it": "L'Ucraina ha ottenuto lo status di paese candidato all'UE nel:",
+    "question_en": "Ukraine obtained EU candidate country status in:",
+    "options": [
+      {
+        "text_it": "Febbraio 2022",
+        "text_en": "February 2022"
+      },
+      {
+        "text_it": "Giugno 2022",
+        "text_en": "June 2022"
+      },
+      {
+        "text_it": "Dicembre 2022",
+        "text_en": "December 2022"
+      },
+      {
+        "text_it": "Giugno 2023",
+        "text_en": "June 2023"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**Ucraina** ottenne lo status di candidato al Consiglio europeo del *23-24 giugno 2022*, insieme alla Moldova.",
+    "explanation_en": "**Ukraine** obtained candidate status at the European Council of *23-24 June 2022*, together with Moldova.",
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "motivation_it": "La decisione fu presa pochi mesi dopo l'invasione russa del febbraio 2022, in un gesto di forte sostegno politico.",
+    "motivation_en": "The decision was taken just months after the Russian invasion of February 2022, as a strong political gesture of support.",
+    "wrong_explanations_it": [
+      "A febbraio 2022 iniziò l'invasione russa; l'Ucraina presentò la domanda di adesione il 28 febbraio.",
+      "",
+      "A dicembre 2022 lo status era già stato concesso a giugno.",
+      "A giugno 2023 il Consiglio europeo discusse i progressi, ma lo status era già del 2022."
+    ],
+    "wrong_explanations_en": [
+      "In February 2022 the Russian invasion began; Ukraine submitted its application on 28 February.",
+      "",
+      "By December 2022 the status had already been granted in June.",
+      "In June 2023 the European Council discussed progress, but the status was already from 2022."
+    ]
+  },
+  {
+    "id": "temp-040",
+    "question_it": "Il Trattato di fusione del 1965, che unificò gli esecutivi delle tre Comunità europee, entrò in vigore nel:",
+    "question_en": "The 1965 Merger Treaty, which unified the executives of the three European Communities, entered into force in:",
+    "options": [
+      {
+        "text_it": "1965",
+        "text_en": "1965"
+      },
+      {
+        "text_it": "1967",
+        "text_en": "1967"
+      },
+      {
+        "text_it": "1970",
+        "text_en": "1970"
+      },
+      {
+        "text_it": "1972",
+        "text_en": "1972"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di fusione** fu firmato nel 1965 ed entrò in vigore il *1º luglio 1967*, creando un'unica Commissione e un unico Consiglio per CEE, CECA ed Euratom.",
+    "explanation_en": "The **Merger Treaty** was signed in 1965 and entered into force on *1 July 1967*, creating a single Commission and Council for the EEC, ECSC and Euratom.",
+    "category": "EU Treaties",
+    "difficulty": "hard",
+    "motivation_it": "Prima del Trattato di fusione, le tre Comunità avevano esecutivi separati, anche se condividevano l'Assemblea e la Corte di Giustizia.",
+    "motivation_en": "Before the Merger Treaty, the three Communities had separate executives, although they shared the Assembly and the Court of Justice.",
+    "wrong_explanations_it": [
+      "Il 1965 è l'anno della firma, non dell'entrata in vigore.",
+      "",
+      "Nel 1970 il Trattato era già in vigore da tre anni.",
+      "Nel 1972 ebbero luogo i negoziati per il primo allargamento."
+    ],
+    "wrong_explanations_en": [
+      "1965 is the year of signing, not entry into force.",
+      "",
+      "By 1970 the Treaty had already been in force for three years.",
+      "In 1972 negotiations for the first enlargement took place."
+    ]
+  },
+  {
+    "question_it": "La Croazia è diventata membro dell'Unione Europea nel:",
+    "question_en": "Croatia became a member of the European Union in:",
+    "options": [
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2011",
+        "text_en": "2011"
+      },
+      {
+        "text_it": "2013",
+        "text_en": "2013"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Croazia** è entrata ufficialmente nell'Unione Europea il *1º luglio 2013*, diventando il 28º Stato membro.",
+    "explanation_en": "**Croatia** officially joined the European Union on *1 July 2013*, becoming the 28th Member State.",
+    "motivation_it": "L'adesione della Croazia è stata l'ultima prima della Brexit.",
+    "motivation_en": "Croatia's accession was the last before Brexit.",
+    "wrong_explanations_it": [
+      "Nel 2007 Bulgaria e Romania sono entrate nell'UE, non la Croazia.",
+      "Nel 2011 non ci sono stati nuovi ingressi nell'UE.",
+      "",
+      "Nel 2015 non ci sono stati nuovi ingressi nell'UE."
+    ],
+    "wrong_explanations_en": [
+      "In 2007 Bulgaria and Romania joined the EU, not Croatia.",
+      "In 2011 there were no new accessions to the EU.",
+      "",
+      "In 2015 there were no new accessions to the EU."
+    ],
+    "category": "Key Dates",
+    "difficulty": "easy",
+    "id": "temp-041"
+  },
+  {
+    "question_it": "Il Regolamento Generale sulla Protezione dei Dati (GDPR) è diventato applicabile nel:",
+    "question_en": "The General Data Protection Regulation (GDPR) became applicable in:",
+    "options": [
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      },
+      {
+        "text_it": "2017",
+        "text_en": "2017"
+      },
+      {
+        "text_it": "2018",
+        "text_en": "2018"
+      },
+      {
+        "text_it": "2019",
+        "text_en": "2019"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **GDPR** è diventato applicabile il *25 maggio 2018*, rivoluzionando la protezione dei dati nell'UE.",
+    "explanation_en": "The **GDPR** became applicable on *25 May 2018*, revolutionizing data protection in the EU.",
+    "motivation_it": "Il GDPR è una delle normative più importanti dell'UE per i diritti digitali.",
+    "motivation_en": "The GDPR is one of the EU's most important regulations for digital rights.",
+    "wrong_explanations_it": [
+      "Nel 2016 il GDPR è stato adottato, ma non è ancora applicabile.",
+      "Nel 2017 il GDPR non era ancora applicabile.",
+      "",
+      "Nel 2019 il GDPR era già applicabile da un anno."
+    ],
+    "wrong_explanations_en": [
+      "In 2016 the GDPR was adopted but not yet applicable.",
+      "In 2017 the GDPR was not yet applicable.",
+      "",
+      "In 2019 the GDPR had already been applicable for a year."
+    ],
+    "category": "Key Dates",
+    "difficulty": "easy",
+    "id": "temp-042"
+  },
+  {
+    "question_it": "Il Trattato di Schengen è stato firmato nel:",
+    "question_en": "The Schengen Agreement was signed in:",
+    "options": [
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "2000",
+        "text_en": "2000"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Schengen** è stato firmato il *14 giugno 1985* da cinque paesi, aprendo la strada alla libera circolazione.",
+    "explanation_en": "The **Schengen Agreement** was signed on *14 June 1985* by five countries, paving the way for free movement.",
+    "motivation_it": "Il trattato ha creato una delle più grandi aree senza controlli alle frontiere del mondo.",
+    "motivation_en": "The agreement created one of the world's largest border control-free areas.",
+    "wrong_explanations_it": [
+      "",
+      "Nel 1990 è stato firmato il trattato di attuazione, non quello originale.",
+      "Nel 1995 l'accordo è diventato operativo, ma non è stato firmato.",
+      "Nel 2000 l'accordo era già in vigore da anni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "In 1990 the implementing treaty was signed, not the original agreement.",
+      "In 1995 the agreement became operational but was not signed.",
+      "In 2000 the agreement had already been in force for years."
+    ],
+    "category": "Key Dates",
+    "difficulty": "easy",
+    "id": "temp-043"
+  },
+  {
+    "question_it": "Il Trattato di Bruxelles, che istituì la Comunità europea della difesa (CED), fu firmato nel:",
+    "question_en": "The Brussels Treaty, which established the European Defence Community (EDC), was signed in:",
+    "options": [
+      {
+        "text_it": "1952",
+        "text_en": "1952"
+      },
+      {
+        "text_it": "1954",
+        "text_en": "1954"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      },
+      {
+        "text_it": "1960",
+        "text_en": "1960"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Bruxelles** fu firmato il *27 maggio 1952* per creare la **Comunità europea della difesa**. Tuttavia, non entrò mai in vigore dopo il rifiuto dell'Assemblea nazionale francese nel 1954.",
+    "explanation_en": "The **Brussels Treaty** was signed on *27 May 1952* to establish the **European Defence Community**. However, it never came into force after rejection by the French National Assembly in 1954.",
+    "motivation_it": "La CED avrebbe creato un esercito europeo integrato, ma il fallimento portò alla nascita dell'UEO (Unione europea occidentale) come alternativa.",
+    "motivation_en": "The EDC would have created an integrated European army, but its failure led to the creation of the WEU (Western European Union) as an alternative.",
+    "wrong_explanations_it": [
+      "",
+      "1954 è l'anno in cui la Francia respinse il trattato, non la firma.",
+      "1957 è l'anno dei Trattati di Roma (CEE/Euratom).",
+      "1960 è irrilevante per la CED; segnò l'istituzione dell'EFTA."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "1954 is when France rejected the treaty, not the signing year.",
+      "1957 is the year of the Treaties of Rome (EEC/Euratom).",
+      "1960 is irrelevant to EDC; it marked the establishment of EFTA."
+    ],
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "id": "temp-044"
+  },
+  {
+    "question_it": "L'Atto unico europeo, che fissò l'obiettivo del mercato unico entro il 1992, entrò in vigore nel:",
+    "question_en": "The Single European Act, which set the objective of the single market by 1992, came into force in:",
+    "options": [
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1986",
+        "text_en": "1986"
+      },
+      {
+        "text_it": "1987",
+        "text_en": "1987"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**Atto unico europeo** fu firmato nel *1986* ma entrò in vigore solo il *1 luglio 1987*. **Riformò i trattati** per completare il mercato interno e introdusse la votazione a maggioranza qualificata.",
+    "explanation_en": "The **Single European Act** was signed in *1986* but only came into force on *1 July 1987*. It **reformed the treaties** to complete the internal market and introduced qualified majority voting.",
+    "motivation_it": "Questo atto preparò il terreno per il Trattato di Maastricht e l'Unione economica e monetaria.",
+    "motivation_en": "This act paved the way for the Maastricht Treaty and Economic and Monetary Union.",
+    "wrong_explanations_it": [
+      "1985 è l'anno del Libro bianco sul mercato unico, non dell'Atto.",
+      "1986 è l'anno della firma, non dell'entrata in vigore.",
+      "",
+      "1990 è troppo tardo; il mercato unico era già in fase avanzata."
+    ],
+    "wrong_explanations_en": [
+      "1985 is the year of the White Paper on the single market, not the Act.",
+      "1986 is the signing year, not the entry into force.",
+      "",
+      "1990 is too late; the single market was already well underway."
+    ],
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "id": "temp-045"
+  },
+  {
+    "question_it": "La politica agricola comune (PAC) entrò in vigore nel:",
+    "question_en": "The Common Agricultural Policy (CAP) came into effect in:",
+    "options": [
+      {
+        "text_it": "1958",
+        "text_en": "1958"
+      },
+      {
+        "text_it": "1962",
+        "text_en": "1962"
+      },
+      {
+        "text_it": "1965",
+        "text_en": "1965"
+      },
+      {
+        "text_it": "1968",
+        "text_en": "1968"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **PAC** fu istituita dal **Trattato di Roma (1957)** ma divenne operativa solo nel *1962*. **Unificò i mercati agricoli** e introdusse sussidi per stabilizzare i prezzi.",
+    "explanation_en": "The **CAP** was established by the **Treaty of Rome (1957)** but became operational only in *1962*. It **unified agricultural markets** and introduced subsidies to stabilize prices.",
+    "motivation_it": "La PAC rimane una delle politiche più integrate e costose dell'UE, con riforme significative negli anni 1990 e 2000.",
+    "motivation_en": "CAP remains one of the most integrated and expensive EU policies, with major reforms in the 1990s and 2000s.",
+    "wrong_explanations_it": [
+      "1958 è l'anno di avvio della CEE, ma la PAC non era ancora attiva.",
+      "",
+      "1965 è l'anno della 'crisi della sedia vuota', non dell'avvio PAC.",
+      "1968 segnò l'unione doganale completata, non l'inizio della PAC."
+    ],
+    "wrong_explanations_en": [
+      "1958 marks the EEC's launch, but CAP was not yet active.",
+      "",
+      "1965 is the year of the 'Empty Chair Crisis', not CAP's start.",
+      "1968 marked the completed customs union, not CAP's beginning."
+    ],
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "id": "temp-046"
+  },
+  {
+    "question_it": "Il meccanismo di cambio europeo (ERM), precursore dell'euro, fu lanciato nel:",
+    "question_en": "The European Exchange Rate Mechanism (ERM), precursor to the euro, was launched in:",
+    "options": [
+      {
+        "text_it": "1975",
+        "text_en": "1975"
+      },
+      {
+        "text_it": "1979",
+        "text_en": "1979"
+      },
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**ERM I** fu creato il *13 marzo 1979* come parte del **Sistema monetario europeo (SME)**. **Limitò le fluttuazioni valutarie** tra paesi membri, preparando il terreno per l'euro.",
+    "explanation_en": "**ERM I** was established on *13 March 1979* as part of the **European Monetary System (EMS)**. It **limited currency fluctuations** between member states, paving the way for the euro.",
+    "motivation_it": "L'ERM subì una crisi nel 1992 (mercoledì nero), ma la sua evoluzione (ERM II) oggi collega valute non-euro all'euro.",
+    "motivation_en": "ERM faced a crisis in 1992 (Black Wednesday), but its evolution (ERM II) now links non-euro currencies to the euro.",
+    "wrong_explanations_it": [
+      "1975 precede lo SME; il 'serpente monetario' era già fallito.",
+      "",
+      "1985 è l'anno del Libro bianco sul mercato unico, non dell'ERM.",
+      "1990 è l'anno della preparazione per Maastricht, non del lancio ERM."
+    ],
+    "wrong_explanations_en": [
+      "1975 predates EMS; the 'currency snake' had already failed.",
+      "",
+      "1985 is the year of the Single Market White Paper, not ERM.",
+      "1990 was Maastricht preparation year, not ERM launch."
+    ],
+    "category": "Key Dates",
+    "difficulty": "medium",
+    "id": "temp-047"
+  },
+  {
+    "question_it": "In quale anno è entrato in vigore il **meccanismo europeo di stabilità** (ESM), il fondo permanente di salvataggio per i paesi dell'area euro?",
+    "question_en": "In which year did the **European Stability Mechanism** (ESM), the permanent bailout fund for eurozone countries, enter into force?",
+    "options": [
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      },
+      {
+        "text_it": "2012",
+        "text_en": "2012"
+      },
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**ESM** è entrato in vigore il *27 settembre 2012* dopo la ratifica del trattato da parte degli Stati membri. Fu creato in risposta alla **crisi del debito sovrano** per sostituire i precedenti meccanismi temporanei.",
+    "explanation_en": "The **ESM** entered into force on *27 September 2012* after ratification by member states. It was created in response to the **sovereign debt crisis** to replace earlier temporary mechanisms.",
+    "motivation_it": "L'ESM ha una capacità di prestito di €500 miliardi ed è diventato uno strumento chiave per la stabilità dell'eurozona.",
+    "motivation_en": "The ESM has a lending capacity of €500 billion and became a key instrument for eurozone stability.",
+    "wrong_explanations_it": [
+      "Nel 2010 fu creato il Fondo europeo di stabilità finanziaria (EFSF), temporaneo.",
+      "",
+      "Il 2014 vide la creazione dell'Unione bancaria, non dell'ESM.",
+      "Nel 2016 l'ESM era già operativo da anni."
+    ],
+    "wrong_explanations_en": [
+      "2010 saw the creation of the temporary European Financial Stability Facility (EFSF).",
+      "",
+      "2014 marked the creation of the Banking Union, not the ESM.",
+      "By 2016 the ESM had already been operational for years."
+    ],
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "id": "temp-048"
+  },
+  {
+    "question_it": "Quando è stato adottato il **regolamento generale sulla protezione dei dati** (GDPR) da parte del Parlamento europeo e del Consiglio?",
+    "question_en": "When was the **General Data Protection Regulation** (GDPR) adopted by the European Parliament and Council?",
+    "options": [
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      },
+      {
+        "text_it": "2018",
+        "text_en": "2018"
+      },
+      {
+        "text_it": "2020",
+        "text_en": "2020"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **GDPR** è stato adottato il *14 aprile 2016* ed è diventato applicabile il *25 maggio 2018*. Questo regolamento ha rivoluzionato la **protezione dei dati personali** nell'UE.",
+    "explanation_en": "The **GDPR** was adopted on *14 April 2016* and became applicable on *25 May 2018*. This regulation revolutionized **personal data protection** in the EU.",
+    "motivation_it": "Il GDPR ha introdotto sanzioni fino al 4% del fatturato globale per le violazioni, diventando un modello globale.",
+    "motivation_en": "The GDPR introduced fines up to 4% of global turnover for violations, becoming a global standard.",
+    "wrong_explanations_it": [
+      "Nel 2014 erano in corso i negoziati, ma il testo non era ancora definitivo.",
+      "",
+      "Il 2018 è l'anno di applicazione, non di adozione.",
+      "Nel 2020 il GDPR era già pienamente operativo."
+    ],
+    "wrong_explanations_en": [
+      "In 2014 negotiations were ongoing but the text wasn't finalized.",
+      "",
+      "2018 is the application date, not adoption.",
+      "By 2020 the GDPR was already fully operational."
+    ],
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "id": "temp-049"
+  },
+  {
+    "question_it": "In quale anno è stato firmato l'accordo che istituisce lo **Spazio economico europeo** (SEE), estendendo il mercato unico a paesi non-UE?",
+    "question_en": "In which year was the agreement establishing the **European Economic Area** (EEA), extending the single market to non-EU countries, signed?",
+    "options": [
+      {
+        "text_it": "1987",
+        "text_en": "1987"
+      },
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'accordo **SEE** è stato firmato il *2 maggio 1992* a Porto ed è entrato in vigore nel 1994. Ha creato un **mercato unico esteso** a Norvegia, Islanda e Liechtenstein.",
+    "explanation_en": "The **EEA** agreement was signed on *2 May 1992* in Porto and entered force in 1994. It created an **extended single market** including Norway, Iceland and Liechtenstein.",
+    "motivation_it": "La Svizzera ha rifiutato l'adesione al SEE tramite referendum nel 1992, pur partecipando a settori specifici.",
+    "motivation_en": "Switzerland rejected EEA membership in a 1992 referendum, though it participates in specific sectors.",
+    "wrong_explanations_it": [
+      "Il 1987 è l'anno dell'Atto Unico Europeo, non del SEE.",
+      "",
+      "Il 1995 è l'anno di adesione di Austria, Finlandia e Svezia all'UE, non del SEE.",
+      "Nel 1999 il SEE era già operativo da 5 anni."
+    ],
+    "wrong_explanations_en": [
+      "1987 was the year of the Single European Act, not the EEA.",
+      "",
+      "1995 marked the EU accession of Austria, Finland and Sweden, not the EEA.",
+      "By 1999 the EEA had already been operational for 5 years."
+    ],
+    "category": "Key Dates",
+    "difficulty": "hard",
+    "id": "temp-050"
+  },
+  {
+    "question_it": "In quale anno la Germania dell'Est e la Germania dell'Ovest si riunificarono, accelerando l'integrazione europea?",
+    "question_en": "In which year did East and West Germany reunify, accelerating European integration?",
+    "options": [
+      {
+        "text_it": "1989",
+        "text_en": "1989"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      },
+      {
+        "text_it": "1991",
+        "text_en": "1991"
+      },
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **riunificazione tedesca** avvenne il *3 ottobre 1990*, dopo la caduta del Muro di Berlino nel 1989. Questo evento storico contribuì all'allargamento dell'UE verso est.",
+    "explanation_en": "**German reunification** occurred on *3 October 1990*, after the fall of the Berlin Wall in 1989. This historic event contributed to the EU's eastward enlargement.",
+    "motivation_it": "La riunificazione fu un passo cruciale verso l'integrazione europea post-Guerra Fredda.",
+    "motivation_en": "Reunification was a crucial step toward post-Cold War European integration.",
+    "wrong_explanations_it": [
+      "Il 1989 vide la caduta del Muro di Berlino, ma la riunificazione formale avvenne nel 1990.",
+      "",
+      "Nel 1991 fu firmato il Trattato di Maastricht, non la riunificazione.",
+      "Nel 1992 entrò in vigore il Trattato di Maastricht."
+    ],
+    "wrong_explanations_en": [
+      "1989 saw the fall of the Berlin Wall, but formal reunification occurred in 1990.",
+      "",
+      "In 1991 the Maastricht Treaty was signed, not reunification.",
+      "In 1992 the Maastricht Treaty entered into force."
+    ],
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "id": "temp-051"
+  },
+  {
+    "question_it": "Quale paese ha adottato l'euro per ultimo tra questi?",
+    "question_en": "Which country adopted the euro most recently among these?",
+    "options": [
+      {
+        "text_it": "Lituania",
+        "text_en": "Lithuania"
+      },
+      {
+        "text_it": "Lettonia",
+        "text_en": "Latvia"
+      },
+      {
+        "text_it": "Estonia",
+        "text_en": "Estonia"
+      },
+      {
+        "text_it": "Slovacchia",
+        "text_en": "Slovakia"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Lituania** ha adottato l'euro il *1° gennaio 2015*, ultima tra le opzioni. L'Estonia (2011), Lettonia (2014) e Slovacchia (2009) lo fecero prima.",
+    "explanation_en": "**Lithuania** adopted the euro on *1 January 2015*, most recently among the options. Estonia (2011), Latvia (2014), and Slovakia (2009) did so earlier.",
+    "motivation_it": "L'adozione dell'euro riflette l'integrazione economica degli stati membri dell'UE.",
+    "motivation_en": "Euro adoption reflects the economic integration of EU member states.",
+    "wrong_explanations_it": [
+      "",
+      "La Lettonia adottò l'euro nel 2014, prima della Lituania.",
+      "L'Estonia fu la prima delle repubbliche baltiche a adottare l'euro (2011).",
+      "La Slovacchia adottò l'euro già nel 2009."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Latvia adopted the euro in 2014, before Lithuania.",
+      "Estonia was the first Baltic republic to adopt the euro (2011).",
+      "Slovakia adopted the euro as early as 2009."
+    ],
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "id": "temp-052"
+  },
+  {
+    "question_it": "In quale anno la Polonia ha aderito all'Unione Europea?",
+    "question_en": "In which year did Poland join the European Union?",
+    "options": [
+      {
+        "text_it": "2002",
+        "text_en": "2002"
+      },
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Polonia** è entrata nell'UE il *1° maggio 2004* durante il **più grande allargamento** dell'Unione, insieme ad altri 9 paesi.",
+    "explanation_en": "**Poland** joined the EU on *1 May 2004* during the **biggest enlargement** of the Union, alongside 9 other countries.",
+    "motivation_it": "L'adesione della Polonia segnò un passo importante nell'integrazione dell'Europa centrale e orientale.",
+    "motivation_en": "Poland's accession marked a major step in Central and Eastern European integration.",
+    "wrong_explanations_it": [
+      "Nel 2002 fu introdotto l'euro fisico, ma la Polonia non era ancora membro.",
+      "",
+      "Nel 2007 entrarono Bulgaria e Romania, non la Polonia.",
+      "Il 2010 è un anno senza adesioni all'UE."
+    ],
+    "wrong_explanations_en": [
+      "In 2002 physical euro notes were introduced, but Poland wasn't yet a member.",
+      "",
+      "In 2007 Bulgaria and Romania joined, not Poland.",
+      "2010 saw no EU accessions."
+    ],
+    "category": "Historical Events",
+    "difficulty": "easy",
+    "id": "temp-053"
+  },
+  {
+    "question_it": "Quale trattato ha istituito il meccanismo di cooperazione rafforzata nell'UE?",
+    "question_en": "Which treaty established the enhanced cooperation mechanism in the EU?",
+    "options": [
+      {
+        "text_it": "Trattato di Amsterdam",
+        "text_en": "Treaty of Amsterdam"
+      },
+      {
+        "text_it": "Trattato di Nizza",
+        "text_en": "Treaty of Nice"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Treaty of Lisbon"
+      },
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Treaty of Maastricht"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Amsterdam**, firmato nel *1997*, ha istituito il meccanismo di cooperazione rafforzata, permettendo a un gruppo di Stati membri di avanzare in aree specifiche senza il consenso di tutti.",
+    "explanation_en": "The **Treaty of Amsterdam**, signed in *1997*, established the enhanced cooperation mechanism, allowing a group of Member States to move forward in specific areas without the consent of all.",
+    "motivation_it": "Questo meccanismo è stato introdotto per consentire una maggiore flessibilità nell'integrazione europea.",
+    "motivation_en": "This mechanism was introduced to allow greater flexibility in European integration.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Nizza ha modificato alcune regole della cooperazione rafforzata ma non l'ha istituita.",
+      "Il Trattato di Lisbona ha rafforzato il meccanismo ma non lo ha istituito.",
+      "Il Trattato di Maastricht ha creato l'UE ma non ha introdotto la cooperazione rafforzata."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Treaty of Nice amended some rules of enhanced cooperation but did not establish it.",
+      "The Treaty of Lisbon strengthened the mechanism but did not establish it.",
+      "The Treaty of Maastricht created the EU but did not introduce enhanced cooperation."
+    ],
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "id": "temp-054"
+  },
+  {
+    "question_it": "Quando è stato istituito il Fondo europeo di sviluppo regionale (FESR)?",
+    "question_en": "When was the European Regional Development Fund (ERDF) established?",
+    "options": [
+      {
+        "text_it": "1975",
+        "text_en": "1975"
+      },
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "2005",
+        "text_en": "2005"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Fondo europeo di sviluppo regionale (FESR)** è stato istituito nel *1975* per promuovere lo sviluppo equilibrato delle regioni europee.",
+    "explanation_en": "The **European Regional Development Fund (ERDF)** was established in *1975* to promote balanced development across European regions.",
+    "motivation_it": "Il FESR è uno dei fondi strutturali più importanti dell'UE, con un impatto significativo sulla coesione economica e sociale.",
+    "motivation_en": "The ERDF is one of the EU's most important structural funds, with a significant impact on economic and social cohesion.",
+    "wrong_explanations_it": [
+      "",
+      "Nel 1985 è stato istituito il programma Erasmus, non il FESR.",
+      "Nel 1995 l'UE si è ampliata, ma il FESR era già operativo.",
+      "Nel 2005 è stata introdotta la politica di coesione rinnovata, ma il FESR esisteva già."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "In 1985 the Erasmus programme was established, not the ERDF.",
+      "In 1995 the EU expanded, but the ERDF was already operational.",
+      "In 2005 the renewed cohesion policy was introduced, but the ERDF already existed."
+    ],
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "id": "temp-055"
+  },
+  {
+    "question_it": "Quando è stato istituito il Sistema europeo di banche centrali (SEBC)?",
+    "question_en": "When was the European System of Central Banks (ESCB) established?",
+    "options": [
+      {
+        "text_it": "1992",
+        "text_en": "1992"
+      },
+      {
+        "text_it": "1998",
+        "text_en": "1998"
+      },
+      {
+        "text_it": "2002",
+        "text_en": "2002"
+      },
+      {
+        "text_it": "2008",
+        "text_en": "2008"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Sistema europeo di banche centrali (SEBC)** è stato istituito nel *1998*, in preparazione per l'introduzione dell'euro.",
+    "explanation_en": "The **European System of Central Banks (ESCB)** was established in *1998*, in preparation for the introduction of the euro.",
+    "motivation_it": "Il SEBC è responsabile della politica monetaria nell'Eurozona e svolge un ruolo chiave nel mantenimento della stabilità finanziaria.",
+    "motivation_en": "The ESCB is responsible for monetary policy in the Eurozone and plays a key role in maintaining financial stability.",
+    "wrong_explanations_it": [
+      "Nel 1992 è stato firmato il Trattato di Maastricht, ma il SEBC non era ancora operativo.",
+      "",
+      "Nel 2002 l'euro è stato introdotto fisicamente, ma il SEBC era già stato istituito.",
+      "Nel 2008 si è verificata la crisi finanziaria globale, ma il SEBC esisteva già."
+    ],
+    "wrong_explanations_en": [
+      "In 1992 the Treaty of Maastricht was signed, but the ESCB was not yet operational.",
+      "",
+      "In 2002 the euro was physically introduced, but the ESCB had already been established.",
+      "In 2008 the global financial crisis occurred, but the ESCB already existed."
+    ],
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "id": "temp-056"
+  },
+  {
+    "question_it": "Quando è stata adottata la direttiva sulla direttiva sulla protezione dei dati (GDPR)?",
+    "question_en": "When was the General Data Protection Regulation (GDPR) adopted?",
+    "options": [
+      {
+        "text_it": "2014",
+        "text_en": "2014"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      },
+      {
+        "text_it": "2016",
+        "text_en": "2016"
+      },
+      {
+        "text_it": "2017",
+        "text_en": "2017"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **direttiva GDPR** è stata adottata nel *2016* ed è diventata applicabile nel 2018, rivoluzionando la protezione dei dati nell'UE.",
+    "explanation_en": "The **GDPR** was adopted in *2016* and became applicable in 2018, revolutionizing data protection in the EU.",
+    "motivation_it": "Il GDPR è una delle normative più significative dell'UE, con un impatto globale sulla privacy e la sicurezza dei dati.",
+    "motivation_en": "The GDPR is one of the EU's most significant regulations, with a global impact on privacy and data security.",
+    "wrong_explanations_it": [
+      "Nel 2014 è stata proposta la direttiva GDPR, ma non ancora adottata.",
+      "Nel 2015 è stata approvata dal Parlamento europeo, ma l'adozione formale è avvenuta nel 2016.",
+      "",
+      "Nel 2017 è stata applicata, ma l'adozione è avvenuta nel 2016."
+    ],
+    "wrong_explanations_en": [
+      "In 2014 the GDPR was proposed but not yet adopted.",
+      "In 2015 it was approved by the European Parliament, but formal adoption occurred in 2016.",
+      "",
+      "In 2017 it became applicable, but adoption occurred in 2016."
+    ],
+    "category": "Historical Events",
+    "difficulty": "medium",
+    "id": "temp-057"
+  },
+  {
+    "question_it": "In quale anno è stata adottata la **Convenzione di Lomé I**, il primo accordo di partenariato tra la CEE e i paesi ACP (Africa, Caraibi, Pacifico)?",
+    "question_en": "In which year was the **Lomé I Convention** adopted, the first partnership agreement between the EEC and ACP (Africa, Caribbean, Pacific) countries?",
+    "options": [
+      {
+        "text_it": "1975",
+        "text_en": "1975"
+      },
+      {
+        "text_it": "1963",
+        "text_en": "1963"
+      },
+      {
+        "text_it": "1981",
+        "text_en": "1981"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Convenzione di Lomé I** fu firmata il *28 febbraio 1975* in Togo. Sostituì le precedenti convenzioni di Yaoundé e introdusse **STABEX**, un sistema di stabilizzazione delle esportazioni.",
+    "explanation_en": "The **Lomé I Convention** was signed on *28 February 1975* in Togo. It replaced the earlier Yaoundé Conventions and introduced **STABEX**, an export earnings stabilization system.",
+    "motivation_it": "Questo accordo segnò un cambio di paradigma nelle relazioni UE-paesi in via di sviluppo, enfatizzando la parità e la cooperazione.",
+    "motivation_en": "This agreement marked a paradigm shift in EU-developing country relations, emphasizing equality and cooperation.",
+    "wrong_explanations_it": [
+      "",
+      "1963 è l'anno della prima Convenzione di Yaoundé, non di Lomé.",
+      "1981 è l'anno di Lomé III, non della prima convenzione.",
+      "1990 è l'anno di Lomé IV, che introdusse ulteriori riforme."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "1963 is the year of the first Yaoundé Convention, not Lomé.",
+      "1981 is the year of Lomé III, not the first convention.",
+      "1990 is the year of Lomé IV, which introduced further reforms."
+    ],
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "id": "temp-058"
+  },
+  {
+    "question_it": "In quale anno è entrato in vigore il **Meccanismo Europeo di Stabilità (MES)**, il fondo permanente di salvataggio per i paesi dell'eurozona?",
+    "question_en": "In which year did the **European Stability Mechanism (ESM)**, the permanent bailout fund for eurozone countries, enter into force?",
+    "options": [
+      {
+        "text_it": "2010",
+        "text_en": "2010"
+      },
+      {
+        "text_it": "2012",
+        "text_en": "2012"
+      },
+      {
+        "text_it": "2015",
+        "text_en": "2015"
+      },
+      {
+        "text_it": "2018",
+        "text_en": "2018"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **MES** è entrato in vigore il *27 settembre 2012* dopo la ratifica da parte degli Stati membri. Fu creato in risposta alla **crisi del debito sovrano** e sostituì i fondi temporanei come l'EFSF.",
+    "explanation_en": "The **ESM** entered into force on *27 September 2012* after ratification by member states. It was created in response to the **sovereign debt crisis** and replaced temporary funds like the EFSF.",
+    "motivation_it": "Il MES rappresenta una pietra miliare nell'architettura finanziaria dell'eurozona, con una capacità di prestito di 500 miliardi di euro.",
+    "motivation_en": "The ESM is a milestone in the eurozone's financial architecture, with a lending capacity of €500 billion.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "2015 è l'anno della terza ristrutturazione del debito greco, non del lancio del MES.",
+      "2018 è l'anno di riforme successive al MES, non della sua creazione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "2015 is the year of Greece's third debt restructuring, not the ESM launch.",
+      "2018 is the year of post-ESM reforms, not its creation."
+    ],
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "id": "temp-059"
+  },
+  {
+    "question_it": "Quando è stato istituito il **Comitato delle Regioni**, l'organo consultivo dell'UE che rappresenta gli enti locali e regionali?",
+    "question_en": "When was the **Committee of the Regions**, the EU advisory body representing local and regional authorities, established?",
+    "options": [
+      {
+        "text_it": "Con il Trattato di Maastricht (1992)",
+        "text_en": "With the Maastricht Treaty (1992)"
+      },
+      {
+        "text_it": "Con il Trattato di Roma (1957)",
+        "text_en": "With the Treaty of Rome (1957)"
+      },
+      {
+        "text_it": "Con l'Atto Unico Europeo (1986)",
+        "text_en": "With the Single European Act (1986)"
+      },
+      {
+        "text_it": "Con il Trattato di Lisbona (2007)",
+        "text_en": "With the Lisbon Treaty (2007)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Comitato delle Regioni** fu istituito dal **Trattato di Maastricht** (*1992*) e tenne la sua prima sessione plenaria nel *1994*. Riflette il principio di **sussidiarietà** nell'UE.",
+    "explanation_en": "The **Committee of the Regions** was established by the **Maastricht Treaty** (*1992*) and held its first plenary session in *1994*. It embodies the EU's **subsidiarity** principle.",
+    "motivation_it": "La creazione del CdR segnò un maggiore riconoscimento del ruolo degli enti subnazionali nel processo decisionale europeo.",
+    "motivation_en": "The CoR's creation marked greater recognition of subnational authorities' role in EU decision-making.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Roma istituì la CEE, non il CdR.",
+      "L'Atto Unico non includeva disposizioni per il CdR.",
+      "Lisbona ha rafforzato il CdR ma non lo ha creato."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Treaty of Rome established the EEC, not the CoR.",
+      "The Single Act didn't include CoR provisions.",
+      "Lisbon strengthened but didn't create the CoR."
+    ],
+    "category": "Historical Events",
+    "difficulty": "hard",
+    "id": "temp-060"
+  },
+  {
+    "question_it": "In quale anno è stato firmato il Trattato di Parigi che istituì la Comunità Europea del Carbone e dell'Acciaio (CECA)?",
+    "question_en": "In which year was the Treaty of Paris signed, establishing the European Coal and Steel Community (ECSC)?",
+    "options": [
+      {
+        "text_it": "1945",
+        "text_en": "1945"
+      },
+      {
+        "text_it": "1951",
+        "text_en": "1951"
+      },
+      {
+        "text_it": "1957",
+        "text_en": "1957"
+      },
+      {
+        "text_it": "1961",
+        "text_en": "1961"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Parigi** fu firmato il *18 aprile 1951* e istituì la CECA, il primo passo verso l'integrazione europea.",
+    "explanation_en": "The **Treaty of Paris** was signed on *18 April 1951* and established the ECSC, the first step towards European integration.",
+    "motivation_it": "La CECA fu creata per coordinare la produzione di carbone e acciaio tra i paesi membri, prevenendo futuri conflitti.",
+    "motivation_en": "The ECSC was created to coordinate coal and steel production among member countries, preventing future conflicts.",
+    "wrong_explanations_it": [
+      "Il 1945 è l'anno della fine della Seconda Guerra Mondiale, non della firma del Trattato di Parigi.",
+      "",
+      "Il 1957 è l'anno del Trattato di Roma, non del Trattato di Parigi.",
+      "Nel 1961 non fu firmato alcun trattato fondamentale europeo."
+    ],
+    "wrong_explanations_en": [
+      "1945 is the year World War II ended, not the signing of the Treaty of Paris.",
+      "",
+      "1957 is the year of the Treaty of Rome, not the Treaty of Paris.",
+      "No fundamental European treaty was signed in 1961."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "id": "temp-061"
+  },
+  {
+    "question_it": "Quale trattato ha introdotto l'euro come valuta ufficiale dell'Unione Europea?",
+    "question_en": "Which treaty introduced the euro as the official currency of the European Union?",
+    "options": [
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      },
+      {
+        "text_it": "Trattato di Roma",
+        "text_en": "Treaty of Rome"
+      },
+      {
+        "text_it": "Trattato di Amsterdam",
+        "text_en": "Treaty of Amsterdam"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Treaty of Lisbon"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Maastricht**, firmato nel *1992*, ha istituito l'Unione Europea e ha introdotto l'euro come valuta ufficiale.",
+    "explanation_en": "The **Maastricht Treaty**, signed in *1992*, established the European Union and introduced the euro as the official currency.",
+    "motivation_it": "Il Trattato di Maastricht ha segnato una svolta fondamentale nell'integrazione monetaria europea.",
+    "motivation_en": "The Maastricht Treaty marked a fundamental turning point in European monetary integration.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Roma del 1957 istituì la CEE, non l'euro.",
+      "Il Trattato di Amsterdam del 1997 ha modificato i trattati esistenti, ma non ha introdotto l'euro.",
+      "Il Trattato di Lisbona del 2007 ha riformato le istituzioni dell'UE, ma non ha introdotto l'euro."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Treaty of Rome of 1957 established the EEC, not the euro.",
+      "The Treaty of Amsterdam of 1997 amended existing treaties but did not introduce the euro.",
+      "The Treaty of Lisbon of 2007 reformed EU institutions but did not introduce the euro."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "easy",
+    "id": "temp-062"
+  },
+  {
+    "question_it": "Quale trattato ha introdotto il principio di sussidiarietà nella legislazione dell'UE?",
+    "question_en": "Which treaty introduced the principle of subsidiarity into EU legislation?",
+    "options": [
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      },
+      {
+        "text_it": "Trattato di Amsterdam",
+        "text_en": "Amsterdam Treaty"
+      },
+      {
+        "text_it": "Trattato di Nizza",
+        "text_en": "Treaty of Nice"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Lisbon Treaty"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Maastricht**, firmato nel *1992*, ha formalmente introdotto il principio di **sussidiarietà**, che stabilisce che le decisioni devono essere prese al livello più vicino ai cittadini.",
+    "explanation_en": "The **Maastricht Treaty**, signed in *1992*, formally introduced the **subsidiarity principle**, which states that decisions should be made at the level closest to the citizens.",
+    "motivation_it": "Il principio di sussidiarietà è fondamentale per il funzionamento dell'UE, garantendo che le decisioni siano prese al livello più appropriato.",
+    "motivation_en": "The subsidiarity principle is fundamental to the functioning of the EU, ensuring decisions are made at the most appropriate level.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Amsterdam ha rafforzato il principio di sussidiarietà ma non lo ha introdotto.",
+      "Il Trattato di Nizza ha riformato le istituzioni dell'UE ma non riguarda il principio di sussidiarietà.",
+      "Il Trattato di Lisbona ha consolidato il principio ma non è stato il primo a introdurlo."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Amsterdam Treaty reinforced the subsidiarity principle but did not introduce it.",
+      "The Treaty of Nice reformed EU institutions but did not address subsidiarity.",
+      "The Lisbon Treaty consolidated the principle but was not the first to introduce it."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "id": "temp-063"
+  },
+  {
+    "question_it": "Quale trattato ha creato il ruolo dell'Alto Rappresentante dell'Unione per gli Affari Esteri e la Politica di Sicurezza?",
+    "question_en": "Which treaty created the role of the High Representative of the Union for Foreign Affairs and Security Policy?",
+    "options": [
+      {
+        "text_it": "Trattato di Amsterdam",
+        "text_en": "Amsterdam Treaty"
+      },
+      {
+        "text_it": "Trattato di Nizza",
+        "text_en": "Treaty of Nice"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Lisbon Treaty"
+      },
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Trattato di Lisbona**, firmato nel *2007*, ha istituito il ruolo dell'Alto Rappresentante per gli Affari Esteri e la Politica di Sicurezza, unificando le funzioni esterne dell'UE.",
+    "explanation_en": "The **Lisbon Treaty**, signed in *2007*, established the High Representative for Foreign Affairs and Security Policy, unifying the EU's external functions.",
+    "motivation_it": "Questo ruolo è cruciale per garantire una voce unica dell'UE sulla scena internazionale.",
+    "motivation_en": "This role is crucial for ensuring a unified EU voice on the international stage.",
+    "wrong_explanations_it": [
+      "Il Trattato di Amsterdam ha introdotto il rappresentante per la politica estera comune ma non questo ruolo.",
+      "Il Trattato di Nizza ha riformato le istituzioni ma non ha creato questo ruolo.",
+      "",
+      "Il Trattato di Maastricht ha istituito la politica estera comune ma non questa figura."
+    ],
+    "wrong_explanations_en": [
+      "The Amsterdam Treaty introduced the representative for common foreign policy but not this role.",
+      "The Treaty of Nice reformed institutions but did not create this role.",
+      "",
+      "The Maastricht Treaty established common foreign policy but not this figure."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "id": "temp-064"
+  },
+  {
+    "question_it": "Quale trattato ha esteso i poteri del Parlamento europeo introducendo la procedura di codecisione?",
+    "question_en": "Which treaty extended the powers of the European Parliament by introducing the co-decision procedure?",
+    "options": [
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      },
+      {
+        "text_it": "Trattato di Amsterdam",
+        "text_en": "Amsterdam Treaty"
+      },
+      {
+        "text_it": "Atto Unico Europeo",
+        "text_en": "Single European Act"
+      },
+      {
+        "text_it": "Trattato di Roma",
+        "text_en": "Treaty of Rome"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Amsterdam**, firmato nel *1997*, ha esteso i poteri del Parlamento europeo introducendo la **procedura di codecisione**, rendendolo un co-legislatore con il Consiglio.",
+    "explanation_en": "The **Amsterdam Treaty**, signed in *1997*, extended the powers of the European Parliament by introducing the **co-decision procedure**, making it a co-legislator with the Council.",
+    "motivation_it": "La codecisione ha rafforzato il ruolo democratico del Parlamento europeo nel processo legislativo dell'UE.",
+    "motivation_en": "Co-decision strengthened the democratic role of the European Parliament in the EU legislative process.",
+    "wrong_explanations_it": [
+      "Il Trattato di Maastricht ha introdotto la codecisione ma in forma limitata.",
+      "",
+      "L'Atto Unico Europeo ha ampliato il mercato unico ma non ha introdotto la codecisione.",
+      "Il Trattato di Roma ha istituito il Parlamento europeo ma non la codecisione."
+    ],
+    "wrong_explanations_en": [
+      "The Maastricht Treaty introduced co-decision but in a limited form.",
+      "",
+      "The Single European Act expanded the single market but did not introduce co-decision.",
+      "The Treaty of Rome established the European Parliament but not co-decision."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "medium",
+    "id": "temp-065"
+  },
+  {
+    "question_it": "Quale trattato ha introdotto per la prima volta il principio di sussidiarietà nell'ordinamento giuridico dell'UE e in quale anno è stato firmato?",
+    "question_en": "Which treaty first introduced the principle of subsidiarity into EU law and in which year was it signed?",
+    "options": [
+      {
+        "text_it": "Trattato di Maastricht, 1992",
+        "text_en": "Maastricht Treaty, 1992"
+      },
+      {
+        "text_it": "Trattato di Amsterdam, 1997",
+        "text_en": "Amsterdam Treaty, 1997"
+      },
+      {
+        "text_it": "Trattato di Roma, 1957",
+        "text_en": "Treaty of Rome, 1957"
+      },
+      {
+        "text_it": "Atto unico europeo, 1986",
+        "text_en": "Single European Act, 1986"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio di sussidiarietà** è stato introdotto per la prima volta dal **Trattato di Maastricht** del *1992*. Questo principio stabilisce che l'Unione interviene solo se gli obiettivi non possono essere raggiunti sufficientemente dagli Stati membri.",
+    "explanation_en": "The **principle of subsidiarity** was first introduced by the **Maastricht Treaty** of *1992*. This principle states that the Union acts only if objectives cannot be sufficiently achieved by the Member States.",
+    "motivation_it": "La sussidiarietà è un concetto fondamentale nel diritto dell'UE, garantendo che le decisioni siano prese il più vicino possibile ai cittadini.",
+    "motivation_en": "Subsidiarity is a fundamental concept in EU law, ensuring decisions are taken as closely as possible to the citizens.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Amsterdam ha rafforzato la sussidiarietà, ma non l'ha introdotta.",
+      "Il Trattato di Roma del 1957 ha istituito la CEE, ma non ha trattato la sussidiarietà.",
+      "L'Atto unico europeo del 1986 ha completato il mercato unico, ma non ha introdotto la sussidiarietà."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Amsterdam Treaty reinforced subsidiarity but did not introduce it.",
+      "The 1957 Treaty of Rome established the EEC but did not address subsidiarity.",
+      "The Single European Act of 1986 completed the single market but did not introduce subsidiarity."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "hard",
+    "id": "temp-066"
+  },
+  {
+    "question_it": "Quale trattato ha istituito il Parlamento europeo come organo eletto direttamente dai cittadini dell'UE e in quale anno è entrato in vigore?",
+    "question_en": "Which treaty established the European Parliament as a body directly elected by EU citizens and in which year did it enter into force?",
+    "options": [
+      {
+        "text_it": "Trattato di Lisbona, 2009",
+        "text_en": "Lisbon Treaty, 2009"
+      },
+      {
+        "text_it": "Atto unico europeo, 1987",
+        "text_en": "Single European Act, 1987"
+      },
+      {
+        "text_it": "Trattato di Maastricht, 1993",
+        "text_en": "Maastricht Treaty, 1993"
+      },
+      {
+        "text_it": "Trattato di Roma, 1958",
+        "text_en": "Treaty of Rome, 1958"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**Atto unico europeo**, entrato in vigore nel *1987*, ha istituito il Parlamento europeo come organo eletto direttamente dai cittadini dell'UE. Le prime elezioni dirette si erano già svolte nel 1979, ma l'Atto unico ha formalizzato questo ruolo.",
+    "explanation_en": "The **Single European Act**, which entered into force in *1987*, established the European Parliament as a body directly elected by EU citizens. The first direct elections had already taken place in 1979, but the Single European Act formalized this role.",
+    "motivation_it": "Il Parlamento europeo è l'unica istituzione dell'UE eletta direttamente dai cittadini, rappresentando un pilastro fondamentale della democrazia europea.",
+    "motivation_en": "The European Parliament is the only EU institution directly elected by citizens, representing a cornerstone of European democracy.",
+    "wrong_explanations_it": [
+      "Il Trattato di Lisbona ha rafforzato i poteri del Parlamento, ma non ha istituito le elezioni dirette.",
+      "",
+      "Il Trattato di Maastricht ha introdotto la cittadinanza dell'UE, ma non ha istituito il Parlamento eletto.",
+      "Il Trattato di Roma del 1958 ha istituito l'Assemblea parlamentare, ma non come organo eletto direttamente."
+    ],
+    "wrong_explanations_en": [
+      "The Lisbon Treaty strengthened the Parliament's powers but did not establish direct elections.",
+      "",
+      "The Maastricht Treaty introduced EU citizenship but did not establish the elected Parliament.",
+      "The 1958 Treaty of Rome established the Parliamentary Assembly but not as a directly elected body."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "hard",
+    "id": "temp-067"
+  },
+  {
+    "question_it": "Quale trattato ha introdotto il meccanismo di cooperazione rafforzata nell'UE e in quale anno è stato firmato?",
+    "question_en": "Which treaty introduced the enhanced cooperation mechanism in the EU and in which year was it signed?",
+    "options": [
+      {
+        "text_it": "Trattato di Amsterdam, 1997",
+        "text_en": "Amsterdam Treaty, 1997"
+      },
+      {
+        "text_it": "Trattato di Nizza, 2001",
+        "text_en": "Nice Treaty, 2001"
+      },
+      {
+        "text_it": "Trattato di Lisbona, 2007",
+        "text_en": "Lisbon Treaty, 2007"
+      },
+      {
+        "text_it": "Trattato di Maastricht, 1992",
+        "text_en": "Maastricht Treaty, 1992"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **meccanismo di cooperazione rafforzata** è stato introdotto dal **Trattato di Amsterdam**, firmato nel *1997*. Questo meccanismo consente a un gruppo di Stati membri di avanzare in un'area specifica anche senza il consenso di tutti.",
+    "explanation_en": "The **enhanced cooperation mechanism** was introduced by the **Amsterdam Treaty**, signed in *1997*. This mechanism allows a group of Member States to advance in a specific area even without the consent of all.",
+    "motivation_it": "La cooperazione rafforzata è uno strumento flessibile per promuovere l'integrazione tra gruppi di Stati membri.",
+    "motivation_en": "Enhanced cooperation is a flexible tool to promote integration among groups of Member States.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Nizza ha modificato il meccanismo, ma non l'ha introdotto.",
+      "Il Trattato di Lisbona ha rafforzato la cooperazione rafforzata, ma non l'ha istituita.",
+      "Il Trattato di Maastricht ha creato l'UE, ma non ha introdotto la cooperazione rafforzata."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Nice Treaty amended the mechanism but did not introduce it.",
+      "The Lisbon Treaty reinforced enhanced cooperation but did not establish it.",
+      "The Maastricht Treaty created the EU but did not introduce enhanced cooperation."
+    ],
+    "category": "EU Treaties",
+    "difficulty": "hard",
+    "id": "temp-068"
+  },
+  {
+    "question_it": "Quale paese è stato l'ultimo ad aderire all'Unione Europea prima della Brexit?",
+    "question_en": "Which country was the last to join the European Union before Brexit?",
+    "options": [
+      {
+        "text_it": "Croazia",
+        "text_en": "Croatia"
+      },
+      {
+        "text_it": "Romania",
+        "text_en": "Romania"
+      },
+      {
+        "text_it": "Bulgaria",
+        "text_en": "Bulgaria"
+      },
+      {
+        "text_it": "Polonia",
+        "text_en": "Polonia"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Croazia** è stata l'ultimo paese ad aderire all'Unione Europea nel *1º luglio 2013*, prima della Brexit.",
+    "explanation_en": "**Croatia** was the last country to join the European Union on *1 July 2013*, before Brexit.",
+    "motivation_it": "L'adesione della Croazia ha segnato un importante passo verso l'integrazione dei Balcani occidentali nell'UE.",
+    "motivation_en": "Croatia's accession marked an important step towards integrating the Western Balkans into the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La Romania ha aderito all'UE nel 2007 insieme alla Bulgaria.",
+      "La Bulgaria ha aderito all'UE nel 2007 insieme alla Romania.",
+      "La Polonia ha aderito all'UE nel 2004 nel grande allargamento."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Romania joined the EU in 2007 alongside Bulgaria.",
+      "Bulgaria joined the EU in 2007 alongside Romania.",
+      "Poland joined the EU in 2004 during the big enlargement."
+    ],
+    "category": "Accession History",
+    "difficulty": "easy",
+    "id": "temp-069"
+  },
+  {
+    "question_it": "Nel 2004, quanti nuovi Stati membri hanno aderito all'Unione Europea?",
+    "question_en": "In 2004, how many new Member States joined the European Union?",
+    "options": [
+      {
+        "text_it": "10",
+        "text_en": "10"
+      },
+      {
+        "text_it": "12",
+        "text_en": "12"
+      },
+      {
+        "text_it": "8",
+        "text_en": "8"
+      },
+      {
+        "text_it": "15",
+        "text_en": "15"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Nel *1º maggio 2004*, **10 nuovi Stati membri** hanno aderito all'Unione Europea nel più grande allargamento della sua storia.",
+    "explanation_en": "On *1 May 2004*, **10 new Member States** joined the European Union in its largest enlargement ever.",
+    "motivation_it": "Questo allargamento ha portato nell'UE molti paesi dell'Europa centrale e orientale, consolidando l'integrazione europea.",
+    "motivation_en": "This enlargement brought many Central and Eastern European countries into the EU, consolidating European integration.",
+    "wrong_explanations_it": [
+      "",
+      "12 paesi hanno aderito all'UE nel 2007, includendo Romania e Bulgaria.",
+      "8 paesi hanno aderito all'UE nel 2004 è un numero errato.",
+      "15 paesi non hanno mai aderito all'UE in un singolo allargamento."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "12 countries joined the EU in 2007, including Romania and Bulgaria.",
+      "8 countries joining the EU in 2004 is incorrect.",
+      "15 countries have never joined the EU in a single enlargement."
+    ],
+    "category": "Accession History",
+    "difficulty": "easy",
+    "id": "temp-070"
+  },
+  {
+    "question_it": "Quale paese ha aderito all'UE nel 1995 insieme a Finlandia e Svezia?",
+    "question_en": "Which country joined the EU in 1995 alongside Finland and Sweden?",
+    "options": [
+      {
+        "text_it": "Austria",
+        "text_en": "Austria"
+      },
+      {
+        "text_it": "Norvegia",
+        "text_en": "Norway"
+      },
+      {
+        "text_it": "Islanda",
+        "text_en": "Iceland"
+      },
+      {
+        "text_it": "Polonia",
+        "text_en": "Poland"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Nel **1995**, **Austria, Finlandia e Svezia** sono entrate a far parte dell'UE. Questo è stato il quarto allargamento dell'Unione Europea.",
+    "explanation_en": "In **1995**, **Austria, Finland, and Sweden** joined the EU. This was the fourth enlargement of the European Union.",
+    "motivation_it": "Questo allargamento ha portato il numero totale di Stati membri dell'UE a 15.",
+    "motivation_en": "This enlargement brought the total number of EU Member States to 15.",
+    "wrong_explanations_it": [
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "Accession History",
+    "difficulty": "medium",
+    "id": "temp-071"
+  },
+  {
+    "question_it": "In quale anno Malta e Cipro hanno aderito all'Unione Europea?",
+    "question_en": "In which year did Malta and Cyprus join the European Union?",
+    "options": [
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "2004",
+        "text_en": "2004"
+      },
+      {
+        "text_it": "2007",
+        "text_en": "2007"
+      },
+      {
+        "text_it": "2013",
+        "text_en": "2013"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Malta e Cipro hanno aderito all'UE nel **2004**, durante il **quinto allargamento**, insieme ad altri otto paesi dell'Europa centrale e orientale.",
+    "explanation_en": "Malta and Cyprus joined the EU in **2004**, during the **fifth enlargement**, alongside eight other Central and Eastern European countries.",
+    "motivation_it": "Questo allargamento è stato il più grande nella storia dell'UE, portando il numero di Stati membri da 15 a 25.",
+    "motivation_en": "This enlargement was the largest in EU history, bringing the number of Member States from 15 to 25.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "Accession History",
+    "difficulty": "medium",
+    "id": "temp-072"
+  },
+  {
+    "question_it": "Quale paese ha aderito all'UE nel 2013, diventando il 28° Stato membro?",
+    "question_en": "Which country joined the EU in 2013, becoming the 28th Member State?",
+    "options": [
+      {
+        "text_it": "Croazia",
+        "text_en": "Croatia"
+      },
+      {
+        "text_it": "Serbia",
+        "text_en": "Serbia"
+      },
+      {
+        "text_it": "Montenegro",
+        "text_en": "Montenegro"
+      },
+      {
+        "text_it": "Albania",
+        "text_en": "Albania"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Croazia** ha aderito all'UE il *1º luglio 2013*, diventando il **28° Stato membro**. Questo è stato l'ultimo allargamento prima della Brexit.",
+    "explanation_en": "**Croatia** joined the EU on *1 July 2013*, becoming the **28th Member State**. This was the last enlargement before Brexit.",
+    "motivation_it": "La Croazia è stata l'unico paese ad aderire all'UE nel 2013, portando il numero di Stati membri a 28 fino al 2020.",
+    "motivation_en": "Croatia was the only country to join the EU in 2013, bringing the number of Member States to 28 until 2020.",
+    "wrong_explanations_it": [
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "Accession History",
+    "difficulty": "medium",
+    "id": "temp-073"
+  },
+  {
+    "question_it": "Quale dei seguenti paesi ha avuto il periodo più lungo tra la presentazione della domanda di adesione all'UE e l'effettivo ingresso?",
+    "question_en": "Which of the following countries had the longest period between its EU membership application and actual accession?",
+    "options": [
+      {
+        "text_it": "Croazia",
+        "text_en": "Croatia"
+      },
+      {
+        "text_it": "Bulgaria",
+        "text_en": "Bulgaria"
+      },
+      {
+        "text_it": "Romania",
+        "text_en": "Romania"
+      },
+      {
+        "text_it": "Turchia",
+        "text_en": "Turkey"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "La **Turchia** presentò la domanda di adesione nel *1987* ma non è ancora membro dell'UE (al 2024), superando di gran lunga i tempi degli altri paesi. **Croazia** (2013), **Bulgaria** e **Romania** (2007) hanno completato il processo in tempi molto più brevi.",
+    "explanation_en": "**Turkey** applied for membership in *1987* but is still not an EU member (as of 2024), far exceeding other countries' timelines. **Croatia** (2013), **Bulgaria**, and **Romania** (2007) completed the process much faster.",
+    "motivation_it": "La candidatura turca è stata controversa per motivi politici e geografici, con i negoziati di adesione bloccati dal 2016.",
+    "motivation_en": "Turkey's candidacy has been controversial due to political and geographical factors, with accession negotiations frozen since 2016.",
+    "wrong_explanations_it": [
+      "La Croazia presentò domanda nel 2003 e aderì nel 2013 (10 anni).",
+      "Bulgaria presentò domanda nel 1995 e aderì nel 2007 (12 anni).",
+      "Romania presentò domanda nel 1995 e aderì nel 2007 (12 anni).",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "Croatia applied in 2003 and joined in 2013 (10 years).",
+      "Bulgaria applied in 1995 and joined in 2007 (12 years).",
+      "Romania applied in 1995 and joined in 2007 (12 years).",
+      ""
+    ],
+    "category": "Accession History",
+    "difficulty": "hard",
+    "id": "temp-074"
+  },
+  {
+    "question_it": "Quale allargamento dell'UE ha incluso per la prima volta paesi che facevano parte dell'ex Unione Sovietica?",
+    "question_en": "Which EU enlargement first included countries that were part of the former Soviet Union?",
+    "options": [
+      {
+        "text_it": "Allargamento del 1995 (Austria, Finlandia, Svezia)",
+        "text_en": "1995 enlargement (Austria, Finland, Sweden)"
+      },
+      {
+        "text_it": "Allargamento del 2004 (10 paesi)",
+        "text_en": "2004 enlargement (10 countries)"
+      },
+      {
+        "text_it": "Allargamento del 2007 (Bulgaria, Romania)",
+        "text_en": "2007 enlargement (Bulgaria, Romania)"
+      },
+      {
+        "text_it": "Allargamento del 2013 (Croazia)",
+        "text_en": "2013 enlargement (Croatia)"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**allargamento del 2004** incluse **Estonia, Lettonia e Lituania**, che erano repubbliche sovietiche fino al *1991*. Questo segnò il primo ingresso di ex territori dell'URSS nell'UE.",
+    "explanation_en": "The **2004 enlargement** included **Estonia, Latvia, and Lithuania**, which were Soviet republics until *1991*. This marked the first accession of former USSR territories to the EU.",
+    "motivation_it": "Questo allargamento storico ha simbolicamente riunito l'Europa divisa dalla Guerra Fredda.",
+    "motivation_en": "This historic enlargement symbolically reunited Europe divided by the Cold War.",
+    "wrong_explanations_it": [
+      "L'allargamento del 1995 riguardava paesi neutrali durante la Guerra Fredda.",
+      "",
+      "Bulgaria e Romania erano nel Patto di Varsavia ma non nell'URSS.",
+      "La Croazia faceva parte della Jugoslavia, non dell'URSS."
+    ],
+    "wrong_explanations_en": [
+      "The 1995 enlargement involved neutral Cold War countries.",
+      "",
+      "Bulgaria and Romania were in the Warsaw Pact but not the USSR.",
+      "Croatia was part of Yugoslavia, not the USSR."
+    ],
+    "category": "Accession History",
+    "difficulty": "hard",
+    "id": "temp-075"
+  },
+  {
+    "question_it": "Nel 2004, quanti nuovi Stati membri hanno aderito all'Unione Europea?",
+    "question_en": "In 2004, how many new Member States joined the European Union?",
+    "options": [
+      {
+        "text_it": "5",
+        "text_en": "5"
+      },
+      {
+        "text_it": "10",
+        "text_en": "10"
+      },
+      {
+        "text_it": "12",
+        "text_en": "12"
+      },
+      {
+        "text_it": "15",
+        "text_en": "15"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Nel **2004**, l'Unione Europea ha visto il suo più grande allargamento con l'adesione di **10 nuovi Stati membri**, tra cui Polonia, Ungheria e Repubblica Ceca.",
+    "explanation_en": "In **2004**, the European Union saw its biggest enlargement with the accession of **10 new Member States**, including Poland, Hungary, and the Czech Republic.",
+    "motivation_it": "Questo allargamento è stato un momento cruciale per l'integrazione europea.",
+    "motivation_en": "This enlargement was a pivotal moment for European integration.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "12 è un numero troppo alto rispetto ai 10 effettivi.",
+      "15 è un numero troppo alto rispetto ai 10 effettivi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "12 is too high compared to the actual 10.",
+      "15 is too high compared to the actual 10."
+    ],
+    "category": "EU Timeline",
+    "difficulty": "easy",
+    "id": "temp-076"
+  },
+  {
+    "question_it": "Quale paese è stato l'ultimo ad aderire all'Unione Europea prima della Brexit?",
+    "question_en": "Which country was the last to join the European Union before Brexit?",
+    "options": [
+      {
+        "text_it": "Romania",
+        "text_en": "Romania"
+      },
+      {
+        "text_it": "Bulgaria",
+        "text_en": "Bulgaria"
+      },
+      {
+        "text_it": "Croazia",
+        "text_en": "Croatia"
+      },
+      {
+        "text_it": "Polonia",
+        "text_en": "Poland"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Croazia** è entrata nell'Unione Europea nel **2013**, diventando l'ultimo paese ad aderire prima della Brexit nel 2016.",
+    "explanation_en": "**Croatia** joined the European Union in **2013**, becoming the last country to join before Brexit in 2016.",
+    "motivation_it": "L'adesione della Croazia ha segnato un momento importante per l'allargamento dell'UE.",
+    "motivation_en": "Croatia's accession marked an important moment for EU enlargement.",
+    "wrong_explanations_it": [
+      "",
+      "La Romania ha aderito nel 2007, non è stata l'ultima.",
+      "",
+      "La Polonia ha aderito nel 2004, non è stata l'ultima."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Romania joined in 2007, it was not the last.",
+      "",
+      "Poland joined in 2004, it was not the last."
+    ],
+    "category": "EU Timeline",
+    "difficulty": "easy",
+    "id": "temp-077"
+  },
+  {
+    "question_it": "In quale anno è stato adottato l'Euro come valuta fisica, sostituendo le valute nazionali in molti paesi dell'UE?",
+    "question_en": "In which year was the Euro adopted as physical currency, replacing national currencies in many EU countries?",
+    "options": [
+      {
+        "text_it": "1999",
+        "text_en": "1999"
+      },
+      {
+        "text_it": "2001",
+        "text_en": "2001"
+      },
+      {
+        "text_it": "2002",
+        "text_en": "2002"
+      },
+      {
+        "text_it": "2005",
+        "text_en": "2005"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**Euro** è stato introdotto come valuta fisica il *1 gennaio 2002*, sostituendo le valute nazionali in 12 paesi dell'UE. Prima di questa data, l'Euro era utilizzato solo per transazioni elettroniche.",
+    "explanation_en": "The **Euro** was introduced as physical currency on *1 January 2002*, replacing national currencies in 12 EU countries. Before this date, the Euro was only used for electronic transactions.",
+    "motivation_it": "L'introduzione dell'Euro ha rappresentato un importante passo verso l'integrazione economica e monetaria europea.",
+    "motivation_en": "The introduction of the Euro marked a significant step towards European economic and monetary integration.",
+    "wrong_explanations_it": [
+      "Il 1999 è l'anno in cui l'Euro è stato adottato come valuta elettronica, non fisica.",
+      "Nel 2001 l'Euro era già utilizzato per transazioni elettroniche, ma non era ancora una valuta fisica.",
+      "",
+      "Il 2005 è un anno successivo all'introduzione dell'Euro come valuta fisica."
+    ],
+    "wrong_explanations_en": [
+      "1999 is the year the Euro was adopted as an electronic currency, not physical.",
+      "In 2001, the Euro was already used for electronic transactions but was not yet a physical currency.",
+      "",
+      "2005 is a year after the introduction of the Euro as physical currency."
+    ],
+    "category": "EU Timeline",
+    "difficulty": "medium",
+    "id": "temp-078"
+  },
+  {
+    "question_it": "In quale anno è stato firmato il Trattato di Schengen, che ha abolito i controlli alle frontiere interne tra i paesi firmatari?",
+    "question_en": "In which year was the Schengen Treaty signed, abolishing internal border controls between the signatory countries?",
+    "options": [
+      {
+        "text_it": "1985",
+        "text_en": "1985"
+      },
+      {
+        "text_it": "1990",
+        "text_en": "1990"
+      },
+      {
+        "text_it": "1995",
+        "text_en": "1995"
+      },
+      {
+        "text_it": "2000",
+        "text_en": "2000"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato di Schengen** è stato firmato il *14 giugno 1985* da cinque paesi: Francia, Germania, Belgio, Paesi Bassi e Lussemburgo. L'accordo ha abolito i controlli alle frontiere interne tra i paesi firmatari.",
+    "explanation_en": "The **Schengen Treaty** was signed on *14 June 1985* by five countries: France, Germany, Belgium, the Netherlands, and Luxembourg. The agreement abolished internal border controls between the signatory countries.",
+    "motivation_it": "Il Trattato di Schengen ha creato uno spazio di libera circolazione delle persone, diventando un simbolo dell'integrazione europea.",
+    "motivation_en": "The Schengen Treaty created a space of free movement of people, becoming a symbol of European integration.",
+    "wrong_explanations_it": [
+      "",
+      "Nel 1990 sono state adottate le convenzioni di attuazione del Trattato di Schengen, ma il trattato stesso era già stato firmato nel 1985.",
+      "Il 1995 è l'anno in cui il trattato è entrato pienamente in vigore, ma non è l'anno della firma.",
+      "Il 2000 è un anno successivo all'entrata in vigore del trattato."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "In 1990, the implementing conventions of the Schengen Treaty were adopted, but the treaty itself was already signed in 1985.",
+      "1995 is the year the treaty fully came into force, but it is not the year of signing.",
+      "2000 is a year after the treaty came into force."
+    ],
+    "category": "EU Timeline",
+    "difficulty": "medium",
+    "id": "temp-079"
+  },
+  {
+    "question_it": "In che ordine cronologico sono stati firmati i seguenti trattati dell'UE? 1) Trattato di Amsterdam 2) Trattato di Lisbona 3) Trattato di Nizza 4) Atto Unico Europeo",
+    "question_en": "In what chronological order were the following EU treaties signed? 1) Treaty of Amsterdam 2) Treaty of Lisbon 3) Treaty of Nice 4) Single European Act",
+    "options": [
+      {
+        "text_it": "4-1-3-2",
+        "text_en": "4-1-3-2"
+      },
+      {
+        "text_it": "1-3-4-2",
+        "text_en": "1-3-4-2"
+      },
+      {
+        "text_it": "4-3-1-2",
+        "text_en": "4-3-1-2"
+      },
+      {
+        "text_it": "1-4-3-2",
+        "text_en": "1-4-3-2"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Atto Unico Europeo** (1986) precede il **Trattato di Amsterdam** (1997), che a sua volta precede il **Trattato di Nizza** (2001), con il **Trattato di Lisbona** (2007) come ultimo. Questa sequenza mostra l'evoluzione graduale delle riforme istituzionali dell'UE.",
+    "explanation_en": "The **Single European Act** (1986) preceded the **Treaty of Amsterdam** (1997), which in turn preceded the **Treaty of Nice** (2001), with the **Treaty of Lisbon** (2007) being the last. This sequence shows the gradual evolution of EU institutional reforms.",
+    "motivation_it": "Questa domanda testa la conoscenza approfondita della cronologia dei principali trattati di riforma dell'UE, cruciale per comprendere l'evoluzione istituzionale.",
+    "motivation_en": "This question tests in-depth knowledge of the chronology of major EU reform treaties, crucial for understanding institutional evolution.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Amsterdam (1997) non può precedere l'Atto Unico Europeo (1986).",
+      "L'Atto Unico Europeo (1986) è il primo, non può essere dopo Amsterdam (1997).",
+      "Il Trattato di Amsterdam (1997) è il secondo, non il primo (Atto Unico Europeo 1986)."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Treaty of Amsterdam (1997) cannot precede the Single European Act (1986).",
+      "The Single European Act (1986) is first, it cannot be after Amsterdam (1997).",
+      "The Treaty of Amsterdam (1997) is second, not first (Single European Act 1986)."
+    ],
+    "category": "EU Timeline",
+    "difficulty": "hard",
+    "id": "temp-080"
+  }
+]

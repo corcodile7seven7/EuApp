@@ -1,6 +1,7 @@
 import { useState, useCallback } from 'react';
 import { useLanguage } from '../../context/LanguageContext';
 import { getDeepDiveExplanation, hasApiKey } from '../../utils/deepseek';
+import renderMarkdown from '../../utils/renderMarkdown';
 
 const optionLabels = ['A', 'B', 'C', 'D'];
 
@@ -39,7 +40,7 @@ export default function EnhancedExplanation({ question, selectedOption, showDeep
           <p className="text-sm font-semibold text-eu-blue dark:text-eu-yellow mb-1">
             {t('quiz.explanation')}
           </p>
-          <p className="text-sm text-gray-700 dark:text-gray-300">{explanation}</p>
+          <div className="text-sm text-gray-700 dark:text-gray-300">{renderMarkdown(explanation)}</div>
         </div>
       )}
 
@@ -49,7 +50,7 @@ export default function EnhancedExplanation({ question, selectedOption, showDeep
           <p className="text-sm font-semibold text-pass-green mb-1">
             {t('ai.why_correct')}
           </p>
-          <p className="text-sm text-gray-700 dark:text-gray-300">{motivation}</p>
+          <div className="text-sm text-gray-700 dark:text-gray-300">{renderMarkdown(motivation)}</div>
         </div>
       )}
 
@@ -73,7 +74,7 @@ export default function EnhancedExplanation({ question, selectedOption, showDeep
                   {optionLabels[i]}) {optionText}
                   {isSelected && <span className="ml-1">({t('ai.your_answer')})</span>}
                 </p>
-                <p className="text-xs text-gray-600 dark:text-gray-400">{explanation}</p>
+                <div className="text-xs text-gray-600 dark:text-gray-400">{renderMarkdown(explanation)}</div>
               </div>
             );
           })}
@@ -107,8 +108,8 @@ export default function EnhancedExplanation({ question, selectedOption, showDeep
             </p>
             <span className="text-xs text-purple-400">DeepSeek AI</span>
           </div>
-          <div className="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-line leading-relaxed">
-            {deepDive}
+          <div className="text-sm text-gray-700 dark:text-gray-300">
+            {renderMarkdown(deepDive)}
           </div>
         </div>
       )}

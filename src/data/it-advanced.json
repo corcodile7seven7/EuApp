@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "ita-001",
+    "question_it": "Quale strato del modello TCP/IP corrisponde allo strato di Trasporto nel modello OSI?",
+    "question_en": "Which layer of the TCP/IP model corresponds to the Transport layer in the OSI model?",
+    "options": [
+      {
+        "text_it": "Strato di Trasporto",
+        "text_en": "Transport Layer"
+      },
+      {
+        "text_it": "Strato di Rete",
+        "text_en": "Network Layer"
+      },
+      {
+        "text_it": "Strato di Applicazione",
+        "text_en": "Application Layer"
+      },
+      {
+        "text_it": "Strato di Collegamento",
+        "text_en": "Link Layer"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **modello TCP/IP** ha 4 strati, mentre l'**OSI** ne ha 7. Lo *strato di Trasporto* (TCP/UDP) è lo stesso in entrambi i modelli, responsabile della comunicazione end-to-end.",
+    "explanation_en": "The **TCP/IP model** has 4 layers, while **OSI** has 7. The *Transport Layer* (TCP/UDP) is the same in both models, responsible for end-to-end communication.",
+    "category": "Networking & Security",
+    "difficulty": "easy",
+    "motivation_it": "Conoscere la mappatura tra i modelli è fondamentale per comprendere i protocolli di rete.",
+    "motivation_en": "Understanding the mapping between models is essential for network protocols.",
+    "wrong_explanations_it": [
+      "",
+      "Lo strato di Rete gestisce l'instradamento (IP).",
+      "Lo strato di Applicazione include HTTP/FTP.",
+      "Lo strato di Collegamento gestisce Ethernet/Wi-Fi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Network Layer handles routing (IP).",
+      "Application Layer includes HTTP/FTP.",
+      "Link Layer handles Ethernet/Wi-Fi."
+    ]
+  },
+  {
+    "id": "ita-002",
+    "question_it": "Quale protocollo utilizza la porta 443 per default?",
+    "question_en": "Which protocol uses port 443 by default?",
+    "options": [
+      {
+        "text_it": "HTTPS",
+        "text_en": "HTTPS"
+      },
+      {
+        "text_it": "HTTP",
+        "text_en": "HTTP"
+      },
+      {
+        "text_it": "FTP",
+        "text_en": "FTP"
+      },
+      {
+        "text_it": "DNS",
+        "text_en": "DNS"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**HTTPS** (HTTP Secure) utilizza la porta *443* per crittografare il traffico web con SSL/TLS. HTTP usa la porta *80*.",
+    "explanation_en": "**HTTPS** (HTTP Secure) uses port *443* to encrypt web traffic with SSL/TLS. HTTP uses port *80*.",
+    "category": "Networking & Security",
+    "difficulty": "easy",
+    "motivation_it": "Le porte standard sono cruciali per la configurazione di firewall e servizi.",
+    "motivation_en": "Standard ports are critical for firewall and service configuration.",
+    "wrong_explanations_it": [
+      "",
+      "HTTP usa la porta 80.",
+      "FTP usa la porta 21.",
+      "DNS usa la porta 53."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "HTTP uses port 80.",
+      "FTP uses port 21.",
+      "DNS uses port 53."
+    ]
+  },
+  {
+    "id": "ita-003",
+    "question_it": "Quale delle seguenti NON è una differenza tra IPv4 e IPv6?",
+    "question_en": "Which of the following is NOT a difference between IPv4 and IPv6?",
+    "options": [
+      {
+        "text_it": "IPv6 supporta multicast",
+        "text_en": "IPv6 supports multicast"
+      },
+      {
+        "text_it": "IPv4 usa indirizzi a 32 bit",
+        "text_en": "IPv4 uses 32-bit addresses"
+      },
+      {
+        "text_it": "IPv6 ha un header più semplice",
+        "text_en": "IPv6 has a simpler header"
+      },
+      {
+        "text_it": "IPv6 non supporta NAT",
+        "text_en": "IPv6 does not support NAT"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Sia **IPv4** che **IPv6** supportano il *multicast*. Le altre opzioni sono differenze reali: IPv4 usa 32 bit, IPv6 ha header semplificato e meno dipendenza da NAT.",
+    "explanation_en": "Both **IPv4** and **IPv6** support *multicast*. Other options are real differences: IPv4 uses 32 bits, IPv6 has simplified headers and less NAT reliance.",
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "motivation_it": "Comprendere IPv6 è essenziale per la transizione post-esaurimento IPv4.",
+    "motivation_en": "Understanding IPv6 is essential for post-IPv4 exhaustion transition.",
+    "wrong_explanations_it": [
+      "",
+      "IPv4 usa 32 bit (4 miliardi di indirizzi).",
+      "IPv6 riduce i campi dell'header per efficienza.",
+      "IPv6 è progettato per evitare la necessità di NAT."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "IPv4 uses 32 bits (4 billion addresses).",
+      "IPv6 reduces header fields for efficiency.",
+      "IPv6 is designed to avoid NAT necessity."
+    ]
+  },
+  {
+    "id": "ita-004",
+    "question_it": "Quale algoritmo è un esempio di crittografia asimmetrica?",
+    "question_en": "Which algorithm is an example of asymmetric encryption?",
+    "options": [
+      {
+        "text_it": "RSA",
+        "text_en": "RSA"
+      },
+      {
+        "text_it": "AES",
+        "text_en": "AES"
+      },
+      {
+        "text_it": "SHA-256",
+        "text_en": "SHA-256"
+      },
+      {
+        "text_it": "MD5",
+        "text_en": "MD5"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**RSA** è un algoritmo a *chiave pubblica/privata* (asimmetrico). **AES** è simmetrico, mentre SHA-256 e MD5 sono funzioni di hash.",
+    "explanation_en": "**RSA** is a *public/private key* (asymmetric) algorithm. **AES** is symmetric, while SHA-256 and MD5 are hash functions.",
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "motivation_it": "La crittografia asimmetrica è alla base di PKI e firme digitali.",
+    "motivation_en": "Asymmetric encryption is foundational for PKI and digital signatures.",
+    "wrong_explanations_it": [
+      "",
+      "AES usa una singola chiave condivisa.",
+      "SHA-256 genera impronte digitali, non cifra.",
+      "MD5 è obsoleto per sicurezza."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "AES uses a single shared key.",
+      "SHA-256 generates fingerprints, doesn't encrypt.",
+      "MD5 is obsolete for security."
+    ]
+  },
+  {
+    "id": "ita-005",
+    "question_it": "Quale componente verifica l'identità di un certificato digitale?",
+    "question_en": "Which component verifies the identity of a digital certificate?",
+    "options": [
+      {
+        "text_it": "Autorità di Certificazione (CA)",
+        "text_en": "Certificate Authority (CA)"
+      },
+      {
+        "text_it": "Server DNS",
+        "text_en": "DNS Server"
+      },
+      {
+        "text_it": "Firewall",
+        "text_en": "Firewall"
+      },
+      {
+        "text_it": "Load Balancer",
+        "text_en": "Load Balancer"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Una **CA** (es: DigiCert, Let's Encrypt) firma i certificati per verificarne l'autenticità nella **Public Key Infrastructure (PKI)**.",
+    "explanation_en": "A **CA** (e.g., DigiCert, Let's Encrypt) signs certificates to verify authenticity in **Public Key Infrastructure (PKI)**.",
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "motivation_it": "Le CA sono fondamentali per la fiducia nelle comunicazioni online.",
+    "motivation_en": "CAs are critical for trust in online communications.",
+    "wrong_explanations_it": [
+      "",
+      "DNS risolve nomi in indirizzi IP.",
+      "I firewall filtrano il traffico.",
+      "I load balancer distribuiscono il carico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "DNS resolves names to IP addresses.",
+      "Firewalls filter traffic.",
+      "Load balancers distribute workload."
+    ]
+  },
+  {
+    "id": "ita-006",
+    "question_it": "Quale vulnerabilità OWASP Top 10 riguarda l'esecuzione di comandi non validati?",
+    "question_en": "Which OWASP Top 10 vulnerability involves executing unvalidated commands?",
+    "options": [
+      {
+        "text_it": "Iniezione (Injection)",
+        "text_en": "Injection"
+      },
+      {
+        "text_it": "XSS",
+        "text_en": "XSS"
+      },
+      {
+        "text_it": "CSRF",
+        "text_en": "CSRF"
+      },
+      {
+        "text_it": "SSRF",
+        "text_en": "SSRF"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Iniezione** (es: SQLi) sfrutta input non validati per eseguire comandi. *XSS* inietta script, *CSRF* forza azioni non volute, *SSRF* attacca risorse interne.",
+    "explanation_en": "**Injection** (e.g., SQLi) exploits unvalidated input to execute commands. *XSS* injects scripts, *CSRF* forces unwanted actions, *SSRF* attacks internal resources.",
+    "category": "Networking & Security",
+    "difficulty": "hard",
+    "motivation_it": "L'Iniezione è la vulnerabilità più critica nelle applicazioni web.",
+    "motivation_en": "Injection is the most critical web application vulnerability.",
+    "wrong_explanations_it": [
+      "",
+      "XSS colpisce gli utenti con script dannosi.",
+      "CSRF sfrutta sessioni autenticate.",
+      "SSRF accede a servizi interni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "XSS targets users with malicious scripts.",
+      "CSRF exploits authenticated sessions.",
+      "SSRF accesses internal services."
+    ]
+  },
+  {
+    "id": "ita-007",
+    "question_it": "Quale servizio cloud fornisce solo infrastruttura (server, storage)?",
+    "question_en": "Which cloud service provides only infrastructure (servers, storage)?",
+    "options": [
+      {
+        "text_it": "IaaS",
+        "text_en": "IaaS"
+      },
+      {
+        "text_it": "PaaS",
+        "text_en": "PaaS"
+      },
+      {
+        "text_it": "SaaS",
+        "text_en": "SaaS"
+      },
+      {
+        "text_it": "FaaS",
+        "text_en": "FaaS"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**IaaS** (es: AWS EC2) offre *hardware virtualizzato*. **PaaS** aggiunge middleware, **SaaS** fornisce applicazioni pronte (es: Gmail).",
+    "explanation_en": "**IaaS** (e.g., AWS EC2) provides *virtualized hardware*. **PaaS** adds middleware, **SaaS** delivers ready apps (e.g., Gmail).",
+    "category": "Cloud & Infrastructure",
+    "difficulty": "easy",
+    "motivation_it": "Distinguere IaaS/PaaS/SaaS è cruciale per la strategia cloud.",
+    "motivation_en": "Differentiating IaaS/PaaS/SaaS is critical for cloud strategy.",
+    "wrong_explanations_it": [
+      "",
+      "PaaS include runtime e database (es: Heroku).",
+      "SaaS è software completo (es: Office 365).",
+      "FaaS esegue codice senza server (es: AWS Lambda)."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "PaaS includes runtime/database (e.g., Heroku).",
+      "SaaS is complete software (e.g., Office 365).",
+      "FaaS runs serverless code (e.g., AWS Lambda)."
+    ]
+  },
+  {
+    "id": "ita-008",
+    "question_it": "Quale tecnologia usa namespace per isolare processi senza un OS completo?",
+    "question_en": "Which technology uses namespaces to isolate processes without a full OS?",
+    "options": [
+      {
+        "text_it": "Container (Docker)",
+        "text_en": "Container (Docker)"
+      },
+      {
+        "text_it": "Macchina Virtuale (VM)",
+        "text_en": "Virtual Machine (VM)"
+      },
+      {
+        "text_it": "Hypervisor",
+        "text_en": "Hypervisor"
+      },
+      {
+        "text_it": "Bare Metal Server",
+        "text_en": "Bare Metal Server"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "I **container** (es: Docker) usano *namespace* e *cgroups* per isolare processi condividendo il kernel host. Le VM richiedono un OS completo.",
+    "explanation_en": "**Containers** (e.g., Docker) use *namespaces* and *cgroups* to isolate processes while sharing the host kernel. VMs require a full OS.",
+    "category": "Cloud & Infrastructure",
+    "difficulty": "medium",
+    "motivation_it": "I container sono fondamentali per il cloud moderno e DevOps.",
+    "motivation_en": "Containers are foundational for modern cloud and DevOps.",
+    "wrong_explanations_it": [
+      "",
+      "Le VM emulano hardware con hypervisor.",
+      "L'hypervisor gestisce le VM.",
+      "Bare metal è hardware fisico dedicato."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "VMs emulate hardware via hypervisor.",
+      "Hypervisor manages VMs.",
+      "Bare metal is dedicated physical hardware."
+    ]
+  },
+  {
+    "id": "ita-009",
+    "question_it": "Quale protocollo è usato nel primo passo di un handshake TLS 1.3?",
+    "question_en": "Which protocol is used in the first step of a TLS 1.3 handshake?",
+    "options": [
+      {
+        "text_it": "ClientHello",
+        "text_en": "ClientHello"
+      },
+      {
+        "text_it": "ServerHello",
+        "text_en": "ServerHello"
+      },
+      {
+        "text_it": "Certificate",
+        "text_en": "Certificate"
+      },
+      {
+        "text_it": "Finished",
+        "text_en": "Finished"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **ClientHello** avvia l'handshake TLS 1.3, inviando cipher suites supportati. *ServerHello* risponde con parametri selezionati.",
+    "explanation_en": "**ClientHello** initiates TLS 1.3 handshake, sending supported cipher suites. *ServerHello* responds with selected parameters.",
+    "category": "Networking & Security",
+    "difficulty": "hard",
+    "motivation_it": "TLS 1.3 è lo standard per comunicazioni sicure moderne.",
+    "motivation_en": "TLS 1.3 is the standard for modern secure communications.",
+    "wrong_explanations_it": [
+      "",
+      "ServerHello è la risposta del server.",
+      "Certificate invia il certificato dopo la negoziazione.",
+      "Finished conferma il completamento."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "ServerHello is the server's response.",
+      "Certificate sends cert after negotiation.",
+      "Finished confirms completion."
+    ]
+  },
+  {
+    "id": "ita-010",
+    "question_it": "Quale principio NON fa parte dell'architettura Zero-Trust?",
+    "question_en": "Which principle is NOT part of Zero-Trust architecture?",
+    "options": [
+      {
+        "text_it": "Fiducia implicita nella rete interna",
+        "text_en": "Implicit trust in internal networks"
+      },
+      {
+        "text_it": "Verifica continua",
+        "text_en": "Continuous verification"
+      },
+      {
+        "text_it": "Minimo privilegio",
+        "text_en": "Least privilege"
+      },
+      {
+        "text_it": "Segmentazione micro-perimetrale",
+        "text_en": "Micro-perimeter segmentation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Lo **Zero-Trust** *nega ogni fiducia implicita*, anche nelle reti interne. Verifica continua, minimo privilegio e segmentazione sono pilastri.",
+    "explanation_en": "**Zero-Trust** *denies all implicit trust*, even within internal networks. Continuous verification, least privilege, and segmentation are pillars.",
+    "category": "Networking & Security",
+    "difficulty": "hard",
+    "motivation_it": "Zero-Trust è un paradigma chiave per la sicurezza moderna.",
+    "motivation_en": "Zero-Trust is a key paradigm for modern security.",
+    "wrong_explanations_it": [
+      "",
+      "La verifica continua è obbligatoria per ogni accesso.",
+      "Il minimo privilegio limita i permessi allo stretto necessario.",
+      "La segmentazione riduce la superficie d'attacco."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Continuous verification is mandatory for every access.",
+      "Least privilege restricts permissions to bare minimum.",
+      "Segmentation reduces attack surface."
+    ]
+  },
+  {
+    "id": "ita-011",
+    "question_it": "Quale algoritmo di hashing è considerato crittograficamente sicuro oggi?",
+    "question_en": "Which hashing algorithm is considered cryptographically secure today?",
+    "options": [
+      {
+        "text_it": "SHA-256",
+        "text_en": "SHA-256"
+      },
+      {
+        "text_it": "MD5",
+        "text_en": "MD5"
+      },
+      {
+        "text_it": "SHA-1",
+        "text_en": "SHA-1"
+      },
+      {
+        "text_it": "RC4",
+        "text_en": "RC4"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**SHA-256** (parte della famiglia SHA-2) è sicuro per firme digitali e password. *MD5* e *SHA-1* sono vulnerabili a collisioni.",
+    "explanation_en": "**SHA-256** (part of SHA-2 family) is secure for digital signatures/passwords. *MD5* and *SHA-1* are vulnerable to collisions.",
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "motivation_it": "Gli hash sicuri sono essenziali per integrità e autenticazione.",
+    "motivation_en": "Secure hashes are essential for integrity and authentication.",
+    "wrong_explanations_it": [
+      "",
+      "MD5 è rotto dal 2004 (collisioni in 1 ora).",
+      "SHA-1 è deprecato dal 2017.",
+      "RC4 è un cifrario, non un hash."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "MD5 was broken in 2004 (1-hour collisions).",
+      "SHA-1 was deprecated in 2017.",
+      "RC4 is a cipher, not a hash."
+    ]
+  },
+  {
+    "id": "ita-012",
+    "question_it": "Quale componente Kubernetes gestisce lo stato desiderato del cluster?",
+    "question_en": "Which Kubernetes component manages the desired cluster state?",
+    "options": [
+      {
+        "text_it": "Controller Manager",
+        "text_en": "Controller Manager"
+      },
+      {
+        "text_it": "kubelet",
+        "text_en": "kubelet"
+      },
+      {
+        "text_it": "etcd",
+        "text_en": "etcd"
+      },
+      {
+        "text_it": "Scheduler",
+        "text_en": "Scheduler"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Controller Manager** riconcilia lo stato corrente con quello desiderato (es: garantisce che i pod siano in esecuzione). *etcd* è il database di configurazione.",
+    "explanation_en": "The **Controller Manager** reconciles current state with desired state (e.g., ensures pods are running). *etcd* is the configuration database.",
+    "category": "Cloud & Infrastructure",
+    "difficulty": "hard",
+    "motivation_it": "Kubernetes è lo standard de facto per l'orchestrazione di container.",
+    "motivation_en": "Kubernetes is the de facto standard for container orchestration.",
+    "wrong_explanations_it": [
+      "",
+      "Kubelet gestisce i pod su un singolo nodo.",
+      "etcd memorizza i dati del cluster.",
+      "Lo scheduler assegna pod ai nodi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Kubelet manages pods on a single node.",
+      "etcd stores cluster data.",
+      "Scheduler assigns pods to nodes."
+    ]
+  },
+  {
+    "id": "ita-013",
+    "question_it": "Quale tipo di VPN non cifra il traffico ma separa logicamente i dati?",
+    "question_en": "Which VPN type does not encrypt traffic but logically separates data?",
+    "options": [
+      {
+        "text_it": "VPN MPLS",
+        "text_en": "MPLS VPN"
+      },
+      {
+        "text_it": "IPsec VPN",
+        "text_en": "IPsec VPN"
+      },
+      {
+        "text_it": "SSL VPN",
+        "text_en": "SSL VPN"
+      },
+      {
+        "text_it": "WireGuard",
+        "text_en": "WireGuard"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Le **VPN MPLS** usano *label switching* per isolare il traffico senza cifratura. IPsec, SSL e WireGuard cifrano i dati.",
+    "explanation_en": "**MPLS VPNs** use *label switching* to isolate traffic without encryption. IPsec, SSL, and WireGuard encrypt data.",
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "motivation_it": "MPLS è comune nelle reti aziendali per prestazioni.",
+    "motivation_en": "MPLS is common in enterprise networks for performance.",
+    "wrong_explanations_it": [
+      "",
+      "IPsec cifra a livello di rete (Layer 3).",
+      "SSL VPN usa TLS per cifrare il traffico web.",
+      "WireGuard è una VPN moderna con cifratura."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "IPsec encrypts at network layer (Layer 3).",
+      "SSL VPN uses TLS for web traffic encryption.",
+      "WireGuard is a modern encrypted VPN."
+    ]
+  },
+  {
+    "id": "ita-014",
+    "question_it": "Quale attacco sfrutta l'autenticazione basata solo su password?",
+    "question_en": "Which attack exploits password-only authentication?",
+    "options": [
+      {
+        "text_it": "Credential Stuffing",
+        "text_en": "Credential Stuffing"
+      },
+      {
+        "text_it": "Man-in-the-Middle",
+        "text_en": "Man-in-the-Middle"
+      },
+      {
+        "text_it": "DDoS",
+        "text_en": "DDoS"
+      },
+      {
+        "text_it": "Zero-Day",
+        "text_en": "Zero-Day"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Credential Stuffing** prova password rubate su altri account. L'*MFA* (Multi-Factor Authentication) mitiga questo rischio.",
+    "explanation_en": "**Credential Stuffing** tries stolen passwords on other accounts. *MFA* (Multi-Factor Authentication) mitigates this risk.",
+    "category": "Networking & Security",
+    "difficulty": "easy",
+    "motivation_it": "Le password sono il fattore di autenticazione più vulnerabile.",
+    "motivation_en": "Passwords are the most vulnerable authentication factor.",
+    "wrong_explanations_it": [
+      "",
+      "MitM intercetta comunicazioni attive.",
+      "DDoS sovraccarica i servizi con traffico.",
+      "Zero-Day sfrutta vulnerabilità sconosciute."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "MitM intercepts active communications.",
+      "DDoS overwhelms services with traffic.",
+      "Zero-Day exploits unknown vulnerabilities."
+    ]
+  },
+  {
+    "id": "ita-015",
+    "question_it": "Quale servizio AWS è un esempio di PaaS?",
+    "question_en": "Which AWS service is an example of PaaS?",
+    "options": [
+      {
+        "text_it": "Elastic Beanstalk",
+        "text_en": "Elastic Beanstalk"
+      },
+      {
+        "text_it": "EC2",
+        "text_en": "EC2"
+      },
+      {
+        "text_it": "S3",
+        "text_en": "S3"
+      },
+      {
+        "text_it": "VPC",
+        "text_en": "VPC"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Elastic Beanstalk** è *PaaS*: gestisce automaticamente deployment e scaling. **EC2** è IaaS, **S3** è storage, **VPC** è networking.",
+    "explanation_en": "**Elastic Beanstalk** is *PaaS*: automatically handles deployment/scaling. **EC2** is IaaS, **S3** is storage, **VPC** is networking.",
+    "category": "Cloud & Infrastructure",
+    "difficulty": "medium",
+    "motivation_it": "Distinguere i servizi cloud per modello è essenziale per l'architettura.",
+    "motivation_en": "Differentiating cloud services by model is essential for architecture.",
+    "wrong_explanations_it": [
+      "",
+      "EC2 offre server virtuali (IaaS).",
+      "S3 è storage oggetti, non piattaforma.",
+      "VPC isola risorse a livello di rete."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "EC2 provides virtual servers (IaaS).",
+      "S3 is object storage, not a platform.",
+      "VPC isolates resources at network level."
+    ]
+  },
+  {
+    "id": "ita-016",
+    "question_it": "Quale delle seguenti NON è una proprietà ACID?",
+    "question_en": "Which of the following is NOT an ACID property?",
+    "options": [
+      {
+        "text_it": "Atomicità",
+        "text_en": "Atomicity"
+      },
+      {
+        "text_it": "Coerenza",
+        "text_en": "Consistency"
+      },
+      {
+        "text_it": "Isolamento",
+        "text_en": "Isolation"
+      },
+      {
+        "text_it": "Efficienza",
+        "text_en": "Efficiency"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Le proprietà ACID sono **Atomicità**, **Coerenza**, **Isolamento** e **Durabilità**. *Efficienza* non è una proprietà ACID.",
+    "explanation_en": "The ACID properties are **Atomicity**, **Consistency**, **Isolation**, and **Durability**. *Efficiency* is not an ACID property.",
+    "category": "Software Development",
+    "difficulty": "easy",
+    "motivation_it": "Le proprietà ACID sono fondamentali per garantire l'affidabilità delle transazioni nei database.",
+    "motivation_en": "ACID properties are essential for ensuring transaction reliability in databases.",
+    "wrong_explanations_it": [
+      "",
+      "Atomicità è una proprietà ACID.",
+      "Coerenza è una proprietà ACID.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Atomicity is an ACID property.",
+      "Consistency is an ACID property.",
+      ""
+    ]
+  },
+  {
+    "id": "ita-017",
+    "question_it": "Quale tipo di database è più adatto per dati strutturati e relazioni complesse?",
+    "question_en": "Which type of database is more suitable for structured data and complex relationships?",
+    "options": [
+      {
+        "text_it": "SQL",
+        "text_en": "SQL"
+      },
+      {
+        "text_it": "NoSQL",
+        "text_en": "NoSQL"
+      },
+      {
+        "text_it": "Document-based",
+        "text_en": "Document-based"
+      },
+      {
+        "text_it": "Key-value",
+        "text_en": "Key-value"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "I database **SQL** sono ideali per dati strutturati e relazioni complesse grazie al loro schema rigido e al supporto per query complesse.",
+    "explanation_en": "**SQL** databases are ideal for structured data and complex relationships due to their rigid schema and support for complex queries.",
+    "category": "Data & AI",
+    "difficulty": "medium",
+    "motivation_it": "La scelta del tipo di database dipende dalla natura dei dati e dai requisiti dell'applicazione.",
+    "motivation_en": "The choice of database type depends on the nature of the data and the application requirements.",
+    "wrong_explanations_it": [
+      "",
+      "NoSQL è più adatto per dati non strutturati.",
+      "Document-based è ottimo per dati semi-strutturati.",
+      "Key-value è ideale per semplici coppie chiave-valore."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "NoSQL is more suitable for unstructured data.",
+      "Document-based is great for semi-structured data.",
+      "Key-value is ideal for simple key-value pairs."
+    ]
+  },
+  {
+    "id": "ita-018",
+    "question_it": "Quale delle seguenti è una fase del processo ETL?",
+    "question_en": "Which of the following is a phase in the ETL process?",
+    "options": [
+      {
+        "text_it": "Estrazione",
+        "text_en": "Extraction"
+      },
+      {
+        "text_it": "Trasformazione",
+        "text_en": "Transformation"
+      },
+      {
+        "text_it": "Caricamento",
+        "text_en": "Loading"
+      },
+      {
+        "text_it": "Tutte le precedenti",
+        "text_en": "All of the above"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Il processo ETL comprende **Estrazione**, **Trasformazione** e **Caricamento** dei dati.",
+    "explanation_en": "The ETL process includes **Extraction**, **Transformation**, and **Loading** of data.",
+    "category": "Data & AI",
+    "difficulty": "easy",
+    "motivation_it": "Il processo ETL è fondamentale per la gestione dei dati nei sistemi di data warehousing.",
+    "motivation_en": "The ETL process is essential for data management in data warehousing systems.",
+    "wrong_explanations_it": [
+      "",
+      "Estrazione è una fase, ma non l'unica.",
+      "Trasformazione è una fase, ma non l'unica.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Extraction is a phase, but not the only one.",
+      "Transformation is a phase, but not the only one.",
+      ""
+    ]
+  },
+  {
+    "id": "ita-019",
+    "question_it": "Quale categoria di rischio nell'AI Act dell'UE include sistemi di identificazione biometrica remota in tempo reale?",
+    "question_en": "Which risk category in the EU AI Act includes real-time remote biometric identification systems?",
+    "options": [
+      {
+        "text_it": "Inaccettabile",
+        "text_en": "Unacceptable"
+      },
+      {
+        "text_it": "Alto",
+        "text_en": "High"
+      },
+      {
+        "text_it": "Limitato",
+        "text_en": "Limited"
+      },
+      {
+        "text_it": "Minimo",
+        "text_en": "Minimal"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "I sistemi di identificazione biometrica remota in tempo reale sono classificati come **alto rischio** nell'AI Act dell'UE.",
+    "explanation_en": "Real-time remote biometric identification systems are classified as **high risk** in the EU AI Act.",
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "motivation_it": "L'AI Act dell'UE definisce categorie di rischio per regolamentare l'uso dell'intelligenza artificiale.",
+    "motivation_en": "The EU AI Act defines risk categories to regulate the use of artificial intelligence.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Limitato si applica a rischi minori.",
+      "Minimo riguarda applicazioni a basso rischio."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Limited applies to minor risks.",
+      "Minimal concerns low-risk applications."
+    ]
+  },
+  {
+    "id": "ita-020",
+    "question_it": "Quale metodo di apprendimento automatico utilizza dati etichettati per addestrare il modello?",
+    "question_en": "Which machine learning method uses labeled data to train the model?",
+    "options": [
+      {
+        "text_it": "Apprendimento supervisionato",
+        "text_en": "Supervised learning"
+      },
+      {
+        "text_it": "Apprendimento non supervisionato",
+        "text_en": "Unsupervised learning"
+      },
+      {
+        "text_it": "Apprendimento per rinforzo",
+        "text_en": "Reinforcement learning"
+      },
+      {
+        "text_it": "Apprendimento semi-supervisionato",
+        "text_en": "Semi-supervised learning"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**apprendimento supervisionato** utilizza dati etichettati per addestrare il modello.",
+    "explanation_en": "**Supervised learning** uses labeled data to train the model.",
+    "category": "Data & AI",
+    "difficulty": "easy",
+    "motivation_it": "La scelta del metodo di apprendimento automatico dipende dalla disponibilità di dati etichettati.",
+    "motivation_en": "The choice of machine learning method depends on the availability of labeled data.",
+    "wrong_explanations_it": [
+      "",
+      "Apprendimento non supervisionato lavora con dati non etichettati.",
+      "Apprendimento per rinforzo si basa su feedback.",
+      "Apprendimento semi-supervisionato combina dati etichettati e non."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Unsupervised learning works with unlabeled data.",
+      "Reinforcement learning relies on feedback.",
+      "Semi-supervised learning combines labeled and unlabeled data."
+    ]
+  },
+  {
+    "id": "ita-021",
+    "question_it": "Quale tecnologia è alla base delle reti neurali profonde?",
+    "question_en": "Which technology is the foundation of deep neural networks?",
+    "options": [
+      {
+        "text_it": "Reti neurali artificiali",
+        "text_en": "Artificial neural networks"
+      },
+      {
+        "text_it": "Alberi decisionali",
+        "text_en": "Decision trees"
+      },
+      {
+        "text_it": "Macchine a vettori di supporto",
+        "text_en": "Support vector machines"
+      },
+      {
+        "text_it": "Algoritmi genetici",
+        "text_en": "Genetic algorithms"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Le **reti neurali artificiali** sono alla base delle reti neurali profonde.",
+    "explanation_en": "**Artificial neural networks** are the foundation of deep neural networks.",
+    "category": "Data & AI",
+    "difficulty": "medium",
+    "motivation_it": "Le reti neurali profonde sono una tecnologia avanzata nell'apprendimento automatico.",
+    "motivation_en": "Deep neural networks are an advanced technology in machine learning.",
+    "wrong_explanations_it": [
+      "",
+      "Alberi decisionali sono utilizzati per modelli semplici.",
+      "Macchine a vettori di supporto sono per classificazione.",
+      "Algoritmi genetici sono basati sull'evoluzione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Decision trees are used for simple models.",
+      "Support vector machines are for classification.",
+      "Genetic algorithms are based on evolution."
+    ]
+  },
+  {
+    "id": "ita-022",
+    "question_it": "Quale delle seguenti è una caratteristica del framework Agile?",
+    "question_en": "Which of the following is a characteristic of the Agile framework?",
+    "options": [
+      {
+        "text_it": "Sviluppo iterativo",
+        "text_en": "Iterative development"
+      },
+      {
+        "text_it": "Pianificazione rigida",
+        "text_en": "Rigid planning"
+      },
+      {
+        "text_it": "Documentazione estesa",
+        "text_en": "Extensive documentation"
+      },
+      {
+        "text_it": "Processi sequenziali",
+        "text_en": "Sequential processes"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**sviluppo iterativo** è una caratteristica fondamentale del framework Agile.",
+    "explanation_en": "**Iterative development** is a fundamental characteristic of the Agile framework.",
+    "category": "Software Development",
+    "difficulty": "medium",
+    "motivation_it": "Agile promuove flessibilità e adattabilità nello sviluppo del software.",
+    "motivation_en": "Agile promotes flexibility and adaptability in software development.",
+    "wrong_explanations_it": [
+      "",
+      "Pianificazione rigida è contraria ai principi Agile.",
+      "Documentazione estesa non è una priorità in Agile.",
+      "Processi sequenziali sono tipici del modello a cascata."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Rigid planning is contrary to Agile principles.",
+      "Extensive documentation is not a priority in Agile.",
+      "Sequential processes are typical of the waterfall model."
+    ]
+  },
+  {
+    "id": "ita-023",
+    "question_it": "Quale strumento è comunemente usato per il controllo delle versioni nel software development?",
+    "question_en": "Which tool is commonly used for version control in software development?",
+    "options": [
+      {
+        "text_it": "Git",
+        "text_en": "Git"
+      },
+      {
+        "text_it": "Jenkins",
+        "text_en": "Jenkins"
+      },
+      {
+        "text_it": "Docker",
+        "text_en": "Docker"
+      },
+      {
+        "text_it": "Kubernetes",
+        "text_en": "Kubernetes"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Git** è lo strumento più utilizzato per il controllo delle versioni nel software development.",
+    "explanation_en": "**Git** is the most widely used tool for version control in software development.",
+    "category": "Software Development",
+    "difficulty": "easy",
+    "motivation_it": "Il controllo delle versioni è essenziale per gestire il codice sorgente in modo efficiente.",
+    "motivation_en": "Version control is essential for managing source code efficiently.",
+    "wrong_explanations_it": [
+      "",
+      "Jenkins è uno strumento di integrazione continua.",
+      "Docker è utilizzato per la containerizzazione.",
+      "Kubernetes è per l'orchestrazione dei container."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Jenkins is a continuous integration tool.",
+      "Docker is used for containerization.",
+      "Kubernetes is for container orchestration."
+    ]
+  },
+  {
+    "id": "ita-024",
+    "question_it": "Quale delle seguenti è una differenza tra REST API e GraphQL?",
+    "question_en": "Which of the following is a difference between REST API and GraphQL?",
+    "options": [
+      {
+        "text_it": "GraphQL permette query specifiche",
+        "text_en": "GraphQL allows specific queries"
+      },
+      {
+        "text_it": "REST API è più flessibile",
+        "text_en": "REST API is more flexible"
+      },
+      {
+        "text_it": "GraphQL richiede più endpoint",
+        "text_en": "GraphQL requires more endpoints"
+      },
+      {
+        "text_it": "REST API è più veloce",
+        "text_en": "REST API is faster"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**GraphQL** permette query specifiche, mentre REST API richiede endpoint predefiniti.",
+    "explanation_en": "**GraphQL** allows specific queries, while REST API requires predefined endpoints.",
+    "category": "Software Development",
+    "difficulty": "medium",
+    "motivation_it": "La scelta tra REST API e GraphQL dipende dai requisiti dell'applicazione.",
+    "motivation_en": "The choice between REST API and GraphQL depends on the application requirements.",
+    "wrong_explanations_it": [
+      "",
+      "REST API è meno flessibile rispetto a GraphQL.",
+      "GraphQL utilizza un singolo endpoint.",
+      "La velocità dipende dall'implementazione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "REST API is less flexible than GraphQL.",
+      "GraphQL uses a single endpoint.",
+      "Speed depends on the implementation."
+    ]
+  },
+  {
+    "id": "ita-025",
+    "question_it": "Quale regolamento UE stabilisce norme per l'identità digitale?",
+    "question_en": "Which EU regulation establishes rules for digital identity?",
+    "options": [
+      {
+        "text_it": "eIDAS",
+        "text_en": "eIDAS"
+      },
+      {
+        "text_it": "GDPR",
+        "text_en": "GDPR"
+      },
+      {
+        "text_it": "NIS2",
+        "text_en": "NIS2"
+      },
+      {
+        "text_it": "AI Act",
+        "text_en": "AI Act"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il regolamento **eIDAS** stabilisce norme per l'identità digitale nell'UE.",
+    "explanation_en": "The **eIDAS** regulation establishes rules for digital identity in the EU.",
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "motivation_it": "eIDAS è fondamentale per garantire fiducia e sicurezza nelle transazioni digitali.",
+    "motivation_en": "eIDAS is essential for ensuring trust and security in digital transactions.",
+    "wrong_explanations_it": [
+      "",
+      "GDPR riguarda la protezione dei dati personali.",
+      "NIS2 si concentra sulla sicurezza delle reti.",
+      "AI Act regola l'intelligenza artificiale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "GDPR concerns personal data protection.",
+      "NIS2 focuses on network security.",
+      "AI Act regulates artificial intelligence."
+    ]
+  },
+  {
+    "id": "ita-026",
+    "question_it": "Quale direttiva UE mira a migliorare la sicurezza delle reti e dei sistemi informativi?",
+    "question_en": "Which EU directive aims to enhance the security of networks and information systems?",
+    "options": [
+      {
+        "text_it": "NIS2",
+        "text_en": "NIS2"
+      },
+      {
+        "text_it": "GDPR",
+        "text_en": "GDPR"
+      },
+      {
+        "text_it": "eIDAS",
+        "text_en": "eIDAS"
+      },
+      {
+        "text_it": "AI Act",
+        "text_en": "AI Act"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La direttiva **NIS2** mira a migliorare la sicurezza delle reti e dei sistemi informativi nell'UE.",
+    "explanation_en": "The **NIS2** directive aims to enhance the security of networks and information systems in the EU.",
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "motivation_it": "NIS2 è cruciale per garantire la resilienza delle infrastrutture digitali.",
+    "motivation_en": "NIS2 is crucial for ensuring the resilience of digital infrastructures.",
+    "wrong_explanations_it": [
+      "",
+      "GDPR riguarda la protezione dei dati personali.",
+      "eIDAS stabilisce norme per l'identità digitale.",
+      "AI Act regola l'intelligenza artificiale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "GDPR concerns personal data protection.",
+      "eIDAS establishes rules for digital identity.",
+      "AI Act regulates artificial intelligence."
+    ]
+  },
+  {
+    "id": "ita-027",
+    "question_it": "Quale obiettivo del Digital Decade 2030 riguarda la connettività gigabit?",
+    "question_en": "Which Digital Decade 2030 target concerns gigabit connectivity?",
+    "options": [
+      {
+        "text_it": "Connettività per tutti",
+        "text_en": "Connectivity for all"
+      },
+      {
+        "text_it": "Competenze digitali",
+        "text_en": "Digital skills"
+      },
+      {
+        "text_it": "Trasformazione digitale delle imprese",
+        "text_en": "Digital transformation of businesses"
+      },
+      {
+        "text_it": "Servizi pubblici digitali",
+        "text_en": "Digital public services"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'obiettivo **Connettività per tutti** del Digital Decade 2030 include la connettività gigabit.",
+    "explanation_en": "The **Connectivity for all** target of the Digital Decade 2030 includes gigabit connectivity.",
+    "category": "Digital Governance",
+    "difficulty": "hard",
+    "motivation_it": "Il Digital Decade 2030 definisce obiettivi ambiziosi per la trasformazione digitale dell'UE.",
+    "motivation_en": "The Digital Decade 2030 sets ambitious goals for the digital transformation of the EU.",
+    "wrong_explanations_it": [
+      "",
+      "Competenze digitali riguarda l'alfabetizzazione digitale.",
+      "Trasformazione digitale delle imprese si concentra sulle aziende.",
+      "Servizi pubblici digitali riguarda l'e-government."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Digital skills concerns digital literacy.",
+      "Digital transformation of businesses focuses on companies.",
+      "Digital public services concerns e-government."
+    ]
+  },
+  {
+    "id": "ita-028",
+    "question_it": "Quale tecnologia è alla base degli smart contract?",
+    "question_en": "Which technology is the foundation of smart contracts?",
+    "options": [
+      {
+        "text_it": "Blockchain",
+        "text_en": "Blockchain"
+      },
+      {
+        "text_it": "Cloud computing",
+        "text_en": "Cloud computing"
+      },
+      {
+        "text_it": "Intelligenza artificiale",
+        "text_en": "Artificial intelligence"
+      },
+      {
+        "text_it": "Internet of Things",
+        "text_en": "Internet of Things"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Gli **smart contract** sono basati sulla tecnologia **blockchain**.",
+    "explanation_en": "**Smart contracts** are based on **blockchain** technology.",
+    "category": "Digital Governance",
+    "difficulty": "hard",
+    "motivation_it": "Gli smart contract sono una delle applicazioni più promettenti della blockchain.",
+    "motivation_en": "Smart contracts are one of the most promising applications of blockchain.",
+    "wrong_explanations_it": [
+      "",
+      "Cloud computing riguarda l'archiviazione e l'elaborazione dati.",
+      "Intelligenza artificiale si concentra sull'apprendimento automatico.",
+      "Internet of Things riguarda i dispositivi connessi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Cloud computing concerns data storage and processing.",
+      "Artificial intelligence focuses on machine learning.",
+      "Internet of Things concerns connected devices."
+    ]
+  },
+  {
+    "id": "ita-029",
+    "question_it": "Quale delle seguenti è una caratteristica delle architetture microservices?",
+    "question_en": "Which of the following is a characteristic of microservices architectures?",
+    "options": [
+      {
+        "text_it": "Servizi indipendenti",
+        "text_en": "Independent services"
+      },
+      {
+        "text_it": "Monolitica",
+        "text_en": "Monolithic"
+      },
+      {
+        "text_it": "Accoppiamento stretto",
+        "text_en": "Tight coupling"
+      },
+      {
+        "text_it": "Scalabilità limitata",
+        "text_en": "Limited scalability"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Le architetture **microservices** sono caratterizzate da **servizi indipendenti**.",
+    "explanation_en": "**Microservices** architectures are characterized by **independent services**.",
+    "category": "Software Development",
+    "difficulty": "hard",
+    "motivation_it": "Le architetture microservices offrono maggiore flessibilità e scalabilità.",
+    "motivation_en": "Microservices architectures offer greater flexibility and scalability.",
+    "wrong_explanations_it": [
+      "",
+      "Monolitica è una caratteristica delle architetture tradizionali.",
+      "Accoppiamento stretto è tipico dei monoliti.",
+      "Scalabilità limitata è un problema dei monoliti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Monolithic is a characteristic of traditional architectures.",
+      "Tight coupling is typical of monoliths.",
+      "Limited scalability is a problem of monoliths."
+    ]
+  },
+  {
+    "id": "ita-030",
+    "question_it": "Quale delle seguenti è una fase del ciclo DevOps?",
+    "question_en": "Which of the following is a phase in the DevOps cycle?",
+    "options": [
+      {
+        "text_it": "Integrazione continua",
+        "text_en": "Continuous integration"
+      },
+      {
+        "text_it": "Distribuzione continua",
+        "text_en": "Continuous deployment"
+      },
+      {
+        "text_it": "Monitoraggio",
+        "text_en": "Monitoring"
+      },
+      {
+        "text_it": "Tutte le precedenti",
+        "text_en": "All of the above"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Il ciclo DevOps comprende **integrazione continua**, **distribuzione continua** e **monitoraggio**.",
+    "explanation_en": "The DevOps cycle includes **continuous integration**, **continuous deployment**, and **monitoring**.",
+    "category": "Software Development",
+    "difficulty": "medium",
+    "motivation_it": "DevOps promuove collaborazione e automazione nello sviluppo del software.",
+    "motivation_en": "DevOps promotes collaboration and automation in software development.",
+    "wrong_explanations_it": [
+      "",
+      "Integrazione continua è una fase, ma non l'unica.",
+      "Distribuzione continua è una fase, ma non l'unica.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Continuous integration is a phase, but not the only one.",
+      "Continuous deployment is a phase, but not the only one.",
+      ""
+    ]
+  },
+  {
+    "question_it": "Quale strumento è comunemente utilizzato per rilevare attività di rete sospette?",
+    "question_en": "Which tool is commonly used to detect suspicious network activity?",
+    "options": [
+      {
+        "text_it": "Firewall",
+        "text_en": "Firewall"
+      },
+      {
+        "text_it": "IDS (Intrusion Detection System)",
+        "text_en": "IDS (Intrusion Detection System)"
+      },
+      {
+        "text_it": "VPN (Virtual Private Network)",
+        "text_en": "VPN (Virtual Private Network)"
+      },
+      {
+        "text_it": "DNS (Domain Name System)",
+        "text_en": "DNS (Domain Name System)"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Un **IDS (Intrusion Detection System)** è progettato specificamente per monitorare il traffico di rete e rilevare attività sospette o potenziali minacce.",
+    "explanation_en": "An **IDS (Intrusion Detection System)** is specifically designed to monitor network traffic and detect suspicious activity or potential threats.",
+    "motivation_it": "La sicurezza delle reti richiede strumenti adeguati per identificare e rispondere alle minacce in tempo reale.",
+    "motivation_en": "Network security requires appropriate tools to identify and respond to threats in real-time.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Una VPN protegge la privacy dei dati, ma non monitora il traffico per attività sospette.",
+      "Il DNS risolve i nomi di dominio, ma non è utilizzato per il rilevamento di attività sospette."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "A VPN protects data privacy but does not monitor traffic for suspicious activity.",
+      "DNS resolves domain names but is not used for detecting suspicious activity."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "easy",
+    "id": "ita-031"
+  },
+  {
+    "question_it": "Quale protocollo è utilizzato per crittografare le comunicazioni web?",
+    "question_en": "Which protocol is used to encrypt web communications?",
+    "options": [
+      {
+        "text_it": "HTTP",
+        "text_en": "HTTP"
+      },
+      {
+        "text_it": "HTTPS",
+        "text_en": "HTTPS"
+      },
+      {
+        "text_it": "FTP",
+        "text_en": "FTP"
+      },
+      {
+        "text_it": "SMTP",
+        "text_en": "SMTP"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**HTTPS** (Hypertext Transfer Protocol Secure) utilizza **SSL/TLS** per crittografare le comunicazioni web, garantendo la sicurezza dei dati.",
+    "explanation_en": "**HTTPS** (Hypertext Transfer Protocol Secure) uses **SSL/TLS** to encrypt web communications, ensuring data security.",
+    "motivation_it": "La crittografia delle comunicazioni web è essenziale per proteggere i dati sensibili degli utenti.",
+    "motivation_en": "Encrypting web communications is essential to protect users' sensitive data.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "FTP è utilizzato per il trasferimento di file, non per la crittografia delle comunicazioni web.",
+      "SMTP è utilizzato per l'invio di email, non per la crittografia delle comunicazioni web."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "FTP is used for file transfer, not for encrypting web communications.",
+      "SMTP is used for sending emails, not for encrypting web communications."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "easy",
+    "id": "ita-032"
+  },
+  {
+    "question_it": "Quale tecnica di sicurezza utilizza un'insieme di host specifici per attirare e monitorare attività dannose?",
+    "question_en": "Which security technique uses a specific set of hosts to attract and monitor malicious activity?",
+    "options": [
+      {
+        "text_it": "Honeypot",
+        "text_en": "Honeypot"
+      },
+      {
+        "text_it": "Firewall",
+        "text_en": "Firewall"
+      },
+      {
+        "text_it": "IDS",
+        "text_en": "IDS"
+      },
+      {
+        "text_it": "VPN",
+        "text_en": "VPN"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Un **honeypot** è un sistema progettato per attirare attacchi e monitorare le attività dannose, fornendo informazioni preziose senza mettere a rischio il sistema principale.",
+    "explanation_en": "A **honeypot** is a system designed to attract attacks and monitor malicious activity, providing valuable insights without risking the main system.",
+    "motivation_it": "Gli honeypot sono strumenti importanti per comprendere e mitigare le minacce informatiche.",
+    "motivation_en": "Honeypots are important tools for understanding and mitigating cyber threats.",
+    "wrong_explanations_it": [
+      "",
+      "Un firewall blocca il traffico non autorizzato.",
+      "Un IDS rileva attività sospette.",
+      "Una VPN cifra il traffico tra dispositivi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "A firewall blocks unauthorized traffic.",
+      "An IDS detects suspicious activity.",
+      "A VPN encrypts traffic between devices."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "id": "ita-033"
+  },
+  {
+    "question_it": "Quale protocollo è utilizzato per verificare l'integrità dei dati trasmessi su una rete?",
+    "question_en": "Which protocol is used to verify the integrity of data transmitted over a network?",
+    "options": [
+      {
+        "text_it": "CRC (Cyclic Redundancy Check)",
+        "text_en": "CRC (Cyclic Redundancy Check)"
+      },
+      {
+        "text_it": "TCP (Transmission Control Protocol)",
+        "text_en": "TCP (Transmission Control Protocol)"
+      },
+      {
+        "text_it": "IP (Internet Protocol)",
+        "text_en": "IP (Internet Protocol)"
+      },
+      {
+        "text_it": "HTTP (Hypertext Transfer Protocol)",
+        "text_en": "HTTP (Hypertext Transfer Protocol)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **CRC** è un metodo per rilevare errori nei dati trasmessi, calcolando un valore di controllo basato sui dati stessi per verificarne l'integrità.",
+    "explanation_en": "**CRC** is a method for detecting errors in transmitted data by calculating a checksum based on the data to verify its integrity.",
+    "motivation_it": "La verifica dell'integrità dei dati è fondamentale per garantire una comunicazione affidabile.",
+    "motivation_en": "Data integrity verification is crucial for ensuring reliable communication.",
+    "wrong_explanations_it": [
+      "",
+      "TCP gestisce la trasmissione affidabile dei dati.",
+      "IP gestisce l'indirizzamento e l'instradamento.",
+      "HTTP è un protocollo di applicazione per il web."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "TCP handles reliable data transmission.",
+      "IP handles addressing and routing.",
+      "HTTP is an application protocol for the web."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "id": "ita-034"
+  },
+  {
+    "question_it": "Quale meccanismo di sicurezza impedisce l'accesso non autorizzato a una rete utilizzando indirizzi MAC?",
+    "question_en": "Which security mechanism prevents unauthorized access to a network using MAC addresses?",
+    "options": [
+      {
+        "text_it": "MAC Filtering",
+        "text_en": "MAC Filtering"
+      },
+      {
+        "text_it": "Port Security",
+        "text_en": "Port Security"
+      },
+      {
+        "text_it": "IP Spoofing",
+        "text_en": "IP Spoofing"
+      },
+      {
+        "text_it": "ARP Poisoning",
+        "text_en": "ARP Poisoning"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **MAC Filtering** consente o nega l'accesso alla rete in base agli indirizzi MAC dei dispositivi, migliorando la sicurezza della rete.",
+    "explanation_en": "**MAC Filtering** allows or denies network access based on device MAC addresses, enhancing network security.",
+    "motivation_it": "Il filtro MAC è una tecnica comune per proteggere le reti da accessi non autorizzati.",
+    "motivation_en": "MAC filtering is a common technique to protect networks from unauthorized access.",
+    "wrong_explanations_it": [
+      "",
+      "Port Security limita l'accesso alle porte di rete.",
+      "IP Spoofing falsifica l'indirizzo IP.",
+      "ARP Poisoning manipola le tabelle ARP."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Port Security restricts access to network ports.",
+      "IP Spoofing falsifies the IP address.",
+      "ARP Poisoning manipulates ARP tables."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "medium",
+    "id": "ita-035"
+  },
+  {
+    "question_it": "Quale tecnica di **segmentazione della rete** è più efficace per isolare dispositivi IoT vulnerabili in un'infrastruttura critica dell'UE?",
+    "question_en": "Which **network segmentation** technique is most effective for isolating vulnerable IoT devices in EU critical infrastructure?",
+    "options": [
+      {
+        "text_it": "Microsegmentazione basata su identità con politiche zero-trust",
+        "text_en": "Identity-based microsegmentation with zero-trust policies"
+      },
+      {
+        "text_it": "VLAN tradizionali con firewall perimetrali",
+        "text_en": "Traditional VLANs with perimeter firewalls"
+      },
+      {
+        "text_it": "Segmentazione fisica completa della rete",
+        "text_en": "Complete physical network separation"
+      },
+      {
+        "text_it": "NAT overload con filtraggio degli indirizzi MAC",
+        "text_en": "NAT overload with MAC address filtering"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **microsegmentazione basata su identità** applica il principio **zero-trust** a livello di singolo dispositivo, limitando il movimento laterale degli attacchi. Le VLAN (B) offrono isolamento insufficiente, mentre la separazione fisica (C) è impraticabile per IoT. Il NAT (D) non fornisce sicurezza intrinseca.",
+    "explanation_en": "**Identity-based microsegmentation** enforces **zero-trust** at the device level, limiting attack lateral movement. VLANs (B) provide insufficient isolation, while physical separation (C) is impractical for IoT. NAT (D) offers no inherent security.",
+    "motivation_it": "La direttiva NIS2 dell'UE richiede protezione avanzata per le infrastrutture critiche.",
+    "motivation_en": "The EU NIS2 Directive mandates advanced protection for critical infrastructure.",
+    "wrong_explanations_it": [
+      "",
+      "Le VLAN isolano solo a livello L2 e sono bypassabili con attacchi VLAN hopping.",
+      "La separazione fisica è costosa e impedisce l'integrazione con sistemi di monitoraggio centralizzati.",
+      "Il NAT e il filtraggio MAC sono trivialmente bypassabili e non forniscono isolamento logico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "VLANs only provide L2 isolation and are vulnerable to VLAN hopping attacks.",
+      "Physical separation is costly and prevents integration with centralized monitoring systems.",
+      "NAT and MAC filtering are trivially bypassed and provide no logical isolation."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "hard",
+    "id": "ita-036"
+  },
+  {
+    "question_it": "Quale vulnerabilità del protocollo **BGP** è stata sfruttata negli attacchi di **hijacking** contro reti governative dell'UE nel 2023?",
+    "question_en": "Which **BGP protocol** vulnerability was exploited in **hijacking** attacks against EU government networks in 2023?",
+    "options": [
+      {
+        "text_it": "Mancanza di autenticazione crittografica negli annunci di percorso",
+        "text_en": "Lack of cryptographic authentication in route announcements"
+      },
+      {
+        "text_it": "Debolezze nell'algoritmo di selezione del percorso più breve",
+        "text_en": "Flaws in shortest-path selection algorithm"
+      },
+      {
+        "text_it": "Falsificazione degli header TCP nelle sessioni BGP",
+        "text_en": "TCP header spoofing in BGP sessions"
+      },
+      {
+        "text_it": "Overflow del buffer nei messaggi KEEPALIVE",
+        "text_en": "Buffer overflow in KEEPALIVE messages"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Gli attacchi di **BGP hijacking** sfruttano principalmente l'assenza di **autenticazione crittografica** (RFC 4271) negli annunci di percorso, permettendo a malintenzionati di dirottare il traffico. Le altre opzioni descrivono vulnerabilità teoriche non rilevate negli attacchi reali del 2023.",
+    "explanation_en": "**BGP hijacking** attacks primarily exploit the lack of **cryptographic authentication** (RFC 4271) in route announcements, allowing traffic diversion. Other options describe theoretical vulnerabilities not observed in 2023 real-world attacks.",
+    "motivation_it": "L'ENISA ha classificato il BGP hijacking come minaccia prioritaria per la resilienza Internet in Europa.",
+    "motivation_en": "ENISA classified BGP hijacking as a priority threat to European Internet resilience.",
+    "wrong_explanations_it": [
+      "",
+      "L'algoritmo SPF è matematicamente verificato e non la causa principale degli hijacking.",
+      "Le sessioni TCP BGP usano già autenticazione MD5 (sebbene obsoleta).",
+      "Non sono stati riportati exploit basati su KEEPALIVE nel 2023."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "SPF algorithm is mathematically proven and not the root cause of hijacking.",
+      "BGP TCP sessions already use MD5 authentication (though deprecated).",
+      "No KEEPALIVE-based exploits were reported in 2023."
+    ],
+    "category": "Networking & Security",
+    "difficulty": "hard",
+    "id": "ita-037"
+  },
+  {
+    "question_it": "Quale dei seguenti è un paradigma di programmazione orientato agli oggetti?",
+    "question_en": "Which of the following is an object-oriented programming paradigm?",
+    "options": [
+      {
+        "text_it": "Ereditarietà",
+        "text_en": "Inheritance"
+      },
+      {
+        "text_it": "Programmazione procedurale",
+        "text_en": "Procedural programming"
+      },
+      {
+        "text_it": "Programmazione funzionale",
+        "text_en": "Functional programming"
+      },
+      {
+        "text_it": "Programmazione logica",
+        "text_en": "Logic programming"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**ereditarietà** è un concetto fondamentale della programmazione orientata agli oggetti (OOP), insieme a incapsulamento, polimorfismo e astrazione. Gli altri sono paradigmi di programmazione alternativi.",
+    "explanation_en": "**Inheritance** is a core concept of object-oriented programming (OOP), along with encapsulation, polymorphism, and abstraction. The others are alternative programming paradigms.",
+    "motivation_it": "La comprensione dei paradigmi di programmazione è essenziale per lo sviluppo software moderno.",
+    "motivation_en": "Understanding programming paradigms is essential for modern software development.",
+    "wrong_explanations_it": [
+      "",
+      "La programmazione procedurale è un paradigma basato su procedure/funzioni, non su oggetti.",
+      "La programmazione funzionale si basa su funzioni matematiche, non su oggetti.",
+      "La programmazione logica si basa su regole logiche, non su oggetti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Procedural programming is a paradigm based on procedures/functions, not objects.",
+      "Functional programming is based on mathematical functions, not objects.",
+      "Logic programming is based on logical rules, not objects."
+    ],
+    "category": "Software Development",
+    "difficulty": "easy",
+    "id": "ita-038"
+  },
+  {
+    "question_it": "Quale delle seguenti NON è una struttura dati lineare?",
+    "question_en": "Which of the following is NOT a linear data structure?",
+    "options": [
+      {
+        "text_it": "Array",
+        "text_en": "Array"
+      },
+      {
+        "text_it": "Lista concatenata",
+        "text_en": "Linked list"
+      },
+      {
+        "text_it": "Albero binario",
+        "text_en": "Binary tree"
+      },
+      {
+        "text_it": "Coda",
+        "text_en": "Queue"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Un **albero binario** è una struttura dati gerarchica/non-lineare, mentre array, liste concatenate e code sono strutture lineari dove gli elementi sono disposti in sequenza.",
+    "explanation_en": "A **binary tree** is a hierarchical/non-linear data structure, while arrays, linked lists, and queues are linear structures where elements are arranged sequentially.",
+    "motivation_it": "La conoscenza delle strutture dati è fondamentale per l'ottimizzazione degli algoritmi.",
+    "motivation_en": "Understanding data structures is fundamental for algorithm optimization.",
+    "wrong_explanations_it": [
+      "",
+      "Gli array sono strutture lineari con elementi contigui in memoria.",
+      "",
+      "Le code sono strutture lineari che seguono il principio FIFO (First In First Out)."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Arrays are linear structures with contiguous memory elements.",
+      "",
+      "Queues are linear structures following FIFO (First In First Out) principle."
+    ],
+    "category": "Software Development",
+    "difficulty": "easy",
+    "id": "ita-039"
+  },
+  {
+    "question_it": "Quale dei seguenti pattern di progettazione è utilizzato per garantire che una classe abbia una sola istanza?",
+    "question_en": "Which of the following design patterns is used to ensure that a class has only one instance?",
+    "options": [
+      {
+        "text_it": "Singleton",
+        "text_en": "Singleton"
+      },
+      {
+        "text_it": "Factory Method",
+        "text_en": "Factory Method"
+      },
+      {
+        "text_it": "Observer",
+        "text_en": "Observer"
+      },
+      {
+        "text_it": "Decorator",
+        "text_en": "Decorator"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il pattern **Singleton** è utilizzato per garantire che una classe abbia una sola istanza e fornire un punto di accesso globale a tale istanza.",
+    "explanation_en": "The **Singleton** pattern is used to ensure that a class has only one instance and provide a global point of access to that instance.",
+    "motivation_it": "Il pattern Singleton è fondamentale in scenari in cui è necessario controllare l'accesso a risorse condivise.",
+    "motivation_en": "The Singleton pattern is crucial in scenarios where controlled access to shared resources is required.",
+    "wrong_explanations_it": [
+      "",
+      "Factory Method è utilizzato per creare oggetti senza specificare la classe esatta.",
+      "Observer è utilizzato per definire una dipendenza uno-a-molti tra oggetti.",
+      "Decorator è utilizzato per aggiungere funzionalità agli oggetti in modo dinamico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Factory Method is used to create objects without specifying the exact class.",
+      "Observer is used to define a one-to-many dependency between objects.",
+      "Decorator is used to add functionality to objects dynamically."
+    ],
+    "category": "Software Development",
+    "difficulty": "medium",
+    "id": "ita-040"
+  },
+  {
+    "question_it": "Quale dei seguenti principi SOLID si riferisce alla possibilità di estendere una classe senza modificarne il comportamento esistente?",
+    "question_en": "Which of the following SOLID principles refers to the ability to extend a class without modifying its existing behavior?",
+    "options": [
+      {
+        "text_it": "Principio di Aperto/Chiuso",
+        "text_en": "Open/Closed Principle"
+      },
+      {
+        "text_it": "Principio di Singola Responsabilità",
+        "text_en": "Single Responsibility Principle"
+      },
+      {
+        "text_it": "Principio di Sostituzione di Liskov",
+        "text_en": "Liskov Substitution Principle"
+      },
+      {
+        "text_it": "Principio di Segregazione delle Interfacce",
+        "text_en": "Interface Segregation Principle"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Principio di Aperto/Chiuso** afferma che le entità software dovrebbero essere aperte per l'estensione ma chiuse per la modifica.",
+    "explanation_en": "The **Open/Closed Principle** states that software entities should be open for extension but closed for modification.",
+    "motivation_it": "Questo principio è fondamentale per mantenere il codice flessibile e ridurre il rischio di introdurre bug durante l'evoluzione del software.",
+    "motivation_en": "This principle is crucial for maintaining code flexibility and reducing the risk of introducing bugs during software evolution.",
+    "wrong_explanations_it": [
+      "",
+      "Il Principio di Singola Responsabilità si riferisce a una classe che dovrebbe avere una sola ragione per cambiare.",
+      "Il Principio di Sostituzione di Liskov riguarda la sostituzione di oggetti di una classe derivata senza alterare il programma.",
+      "Il Principio di Segregazione delle Interfacce suggerisce di creare interfacce specifiche per i clienti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Single Responsibility Principle refers to a class having only one reason to change.",
+      "The Liskov Substitution Principle deals with substituting objects of a derived class without altering the program.",
+      "The Interface Segregation Principle suggests creating specific interfaces for clients."
+    ],
+    "category": "Software Development",
+    "difficulty": "medium",
+    "id": "ita-041"
+  },
+  {
+    "question_it": "Quale delle seguenti tecniche è utilizzata per gestire le dipendenze tra classi in un'applicazione?",
+    "question_en": "Which of the following techniques is used to manage dependencies between classes in an application?",
+    "options": [
+      {
+        "text_it": "Iniezione di Dipendenze",
+        "text_en": "Dependency Injection"
+      },
+      {
+        "text_it": "Ereditarietà",
+        "text_en": "Inheritance"
+      },
+      {
+        "text_it": "Polimorfismo",
+        "text_en": "Polymorphism"
+      },
+      {
+        "text_it": "Incapsulamento",
+        "text_en": "Encapsulation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Iniezione di Dipendenze** è una tecnica che permette di passare le dipendenze di una classe dall'esterno, migliorando la modularità e la testabilità del codice.",
+    "explanation_en": "**Dependency Injection** is a technique that allows passing a class's dependencies from the outside, improving code modularity and testability.",
+    "motivation_it": "Questa tecnica è ampiamente utilizzata nei framework moderni per gestire le dipendenze in modo efficace.",
+    "motivation_en": "This technique is widely used in modern frameworks to manage dependencies effectively.",
+    "wrong_explanations_it": [
+      "",
+      "L'Ereditarietà riguarda la creazione di nuove classi basate su classi esistenti.",
+      "Il Polimorfismo permette di trattare oggetti di classi diverse attraverso un'interfaccia comune.",
+      "L'Incapsulamento nasconde i dettagli interni di una classe e protegge i dati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Inheritance involves creating new classes based on existing classes.",
+      "Polymorphism allows treating objects of different classes through a common interface.",
+      "Encapsulation hides the internal details of a class and protects data."
+    ],
+    "category": "Software Development",
+    "difficulty": "medium",
+    "id": "ita-042"
+  },
+  {
+    "question_it": "Quale pattern architetturale è più adatto per un sistema che richiede alta scalabilità e tolleranza ai guasti, con componenti distribuiti che possono fallire indipendentemente?",
+    "question_en": "Which architectural pattern is most suitable for a system requiring high scalability and fault tolerance, with distributed components that can fail independently?",
+    "options": [
+      {
+        "text_it": "Pattern a microservizi",
+        "text_en": "Microservices pattern"
+      },
+      {
+        "text_it": "Pattern a livelli (layered)",
+        "text_en": "Layered pattern"
+      },
+      {
+        "text_it": "Pattern Model-View-Controller (MVC)",
+        "text_en": "Model-View-Controller (MVC) pattern"
+      },
+      {
+        "text_it": "Pattern a singleton",
+        "text_en": "Singleton pattern"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **pattern a microservizi** è ottimale per sistemi distribuiti grazie alla sua **decomposizione in servizi autonomi**, che permette scalabilità orizzontale e resilienza. I microservizi possono fallire senza compromettere l'intero sistema.",
+    "explanation_en": "The **microservices pattern** is optimal for distributed systems due to its **decomposition into autonomous services**, enabling horizontal scalability and resilience. Microservices can fail without crashing the entire system.",
+    "motivation_it": "La scelta dell'architettura è cruciale per sistemi critici nell'UE, come piattaforme di voto digitale o gestione delle frontiere.",
+    "motivation_en": "Architecture choice is critical for EU mission-critical systems, such as digital voting platforms or border management.",
+    "wrong_explanations_it": [
+      "",
+      "Il pattern a livelli è rigido e non adatto a distribuzione geografica.",
+      "MVC è adatto per applicazioni monolitiche, non distribuite.",
+      "Il singleton è un anti-pattern in contesti distribuiti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Layered pattern is rigid and unsuitable for geographical distribution.",
+      "MVC fits monolithic apps, not distributed systems.",
+      "Singleton is an anti-pattern in distributed contexts."
+    ],
+    "category": "Software Development",
+    "difficulty": "hard",
+    "id": "ita-043"
+  },
+  {
+    "question_it": "In un sistema basato su eventi (event-driven), quale tecnica garantisce che un messaggio venga elaborato esattamente una volta (exactly-once) nonostante guasti?",
+    "question_en": "In an event-driven system, which technique guarantees exactly-once message processing despite failures?",
+    "options": [
+      {
+        "text_it": "Idempotenza + deduplicazione",
+        "text_en": "Idempotency + deduplication"
+      },
+      {
+        "text_it": "Transazioni distribuite a due fasi (2PC)",
+        "text_en": "Two-phase commit (2PC) distributed transactions"
+      },
+      {
+        "text_it": "Replica passiva (passive replication)",
+        "text_en": "Passive replication"
+      },
+      {
+        "text_it": "Coda FIFO (First-In-First-Out)",
+        "text_en": "FIFO (First-In-First-Out) queue"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**idempotenza** (stesso risultato per ripetute esecuzioni) combinata con la **deduplicazione** (tracciamento degli ID messaggio) è l'unico approccio pratico per garantire elaborazione *exactly-once* in sistemi distribuiti asincroni.",
+    "explanation_en": "**Idempotency** (same result for repeated executions) combined with **deduplication** (message ID tracking) is the only practical approach for *exactly-once* processing in asynchronous distributed systems.",
+    "motivation_it": "Questa tecnica è essenziale per sistemi EU come il tracciamento transfrontaliero di merci o dati sanitari.",
+    "motivation_en": "This technique is essential for EU systems like cross-border goods tracking or health data processing.",
+    "wrong_explanations_it": [
+      "",
+      "Il 2PC è troppo lento e non adatto a sistemi event-driven su larga scala.",
+      "La replica passiva non risolve il problema dei messaggi duplicati.",
+      "Le code FIFO garantiscono l'ordine ma non l'elaborazione exactly-once."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "2PC is too slow and unfit for large-scale event-driven systems.",
+      "Passive replication doesn't solve duplicate message issues.",
+      "FIFO queues ensure order but not exactly-once processing."
+    ],
+    "category": "Software Development",
+    "difficulty": "hard",
+    "id": "ita-044"
+  },
+  {
+    "question_it": "Quale iniziativa dell'UE promuove lo sviluppo di competenze digitali tra i cittadini?",
+    "question_en": "Which EU initiative promotes the development of digital skills among citizens?",
+    "options": [
+      {
+        "text_it": "Digital Europe Programme",
+        "text_en": "Digital Europe Programme"
+      },
+      {
+        "text_it": "Horizon Europe",
+        "text_en": "Horizon Europe"
+      },
+      {
+        "text_it": "Erasmus+",
+        "text_en": "Erasmus+"
+      },
+      {
+        "text_it": "Creative Europe",
+        "text_en": "Creative Europe"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Digital Europe Programme** è un'iniziativa dell'UE focalizzata sullo sviluppo delle competenze digitali e sulla trasformazione digitale.",
+    "explanation_en": "The **Digital Europe Programme** is an EU initiative focused on developing digital skills and digital transformation.",
+    "motivation_it": "Le competenze digitali sono essenziali per garantire la partecipazione attiva dei cittadini nell'economia digitale.",
+    "motivation_en": "Digital skills are essential to ensure citizens' active participation in the digital economy.",
+    "wrong_explanations_it": [
+      "",
+      "Horizon Europe è incentrato sulla ricerca e innovazione.",
+      "Erasmus+ si concentra sull'istruzione e la mobilità.",
+      "Creative Europe sostiene il settore culturale e creativo."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Horizon Europe focuses on research and innovation.",
+      "Erasmus+ concentrates on education and mobility.",
+      "Creative Europe supports the cultural and creative sector."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "easy",
+    "id": "ita-045"
+  },
+  {
+    "question_it": "Quale agenzia dell'UE è responsabile per la sicurezza delle reti e delle informazioni?",
+    "question_en": "Which EU agency is responsible for network and information security?",
+    "options": [
+      {
+        "text_it": "ENISA",
+        "text_en": "ENISA"
+      },
+      {
+        "text_it": "Europol",
+        "text_en": "Europol"
+      },
+      {
+        "text_it": "EASA",
+        "text_en": "EASA"
+      },
+      {
+        "text_it": "EMA",
+        "text_en": "EMA"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**ENISA** (Agenzia dell'Unione Europea per la cibersicurezza) è responsabile per la sicurezza delle reti e delle informazioni nell'UE.",
+    "explanation_en": "**ENISA** (European Union Agency for Cybersecurity) is responsible for network and information security in the EU.",
+    "motivation_it": "La sicurezza informatica è fondamentale per proteggere le infrastrutture digitali dell'UE.",
+    "motivation_en": "Cybersecurity is crucial to protect the EU's digital infrastructure.",
+    "wrong_explanations_it": [
+      "",
+      "Europol si occupa della cooperazione di polizia.",
+      "EASA è responsabile per la sicurezza dell'aviazione.",
+      "EMA regola i medicinali nell'UE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Europol deals with police cooperation.",
+      "EASA is responsible for aviation safety.",
+      "EMA regulates medicines in the EU."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "easy",
+    "id": "ita-046"
+  },
+  {
+    "question_it": "Quale principio del **Regolamento eIDAS** garantisce che le identità digitali siano riconosciute in tutti gli Stati membri dell'UE?",
+    "question_en": "Which principle of the **eIDAS Regulation** ensures that digital identities are recognized across all EU member states?",
+    "options": [
+      {
+        "text_it": "Mutuo riconoscimento",
+        "text_en": "Mutual recognition"
+      },
+      {
+        "text_it": "Sussidiarietà",
+        "text_en": "Subsidiarity"
+      },
+      {
+        "text_it": "Proporzionalità",
+        "text_en": "Proportionality"
+      },
+      {
+        "text_it": "Trasparenza",
+        "text_en": "Transparency"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il principio del **mutuo riconoscimento** nell'eIDAS assicura che le identità digitali emesse in uno Stato membro siano valide in tutti gli altri. Questo è fondamentale per i servizi transfrontalieri.",
+    "explanation_en": "The **mutual recognition** principle in eIDAS ensures digital identities issued in one member state are valid across all others. This is crucial for cross-border services.",
+    "motivation_it": "eIDAS è un regolamento chiave per il mercato digitale unico dell'UE.",
+    "motivation_en": "eIDAS is a key regulation for the EU's digital single market.",
+    "wrong_explanations_it": [
+      "",
+      "La sussidiarietà riguarda la delega di competenze ai livelli più bassi possibili.",
+      "La proporzionalità limita le misure allo stretto necessario.",
+      "La trasparenza riguarda l'accesso alle informazioni, non il riconoscimento."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Subsidiarity concerns delegating powers to the lowest feasible level.",
+      "Proportionality limits measures to what's strictly necessary.",
+      "Transparency concerns information access, not recognition."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "id": "ita-047"
+  },
+  {
+    "question_it": "Quale articolo del **GDPR** regola il diritto alla portabilità dei dati?",
+    "question_en": "Which article of the **GDPR** regulates the right to data portability?",
+    "options": [
+      {
+        "text_it": "Articolo 20",
+        "text_en": "Article 20"
+      },
+      {
+        "text_it": "Articolo 17",
+        "text_en": "Article 17"
+      },
+      {
+        "text_it": "Articolo 32",
+        "text_en": "Article 32"
+      },
+      {
+        "text_it": "Articolo 5",
+        "text_en": "Article 5"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Articolo 20** del GDPR stabilisce il diritto degli interessati a ricevere i propri dati in formato strutturato e trasferirli a un altro titolare del trattamento.",
+    "explanation_en": "**Article 20** of GDPR establishes data subjects' right to receive their data in a structured format and transfer it to another controller.",
+    "motivation_it": "La portabilità dei dati è un diritto fondamentale nel quadro della protezione dei dati dell'UE.",
+    "motivation_en": "Data portability is a fundamental right under EU data protection framework.",
+    "wrong_explanations_it": [
+      "",
+      "L'Articolo 17 riguarda il diritto all'oblio.",
+      "L'Articolo 32 concerne la sicurezza del trattamento.",
+      "L'Articolo 5 elenca i principi generali del GDPR."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Article 17 concerns the right to be forgotten.",
+      "Article 32 covers processing security.",
+      "Article 5 lists GDPR's general principles."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "id": "ita-048"
+  },
+  {
+    "question_it": "Quale iniziativa dell'UE mira a creare uno **spazio europeo dei dati sanitari** entro il 2025?",
+    "question_en": "Which EU initiative aims to create a **European Health Data Space** by 2025?",
+    "options": [
+      {
+        "text_it": "EHDS (Regolamento proposto nel 2022)",
+        "text_en": "EHDS (Proposed Regulation in 2022)"
+      },
+      {
+        "text_it": "GAIA-X",
+        "text_en": "GAIA-X"
+      },
+      {
+        "text_it": "Digital Services Act",
+        "text_en": "Digital Services Act"
+      },
+      {
+        "text_it": "Horizon Europe",
+        "text_en": "Horizon Europe"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**EHDS** (European Health Data Space) è una proposta di regolamento del 2022 per facilitare lo scambio sicuro di dati sanitari in tutta l'UE, migliorando sia l'assistenza che la ricerca.",
+    "explanation_en": "The **EHDS** (European Health Data Space) is a 2022 proposed regulation to enable secure health data exchange across the EU, improving both care and research.",
+    "motivation_it": "L'EHDS è una componente chiave della strategia digitale europea.",
+    "motivation_en": "EHDS is a key component of the European digital strategy.",
+    "wrong_explanations_it": [
+      "",
+      "GAIA-X è un progetto per un'infrastruttura cloud europea.",
+      "Il Digital Services Act regola i servizi online, non i dati sanitari.",
+      "Horizon Europe è il programma quadro per la ricerca."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "GAIA-X is a project for European cloud infrastructure.",
+      "Digital Services Act regulates online services, not health data.",
+      "Horizon Europe is the research framework program."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "medium",
+    "id": "ita-049"
+  },
+  {
+    "question_it": "Quale principio del **Regolamento eIDAS** garantisce che le identità digitali siano riconosciute in tutti gli Stati membri dell'UE?",
+    "question_en": "Which principle of the **eIDAS Regulation** ensures that digital identities are recognized across all EU Member States?",
+    "options": [
+      {
+        "text_it": "Interoperabilità",
+        "text_en": "Interoperability"
+      },
+      {
+        "text_it": "Trasparenza",
+        "text_en": "Transparency"
+      },
+      {
+        "text_it": "Sicurezza",
+        "text_en": "Security"
+      },
+      {
+        "text_it": "Portabilità",
+        "text_en": "Portability"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il principio di **interoperabilità** nel Regolamento eIDAS garantisce che le identità digitali siano riconosciute e utilizzabili in tutti gli Stati membri dell'UE.",
+    "explanation_en": "The **interoperability** principle in the eIDAS Regulation ensures that digital identities are recognized and usable across all EU Member States.",
+    "motivation_it": "Il Regolamento eIDAS è fondamentale per promuovere la fiducia nelle transazioni digitali nell'UE.",
+    "motivation_en": "The eIDAS Regulation is crucial for promoting trust in digital transactions across the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La trasparenza riguarda la chiarezza delle informazioni, non il riconoscimento reciproco.",
+      "La sicurezza è importante ma non garantisce il riconoscimento transfrontaliero.",
+      "La portabilità riguarda i dati, non le identità digitali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Transparency concerns clarity of information, not mutual recognition.",
+      "Security is important but does not guarantee cross-border recognition.",
+      "Portability concerns data, not digital identities."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "hard",
+    "id": "ita-050"
+  },
+  {
+    "question_it": "Secondo la **Direttiva NIS2**, quale settore è classificato come 'entità essenziale' per la sicurezza delle reti e dei sistemi informativi?",
+    "question_en": "According to the **NIS2 Directive**, which sector is classified as an 'essential entity' for the security of networks and information systems?",
+    "options": [
+      {
+        "text_it": "Servizi finanziari",
+        "text_en": "Financial services"
+      },
+      {
+        "text_it": "Agricoltura",
+        "text_en": "Agriculture"
+      },
+      {
+        "text_it": "Turismo",
+        "text_en": "Tourism"
+      },
+      {
+        "text_it": "Editoria",
+        "text_en": "Publishing"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva NIS2** classifica i **servizi finanziari** come 'entità essenziali' a causa del loro impatto critico sulla sicurezza delle reti e dell'economia.",
+    "explanation_en": "The **NIS2 Directive** classifies **financial services** as 'essential entities' due to their critical impact on network security and the economy.",
+    "motivation_it": "La Direttiva NIS2 rafforza la resilienza cibernetica dei settori chiave dell'UE.",
+    "motivation_en": "The NIS2 Directive enhances the cyber resilience of key EU sectors.",
+    "wrong_explanations_it": [
+      "",
+      "L'agricoltura non è classificata come entità essenziale nella NIS2.",
+      "Il turismo non rientra tra i settori critici per la sicurezza informatica.",
+      "L'editoria non è considerata un settore essenziale nella Direttiva NIS2."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Agriculture is not classified as an essential entity in NIS2.",
+      "Tourism is not among the critical sectors for cybersecurity.",
+      "Publishing is not considered an essential sector in the NIS2 Directive."
+    ],
+    "category": "Digital Governance",
+    "difficulty": "hard",
+    "id": "ita-051"
+  },
+  {
+    "question_it": "Quale tipo di apprendimento automatico utilizza dati etichettati per addestrare il modello?",
+    "question_en": "Which type of machine learning uses labeled data to train the model?",
+    "options": [
+      {
+        "text_it": "Apprendimento supervisionato",
+        "text_en": "Supervised learning"
+      },
+      {
+        "text_it": "Apprendimento non supervisionato",
+        "text_en": "Unsupervised learning"
+      },
+      {
+        "text_it": "Apprendimento per rinforzo",
+        "text_en": "Reinforcement learning"
+      },
+      {
+        "text_it": "Apprendimento semi-supervisionato",
+        "text_en": "Semi-supervised learning"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**apprendimento supervisionato** utilizza dati etichettati per addestrare modelli a fare previsioni o classificazioni. Ogni esempio di addestramento include sia i dati di input che l'output desiderato.",
+    "explanation_en": "**Supervised learning** uses labeled data to train models to make predictions or classifications. Each training example includes both input data and the desired output.",
+    "motivation_it": "Comprendere i diversi approcci al machine learning è fondamentale per selezionare la tecnica appropriata.",
+    "motivation_en": "Understanding different machine learning approaches is crucial for selecting the appropriate technique.",
+    "wrong_explanations_it": [
+      "",
+      "L'apprendimento non supervisionato lavora con dati senza etichette.",
+      "L'apprendimento per rinforzo si basa su feedback di ricompensa.",
+      "L'apprendimento semi-supervisionato combina pochi dati etichettati con molti non etichettati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Unsupervised learning works with unlabeled data.",
+      "Reinforcement learning relies on reward feedback.",
+      "Semi-supervised learning combines few labeled with many unlabeled data points."
+    ],
+    "category": "Data & AI",
+    "difficulty": "easy",
+    "id": "ita-052"
+  },
+  {
+    "question_it": "Quale delle seguenti è una tecnica comune per il pre-processing dei dati?",
+    "question_en": "Which of the following is a common data pre-processing technique?",
+    "options": [
+      {
+        "text_it": "Normalizzazione",
+        "text_en": "Normalization"
+      },
+      {
+        "text_it": "Addestramento del modello",
+        "text_en": "Model training"
+      },
+      {
+        "text_it": "Validazione incrociata",
+        "text_en": "Cross-validation"
+      },
+      {
+        "text_it": "Ottimizzazione degli iperparametri",
+        "text_en": "Hyperparameter tuning"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **normalizzazione** è una tecnica fondamentale di pre-processing che ridimensiona i valori delle caratteristiche in un intervallo comune (tipicamente 0-1) per migliorare le prestazioni del modello.",
+    "explanation_en": "**Normalization** is a fundamental pre-processing technique that rescales feature values to a common range (typically 0-1) to improve model performance.",
+    "motivation_it": "Il pre-processing dei dati è essenziale per garantire la qualità degli input per i modelli di machine learning.",
+    "motivation_en": "Data pre-processing is essential to ensure quality inputs for machine learning models.",
+    "wrong_explanations_it": [
+      "",
+      "L'addestramento del modello avviene dopo il pre-processing.",
+      "La validazione incrociata valida le prestazioni del modello.",
+      "L'ottimizzazione degli iperparametri migliora un modello già addestrato."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Model training occurs after pre-processing.",
+      "Cross-validation evaluates model performance.",
+      "Hyperparameter tuning improves an already trained model."
+    ],
+    "category": "Data & AI",
+    "difficulty": "easy",
+    "id": "ita-053"
+  },
+  {
+    "question_it": "Quale tecnica di apprendimento automatico è utilizzata per ridurre la dimensionalità dei dati mantenendo la struttura principale?",
+    "question_en": "Which machine learning technique is used to reduce the dimensionality of data while preserving its main structure?",
+    "options": [
+      {
+        "text_it": "PCA (Principal Component Analysis)",
+        "text_en": "PCA (Principal Component Analysis)"
+      },
+      {
+        "text_it": "K-Means Clustering",
+        "text_en": "K-Means Clustering"
+      },
+      {
+        "text_it": "Regressione Lineare",
+        "text_en": "Linear Regression"
+      },
+      {
+        "text_it": "Support Vector Machine",
+        "text_en": "Support Vector Machine"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**PCA** è una tecnica di riduzione della dimensionalità che trasforma i dati in un insieme di componenti principali, mantenendo la struttura principale.",
+    "explanation_en": "**PCA** is a dimensionality reduction technique that transforms data into a set of principal components, preserving its main structure.",
+    "motivation_it": "La riduzione della dimensionalità è cruciale per migliorare l'efficienza e l'interpretabilità dei modelli di apprendimento automatico.",
+    "motivation_en": "Dimensionality reduction is crucial for improving the efficiency and interpretability of machine learning models.",
+    "wrong_explanations_it": [
+      "",
+      "K-Means Clustering è un algoritmo di clustering, non di riduzione della dimensionalità.",
+      "Regressione Lineare è usata per predire valori continui, non per ridurre la dimensionalità.",
+      "Support Vector Machine è un classificatore, non una tecnica di riduzione della dimensionalità."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "K-Means Clustering is a clustering algorithm, not a dimensionality reduction technique.",
+      "Linear Regression is used to predict continuous values, not to reduce dimensionality.",
+      "Support Vector Machine is a classifier, not a dimensionality reduction technique."
+    ],
+    "category": "Data & AI",
+    "difficulty": "medium",
+    "id": "ita-054"
+  },
+  {
+    "question_it": "Quale metodo è utilizzato per valutare le prestazioni di un modello di classificazione?",
+    "question_en": "Which method is used to evaluate the performance of a classification model?",
+    "options": [
+      {
+        "text_it": "Matrice di Confusione",
+        "text_en": "Confusion Matrix"
+      },
+      {
+        "text_it": "Coefficiente di Correlazione",
+        "text_en": "Correlation Coefficient"
+      },
+      {
+        "text_it": "Errore Quadratico Medio",
+        "text_en": "Mean Squared Error"
+      },
+      {
+        "text_it": "Coefficiente di Determinazione",
+        "text_en": "Coefficient of Determination"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Matrice di Confusione** è uno strumento fondamentale per valutare le prestazioni di un modello di classificazione, mostrando veri positivi, falsi positivi, veri negativi e falsi negativi.",
+    "explanation_en": "The **Confusion Matrix** is a fundamental tool for evaluating the performance of a classification model, showing true positives, false positives, true negatives, and false negatives.",
+    "motivation_it": "La valutazione accurata delle prestazioni è essenziale per migliorare i modelli di apprendimento automatico.",
+    "motivation_en": "Accurate performance evaluation is essential for improving machine learning models.",
+    "wrong_explanations_it": [
+      "",
+      "Il Coefficiente di Correlazione misura la relazione tra due variabili, non le prestazioni di classificazione.",
+      "L'Errore Quadratico Medio è usato per modelli di regressione, non di classificazione.",
+      "Il Coefficiente di Determinazione è utilizzato per valutare la bontà di adattamento nei modelli di regressione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Correlation Coefficient measures the relationship between two variables, not classification performance.",
+      "Mean Squared Error is used for regression models, not classification.",
+      "The Coefficient of Determination is used to assess the goodness of fit in regression models."
+    ],
+    "category": "Data & AI",
+    "difficulty": "medium",
+    "id": "ita-055"
+  },
+  {
+    "question_it": "Quale algoritmo è comunemente utilizzato per il clustering gerarchico?",
+    "question_en": "Which algorithm is commonly used for hierarchical clustering?",
+    "options": [
+      {
+        "text_it": "Agglomerativo",
+        "text_en": "Agglomerative"
+      },
+      {
+        "text_it": "K-Means",
+        "text_en": "K-Means"
+      },
+      {
+        "text_it": "DBSCAN",
+        "text_en": "DBSCAN"
+      },
+      {
+        "text_it": "Gaussian Mixture Model",
+        "text_en": "Gaussian Mixture Model"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'algoritmo **Agglomerativo** è un metodo di clustering gerarchico che costruisce cluster unendo progressivamente i punti più vicini.",
+    "explanation_en": "The **Agglomerative** algorithm is a hierarchical clustering method that builds clusters by progressively merging the nearest points.",
+    "motivation_it": "Il clustering gerarchico è utile per identificare strutture di dati complesse e relazioni tra punti.",
+    "motivation_en": "Hierarchical clustering is useful for identifying complex data structures and relationships between points.",
+    "wrong_explanations_it": [
+      "",
+      "K-Means è un algoritmo di clustering partitivo, non gerarchico.",
+      "DBSCAN è un algoritmo di clustering basato sulla densità, non gerarchico.",
+      "Gaussian Mixture Model è un modello probabilistico, non un algoritmo di clustering gerarchico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "K-Means is a partitional clustering algorithm, not hierarchical.",
+      "DBSCAN is a density-based clustering algorithm, not hierarchical.",
+      "Gaussian Mixture Model is a probabilistic model, not a hierarchical clustering algorithm."
+    ],
+    "category": "Data & AI",
+    "difficulty": "medium",
+    "id": "ita-056"
+  },
+  {
+    "question_it": "Quale tecnica di apprendimento automatico è più efficace per identificare anomalie in grandi dataset non etichettati?",
+    "question_en": "Which machine learning technique is most effective for identifying anomalies in large unlabeled datasets?",
+    "options": [
+      {
+        "text_it": "Autoencoder",
+        "text_en": "Autoencoder"
+      },
+      {
+        "text_it": "SVM (Support Vector Machine)",
+        "text_en": "SVM (Support Vector Machine)"
+      },
+      {
+        "text_it": "Regressione logistica",
+        "text_en": "Logistic regression"
+      },
+      {
+        "text_it": "K-means clustering",
+        "text_en": "K-means clustering"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Gli **autoencoder** sono particolarmente efficaci per l'identificazione di anomalie in dataset non etichettati, poiché imparano a ricostruire i dati normali e identificano come anomalie i dati che non possono essere ricostruiti accuratamente.",
+    "explanation_en": "**Autoencoders** are particularly effective for identifying anomalies in unlabeled datasets, as they learn to reconstruct normal data and flag data that cannot be accurately reconstructed as anomalies.",
+    "motivation_it": "L'identificazione delle anomalie è cruciale in settori come la sicurezza informatica e il monitoraggio delle reti.",
+    "motivation_en": "Anomaly detection is crucial in fields such as cybersecurity and network monitoring.",
+    "wrong_explanations_it": [
+      "",
+      "Le SVM sono più adatte per problemi di classificazione supervisionata.",
+      "La regressione logistica è utilizzata per problemi di classificazione binaria.",
+      "K-means è utile per il clustering ma non per l'identificazione di anomalie."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "SVMs are better suited for supervised classification problems.",
+      "Logistic regression is used for binary classification problems.",
+      "K-means is useful for clustering but not for anomaly detection."
+    ],
+    "category": "Data & AI",
+    "difficulty": "hard",
+    "id": "ita-057"
+  },
+  {
+    "question_it": "Quale approccio è più adatto per ridurre il sovradimensionamento (overfitting) in un modello di deep learning?",
+    "question_en": "Which approach is most suitable for reducing overfitting in a deep learning model?",
+    "options": [
+      {
+        "text_it": "Dropout",
+        "text_en": "Dropout"
+      },
+      {
+        "text_it": "Aumento dei dati (Data augmentation)",
+        "text_en": "Data augmentation"
+      },
+      {
+        "text_it": "Aggiunta di più livelli nascosti",
+        "text_en": "Adding more hidden layers"
+      },
+      {
+        "text_it": "Riduzione del tasso di apprendimento",
+        "text_en": "Reducing the learning rate"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **dropout** è una tecnica efficace per ridurre il sovradimensionamento, poiché disattiva casualmente alcuni neuroni durante l'allenamento, impedendo al modello di diventare troppo dipendente da specifici neuroni.",
+    "explanation_en": "**Dropout** is an effective technique for reducing overfitting, as it randomly deactivates some neurons during training, preventing the model from becoming overly reliant on specific neurons.",
+    "motivation_it": "Il sovradimensionamento è un problema comune nei modelli di deep learning, che può compromettere le prestazioni su dati nuovi.",
+    "motivation_en": "Overfitting is a common issue in deep learning models that can compromise performance on new data.",
+    "wrong_explanations_it": [
+      "",
+      "L'aumento dei dati aiuta ma non è specificamente progettato per il sovradimensionamento.",
+      "Aggiungere più livelli nascosti può aumentare il rischio di sovradimensionamento.",
+      "Ridurre il tasso di apprendimento influisce sulla convergenza ma non direttamente sul sovradimensionamento."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Data augmentation helps but is not specifically designed for overfitting.",
+      "Adding more hidden layers can increase the risk of overfitting.",
+      "Reducing the learning rate affects convergence but not directly overfitting."
+    ],
+    "category": "Data & AI",
+    "difficulty": "hard",
+    "id": "ita-058"
+  },
+  {
+    "question_it": "Quale termine descrive l'abilità di un sistema cloud di aumentare o diminuire le risorse automaticamente?",
+    "question_en": "Which term describes a cloud system's ability to automatically scale resources up or down?",
+    "options": [
+      {
+        "text_it": "Scalabilità automatica",
+        "text_en": "Autoscaling"
+      },
+      {
+        "text_it": "Bilanciamento del carico",
+        "text_en": "Load balancing"
+      },
+      {
+        "text_it": "Replica geografica",
+        "text_en": "Georeplication"
+      },
+      {
+        "text_it": "Virtualizzazione",
+        "text_en": "Virtualization"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **scalabilità automatica** (Autoscaling) è una funzionalità dei sistemi cloud che aggiunge o rimuove risorse (es: server) in base alla domanda. *Bilanciamento del carico* distribuisce richieste tra server.",
+    "explanation_en": "**Autoscaling** is a cloud feature that adds or removes resources (e.g., servers) based on demand. *Load balancing* distributes requests across servers.",
+    "motivation_it": "La scalabilità automatica è essenziale per ottimizzare i costi e le prestazioni nel cloud.",
+    "motivation_en": "Autoscaling is crucial for optimizing costs and performance in the cloud.",
+    "wrong_explanations_it": [
+      "",
+      "Il bilanciamento del carico distribuisce richieste ma non scala risorse.",
+      "La replica geografica copia dati in più regioni, ma non scala risorse.",
+      "La virtualizzazione crea macchine virtuali, ma non scala automaticamente."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Load balancing distributes requests but does not scale resources.",
+      "Georeplication copies data to multiple regions but does not scale resources.",
+      "Virtualization creates virtual machines but does not scale automatically."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "easy",
+    "id": "ita-059"
+  },
+  {
+    "question_it": "Quale servizio cloud è più adatto per archiviare grandi quantità di dati non strutturati?",
+    "question_en": "Which cloud service is best suited for storing large amounts of unstructured data?",
+    "options": [
+      {
+        "text_it": "Archiviazione oggetti",
+        "text_en": "Object storage"
+      },
+      {
+        "text_it": "Database relazionale",
+        "text_en": "Relational database"
+      },
+      {
+        "text_it": "Block storage",
+        "text_en": "Block storage"
+      },
+      {
+        "text_it": "Cache in memoria",
+        "text_en": "In-memory cache"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**archiviazione oggetti** (es: Amazon S3) è ottimizzata per dati non strutturati come immagini, video e log. *Database relazionali* sono per dati strutturati.",
+    "explanation_en": "**Object storage** (e.g., Amazon S3) is optimized for unstructured data like images, videos, and logs. *Relational databases* are for structured data.",
+    "motivation_it": "La scelta del tipo di archiviazione è fondamentale per efficienza e costi nel cloud.",
+    "motivation_en": "Choosing the right storage type is critical for efficiency and cost in the cloud.",
+    "wrong_explanations_it": [
+      "",
+      "I database relazionali sono progettati per dati strutturati, non per file.",
+      "Block storage è utilizzato per dischi virtuali, non per dati non strutturati.",
+      "La cache in memoria è temporanea e non adatta per archiviazione a lungo termine."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Relational databases are designed for structured data, not files.",
+      "Block storage is used for virtual disks, not unstructured data.",
+      "In-memory cache is temporary and not suited for long-term storage."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "easy",
+    "id": "ita-060"
+  },
+  {
+    "question_it": "Quale delle seguenti tecnologie è utilizzata principalmente per il bilanciamento del carico in un ambiente cloud?",
+    "question_en": "Which of the following technologies is primarily used for load balancing in a cloud environment?",
+    "options": [
+      {
+        "text_it": "NGINX",
+        "text_en": "NGINX"
+      },
+      {
+        "text_it": "Kafka",
+        "text_en": "Kafka"
+      },
+      {
+        "text_it": "Prometheus",
+        "text_en": "Prometheus"
+      },
+      {
+        "text_it": "Elasticsearch",
+        "text_en": "Elasticsearch"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**NGINX** è un server web e reverse proxy utilizzato per il **bilanciamento del carico**. Kafka è per lo streaming di dati, Prometheus per il monitoraggio e Elasticsearch per la ricerca.",
+    "explanation_en": "**NGINX** is a web server and reverse proxy used for **load balancing**. Kafka is for data streaming, Prometheus for monitoring, and Elasticsearch for search.",
+    "motivation_it": "Il bilanciamento del carico è essenziale per garantire disponibilità e scalabilità nei sistemi cloud.",
+    "motivation_en": "Load balancing is essential for ensuring availability and scalability in cloud systems.",
+    "wrong_explanations_it": [
+      "",
+      "Kafka è utilizzato per lo streaming di dati in tempo reale.",
+      "Prometheus è utilizzato per il monitoraggio delle metriche.",
+      "Elasticsearch è utilizzato per la ricerca e l'analisi dei dati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Kafka is used for real-time data streaming.",
+      "Prometheus is used for monitoring metrics.",
+      "Elasticsearch is used for search and data analysis."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "medium",
+    "id": "ita-061"
+  },
+  {
+    "question_it": "Quale delle seguenti è una caratteristica principale di un'architettura serverless?",
+    "question_en": "Which of the following is a key characteristic of a serverless architecture?",
+    "options": [
+      {
+        "text_it": "Scalabilità automatica",
+        "text_en": "Automatic scaling"
+      },
+      {
+        "text_it": "Gestione manuale dei server",
+        "text_en": "Manual server management"
+      },
+      {
+        "text_it": "Allocazione fissa delle risorse",
+        "text_en": "Fixed resource allocation"
+      },
+      {
+        "text_it": "Migrazione continua dei dati",
+        "text_en": "Continuous data migration"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**architettura serverless** offre **scalabilità automatica**, eliminando la necessità di gestire manualmente i server o allocare risorse fisse.",
+    "explanation_en": "**Serverless architecture** provides **automatic scaling**, eliminating the need for manual server management or fixed resource allocation.",
+    "motivation_it": "La serverless è una tecnologia chiave per ridurre i costi operativi e migliorare l'efficienza.",
+    "motivation_en": "Serverless is a key technology for reducing operational costs and improving efficiency.",
+    "wrong_explanations_it": [
+      "",
+      "La gestione manuale dei server contraddice il concetto di serverless.",
+      "L'allocazione fissa delle risorse non è tipica di un'architettura serverless.",
+      "La migrazione continua dei dati non è una caratteristica principale della serverless."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Manual server management contradicts the concept of serverless.",
+      "Fixed resource allocation is not typical of serverless architecture.",
+      "Continuous data migration is not a key feature of serverless."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "medium",
+    "id": "ita-062"
+  },
+  {
+    "question_it": "Quale dei seguenti servizi AWS è utilizzato per la gestione di container?",
+    "question_en": "Which of the following AWS services is used for container management?",
+    "options": [
+      {
+        "text_it": "Amazon ECS",
+        "text_en": "Amazon ECS"
+      },
+      {
+        "text_it": "Amazon S3",
+        "text_en": "Amazon S3"
+      },
+      {
+        "text_it": "Amazon RDS",
+        "text_en": "Amazon RDS"
+      },
+      {
+        "text_it": "Amazon Redshift",
+        "text_en": "Amazon Redshift"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Amazon ECS** (Elastic Container Service) è un servizio AWS progettato per la **gestione di container**. S3 è per lo storage, RDS per i database relazionali e Redshift per l'analisi dei dati.",
+    "explanation_en": "**Amazon ECS** (Elastic Container Service) is an AWS service designed for **container management**. S3 is for storage, RDS for relational databases, and Redshift for data analytics.",
+    "motivation_it": "La gestione dei container è fondamentale per le moderne architetture cloud.",
+    "motivation_en": "Container management is essential for modern cloud architectures.",
+    "wrong_explanations_it": [
+      "",
+      "Amazon S3 è utilizzato per lo storage di oggetti.",
+      "Amazon RDS è utilizzato per i database relazionali.",
+      "Amazon Redshift è utilizzato per l'analisi dei dati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Amazon S3 is used for object storage.",
+      "Amazon RDS is used for relational databases.",
+      "Amazon Redshift is used for data analytics."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "medium",
+    "id": "ita-063"
+  },
+  {
+    "question_it": "Quale strategia di migrazione cloud è più adatta per applicazioni legacy che richiedono modifiche minime ma devono essere eseguite rapidamente?",
+    "question_en": "Which cloud migration strategy is most suitable for legacy applications that require minimal changes but need to be executed quickly?",
+    "options": [
+      {
+        "text_it": "Rehosting (Lift and Shift)",
+        "text_en": "Rehosting (Lift and Shift)"
+      },
+      {
+        "text_it": "Refactoring",
+        "text_en": "Refactoring"
+      },
+      {
+        "text_it": "Replatforming",
+        "text_en": "Replatforming"
+      },
+      {
+        "text_it": "Repurchasing",
+        "text_en": "Repurchasing"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Rehosting** (Lift and Shift) è ideale per applicazioni legacy che necessitano di migrazioni rapide con modifiche minime. **Refactoring** e **Replatforming** richiedono maggiori modifiche, mentre **Repurchasing** implica l'adozione di nuove soluzioni.",
+    "explanation_en": "**Rehosting** (Lift and Shift) is ideal for legacy applications requiring quick migrations with minimal changes. **Refactoring** and **Replatforming** require more changes, while **Repurchasing** involves adopting new solutions.",
+    "motivation_it": "La scelta della strategia di migrazione è cruciale per garantire continuità operativa e costi contenuti.",
+    "motivation_en": "Choosing the right migration strategy is crucial to ensure operational continuity and cost efficiency.",
+    "wrong_explanations_it": [
+      "",
+      "Refactoring implica una completa riscrittura del codice per sfruttare le funzionalità cloud.",
+      "Replatforming richiede modifiche significative per ottimizzare l'applicazione per il cloud.",
+      "Repurchasing sostituisce l'applicazione con una soluzione SaaS completamente nuova."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Refactoring involves a complete code rewrite to leverage cloud capabilities.",
+      "Replatforming requires significant changes to optimize the application for the cloud.",
+      "Repurchasing replaces the application with a completely new SaaS solution."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "hard",
+    "id": "ita-064"
+  },
+  {
+    "question_it": "Quale tecnologia cloud è più adatta per garantire alta disponibilità e tolleranza ai guasti in un ambiente distribuito?",
+    "question_en": "Which cloud technology is most suitable for ensuring high availability and fault tolerance in a distributed environment?",
+    "options": [
+      {
+        "text_it": "Load Balancer distribuito",
+        "text_en": "Distributed Load Balancer"
+      },
+      {
+        "text_it": "Replica di database sincrona",
+        "text_en": "Synchronous Database Replication"
+      },
+      {
+        "text_it": "Archiviazione georidondante",
+        "text_en": "Geo-redundant Storage"
+      },
+      {
+        "text_it": "Monitoraggio delle prestazioni in tempo reale",
+        "text_en": "Real-time Performance Monitoring"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**archiviazione georidondante** garantisce alta disponibilità e tolleranza ai guasti replicando i dati in più regioni geografiche. Un **load balancer** migliora la distribuzione del carico, ma non garantisce tolleranza ai guasti. La **replica sincrona** è efficace ma limitata a un singolo database. Il **monitoraggio** è utile ma non risolve i guasti.",
+    "explanation_en": "**Geo-redundant storage** ensures high availability and fault tolerance by replicating data across multiple geographic regions. A **load balancer** improves load distribution but does not ensure fault tolerance. **Synchronous replication** is effective but limited to a single database. **Monitoring** is useful but does not resolve failures.",
+    "motivation_it": "La tolleranza ai guasti e la disponibilità sono critiche per i servizi cloud mission-critical.",
+    "motivation_en": "Fault tolerance and availability are critical for mission-critical cloud services.",
+    "wrong_explanations_it": [
+      "",
+      "Un Load Balancer distribuisce il carico ma non garantisce tolleranza ai guasti.",
+      "",
+      "Il monitoraggio delle prestazioni è utile ma non risolve i guasti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "A Load Balancer distributes load but does not ensure fault tolerance.",
+      "",
+      "Performance monitoring is useful but does not resolve failures."
+    ],
+    "category": "Cloud & Infrastructure",
+    "difficulty": "hard",
+    "id": "ita-065"
+  }
+]

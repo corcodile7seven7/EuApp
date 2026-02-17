@@ -53,6 +53,46 @@ export const SECTIONS = {
     weight: 0.15,
     color: '#DC2626',
   },
+  'temporal': {
+    id: 'temporal',
+    timePerQuestion: 60,
+    passScore: 13,
+    totalQuestions: 20,
+    weight: 0,
+    color: '#D97706',
+  },
+  'eu-institutions': {
+    id: 'eu-institutions',
+    timePerQuestion: 70,
+    passScore: 13,
+    totalQuestions: 20,
+    weight: 0,
+    color: '#6D28D9',
+  },
+  'acronyms': {
+    id: 'acronyms',
+    timePerQuestion: 45,
+    passScore: 13,
+    totalQuestions: 20,
+    weight: 0,
+    color: '#BE185D',
+  },
+  'situational': {
+    id: 'situational',
+    timePerQuestion: 90,
+    passScore: 13,
+    totalQuestions: 20,
+    weight: 0,
+    color: '#059669',
+  },
+  'it-advanced': {
+    id: 'it-advanced',
+    timePerQuestion: 60,
+    passScore: 13,
+    totalQuestions: 20,
+    weight: 0,
+    color: '#0891B2',
+  },
 };
 
 export function getSectionLabel(sectionId, t) {

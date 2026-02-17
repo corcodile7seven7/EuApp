@@ -27,7 +27,7 @@ export default function Dashboard() {
     // Find weakest available section
     let weakest = null;
     let lowestPct = Infinity;
-    ['eu-knowledge', 'digital-skills'].forEach(id => {
+    ['eu-knowledge', 'digital-skills', 'verbal-reasoning', 'numerical-reasoning', 'abstract-reasoning', 'temporal', 'eu-institutions', 'acronyms', 'situational', 'it-advanced'].forEach(id => {
       const s = scores[id];
       const pct = s.total > 0 ? s.correct / s.total : 0;
       if (pct < lowestPct) {
@@ -48,6 +48,11 @@ export default function Dashboard() {
     { id: 'numerical-reasoning', weight: 0 },
     { id: 'abstract-reasoning', weight: 0 },
     { id: 'eufte', weight: 0.15 },
+    { id: 'temporal', weight: 0 },
+    { id: 'eu-institutions', weight: 0 },
+    { id: 'acronyms', weight: 0 },
+    { id: 'situational', weight: 0 },
+    { id: 'it-advanced', weight: 0 },
   ];
 
   return (

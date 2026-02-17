@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "acr-001",
+    "question_it": "Quale organismo con sede a Francoforte è responsabile della politica monetaria dell'area euro e della supervisione bancaria?",
+    "question_en": "Which body headquartered in Frankfurt is responsible for the eurozone's monetary policy and banking supervision?",
+    "options": [
+      {
+        "text_it": "BCE - Banca Centrale Europea",
+        "text_en": "ECB - European Central Bank"
+      },
+      {
+        "text_it": "BEI - Banca Europea per gli Investimenti",
+        "text_en": "EIB - European Investment Bank"
+      },
+      {
+        "text_it": "ABE - Autorità Bancaria Europea",
+        "text_en": "EBA - European Banking Authority"
+      },
+      {
+        "text_it": "MES - Meccanismo Europeo di Stabilità",
+        "text_en": "ESM - European Stability Mechanism"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **BCE** ha sede a Francoforte e gestisce la politica monetaria dell'eurozona dal 1999.",
+    "explanation_en": "The **ECB** is headquartered in Frankfurt and has managed eurozone monetary policy since 1999.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "La BCE definisce i tassi di interesse e supervisiona le banche più grandi attraverso il Meccanismo di vigilanza unico.",
+    "motivation_en": "The ECB sets interest rates and supervises the largest banks through the Single Supervisory Mechanism.",
+    "wrong_explanations_it": [
+      "",
+      "La BEI ha sede a Lussemburgo e finanzia progetti di investimento, non gestisce la politica monetaria.",
+      "L'ABE ha sede a Parigi e si occupa di regolamentazione bancaria, non di politica monetaria.",
+      "Il MES ha sede a Lussemburgo ed è un fondo salva-Stati, non gestisce la politica monetaria."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The EIB is based in Luxembourg and finances investment projects, not monetary policy.",
+      "The EBA is based in Paris and deals with banking regulation, not monetary policy.",
+      "The ESM is based in Luxembourg and is a bailout fund, not a monetary policy manager."
+    ]
+  },
+  {
+    "id": "acr-002",
+    "question_it": "Quale agenzia con sede a L'Aia coordina le attività di polizia tra gli Stati membri dell'UE?",
+    "question_en": "Which agency based in The Hague coordinates police activities among EU Member States?",
+    "options": [
+      {
+        "text_it": "FRONTEX - Agenzia europea della guardia di frontiera",
+        "text_en": "FRONTEX - European Border and Coast Guard Agency"
+      },
+      {
+        "text_it": "EUROPOL - Ufficio europeo di polizia",
+        "text_en": "EUROPOL - European Union Agency for Law Enforcement Cooperation"
+      },
+      {
+        "text_it": "EUROJUST - Unità di cooperazione giudiziaria",
+        "text_en": "EUROJUST - European Union Agency for Criminal Justice Cooperation"
+      },
+      {
+        "text_it": "OLAF - Ufficio europeo per la lotta antifrode",
+        "text_en": "OLAF - European Anti-Fraud Office"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**EUROPOL** ha sede a L'Aia e supporta la cooperazione tra le forze di polizia degli Stati membri nella lotta alla criminalità transnazionale.",
+    "explanation_en": "**EUROPOL** is headquartered in The Hague and supports cooperation between Member States' police forces in fighting transnational crime.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "Europol non ha poteri esecutivi propri ma facilita lo scambio di informazioni e analisi criminali.",
+    "motivation_en": "Europol has no executive powers of its own but facilitates the exchange of information and criminal analysis.",
+    "wrong_explanations_it": [
+      "FRONTEX ha sede a Varsavia e si occupa di frontiere esterne, non di coordinamento di polizia.",
+      "",
+      "EUROJUST ha sede a L'Aia ma si occupa di cooperazione giudiziaria, non di polizia.",
+      "OLAF ha sede a Bruxelles e indaga su frodi al bilancio UE, non coordina la polizia."
+    ],
+    "wrong_explanations_en": [
+      "FRONTEX is based in Warsaw and deals with external borders, not police coordination.",
+      "",
+      "EUROJUST is based in The Hague but deals with judicial cooperation, not police.",
+      "OLAF is based in Brussels and investigates fraud against the EU budget, not police coordination."
+    ]
+  },
+  {
+    "id": "acr-003",
+    "question_it": "Quale organismo dell'UE, con sede a Lussemburgo, è responsabile della verifica dei conti e della corretta gestione finanziaria dell'Unione?",
+    "question_en": "Which EU body, based in Luxembourg, is responsible for auditing the accounts and the sound financial management of the Union?",
+    "options": [
+      {
+        "text_it": "CGUE - Corte di Giustizia dell'UE",
+        "text_en": "CJEU - Court of Justice of the EU"
+      },
+      {
+        "text_it": "CCE - Corte dei Conti Europea",
+        "text_en": "ECA - European Court of Auditors"
+      },
+      {
+        "text_it": "BEI - Banca Europea per gli Investimenti",
+        "text_en": "EIB - European Investment Bank"
+      },
+      {
+        "text_it": "OLAF - Ufficio europeo per la lotta antifrode",
+        "text_en": "OLAF - European Anti-Fraud Office"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Corte dei Conti Europea** (CCE/ECA) con sede a Lussemburgo verifica le entrate e le uscite del bilancio UE.",
+    "explanation_en": "The **European Court of Auditors** (ECA) based in Luxembourg audits the revenue and expenditure of the EU budget.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "La CCE pubblica una relazione annuale e relazioni speciali su programmi specifici dell'UE.",
+    "motivation_en": "The ECA publishes an annual report and special reports on specific EU programmes.",
+    "wrong_explanations_it": [
+      "La CGUE si occupa di interpretazione del diritto UE, non di audit finanziario.",
+      "",
+      "La BEI finanzia investimenti, non verifica i conti.",
+      "OLAF indaga sulle frodi, non è l'auditor ufficiale dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "The CJEU deals with interpreting EU law, not financial auditing.",
+      "",
+      "The EIB finances investments, it does not audit accounts.",
+      "OLAF investigates fraud, it is not the official EU auditor."
+    ]
+  },
+  {
+    "id": "acr-004",
+    "question_it": "Quale programma UE finanzia la mobilità studentesca, la formazione e gli scambi giovanili dal 2014?",
+    "question_en": "Which EU programme funds student mobility, training, and youth exchanges since 2014?",
+    "options": [
+      {
+        "text_it": "HORIZON - Programma quadro per la ricerca",
+        "text_en": "HORIZON - Framework Programme for Research"
+      },
+      {
+        "text_it": "ERASMUS+ - Programma per l'istruzione e la formazione",
+        "text_en": "ERASMUS+ - Programme for Education and Training"
+      },
+      {
+        "text_it": "ESF - Fondo Sociale Europeo",
+        "text_en": "ESF - European Social Fund"
+      },
+      {
+        "text_it": "LIFE - Programma per l'ambiente",
+        "text_en": "LIFE - Programme for the Environment"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**Erasmus+** dal 2014 integra tutti i programmi UE di istruzione, formazione, gioventù e sport.",
+    "explanation_en": "**Erasmus+** since 2014 integrates all EU programmes for education, training, youth and sport.",
+    "category": "EU Programs",
+    "difficulty": "easy",
+    "motivation_it": "Erasmus+ ha un budget di circa 26 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "Erasmus+ has a budget of approximately 26 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "HORIZON finanzia la ricerca e l'innovazione, non la mobilità studentesca.",
+      "",
+      "L'ESF finanzia occupazione e inclusione sociale, non scambi studenteschi.",
+      "LIFE finanzia progetti ambientali e climatici."
+    ],
+    "wrong_explanations_en": [
+      "HORIZON funds research and innovation, not student mobility.",
+      "",
+      "The ESF funds employment and social inclusion, not student exchanges.",
+      "LIFE funds environmental and climate projects."
+    ]
+  },
+  {
+    "id": "acr-005",
+    "question_it": "Quale politica comune dell'UE regola la produzione agricola, i sussidi agli agricoltori e lo sviluppo rurale?",
+    "question_en": "Which common EU policy regulates agricultural production, farmer subsidies, and rural development?",
+    "options": [
+      {
+        "text_it": "PAC - Politica Agricola Comune",
+        "text_en": "CAP - Common Agricultural Policy"
+      },
+      {
+        "text_it": "PCP - Politica Comune della Pesca",
+        "text_en": "CFP - Common Fisheries Policy"
+      },
+      {
+        "text_it": "PSC - Patto di Stabilità e Crescita",
+        "text_en": "SGP - Stability and Growth Pact"
+      },
+      {
+        "text_it": "UEM - Unione Economica e Monetaria",
+        "text_en": "EMU - Economic and Monetary Union"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **PAC** è una delle politiche più antiche dell'UE e rappresenta circa un terzo del bilancio UE.",
+    "explanation_en": "The **CAP** is one of the EU's oldest policies and accounts for about one third of the EU budget.",
+    "category": "EU Policies",
+    "difficulty": "easy",
+    "motivation_it": "La PAC si basa su due pilastri: pagamenti diretti/misure di mercato e sviluppo rurale.",
+    "motivation_en": "The CAP is based on two pillars: direct payments/market measures and rural development.",
+    "wrong_explanations_it": [
+      "",
+      "La PCP riguarda la pesca, non l'agricoltura.",
+      "Il PSC disciplina i bilanci nazionali, non l'agricoltura.",
+      "L'UEM riguarda la moneta unica e la politica economica, non l'agricoltura."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The CFP concerns fisheries, not agriculture.",
+      "The SGP governs national budgets, not agriculture.",
+      "EMU concerns the single currency and economic policy, not agriculture."
+    ]
+  },
+  {
+    "id": "acr-006",
+    "question_it": "Quale agenzia con sede a Parma valuta i rischi legati alla sicurezza alimentare nell'UE?",
+    "question_en": "Which agency based in Parma assesses food safety risks in the EU?",
+    "options": [
+      {
+        "text_it": "EMA - Agenzia Europea per i Medicinali",
+        "text_en": "EMA - European Medicines Agency"
+      },
+      {
+        "text_it": "EFSA - Autorità Europea per la Sicurezza Alimentare",
+        "text_en": "EFSA - European Food Safety Authority"
+      },
+      {
+        "text_it": "ECHA - Agenzia Europea per le Sostanze Chimiche",
+        "text_en": "ECHA - European Chemicals Agency"
+      },
+      {
+        "text_it": "ECDC - Centro Europeo per la Prevenzione delle Malattie",
+        "text_en": "ECDC - European Centre for Disease Prevention"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**EFSA** ha sede a Parma e fornisce consulenza scientifica indipendente sui rischi legati alla catena alimentare.",
+    "explanation_en": "**EFSA** is based in Parma and provides independent scientific advice on risks related to the food chain.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "EFSA fu creata nel 2002 in risposta a crisi alimentari come la BSE (mucca pazza).",
+    "motivation_en": "EFSA was created in 2002 in response to food crises such as BSE (mad cow disease).",
+    "wrong_explanations_it": [
+      "L'EMA ha sede ad Amsterdam e si occupa di farmaci, non di sicurezza alimentare.",
+      "",
+      "L'ECHA ha sede a Helsinki e si occupa di sostanze chimiche.",
+      "L'ECDC ha sede a Stoccolma e si occupa di malattie infettive."
+    ],
+    "wrong_explanations_en": [
+      "EMA is based in Amsterdam and deals with medicines, not food safety.",
+      "",
+      "ECHA is based in Helsinki and deals with chemical substances.",
+      "ECDC is based in Stockholm and deals with infectious diseases."
+    ]
+  },
+  {
+    "id": "acr-007",
+    "question_it": "Quale organo consultivo dell'UE rappresenta le autorità regionali e locali degli Stati membri?",
+    "question_en": "Which EU advisory body represents the regional and local authorities of Member States?",
+    "options": [
+      {
+        "text_it": "CESE - Comitato Economico e Sociale Europeo",
+        "text_en": "EESC - European Economic and Social Committee"
+      },
+      {
+        "text_it": "CdR - Comitato delle Regioni",
+        "text_en": "CoR - Committee of the Regions"
+      },
+      {
+        "text_it": "COREPER - Comitato dei Rappresentanti Permanenti",
+        "text_en": "COREPER - Committee of Permanent Representatives"
+      },
+      {
+        "text_it": "PE - Parlamento Europeo",
+        "text_en": "EP - European Parliament"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Comitato delle Regioni** (CdR) è l'organo consultivo che rappresenta le autorità regionali e locali nell'UE.",
+    "explanation_en": "The **Committee of the Regions** (CoR) is the advisory body representing regional and local authorities in the EU.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "Il CdR fu istituito dal Trattato di Maastricht nel 1994 e deve essere consultato su questioni che riguardano le regioni.",
+    "motivation_en": "The CoR was established by the Maastricht Treaty in 1994 and must be consulted on matters affecting regions.",
+    "wrong_explanations_it": [
+      "Il CESE rappresenta la società civile organizzata, non le autorità regionali.",
+      "",
+      "Il COREPER prepara i lavori del Consiglio dell'UE, non rappresenta le regioni.",
+      "Il PE rappresenta i cittadini europei direttamente, non le autorità locali."
+    ],
+    "wrong_explanations_en": [
+      "The EESC represents organised civil society, not regional authorities.",
+      "",
+      "COREPER prepares the work of the Council of the EU, it does not represent regions.",
+      "The EP directly represents European citizens, not local authorities."
+    ]
+  },
+  {
+    "id": "acr-008",
+    "question_it": "Quale agenzia UE con sede ad Atene (Grecia) è responsabile della cybersicurezza europea?",
+    "question_en": "Which EU agency based in Athens (Greece) is responsible for European cybersecurity?",
+    "options": [
+      {
+        "text_it": "ENISA - Agenzia dell'UE per la Cybersicurezza",
+        "text_en": "ENISA - EU Agency for Cybersecurity"
+      },
+      {
+        "text_it": "CERT-EU - Squadra di risposta alle emergenze informatiche",
+        "text_en": "CERT-EU - Computer Emergency Response Team"
+      },
+      {
+        "text_it": "EUROPOL - Ufficio europeo di polizia",
+        "text_en": "EUROPOL - European Police Office"
+      },
+      {
+        "text_it": "ERA - Agenzia dell'UE per le Ferrovie",
+        "text_en": "ERA - EU Agency for Railways"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**ENISA** ha sede ad Atene e supporta gli Stati membri nella prevenzione e gestione degli incidenti informatici.",
+    "explanation_en": "**ENISA** is headquartered in Athens and supports Member States in preventing and managing cyber incidents.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "Il ruolo di ENISA è stato rafforzato dal Regolamento sulla Cybersicurezza (2019) e dalla direttiva NIS2.",
+    "motivation_en": "ENISA's role was strengthened by the Cybersecurity Act (2019) and the NIS2 Directive.",
+    "wrong_explanations_it": [
+      "",
+      "CERT-EU è la squadra di emergenza informatica delle istituzioni UE, non un'agenzia indipendente.",
+      "EUROPOL si occupa di criminalità transnazionale, non specificamente di cybersicurezza.",
+      "ERA si occupa di ferrovie, non di cybersicurezza."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "CERT-EU is the computer emergency team for EU institutions, not an independent agency.",
+      "EUROPOL deals with transnational crime, not specifically cybersecurity.",
+      "ERA deals with railways, not cybersecurity."
+    ]
+  },
+  {
+    "id": "acr-009",
+    "question_it": "Quale regolamento UE disciplina la protezione dei dati personali ed è applicabile direttamente in tutti gli Stati membri dal 2018?",
+    "question_en": "Which EU regulation governs personal data protection and has been directly applicable in all Member States since 2018?",
+    "options": [
+      {
+        "text_it": "NIS2 - Direttiva sulla sicurezza delle reti",
+        "text_en": "NIS2 - Network and Information Security Directive"
+      },
+      {
+        "text_it": "eIDAS - Regolamento sull'identità digitale",
+        "text_en": "eIDAS - Electronic Identification Regulation"
+      },
+      {
+        "text_it": "GDPR - Regolamento Generale sulla Protezione dei Dati",
+        "text_en": "GDPR - General Data Protection Regulation"
+      },
+      {
+        "text_it": "DSA - Regolamento sui Servizi Digitali",
+        "text_en": "DSA - Digital Services Act"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **GDPR** (Regolamento 2016/679) è applicabile dal 25 maggio 2018 e disciplina il trattamento dei dati personali nell'UE.",
+    "explanation_en": "The **GDPR** (Regulation 2016/679) has been applicable since 25 May 2018 and governs the processing of personal data in the EU.",
+    "category": "EU Legal",
+    "difficulty": "easy",
+    "motivation_it": "Il GDPR ha introdotto diritti come la portabilità dei dati, il diritto all'oblio e sanzioni fino al 4% del fatturato globale.",
+    "motivation_en": "The GDPR introduced rights such as data portability, the right to be forgotten, and fines of up to 4% of global turnover.",
+    "wrong_explanations_it": [
+      "NIS2 riguarda la sicurezza delle reti e dei sistemi informativi, non la protezione dei dati personali.",
+      "eIDAS riguarda l'identificazione elettronica e i servizi fiduciari.",
+      "",
+      "Il DSA regola i servizi digitali e le piattaforme online, non la protezione dati."
+    ],
+    "wrong_explanations_en": [
+      "NIS2 concerns network and information systems security, not personal data protection.",
+      "eIDAS concerns electronic identification and trust services.",
+      "",
+      "The DSA regulates digital services and online platforms, not data protection."
+    ]
+  },
+  {
+    "id": "acr-010",
+    "question_it": "Quale fondo strutturale dell'UE finanzia progetti per ridurre le disparità regionali e promuovere lo sviluppo delle regioni meno sviluppate?",
+    "question_en": "Which EU structural fund finances projects to reduce regional disparities and promote development in less developed regions?",
+    "options": [
+      {
+        "text_it": "ESF+ - Fondo Sociale Europeo Plus",
+        "text_en": "ESF+ - European Social Fund Plus"
+      },
+      {
+        "text_it": "FESR - Fondo Europeo di Sviluppo Regionale",
+        "text_en": "ERDF - European Regional Development Fund"
+      },
+      {
+        "text_it": "FC - Fondo di Coesione",
+        "text_en": "CF - Cohesion Fund"
+      },
+      {
+        "text_it": "FEASR - Fondo Europeo Agricolo per lo Sviluppo Rurale",
+        "text_en": "EAFRD - European Agricultural Fund for Rural Development"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **FESR** (ERDF) è il principale strumento per ridurre le disparità regionali, finanziando infrastrutture, innovazione e PMI.",
+    "explanation_en": "The **ERDF** is the main instrument for reducing regional disparities, funding infrastructure, innovation and SMEs.",
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "motivation_it": "Il FESR si concentra su innovazione, digitalizzazione, competitività delle PMI e transizione verde.",
+    "motivation_en": "The ERDF focuses on innovation, digitalisation, SME competitiveness and green transition.",
+    "wrong_explanations_it": [
+      "L'ESF+ finanzia occupazione, competenze e inclusione sociale, non sviluppo regionale in senso stretto.",
+      "",
+      "Il FC è destinato a paesi con RNL pro capite inferiore al 90% della media UE, non a tutte le regioni.",
+      "Il FEASR finanzia lo sviluppo rurale nell'ambito della PAC."
+    ],
+    "wrong_explanations_en": [
+      "ESF+ funds employment, skills and social inclusion, not regional development per se.",
+      "",
+      "The CF is for countries with GNI per capita below 90% of the EU average, not all regions.",
+      "The EAFRD funds rural development under the CAP."
+    ]
+  },
+  {
+    "id": "acr-011",
+    "question_it": "Quale procedura legislativa ordinaria dell'UE prevede la codecisione tra Parlamento europeo e Consiglio dell'UE?",
+    "question_en": "Which ordinary EU legislative procedure involves codecision between the European Parliament and the Council of the EU?",
+    "options": [
+      {
+        "text_it": "PLO - Procedura Legislativa Ordinaria",
+        "text_en": "OLP - Ordinary Legislative Procedure"
+      },
+      {
+        "text_it": "PLS - Procedura Legislativa Speciale",
+        "text_en": "SLP - Special Legislative Procedure"
+      },
+      {
+        "text_it": "VMQ - Voto a Maggioranza Qualificata",
+        "text_en": "QMV - Qualified Majority Voting"
+      },
+      {
+        "text_it": "PESC - Politica Estera e di Sicurezza Comune",
+        "text_en": "CFSP - Common Foreign and Security Policy"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **PLO** (ex codecisione) è la procedura legislativa più comune, in cui PE e Consiglio sono co-legislatori su un piede di parità.",
+    "explanation_en": "The **OLP** (formerly codecision) is the most common legislative procedure, where EP and Council are co-legislators on an equal footing.",
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "motivation_it": "Il Trattato di Lisbona ha esteso la PLO a circa 85 aree politiche.",
+    "motivation_en": "The Lisbon Treaty extended the OLP to approximately 85 policy areas.",
+    "wrong_explanations_it": [
+      "",
+      "La PLS prevede un ruolo predominante di una sola istituzione (consultazione o approvazione).",
+      "Il VMQ è un metodo di voto al Consiglio, non una procedura legislativa.",
+      "La PESC è una politica intergovernativa, non una procedura legislativa."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The SLP gives a predominant role to one institution (consultation or consent).",
+      "QMV is a voting method in the Council, not a legislative procedure.",
+      "CFSP is an intergovernmental policy, not a legislative procedure."
+    ]
+  },
+  {
+    "id": "acr-012",
+    "question_it": "Quale organo preparatorio del Consiglio dell'UE è composto dagli ambasciatori permanenti degli Stati membri?",
+    "question_en": "Which preparatory body of the Council of the EU is composed of the permanent ambassadors of Member States?",
+    "options": [
+      {
+        "text_it": "COREPER - Comitato dei Rappresentanti Permanenti",
+        "text_en": "COREPER - Committee of Permanent Representatives"
+      },
+      {
+        "text_it": "CPS - Comitato Politico e di Sicurezza",
+        "text_en": "PSC - Political and Security Committee"
+      },
+      {
+        "text_it": "ECOFIN - Consiglio Economia e Finanza",
+        "text_en": "ECOFIN - Economic and Financial Affairs Council"
+      },
+      {
+        "text_it": "CdR - Comitato delle Regioni",
+        "text_en": "CoR - Committee of the Regions"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **COREPER** prepara i lavori del Consiglio dell'UE. Esistono due formazioni: COREPER I (aggiunti) e COREPER II (ambasciatori).",
+    "explanation_en": "**COREPER** prepares the work of the Council of the EU. There are two formations: COREPER I (deputies) and COREPER II (ambassadors).",
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "motivation_it": "Il COREPER II tratta questioni politiche, economiche e istituzionali; il COREPER I questioni tecniche.",
+    "motivation_en": "COREPER II handles political, economic and institutional issues; COREPER I handles technical matters.",
+    "wrong_explanations_it": [
+      "",
+      "Il CPS si occupa specificamente di politica estera e di sicurezza.",
+      "ECOFIN è una formazione del Consiglio, non un organo preparatorio.",
+      "Il CdR è un organo consultivo sulle questioni regionali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The PSC specifically deals with foreign and security policy.",
+      "ECOFIN is a Council configuration, not a preparatory body.",
+      "The CoR is an advisory body on regional matters."
+    ]
+  },
+  {
+    "id": "acr-013",
+    "question_it": "Quale servizio diplomatico dell'UE, creato dal Trattato di Lisbona, assiste l'Alto Rappresentante per la politica estera?",
+    "question_en": "Which EU diplomatic service, created by the Lisbon Treaty, assists the High Representative for foreign policy?",
+    "options": [
+      {
+        "text_it": "SEAE - Servizio Europeo per l'Azione Esterna",
+        "text_en": "EEAS - European External Action Service"
+      },
+      {
+        "text_it": "PESC - Politica Estera e di Sicurezza Comune",
+        "text_en": "CFSP - Common Foreign and Security Policy"
+      },
+      {
+        "text_it": "PSDC - Politica di Sicurezza e Difesa Comune",
+        "text_en": "CSDP - Common Security and Defence Policy"
+      },
+      {
+        "text_it": "DG NEAR - Direzione Generale Vicinato",
+        "text_en": "DG NEAR - Directorate-General for Neighbourhood"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **SEAE** è il corpo diplomatico dell'UE, operativo dal 2011, con delegazioni in oltre 140 paesi.",
+    "explanation_en": "The **EEAS** is the EU's diplomatic corps, operational since 2011, with delegations in over 140 countries.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "Il SEAE combina personale della Commissione, del Consiglio e dei servizi diplomatici nazionali.",
+    "motivation_en": "The EEAS combines staff from the Commission, the Council and national diplomatic services.",
+    "wrong_explanations_it": [
+      "",
+      "La PESC è il quadro politico, non il servizio operativo.",
+      "La PSDC è la componente militare/civile della PESC, non il servizio diplomatico.",
+      "DG NEAR è una direzione della Commissione, non il servizio diplomatico dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "CFSP is the policy framework, not the operational service.",
+      "CSDP is the military/civilian component of CFSP, not the diplomatic service.",
+      "DG NEAR is a Commission directorate, not the EU diplomatic service."
+    ]
+  },
+  {
+    "id": "acr-014",
+    "question_it": "Quale ufficio dell'UE, parte della Commissione europea, indaga su frodi, corruzione e cattiva gestione che ledono il bilancio dell'Unione?",
+    "question_en": "Which EU office, part of the European Commission, investigates fraud, corruption, and mismanagement affecting the Union's budget?",
+    "options": [
+      {
+        "text_it": "EPPO - Procura Europea",
+        "text_en": "EPPO - European Public Prosecutor's Office"
+      },
+      {
+        "text_it": "OLAF - Ufficio Europeo per la Lotta Antifrode",
+        "text_en": "OLAF - European Anti-Fraud Office"
+      },
+      {
+        "text_it": "CCE - Corte dei Conti Europea",
+        "text_en": "ECA - European Court of Auditors"
+      },
+      {
+        "text_it": "Mediatore Europeo",
+        "text_en": "European Ombudsman"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**OLAF** conduce indagini amministrative su frodi e irregolarità che danneggiano gli interessi finanziari dell'UE.",
+    "explanation_en": "**OLAF** conducts administrative investigations into fraud and irregularities damaging the EU's financial interests.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "OLAF è operativamente indipendente ma fa parte della struttura della Commissione. Non ha poteri giudiziari.",
+    "motivation_en": "OLAF is operationally independent but part of the Commission structure. It has no judicial powers.",
+    "wrong_explanations_it": [
+      "L'EPPO è un organo giudiziario indipendente che può avviare procedimenti penali, non solo indagini amministrative.",
+      "",
+      "La CCE effettua audit finanziari ma non conduce indagini antifrode.",
+      "Il Mediatore europeo tratta reclami sulla cattiva amministrazione, non frodi finanziarie."
+    ],
+    "wrong_explanations_en": [
+      "EPPO is an independent judicial body that can initiate criminal proceedings, not just administrative investigations.",
+      "",
+      "The ECA performs financial audits but does not conduct anti-fraud investigations.",
+      "The European Ombudsman handles complaints about maladministration, not financial fraud."
+    ]
+  },
+  {
+    "id": "acr-015",
+    "question_it": "Quale agenzia con sede a Varsavia gestisce le frontiere esterne dell'UE e supporta le guardie di frontiera nazionali?",
+    "question_en": "Which agency based in Warsaw manages the EU's external borders and supports national border guards?",
+    "options": [
+      {
+        "text_it": "EUROPOL - Ufficio europeo di polizia",
+        "text_en": "EUROPOL - European Police Office"
+      },
+      {
+        "text_it": "EASO - Ufficio europeo di sostegno per l'asilo",
+        "text_en": "EASO - European Asylum Support Office"
+      },
+      {
+        "text_it": "FRONTEX - Agenzia europea della guardia di frontiera e costiera",
+        "text_en": "FRONTEX - European Border and Coast Guard Agency"
+      },
+      {
+        "text_it": "EUAA - Agenzia dell'UE per l'Asilo",
+        "text_en": "EUAA - EU Agency for Asylum"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "**FRONTEX** ha sede a Varsavia e coordina la gestione delle frontiere esterne dell'UE con un corpo permanente di guardie.",
+    "explanation_en": "**FRONTEX** is headquartered in Warsaw and coordinates EU external border management with a permanent corps of guards.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "Frontex dispone di un corpo permanente che raggiungerà 10.000 unità, con capacità di intervento rapido alle frontiere.",
+    "motivation_en": "Frontex has a standing corps that will reach 10,000 personnel, with rapid border intervention capability.",
+    "wrong_explanations_it": [
+      "EUROPOL si occupa di cooperazione di polizia, non di gestione delle frontiere.",
+      "EASO (ora EUAA) supporta i sistemi di asilo, non le frontiere.",
+      "",
+      "EUAA si occupa di asilo e protezione internazionale, non di frontiere fisiche."
+    ],
+    "wrong_explanations_en": [
+      "EUROPOL deals with police cooperation, not border management.",
+      "EASO (now EUAA) supports asylum systems, not borders.",
+      "",
+      "EUAA deals with asylum and international protection, not physical borders."
+    ]
+  },
+  {
+    "id": "acr-016",
+    "question_it": "Quale programma quadro dell'UE è il più grande al mondo per il finanziamento della ricerca e dell'innovazione?",
+    "question_en": "Which EU framework programme is the world's largest for funding research and innovation?",
+    "options": [
+      {
+        "text_it": "ERASMUS+ - Istruzione e formazione",
+        "text_en": "ERASMUS+ - Education and training"
+      },
+      {
+        "text_it": "HORIZON EUROPE - Ricerca e innovazione",
+        "text_en": "HORIZON EUROPE - Research and innovation"
+      },
+      {
+        "text_it": "LIFE - Ambiente e clima",
+        "text_en": "LIFE - Environment and climate"
+      },
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**Horizon Europe** (2021-2027) ha un budget di circa 95,5 miliardi di euro per ricerca e innovazione.",
+    "explanation_en": "**Horizon Europe** (2021-2027) has a budget of approximately 95.5 billion euros for research and innovation.",
+    "category": "EU Programs",
+    "difficulty": "easy",
+    "motivation_it": "Horizon Europe succede a Horizon 2020 e si articola in tre pilastri: scienza eccellente, sfide globali e innovazione aperta.",
+    "motivation_en": "Horizon Europe succeeds Horizon 2020 and is structured in three pillars: excellent science, global challenges and open innovation.",
+    "wrong_explanations_it": [
+      "Erasmus+ finanzia istruzione e mobilità, non ricerca scientifica.",
+      "",
+      "LIFE finanzia progetti ambientali con un budget molto più piccolo.",
+      "CEF finanzia infrastrutture di trasporto, energia e digitali."
+    ],
+    "wrong_explanations_en": [
+      "Erasmus+ funds education and mobility, not scientific research.",
+      "",
+      "LIFE funds environmental projects with a much smaller budget.",
+      "CEF funds transport, energy and digital infrastructure."
+    ]
+  },
+  {
+    "id": "acr-017",
+    "question_it": "Quale istituzione con sede a Lussemburgo ha il compito di garantire il rispetto del diritto nell'interpretazione e nell'applicazione dei trattati UE?",
+    "question_en": "Which institution based in Luxembourg has the task of ensuring that the law is observed in the interpretation and application of the EU Treaties?",
+    "options": [
+      {
+        "text_it": "CGUE - Corte di Giustizia dell'Unione Europea",
+        "text_en": "CJEU - Court of Justice of the European Union"
+      },
+      {
+        "text_it": "CCE - Corte dei Conti Europea",
+        "text_en": "ECA - European Court of Auditors"
+      },
+      {
+        "text_it": "CEDU - Corte Europea dei Diritti dell'Uomo",
+        "text_en": "ECHR - European Court of Human Rights"
+      },
+      {
+        "text_it": "TPI - Tribunale di Primo Grado",
+        "text_en": "GC - General Court"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **CGUE** comprende la Corte di Giustizia e il Tribunale, ed è la suprema autorità giudiziaria dell'UE.",
+    "explanation_en": "The **CJEU** comprises the Court of Justice and the General Court, and is the supreme judicial authority of the EU.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "La CGUE emette sentenze vincolanti e pronuncia rinvii pregiudiziali su richiesta dei tribunali nazionali.",
+    "motivation_en": "The CJEU issues binding judgments and gives preliminary rulings at the request of national courts.",
+    "wrong_explanations_it": [
+      "",
+      "La CCE si occupa di audit finanziario, non di interpretazione del diritto.",
+      "La CEDU è un organo del Consiglio d'Europa, non dell'UE.",
+      "Il TPI è parte della CGUE, non un'istituzione separata."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ECA deals with financial auditing, not legal interpretation.",
+      "The ECHR is a Council of Europe body, not an EU one.",
+      "The GC is part of the CJEU, not a separate institution."
+    ]
+  },
+  {
+    "id": "acr-018",
+    "question_it": "Quale quadro finanziario definisce il bilancio dell'UE per periodi di sette anni?",
+    "question_en": "Which financial framework defines the EU budget for seven-year periods?",
+    "options": [
+      {
+        "text_it": "QFP - Quadro Finanziario Pluriennale",
+        "text_en": "MFF - Multiannual Financial Framework"
+      },
+      {
+        "text_it": "PSC - Patto di Stabilità e Crescita",
+        "text_en": "SGP - Stability and Growth Pact"
+      },
+      {
+        "text_it": "PIL - Prodotto Interno Lordo",
+        "text_en": "GDP - Gross Domestic Product"
+      },
+      {
+        "text_it": "RNL - Reddito Nazionale Lordo",
+        "text_en": "GNI - Gross National Income"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **QFP** stabilisce i limiti massimi di spesa per categoria per un periodo di 7 anni. L'attuale QFP copre il 2021-2027.",
+    "explanation_en": "The **MFF** sets maximum spending limits by category for a 7-year period. The current MFF covers 2021-2027.",
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "motivation_it": "Il QFP richiede l'unanimità al Consiglio e l'approvazione del Parlamento europeo.",
+    "motivation_en": "The MFF requires unanimity in the Council and the consent of the European Parliament.",
+    "wrong_explanations_it": [
+      "",
+      "Il PSC disciplina i bilanci nazionali, non il bilancio dell'UE.",
+      "Il PIL è un indicatore economico, non un quadro di bilancio.",
+      "L'RNL è usato per calcolare i contributi al bilancio UE, ma non è il quadro finanziario."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The SGP governs national budgets, not the EU budget.",
+      "GDP is an economic indicator, not a budgetary framework.",
+      "GNI is used to calculate contributions to the EU budget, but it is not the financial framework."
+    ]
+  },
+  {
+    "id": "acr-019",
+    "question_it": "Quale agenzia con sede ad Amsterdam è responsabile della valutazione e supervisione dei medicinali per uso umano e veterinario nell'UE?",
+    "question_en": "Which agency based in Amsterdam is responsible for the evaluation and supervision of medicines for human and veterinary use in the EU?",
+    "options": [
+      {
+        "text_it": "EFSA - Autorità per la Sicurezza Alimentare",
+        "text_en": "EFSA - Food Safety Authority"
+      },
+      {
+        "text_it": "ECDC - Centro per la Prevenzione delle Malattie",
+        "text_en": "ECDC - Centre for Disease Prevention"
+      },
+      {
+        "text_it": "EMA - Agenzia Europea per i Medicinali",
+        "text_en": "EMA - European Medicines Agency"
+      },
+      {
+        "text_it": "ECHA - Agenzia per le Sostanze Chimiche",
+        "text_en": "ECHA - Chemicals Agency"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**EMA** ha sede ad Amsterdam (dal 2019, dopo la Brexit da Londra) e autorizza i medicinali nell'UE.",
+    "explanation_en": "The **EMA** is based in Amsterdam (since 2019, after Brexit from London) and authorises medicines in the EU.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "L'EMA ha avuto un ruolo cruciale nell'autorizzazione dei vaccini COVID-19 nell'UE.",
+    "motivation_en": "The EMA played a crucial role in authorising COVID-19 vaccines in the EU.",
+    "wrong_explanations_it": [
+      "EFSA si occupa di sicurezza alimentare ed ha sede a Parma.",
+      "L'ECDC si occupa di malattie infettive e ha sede a Stoccolma.",
+      "",
+      "ECHA si occupa di sostanze chimiche e ha sede a Helsinki."
+    ],
+    "wrong_explanations_en": [
+      "EFSA deals with food safety and is based in Parma.",
+      "ECDC deals with infectious diseases and is based in Stockholm.",
+      "",
+      "ECHA deals with chemicals and is based in Helsinki."
+    ]
+  },
+  {
+    "id": "acr-020",
+    "question_it": "Quale ufficio dell'UE organizza i concorsi di selezione del personale per le istituzioni europee?",
+    "question_en": "Which EU office organises staff selection competitions for the European institutions?",
+    "options": [
+      {
+        "text_it": "EPSO - Ufficio Europeo di Selezione del Personale",
+        "text_en": "EPSO - European Personnel Selection Office"
+      },
+      {
+        "text_it": "OLAF - Ufficio per la Lotta Antifrode",
+        "text_en": "OLAF - Anti-Fraud Office"
+      },
+      {
+        "text_it": "DG HR - Direzione Generale Risorse Umane",
+        "text_en": "DG HR - Directorate-General for Human Resources"
+      },
+      {
+        "text_it": "PMO - Ufficio di Gestione dei Pagamenti",
+        "text_en": "PMO - Office for Management of Individual Payments"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**EPSO** organizza concorsi generali e procedure di selezione per reclutare personale per tutte le istituzioni UE.",
+    "explanation_en": "**EPSO** organises general competitions and selection procedures to recruit staff for all EU institutions.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "EPSO gestisce il concorso AD5, il principale canale di ingresso per gli amministratori nelle istituzioni UE.",
+    "motivation_en": "EPSO manages the AD5 competition, the main entry channel for administrators in EU institutions.",
+    "wrong_explanations_it": [
+      "",
+      "OLAF si occupa di antifrode, non di selezione del personale.",
+      "DG HR gestisce le risorse umane della Commissione, ma non organizza i concorsi.",
+      "Il PMO gestisce i pagamenti individuali, non la selezione del personale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "OLAF deals with anti-fraud, not staff selection.",
+      "DG HR manages the Commission's human resources, but does not organise competitions.",
+      "PMO manages individual payments, not staff selection."
+    ]
+  },
+  {
+    "id": "acr-021",
+    "question_it": "Quale strumento finanziario dell'UE è stato concepito per mobilitare investimenti pubblici e privati in Europa, succedendo al Piano Juncker?",
+    "question_en": "Which EU financial instrument was designed to mobilise public and private investment in Europe, succeeding the Juncker Plan?",
+    "options": [
+      {
+        "text_it": "InvestEU - Programma di investimento dell'UE",
+        "text_en": "InvestEU - EU Investment Programme"
+      },
+      {
+        "text_it": "FESR - Fondo Europeo di Sviluppo Regionale",
+        "text_en": "ERDF - European Regional Development Fund"
+      },
+      {
+        "text_it": "MES - Meccanismo Europeo di Stabilità",
+        "text_en": "ESM - European Stability Mechanism"
+      },
+      {
+        "text_it": "BEI - Banca Europea per gli Investimenti",
+        "text_en": "EIB - European Investment Bank"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**InvestEU** (2021-2027) è il successore del Fondo europeo per gli investimenti strategici (Piano Juncker), con garanzie per oltre 26 miliardi di euro.",
+    "explanation_en": "**InvestEU** (2021-2027) is the successor to the European Fund for Strategic Investments (Juncker Plan), with guarantees of over 26 billion euros.",
+    "category": "EU Programs",
+    "difficulty": "hard",
+    "motivation_it": "InvestEU mira a mobilitare oltre 372 miliardi di investimenti in infrastrutture, ricerca, PMI e investimenti sociali.",
+    "motivation_en": "InvestEU aims to mobilise over 372 billion in investment in infrastructure, research, SMEs and social investment.",
+    "wrong_explanations_it": [
+      "",
+      "Il FESR finanzia direttamente progetti regionali con sovvenzioni, non mobilita investimenti privati.",
+      "Il MES è un fondo salva-Stati, non un programma di investimento.",
+      "La BEI è la banca che implementa InvestEU, ma non è il programma stesso."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ERDF directly funds regional projects with grants, it does not mobilise private investment.",
+      "The ESM is a bailout fund, not an investment programme.",
+      "The EIB is the bank that implements InvestEU, but it is not the programme itself."
+    ]
+  },
+  {
+    "id": "acr-022",
+    "question_it": "Quale trattato fondamentale dell'UE disciplina il funzionamento delle istituzioni e le politiche specifiche, affiancando il TUE?",
+    "question_en": "Which fundamental EU treaty governs the functioning of institutions and specific policies, alongside the TEU?",
+    "options": [
+      {
+        "text_it": "TUE - Trattato sull'Unione Europea",
+        "text_en": "TEU - Treaty on European Union"
+      },
+      {
+        "text_it": "TFUE - Trattato sul Funzionamento dell'UE",
+        "text_en": "TFEU - Treaty on the Functioning of the EU"
+      },
+      {
+        "text_it": "AUE - Atto Unico Europeo",
+        "text_en": "SEA - Single European Act"
+      },
+      {
+        "text_it": "CEDU - Convenzione Europea dei Diritti dell'Uomo",
+        "text_en": "ECHR - European Convention on Human Rights"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **TFUE** è uno dei due trattati fondamentali dell'UE (insieme al TUE) e contiene le disposizioni dettagliate sulle politiche e il funzionamento dell'Unione.",
+    "explanation_en": "The **TFEU** is one of the two fundamental EU treaties (alongside the TEU) and contains the detailed provisions on the Union's policies and functioning.",
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "motivation_it": "Il TFUE è l'evoluzione del Trattato CE, rinominato dal Trattato di Lisbona. Contiene 358 articoli.",
+    "motivation_en": "The TFEU is the evolution of the EC Treaty, renamed by the Lisbon Treaty. It contains 358 articles.",
+    "wrong_explanations_it": [
+      "Il TUE contiene i principi generali e le disposizioni istituzionali di base, ma la domanda chiede il trattato che lo affianca.",
+      "",
+      "L'AUE del 1986 modificò i trattati ma non è uno dei due trattati fondamentali attuali.",
+      "La CEDU è un trattato del Consiglio d'Europa, non dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "The TEU contains general principles and basic institutional provisions, but the question asks for the treaty alongside it.",
+      "",
+      "The SEA of 1986 amended the treaties but is not one of the two current fundamental treaties.",
+      "The ECHR is a Council of Europe treaty, not an EU one."
+    ]
+  },
+  {
+    "id": "acr-023",
+    "question_it": "Quale programma UE finanzia specificamente progetti di protezione ambientale e azione per il clima dal 1992?",
+    "question_en": "Which EU programme specifically funds environmental protection and climate action projects since 1992?",
+    "options": [
+      {
+        "text_it": "LIFE - Programma per l'ambiente e il clima",
+        "text_en": "LIFE - Programme for Environment and Climate"
+      },
+      {
+        "text_it": "HORIZON - Programma per la ricerca",
+        "text_en": "HORIZON - Research Programme"
+      },
+      {
+        "text_it": "INTERREG - Cooperazione territoriale",
+        "text_en": "INTERREG - Territorial Cooperation"
+      },
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**LIFE** è l'unico strumento UE dedicato esclusivamente all'ambiente e al clima, attivo dal 1992.",
+    "explanation_en": "**LIFE** is the only EU instrument dedicated exclusively to the environment and climate, active since 1992.",
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "motivation_it": "LIFE 2021-2027 ha un budget di 5,4 miliardi di euro e finanzia progetti di natura, biodiversità, economia circolare e mitigazione climatica.",
+    "motivation_en": "LIFE 2021-2027 has a budget of 5.4 billion euros and funds nature, biodiversity, circular economy and climate mitigation projects.",
+    "wrong_explanations_it": [
+      "",
+      "Horizon finanzia ricerca e innovazione in generale, non è specifico per l'ambiente.",
+      "INTERREG finanzia la cooperazione transfrontaliera, non specificamente l'ambiente.",
+      "CEF finanzia infrastrutture di trasporto, energia e digitali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Horizon funds research and innovation in general, it is not specific to the environment.",
+      "INTERREG funds cross-border cooperation, not specifically the environment.",
+      "CEF funds transport, energy and digital infrastructure."
+    ]
+  },
+  {
+    "id": "acr-024",
+    "question_it": "Quale organo consultivo dell'UE rappresenta i datori di lavoro, i sindacati e la società civile organizzata?",
+    "question_en": "Which EU advisory body represents employers, trade unions and organised civil society?",
+    "options": [
+      {
+        "text_it": "CdR - Comitato delle Regioni",
+        "text_en": "CoR - Committee of the Regions"
+      },
+      {
+        "text_it": "CESE - Comitato Economico e Sociale Europeo",
+        "text_en": "EESC - European Economic and Social Committee"
+      },
+      {
+        "text_it": "PE - Parlamento Europeo",
+        "text_en": "EP - European Parliament"
+      },
+      {
+        "text_it": "COREPER - Comitato dei Rappresentanti Permanenti",
+        "text_en": "COREPER - Committee of Permanent Representatives"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **CESE** è composto da rappresentanti di tre gruppi: datori di lavoro, lavoratori e organizzazioni della società civile.",
+    "explanation_en": "The **EESC** is composed of representatives from three groups: employers, workers and civil society organisations.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "Il CESE emette pareri consultivi sulle proposte legislative e può presentare pareri di iniziativa propria.",
+    "motivation_en": "The EESC issues advisory opinions on legislative proposals and can present own-initiative opinions.",
+    "wrong_explanations_it": [
+      "Il CdR rappresenta le autorità regionali e locali, non la società civile.",
+      "",
+      "Il PE rappresenta i cittadini eletti direttamente, non i gruppi sociali organizzati.",
+      "Il COREPER rappresenta gli Stati membri nel Consiglio."
+    ],
+    "wrong_explanations_en": [
+      "The CoR represents regional and local authorities, not civil society.",
+      "",
+      "The EP represents directly elected citizens, not organised social groups.",
+      "COREPER represents Member States in the Council."
+    ]
+  },
+  {
+    "id": "acr-025",
+    "question_it": "Quale area economica permette a Norvegia, Islanda e Liechtenstein di partecipare al mercato unico UE senza essere membri dell'Unione?",
+    "question_en": "Which economic area allows Norway, Iceland and Liechtenstein to participate in the EU single market without being Union members?",
+    "options": [
+      {
+        "text_it": "SEE - Spazio Economico Europeo",
+        "text_en": "EEA - European Economic Area"
+      },
+      {
+        "text_it": "EFTA - Associazione Europea di Libero Scambio",
+        "text_en": "EFTA - European Free Trade Association"
+      },
+      {
+        "text_it": "UEM - Unione Economica e Monetaria",
+        "text_en": "EMU - Economic and Monetary Union"
+      },
+      {
+        "text_it": "Area Schengen",
+        "text_en": "Schengen Area"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Lo **SEE** (dal 1994) estende le quattro libertà del mercato unico a Norvegia, Islanda e Liechtenstein.",
+    "explanation_en": "The **EEA** (since 1994) extends the four freedoms of the single market to Norway, Iceland and Liechtenstein.",
+    "category": "EU Policies",
+    "difficulty": "medium",
+    "motivation_it": "I paesi SEE adottano gran parte della legislazione UE sul mercato interno ma non partecipano al processo decisionale.",
+    "motivation_en": "EEA countries adopt much of the EU's internal market legislation but do not participate in the decision-making process.",
+    "wrong_explanations_it": [
+      "",
+      "L'EFTA è l'organizzazione di appartenenza di questi paesi, ma il SEE è l'accordo specifico con l'UE.",
+      "L'UEM riguarda la moneta unica euro, di cui questi paesi non fanno parte.",
+      "Schengen riguarda la libera circolazione delle persone, non l'intero mercato unico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "EFTA is the organisation these countries belong to, but the EEA is the specific agreement with the EU.",
+      "EMU concerns the single euro currency, of which these countries are not part.",
+      "Schengen concerns free movement of people, not the entire single market."
+    ]
+  },
+  {
+    "id": "acr-026",
+    "question_it": "Quale istituzione con sede a Lussemburgo fornisce prestiti a lungo termine per finanziare progetti di investimento nell'UE?",
+    "question_en": "Which institution based in Luxembourg provides long-term loans to finance investment projects in the EU?",
+    "options": [
+      {
+        "text_it": "BCE - Banca Centrale Europea",
+        "text_en": "ECB - European Central Bank"
+      },
+      {
+        "text_it": "BEI - Banca Europea per gli Investimenti",
+        "text_en": "EIB - European Investment Bank"
+      },
+      {
+        "text_it": "MES - Meccanismo Europeo di Stabilità",
+        "text_en": "ESM - European Stability Mechanism"
+      },
+      {
+        "text_it": "FEI - Fondo Europeo per gli Investimenti",
+        "text_en": "EIF - European Investment Fund"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **BEI** è la banca dell'UE con sede a Lussemburgo, i cui azionisti sono i 27 Stati membri.",
+    "explanation_en": "The **EIB** is the EU's bank based in Luxembourg, whose shareholders are the 27 Member States.",
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "motivation_it": "La BEI è il più grande prestatore multilaterale al mondo e finanzia clima, infrastrutture, innovazione e PMI.",
+    "motivation_en": "The EIB is the world's largest multilateral lender and finances climate, infrastructure, innovation and SMEs.",
+    "wrong_explanations_it": [
+      "La BCE gestisce la politica monetaria, non concede prestiti per progetti.",
+      "",
+      "Il MES concede assistenza finanziaria ai paesi in crisi, non finanzia progetti.",
+      "Il FEI è una filiale della BEI specializzata in capitali di rischio e garanzie per le PMI."
+    ],
+    "wrong_explanations_en": [
+      "The ECB manages monetary policy, it does not grant project loans.",
+      "",
+      "The ESM provides financial assistance to countries in crisis, it does not finance projects.",
+      "The EIF is an EIB subsidiary specialised in venture capital and guarantees for SMEs."
+    ]
+  },
+  {
+    "id": "acr-027",
+    "question_it": "Quale agenzia con sede a Helsinki gestisce la registrazione e la valutazione delle sostanze chimiche nell'UE?",
+    "question_en": "Which agency based in Helsinki manages the registration and evaluation of chemical substances in the EU?",
+    "options": [
+      {
+        "text_it": "EFSA - Autorità per la Sicurezza Alimentare",
+        "text_en": "EFSA - Food Safety Authority"
+      },
+      {
+        "text_it": "EMA - Agenzia per i Medicinali",
+        "text_en": "EMA - Medicines Agency"
+      },
+      {
+        "text_it": "ECHA - Agenzia Europea per le Sostanze Chimiche",
+        "text_en": "ECHA - European Chemicals Agency"
+      },
+      {
+        "text_it": "AEA - Agenzia Europea dell'Ambiente",
+        "text_en": "EEA - European Environment Agency"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "**ECHA** ha sede a Helsinki e gestisce i regolamenti REACH e CLP sulle sostanze chimiche.",
+    "explanation_en": "**ECHA** is based in Helsinki and manages the REACH and CLP regulations on chemical substances.",
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "motivation_it": "REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) è il principale quadro normativo UE sulle sostanze chimiche.",
+    "motivation_en": "REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) is the EU's main regulatory framework on chemicals.",
+    "wrong_explanations_it": [
+      "EFSA ha sede a Parma e si occupa di sicurezza alimentare.",
+      "L'EMA ha sede ad Amsterdam e si occupa di farmaci.",
+      "",
+      "L'AEA ha sede a Copenaghen e fornisce dati e analisi ambientali."
+    ],
+    "wrong_explanations_en": [
+      "EFSA is based in Parma and deals with food safety.",
+      "EMA is based in Amsterdam and deals with medicines.",
+      "",
+      "The EEA is based in Copenhagen and provides environmental data and analysis."
+    ]
+  },
+  {
+    "id": "acr-028",
+    "question_it": "Quale programma UE finanzia la cooperazione transfrontaliera, transnazionale e interregionale tra territori europei?",
+    "question_en": "Which EU programme funds cross-border, transnational and interregional cooperation between European territories?",
+    "options": [
+      {
+        "text_it": "INTERREG - Cooperazione territoriale europea",
+        "text_en": "INTERREG - European Territorial Cooperation"
+      },
+      {
+        "text_it": "FESR - Fondo di Sviluppo Regionale",
+        "text_en": "ERDF - Regional Development Fund"
+      },
+      {
+        "text_it": "ESF+ - Fondo Sociale Europeo Plus",
+        "text_en": "ESF+ - European Social Fund Plus"
+      },
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**INTERREG** è il programma UE dedicato alla cooperazione territoriale, attivo dal 1990.",
+    "explanation_en": "**INTERREG** is the EU programme dedicated to territorial cooperation, active since 1990.",
+    "category": "EU Programs",
+    "difficulty": "hard",
+    "motivation_it": "INTERREG è finanziato dal FESR e comprende cooperazione transfrontaliera, transnazionale e interregionale.",
+    "motivation_en": "INTERREG is funded by the ERDF and includes cross-border, transnational and interregional cooperation.",
+    "wrong_explanations_it": [
+      "",
+      "Il FESR finanzia lo sviluppo regionale in generale, INTERREG è il suo programma specifico per la cooperazione.",
+      "L'ESF+ si occupa di occupazione e inclusione sociale.",
+      "CEF finanzia reti infrastrutturali trans-europee."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ERDF funds regional development in general, INTERREG is its specific programme for cooperation.",
+      "ESF+ deals with employment and social inclusion.",
+      "CEF funds trans-European infrastructure networks."
+    ]
+  },
+  {
+    "id": "acr-029",
+    "question_it": "Quale sistema di voto al Consiglio dell'UE richiede il 55% degli Stati membri che rappresentino almeno il 65% della popolazione?",
+    "question_en": "Which voting system in the Council of the EU requires 55% of Member States representing at least 65% of the population?",
+    "options": [
+      {
+        "text_it": "Unanimità",
+        "text_en": "Unanimity"
+      },
+      {
+        "text_it": "Maggioranza semplice",
+        "text_en": "Simple majority"
+      },
+      {
+        "text_it": "VMQ - Voto a Maggioranza Qualificata",
+        "text_en": "QMV - Qualified Majority Voting"
+      },
+      {
+        "text_it": "Maggioranza rafforzata",
+        "text_en": "Reinforced majority"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **VMQ** (doppia maggioranza) richiede il 55% degli Stati (almeno 15) che rappresentino il 65% della popolazione UE.",
+    "explanation_en": "**QMV** (double majority) requires 55% of Member States (at least 15) representing 65% of the EU population.",
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "motivation_it": "Il VMQ è il metodo di voto più comune al Consiglio ed è stato introdotto dal Trattato di Lisbona.",
+    "motivation_en": "QMV is the most common voting method in the Council and was introduced by the Lisbon Treaty.",
+    "wrong_explanations_it": [
+      "L'unanimità richiede il consenso di tutti gli Stati membri.",
+      "La maggioranza semplice richiede solo la metà più uno dei membri.",
+      "",
+      "La maggioranza rafforzata non è un termine ufficiale del sistema di voto UE."
+    ],
+    "wrong_explanations_en": [
+      "Unanimity requires the consent of all Member States.",
+      "Simple majority requires only half plus one of the members.",
+      "",
+      "Reinforced majority is not an official term in the EU voting system."
+    ]
+  },
+  {
+    "id": "acr-030",
+    "question_it": "Quale nuovo organo giudiziario dell'UE, operativo dal 2021, ha il potere di perseguire penalmente le frodi al bilancio UE?",
+    "question_en": "Which new EU judicial body, operational since 2021, has the power to criminally prosecute fraud against the EU budget?",
+    "options": [
+      {
+        "text_it": "OLAF - Ufficio per la Lotta Antifrode",
+        "text_en": "OLAF - Anti-Fraud Office"
+      },
+      {
+        "text_it": "CGUE - Corte di Giustizia dell'UE",
+        "text_en": "CJEU - Court of Justice of the EU"
+      },
+      {
+        "text_it": "EPPO - Procura Europea",
+        "text_en": "EPPO - European Public Prosecutor's Office"
+      },
+      {
+        "text_it": "EUROJUST - Cooperazione Giudiziaria",
+        "text_en": "EUROJUST - Judicial Cooperation"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Procura Europea** (EPPO) è operativa dal *1º giugno 2021* e può avviare indagini e azioni penali contro i reati a danno del bilancio UE.",
+    "explanation_en": "The **European Public Prosecutor's Office** (EPPO) has been operational since *1 June 2021* and can initiate investigations and prosecutions against crimes affecting the EU budget.",
+    "category": "EU Bodies",
+    "difficulty": "hard",
+    "motivation_it": "L'EPPO opera con cooperazione rafforzata (22 Stati partecipanti) e ha sede a Lussemburgo.",
+    "motivation_en": "EPPO operates through enhanced cooperation (22 participating States) and is based in Luxembourg.",
+    "wrong_explanations_it": [
+      "OLAF conduce indagini amministrative, non ha poteri penali.",
+      "La CGUE interpreta il diritto UE, non persegue penalmente.",
+      "",
+      "EUROJUST coordina la cooperazione giudiziaria tra Stati ma non avvia procedimenti penali propri."
+    ],
+    "wrong_explanations_en": [
+      "OLAF conducts administrative investigations, it has no criminal powers.",
+      "The CJEU interprets EU law, it does not criminally prosecute.",
+      "",
+      "EUROJUST coordinates judicial cooperation between States but does not initiate its own criminal proceedings."
+    ]
+  },
+  {
+    "question_it": "Quale istituzione dell'UE, con sede a Bruxelles, rappresenta gli interessi dei cittadini europei ed è eletta direttamente ogni 5 anni?",
+    "question_en": "Which EU institution, based in Brussels, represents the interests of EU citizens and is directly elected every 5 years?",
+    "options": [
+      {
+        "text_it": "PE - Parlamento Europeo",
+        "text_en": "EP - European Parliament"
+      },
+      {
+        "text_it": "CE - Commissione Europea",
+        "text_en": "EC - European Commission"
+      },
+      {
+        "text_it": "CdE - Consiglio d'Europa",
+        "text_en": "CoE - Council of Europe"
+      },
+      {
+        "text_it": "CUE - Consiglio dell'Unione Europea",
+        "text_en": "CoEU - Council of the European Union"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Parlamento Europeo (PE)** è l'unica istituzione UE eletta direttamente dai cittadini. Ha sede principale a Bruxelles e svolge funzioni legislative e di bilancio.",
+    "explanation_en": "The **European Parliament (EP)** is the only directly elected EU institution. Its main seat is in Brussels and it performs legislative and budgetary functions.",
+    "motivation_it": "Le elezioni europee si tengono ogni 5 anni, con l'ultima nel 2019 e la prossima nel 2024.",
+    "motivation_en": "European elections are held every 5 years, with the last in 2019 and next scheduled for 2024.",
+    "wrong_explanations_it": [
+      "",
+      "La CE è l'organo esecutivo dell'UE, ma non è eletta direttamente (i commissari sono nominati).",
+      "Il CdE non è un'istituzione UE ma un'organizzazione internazionale separata con 47 membri.",
+      "Il CUE rappresenta i governi nazionali, non i cittadini direttamente."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The EC is the EU's executive body but isn't directly elected (commissioners are appointed).",
+      "The CoE isn't an EU institution but a separate international organization with 47 members.",
+      "The CoEU represents national governments, not citizens directly."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "id": "acr-031"
+  },
+  {
+    "question_it": "Quale organismo dell'UE, con sede a Lussemburgo, fornisce pareri giuridici e garantisce l'applicazione uniforme del diritto europeo?",
+    "question_en": "Which EU body, based in Luxembourg, provides legal opinions and ensures uniform application of EU law?",
+    "options": [
+      {
+        "text_it": "CGUE - Corte di Giustizia dell'Unione Europea",
+        "text_en": "CJEU - Court of Justice of the European Union"
+      },
+      {
+        "text_it": "TEDU - Tribunale Europeo dei Diritti Umani",
+        "text_en": "ECtHR - European Court of Human Rights"
+      },
+      {
+        "text_it": "TCE - Tribunale della Concorrenza Europeo",
+        "text_en": "ECT - European Competition Tribunal"
+      },
+      {
+        "text_it": "CECA - Corte Europea dei Conti",
+        "text_en": "ECA - European Court of Auditors"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **CGUE** interpreta il diritto UE e risolve controversie tra istituzioni e Stati membri. La sua sentenza del 1964 stabilì il principio della **supremazia del diritto UE**.",
+    "explanation_en": "The **CJEU** interprets EU law and settles disputes between institutions and member states. Its 1964 ruling established the principle of **EU law supremacy**.",
+    "motivation_it": "La CGUE comprende la Corte di giustizia e il Tribunale (primo grado), con oltre 2.000 sentenze emesse annualmente.",
+    "motivation_en": "The CJEU includes the Court of Justice and General Court (first instance), issuing over 2,000 rulings annually.",
+    "wrong_explanations_it": [
+      "",
+      "Il TEDU appartiene al Consiglio d'Europa (non UE) e applica la Convenzione europea dei diritti umani.",
+      "Non esiste un Tribunale della Concorrenza Europeo - le questioni antitrust sono trattate dalla CE e CGUE.",
+      "La CECA verifica la gestione finanziaria dell'UE, non interpreta il diritto."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ECtHR belongs to the Council of Europe (not EU) and applies the European Convention on Human Rights.",
+      "No European Competition Tribunal exists - antitrust matters are handled by the EC and CJEU.",
+      "The ECA audits EU finances, it doesn't interpret law."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "easy",
+    "id": "acr-032"
+  },
+  {
+    "question_it": "Quale organismo dell'UE è responsabile della protezione dei dati personali e della supervisione del rispetto del GDPR?",
+    "question_en": "Which EU body is responsible for personal data protection and overseeing GDPR compliance?",
+    "options": [
+      {
+        "text_it": "EDPS - Garante europeo della protezione dei dati",
+        "text_en": "EDPS - European Data Protection Supervisor"
+      },
+      {
+        "text_it": "EFSA - Autorità europea per la sicurezza alimentare",
+        "text_en": "EFSA - European Food Safety Authority"
+      },
+      {
+        "text_it": "EIOPA - Autorità europea delle assicurazioni e delle pensioni aziendali",
+        "text_en": "EIOPA - European Insurance and Occupational Pensions Authority"
+      },
+      {
+        "text_it": "EMA - Agenzia europea per i medicinali",
+        "text_en": "EMA - European Medicines Agency"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**EDPS** è l'autorità indipendente dell'UE che sovrintende alla protezione dei dati personali e garantisce che le istituzioni e gli organi dell'UE rispettino il **GDPR**.",
+    "explanation_en": "The **EDPS** is the EU's independent authority overseeing personal data protection and ensuring EU institutions and bodies comply with the **GDPR**.",
+    "motivation_it": "L'EDPS svolge un ruolo cruciale nel rafforzare la privacy e la protezione dei dati nell'UE.",
+    "motivation_en": "The EDPS plays a crucial role in strengthening privacy and data protection in the EU.",
+    "wrong_explanations_it": [
+      "",
+      "L'EFSA si occupa della sicurezza alimentare, non della protezione dei dati.",
+      "L'EIOPA regola le assicurazioni e le pensioni, non la protezione dei dati.",
+      "L'EMA si concentra sui medicinali, non sulla protezione dei dati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "EFSA deals with food safety, not data protection.",
+      "EIOPA regulates insurance and pensions, not data protection.",
+      "EMA focuses on medicines, not data protection."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "id": "acr-033"
+  },
+  {
+    "question_it": "Quale organismo dell'UE è responsabile della promozione della parità di genere e della lotta contro la discriminazione?",
+    "question_en": "Which EU body is responsible for promoting gender equality and combating discrimination?",
+    "options": [
+      {
+        "text_it": "EIGE - Istituto europeo per l'uguaglianza di genere",
+        "text_en": "EIGE - European Institute for Gender Equality"
+      },
+      {
+        "text_it": "FRA - Agenzia dell'Unione europea per i diritti fondamentali",
+        "text_en": "FRA - European Union Agency for Fundamental Rights"
+      },
+      {
+        "text_it": "Cedefop - Centro europeo per lo sviluppo della formazione professionale",
+        "text_en": "Cedefop - European Centre for the Development of Vocational Training"
+      },
+      {
+        "text_it": "Eurofound - Fondazione europea per il miglioramento delle condizioni di vita e di lavoro",
+        "text_en": "Eurofound - European Foundation for the Improvement of Living and Working Conditions"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**EIGE** è l'organismo dell'UE che si occupa di promuovere l'uguaglianza di genere e di fornire dati e strumenti per combattere la discriminazione.",
+    "explanation_en": "The **EIGE** is the EU body focused on promoting gender equality and providing data and tools to combat discrimination.",
+    "motivation_it": "L'EIGE svolge un ruolo chiave nel monitoraggio e nel sostegno delle politiche di uguaglianza di genere nell'UE.",
+    "motivation_en": "EIGE plays a key role in monitoring and supporting gender equality policies in the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La FRA si occupa dei diritti fondamentali in generale, non specificamente dell'uguaglianza di genere.",
+      "Il Cedefop si concentra sulla formazione professionale, non sull'uguaglianza di genere.",
+      "Eurofound si occupa delle condizioni di vita e di lavoro, non specificamente dell'uguaglianza di genere."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "FRA deals with fundamental rights broadly, not specifically gender equality.",
+      "Cedefop focuses on vocational training, not gender equality.",
+      "Eurofound deals with living and working conditions, not specifically gender equality."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "id": "acr-034"
+  },
+  {
+    "question_it": "Quale organismo dell'UE è responsabile del coordinamento della cooperazione giudiziaria e della lotta alla criminalità organizzata?",
+    "question_en": "Which EU body is responsible for coordinating judicial cooperation and combating organized crime?",
+    "options": [
+      {
+        "text_it": "Eurojust",
+        "text_en": "Eurojust"
+      },
+      {
+        "text_it": "Europol",
+        "text_en": "Europol"
+      },
+      {
+        "text_it": "OLAF - Ufficio europeo per la lotta antifrode",
+        "text_en": "OLAF - European Anti-Fraud Office"
+      },
+      {
+        "text_it": "ECDC - Centro europeo per la prevenzione e il controllo delle malattie",
+        "text_en": "ECDC - European Centre for Disease Prevention and Control"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Eurojust** è l'agenzia dell'UE che facilita la cooperazione giudiziaria tra gli Stati membri e supporta le indagini sulla criminalità organizzata.",
+    "explanation_en": "**Eurojust** is the EU agency that facilitates judicial cooperation between Member States and supports investigations into organized crime.",
+    "motivation_it": "Eurojust svolge un ruolo essenziale nel migliorare la collaborazione transfrontaliera nelle indagini penali.",
+    "motivation_en": "Eurojust plays a vital role in enhancing cross-border cooperation in criminal investigations.",
+    "wrong_explanations_it": [
+      "",
+      "Europol si occupa della cooperazione di polizia, non della cooperazione giudiziaria.",
+      "OLAF combatte la frode e la corruzione, non la criminalità organizzata.",
+      "L'ECDC si concentra sulla prevenzione delle malattie, non sulla cooperazione giudiziaria."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Europol deals with police cooperation, not judicial cooperation.",
+      "OLAF combats fraud and corruption, not organized crime.",
+      "ECDC focuses on disease prevention, not judicial cooperation."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "medium",
+    "id": "acr-035"
+  },
+  {
+    "question_it": "Quale organismo, istituito nel 2021, è responsabile della prevenzione e lotta al riciclaggio di denaro e al finanziamento del terrorismo nell'UE?",
+    "question_en": "Which body, established in 2021, is responsible for preventing and combating money laundering and terrorist financing in the EU?",
+    "options": [
+      {
+        "text_it": "AMLA - Autorità Europea Antiriciclaggio",
+        "text_en": "AMLA - Anti-Money Laundering Authority"
+      },
+      {
+        "text_it": "OCCAR - Organizzazione Congiunta per la Cooperazione in materia di Armamenti",
+        "text_en": "OCCAR - Organisation for Joint Armament Cooperation"
+      },
+      {
+        "text_it": "AESF - Autorità Europea per la Sicurezza Finanziaria",
+        "text_en": "EFSA - European Financial Security Authority"
+      },
+      {
+        "text_it": "ESMA - Autorità Europea degli Strumenti Finanziari e dei Mercati",
+        "text_en": "ESMA - European Securities and Markets Authority"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**AMLA** è stata istituita nel 2021 per coordinare e supervisionare le attività antiriciclaggio e di contrasto al finanziamento del terrorismo nell'UE.",
+    "explanation_en": "The **AMLA** was established in 2021 to coordinate and supervise anti-money laundering and counter-terrorism financing activities in the EU.",
+    "motivation_it": "La creazione dell'AMLA rappresenta una risposta dell'UE alla necessità di un approccio più coordinato nella lotta alla criminalità finanziaria.",
+    "motivation_en": "The creation of AMLA represents the EU's response to the need for a more coordinated approach in combating financial crime.",
+    "wrong_explanations_it": [
+      "",
+      "L'OCCAR è un'organizzazione internazionale che gestisce programmi di armamenti, non si occupa di antiriciclaggio.",
+      "L'AESF non esiste; ESMA è l'autorità per i mercati finanziari, ma non si occupa direttamente di antiriciclaggio.",
+      "ESMA supervisiona i mercati finanziari, ma non ha il mandato specifico per l'antiriciclaggio."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "OCCAR is an international organization managing armament programs, not anti-money laundering.",
+      "AESF does not exist; ESMA is the authority for financial markets, but it does not directly handle anti-money laundering.",
+      "ESMA supervises financial markets but does not have the specific mandate for anti-money laundering."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "hard",
+    "id": "acr-036"
+  },
+  {
+    "question_it": "Quale organismo europeo, istituito nel 2019, è responsabile della gestione e supervisione del Sistema europeo di deposito e prestito bancario?",
+    "question_en": "Which European body, established in 2019, is responsible for managing and supervising the European system of bank deposit and lending?",
+    "options": [
+      {
+        "text_it": "EDIS - European Deposit Insurance Scheme",
+        "text_en": "EDIS - European Deposit Insurance Scheme"
+      },
+      {
+        "text_it": "SRB - Single Resolution Board",
+        "text_en": "SRB - Single Resolution Board"
+      },
+      {
+        "text_it": "EBU - European Banking Union",
+        "text_en": "EBU - European Banking Union"
+      },
+      {
+        "text_it": "SSM - Single Supervisory Mechanism",
+        "text_en": "SSM - Single Supervisory Mechanism"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**EDIS** è stato istituito nel 2019 come parte dell'Unione bancaria europea per garantire un sistema comune di assicurazione dei depositi.",
+    "explanation_en": "The **EDIS** was established in 2019 as part of the European Banking Union to ensure a common system of deposit insurance.",
+    "motivation_it": "L'EDIS è un pilastro fondamentale per la stabilità finanziaria nell'area euro.",
+    "motivation_en": "EDIS is a fundamental pillar for financial stability in the euro area.",
+    "wrong_explanations_it": [
+      "",
+      "Il SRB si occupa della risoluzione delle banche in crisi, non dell'assicurazione dei depositi.",
+      "L'EBU è il quadro generale dell'Unione bancaria, non un singolo organismo.",
+      "Il SSM supervisiona le banche, ma non gestisce direttamente l'assicurazione dei depositi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The SRB handles bank resolution in crises, not deposit insurance.",
+      "The EBU is the overall framework of the Banking Union, not a single body.",
+      "The SSM supervises banks but does not directly manage deposit insurance."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "hard",
+    "id": "acr-037"
+  },
+  {
+    "question_it": "Quale organismo europeo, istituito nel 2020, è responsabile della supervisione delle agenzie di rating del credito nell'UE?",
+    "question_en": "Which European body, established in 2020, is responsible for supervising credit rating agencies in the EU?",
+    "options": [
+      {
+        "text_it": "CEREP - Comitato Europeo per la Regolamentazione delle Agenzie di Rating",
+        "text_en": "CEREP - European Committee for the Regulation of Rating Agencies"
+      },
+      {
+        "text_it": "ESMA - Autorità Europea degli Strumenti Finanziari e dei Mercati",
+        "text_en": "ESMA - European Securities and Markets Authority"
+      },
+      {
+        "text_it": "EIOPA - Autorità Europea delle Assicurazioni e delle Pensioni",
+        "text_en": "EIOPA - European Insurance and Occupational Pensions Authority"
+      },
+      {
+        "text_it": "EBA - Autorità Bancaria Europea",
+        "text_en": "EBA - European Banking Authority"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**ESMA** è stata incaricata nel 2020 della supervisione delle agenzie di rating del credito nell'UE.",
+    "explanation_en": "The **ESMA** was tasked in 2020 with supervising credit rating agencies in the EU.",
+    "motivation_it": "La supervisione delle agenzie di rating è cruciale per garantire la trasparenza e la stabilità dei mercati finanziari.",
+    "motivation_en": "The supervision of rating agencies is crucial to ensure transparency and stability in financial markets.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "EIOPA si occupa di assicurazioni e pensioni, non di agenzie di rating.",
+      "EBA supervisiona le banche, non le agenzie di rating."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "EIOPA deals with insurance and pensions, not rating agencies.",
+      "EBA supervises banks, not rating agencies."
+    ],
+    "category": "EU Bodies",
+    "difficulty": "hard",
+    "id": "acr-038"
+  },
+  {
+    "question_it": "Quale programma UE finanzia progetti di ricerca e innovazione per il periodo 2021-2027?",
+    "question_en": "Which EU programme funds research and innovation projects for the 2021-2027 period?",
+    "options": [
+      {
+        "text_it": "HORIZON EUROPA - Programma quadro per la ricerca e l'innovazione",
+        "text_en": "HORIZON EUROPE - Framework Programme for Research and Innovation"
+      },
+      {
+        "text_it": "COSME - Programma per la competitività delle PMI",
+        "text_en": "COSME - Programme for SME Competitiveness"
+      },
+      {
+        "text_it": "INTERREG - Programma per la cooperazione territoriale",
+        "text_en": "INTERREG - Territorial Cooperation Programme"
+      },
+      {
+        "text_it": "JUST - Programma per la giustizia",
+        "text_en": "JUST - Justice Programme"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Horizon Europa** è il principale programma UE per la ricerca e l'innovazione, con un budget di 95,5 miliardi di euro per il 2021-2027.",
+    "explanation_en": "**Horizon Europe** is the EU's flagship research and innovation programme, with a budget of €95.5 billion for 2021-2027.",
+    "motivation_it": "Horizon Europa è il successore di Horizon 2020 e mira a rafforzare la base scientifica e tecnologica dell'UE.",
+    "motivation_en": "Horizon Europe is the successor to Horizon 2020 and aims to strengthen the EU's scientific and technological base.",
+    "wrong_explanations_it": [
+      "",
+      "COSME sostiene le piccole e medie imprese, non la ricerca.",
+      "INTERREG finanzia progetti transfrontalieri, non ricerca.",
+      "JUST riguarda la cooperazione giudiziaria, non la ricerca."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "COSME supports small and medium enterprises, not research.",
+      "INTERREG funds cross-border projects, not research.",
+      "JUST concerns judicial cooperation, not research."
+    ],
+    "category": "EU Programs",
+    "difficulty": "easy",
+    "id": "acr-039"
+  },
+  {
+    "question_it": "Quale programma UE sostiene lo sviluppo regionale e riduce le disparità economiche?",
+    "question_en": "Which EU programme supports regional development and reduces economic disparities?",
+    "options": [
+      {
+        "text_it": "ERDF - Fondo europeo di sviluppo regionale",
+        "text_en": "ERDF - European Regional Development Fund"
+      },
+      {
+        "text_it": "EAFRD - Fondo europeo agricolo per lo sviluppo rurale",
+        "text_en": "EAFRD - European Agricultural Fund for Rural Development"
+      },
+      {
+        "text_it": "EMFF - Fondo europeo per gli affari marittimi e la pesca",
+        "text_en": "EMFF - European Maritime and Fisheries Fund"
+      },
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**ERDF** è il principale strumento finanziario dell'UE per ridurre le disparità regionali e promuovere lo sviluppo equilibrato.",
+    "explanation_en": "The **ERDF** is the EU's main financial instrument for reducing regional disparities and promoting balanced development.",
+    "motivation_it": "L'ERDF rappresenta circa un terzo del bilancio complessivo della politica di coesione dell'UE.",
+    "motivation_en": "The ERDF accounts for about one-third of the EU's overall cohesion policy budget.",
+    "wrong_explanations_it": [
+      "",
+      "L'EAFRD sostiene lo sviluppo rurale, non regionale in generale.",
+      "L'EMFF riguarda la pesca e gli affari marittimi.",
+      "Il CEF finanzia infrastrutture di trasporto, energia e digitale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "EAFRD supports rural development, not general regional development.",
+      "EMFF concerns fisheries and maritime affairs.",
+      "CEF funds transport, energy and digital infrastructure."
+    ],
+    "category": "EU Programs",
+    "difficulty": "easy",
+    "id": "acr-040"
+  },
+  {
+    "question_it": "Quale programma UE finanzia progetti ambientali e climatici?",
+    "question_en": "Which EU programme funds environmental and climate projects?",
+    "options": [
+      {
+        "text_it": "LIFE - Programma per l'ambiente e l'azione per il clima",
+        "text_en": "LIFE - Programme for Environment and Climate Action"
+      },
+      {
+        "text_it": "CREA - Programma per il settore culturale e creativo",
+        "text_en": "CREA - Programme for the Cultural and Creative Sector"
+      },
+      {
+        "text_it": "EU4HEALTH - Programma per la salute",
+        "text_en": "EU4HEALTH - Health Programme"
+      },
+      {
+        "text_it": "DIGITAL - Programma per la trasformazione digitale",
+        "text_en": "DIGITAL - Digital Transformation Programme"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il programma **LIFE** è lo strumento finanziario dell'UE dedicato esclusivamente a progetti ambientali e climatici dal 1992.",
+    "explanation_en": "The **LIFE** programme is the EU's financial instrument dedicated exclusively to environmental and climate projects since 1992.",
+    "motivation_it": "LIFE ha contribuito a finanziare oltre 5,500 progetti in tutta l'UE con un budget di 5.4 miliardi di euro (2021-2027).",
+    "motivation_en": "LIFE has helped fund over 5,500 projects across the EU with a budget of €5.4 billion (2021-2027).",
+    "wrong_explanations_it": [
+      "",
+      "CREA sostiene il settore culturale, non l'ambiente.",
+      "EU4HEALTH finanzia progetti sanitari.",
+      "DIGITAL riguarda la trasformazione digitale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "CREA supports the cultural sector, not the environment.",
+      "EU4HEALTH funds health projects.",
+      "DIGITAL concerns digital transformation."
+    ],
+    "category": "EU Programs",
+    "difficulty": "easy",
+    "id": "acr-041"
+  },
+  {
+    "question_it": "Quale programma UE si concentra sullo sviluppo delle capacità digitali e la trasformazione digitale delle PMI?",
+    "question_en": "Which EU programme focuses on developing digital skills and digital transformation of SMEs?",
+    "options": [
+      {
+        "text_it": "DIGITAL - Programma Europa Digitale",
+        "text_en": "DIGITAL - Digital Europe Programme"
+      },
+      {
+        "text_it": "COSME - Programma per la competitività delle imprese",
+        "text_en": "COSME - Programme for the Competitiveness of Enterprises"
+      },
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      },
+      {
+        "text_it": "INTERREG - Cooperazione territoriale europea",
+        "text_en": "INTERREG - European Territorial Cooperation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il programma **DIGITAL** sostiene progetti per migliorare le competenze digitali e accelerare la trasformazione digitale delle PMI, contribuendo alla strategia digitale dell'UE.",
+    "explanation_en": "The **DIGITAL** programme supports projects to enhance digital skills and accelerate the digital transformation of SMEs, contributing to the EU's digital strategy.",
+    "motivation_it": "DIGITAL ha un budget di 7,5 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "DIGITAL has a budget of 7.5 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "",
+      "COSME si concentra sulla competitività delle PMI, non specificamente sulle capacità digitali.",
+      "CEF finanzia infrastrutture di trasporto, energia e digitale, ma non si concentra sulle PMI.",
+      "INTERREG promuove la cooperazione territoriale, non la trasformazione digitale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "COSME focuses on SME competitiveness, not specifically on digital skills.",
+      "CEF funds transport, energy, and digital infrastructure but does not focus on SMEs.",
+      "INTERREG promotes territorial cooperation, not digital transformation."
+    ],
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "id": "acr-042"
+  },
+  {
+    "question_it": "Quale programma UE sostiene progetti culturali e creativi per promuovere la diversità culturale?",
+    "question_en": "Which EU programme supports cultural and creative projects to promote cultural diversity?",
+    "options": [
+      {
+        "text_it": "CREATIVE EUROPE - Programma per il settore culturale e creativo",
+        "text_en": "CREATIVE EUROPE - Programme for the Cultural and Creative Sector"
+      },
+      {
+        "text_it": "EUREKA - Rete europea per la cooperazione industriale",
+        "text_en": "EUREKA - European Network for Industrial Cooperation"
+      },
+      {
+        "text_it": "MEDIA - Programma per il settore audiovisivo",
+        "text_en": "MEDIA - Programme for the Audiovisual Sector"
+      },
+      {
+        "text_it": "CULTURE - Programma per il patrimonio culturale",
+        "text_en": "CULTURE - Programme for Cultural Heritage"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Creative Europe** è il programma UE dedicato a sostenere progetti culturali e creativi, promuovendo la diversità culturale e il patrimonio europeo.",
+    "explanation_en": "**Creative Europe** is the EU programme dedicated to supporting cultural and creative projects, promoting cultural diversity and European heritage.",
+    "motivation_it": "Creative Europe ha un budget di 2,4 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "Creative Europe has a budget of 2.4 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "",
+      "EUREKA si concentra sulla cooperazione industriale, non sui progetti culturali.",
+      "MEDIA è specifico per il settore audiovisivo, non per tutti i progetti culturali.",
+      "CULTURE è un programma precedente, ora integrato in Creative Europe."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "EUREKA focuses on industrial cooperation, not cultural projects.",
+      "MEDIA is specific to the audiovisual sector, not all cultural projects.",
+      "CULTURE was a previous programme, now integrated into Creative Europe."
+    ],
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "id": "acr-043"
+  },
+  {
+    "question_it": "Quale programma UE sostiene la cooperazione transfrontaliera tra regioni e città?",
+    "question_en": "Which EU programme supports cross-border cooperation between regions and cities?",
+    "options": [
+      {
+        "text_it": "INTERREG - Cooperazione territoriale europea",
+        "text_en": "INTERREG - European Territorial Cooperation"
+      },
+      {
+        "text_it": "URBACT - Rete per lo sviluppo urbano sostenibile",
+        "text_en": "URBACT - Network for Sustainable Urban Development"
+      },
+      {
+        "text_it": "ESPON - Rete europea per lo sviluppo territoriale",
+        "text_en": "ESPON - European Network for Territorial Development"
+      },
+      {
+        "text_it": "LEADER - Sviluppo rurale basato sulla comunità",
+        "text_en": "LEADER - Community-Led Rural Development"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Interreg** è il programma UE che promuove la cooperazione transfrontaliera, transnazionale e interregionale tra regioni e città.",
+    "explanation_en": "**Interreg** is the EU programme promoting cross-border, transnational, and interregional cooperation between regions and cities.",
+    "motivation_it": "Interreg è uno strumento chiave per ridurre le disparità regionali e promuovere l'integrazione europea.",
+    "motivation_en": "Interreg is a key tool for reducing regional disparities and promoting European integration.",
+    "wrong_explanations_it": [
+      "",
+      "URBACT si concentra sullo sviluppo urbano sostenibile, non sulla cooperazione transfrontaliera.",
+      "ESPON analizza lo sviluppo territoriale, ma non finanzia progetti di cooperazione.",
+      "LEADER è focalizzato sullo sviluppo rurale, non sulla cooperazione transfrontaliera."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "URBACT focuses on sustainable urban development, not cross-border cooperation.",
+      "ESPON analyses territorial development but does not fund cooperation projects.",
+      "LEADER is focused on rural development, not cross-border cooperation."
+    ],
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "id": "acr-044"
+  },
+  {
+    "question_it": "Quale programma UE finanzia infrastrutture di trasporto, energia e digitale per migliorare la connettività europea?",
+    "question_en": "Which EU programme funds transport, energy, and digital infrastructure to improve European connectivity?",
+    "options": [
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      },
+      {
+        "text_it": "TEN-T - Rete transeuropea dei trasporti",
+        "text_en": "TEN-T - Trans-European Transport Network"
+      },
+      {
+        "text_it": "HORIZON EUROPE - Programma quadro per la ricerca e l'innovazione",
+        "text_en": "HORIZON EUROPE - Framework Programme for Research and Innovation"
+      },
+      {
+        "text_it": "ESIF - Fondi strutturali e di investimento europei",
+        "text_en": "ESIF - European Structural and Investment Funds"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **CEF** è il programma UE che finanzia infrastrutture nei settori dei trasporti, dell'energia e del digitale per migliorare la connettività e l'integrazione europea.",
+    "explanation_en": "The **CEF** is the EU programme funding infrastructure in transport, energy, and digital sectors to improve connectivity and European integration.",
+    "motivation_it": "CEF ha un budget di 33,7 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "CEF has a budget of 33.7 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "",
+      "TEN-T è una rete di trasporti, ma non un programma di finanziamento.",
+      "Horizon Europe finanzia ricerca e innovazione, non infrastrutture.",
+      "ESIF finanzia progetti strutturali, ma non specificamente infrastrutture di connettività."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "TEN-T is a transport network, not a funding programme.",
+      "Horizon Europe funds research and innovation, not infrastructure.",
+      "ESIF funds structural projects but not specifically connectivity infrastructure."
+    ],
+    "category": "EU Programs",
+    "difficulty": "medium",
+    "id": "acr-045"
+  },
+  {
+    "question_it": "Quale programma UE finanzia progetti per la protezione civile e la gestione delle catastrofi a livello europeo?",
+    "question_en": "Which EU programme funds projects for civil protection and disaster management at the European level?",
+    "options": [
+      {
+        "text_it": "CEF - Meccanismo per collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      },
+      {
+        "text_it": "UCPM - Meccanismo unionale di protezione civile",
+        "text_en": "UCPM - Union Civil Protection Mechanism"
+      },
+      {
+        "text_it": "ESIF - Fondi strutturali e di investimento europei",
+        "text_en": "ESIF - European Structural and Investment Funds"
+      },
+      {
+        "text_it": "COSME - Programma per la competitività delle imprese e delle PMI",
+        "text_en": "COSME - Programme for the Competitiveness of Enterprises and SMEs"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Meccanismo unionale di protezione civile (UCPM)** è lo strumento principale dell'UE per la **gestione delle catastrofi** e la **protezione civile**, coordinando gli sforzi degli Stati membri.",
+    "explanation_en": "The **Union Civil Protection Mechanism (UCPM)** is the EU's main tool for **disaster management** and **civil protection**, coordinating the efforts of Member States.",
+    "motivation_it": "L'UCPM è stato rafforzato nel 2019 per migliorare la risposta alle emergenze transfrontaliere.",
+    "motivation_en": "The UCPM was strengthened in 2019 to improve response to cross-border emergencies.",
+    "wrong_explanations_it": [
+      "Il CEF finanzia infrastrutture nei settori trasporti, energia e digitale.",
+      "",
+      "Gli ESIF finanziano progetti per lo sviluppo regionale e sociale.",
+      "COSME sostiene la competitività delle PMI, non la protezione civile."
+    ],
+    "wrong_explanations_en": [
+      "The CEF funds infrastructure in transport, energy, and digital sectors.",
+      "",
+      "The ESIF funds projects for regional and social development.",
+      "COSME supports SME competitiveness, not civil protection."
+    ],
+    "category": "EU Programs",
+    "difficulty": "hard",
+    "id": "acr-046"
+  },
+  {
+    "question_it": "Quale programma UE sostiene progetti per la cooperazione culturale e artistica transfrontaliera?",
+    "question_en": "Which EU programme supports projects for cross-border cultural and artistic cooperation?",
+    "options": [
+      {
+        "text_it": "CERV - Programma Cittadini, uguaglianza, diritti e valori",
+        "text_en": "CERV - Citizens, Equality, Rights and Values Programme"
+      },
+      {
+        "text_it": "Creative Europe - Programma per il settore culturale e creativo",
+        "text_en": "Creative Europe - Programme for the Cultural and Creative Sector"
+      },
+      {
+        "text_it": "Interreg - Programma per la cooperazione territoriale europea",
+        "text_en": "Interreg - European Territorial Cooperation Programme"
+      },
+      {
+        "text_it": "Erasmus+ - Programma per l'istruzione e la formazione",
+        "text_en": "Erasmus+ - Programme for Education and Training"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**Creative Europe** è il programma UE dedicato al sostegno del **settore culturale e creativo**, finanziando progetti transfrontalieri per promuovere la diversità culturale.",
+    "explanation_en": "**Creative Europe** is the EU programme dedicated to supporting the **cultural and creative sector**, funding cross-border projects to promote cultural diversity.",
+    "motivation_it": "Creative Europe ha un budget di 2,44 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "Creative Europe has a budget of 2.44 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "Il CERV si concentra sui diritti fondamentali e i valori dell'UE, non sulla cultura.",
+      "",
+      "Interreg finanzia la cooperazione territoriale, non specificamente progetti culturali.",
+      "Erasmus+ si concentra su istruzione e formazione, non sulla cooperazione culturale."
+    ],
+    "wrong_explanations_en": [
+      "CERV focuses on fundamental rights and EU values, not culture.",
+      "",
+      "Interreg funds territorial cooperation, not specifically cultural projects.",
+      "Erasmus+ focuses on education and training, not cultural cooperation."
+    ],
+    "category": "EU Programs",
+    "difficulty": "hard",
+    "id": "acr-047"
+  },
+  {
+    "question_it": "Quale programma UE finanzia progetti per lo sviluppo di tecnologie digitali avanzate e l'intelligenza artificiale?",
+    "question_en": "Which EU programme funds projects for the development of advanced digital technologies and artificial intelligence?",
+    "options": [
+      {
+        "text_it": "Digital Europe - Programma per la trasformazione digitale",
+        "text_en": "Digital Europe - Programme for Digital Transformation"
+      },
+      {
+        "text_it": "Horizon Europe - Programma quadro per la ricerca e l'innovazione",
+        "text_en": "Horizon Europe - Framework Programme for Research and Innovation"
+      },
+      {
+        "text_it": "InvestEU - Programma per gli investimenti strategici",
+        "text_en": "InvestEU - Programme for Strategic Investments"
+      },
+      {
+        "text_it": "ESF+ - Fondo Sociale Europeo Plus",
+        "text_en": "ESF+ - European Social Fund Plus"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Digital Europe** è il programma UE dedicato alla **trasformazione digitale**, finanziando progetti in settori come l'intelligenza artificiale, il supercalcolo e la sicurezza informatica.",
+    "explanation_en": "**Digital Europe** is the EU programme dedicated to **digital transformation**, funding projects in areas such as artificial intelligence, supercomputing, and cybersecurity.",
+    "motivation_it": "Digital Europe ha un budget di 7,5 miliardi di euro per il periodo 2021-2027.",
+    "motivation_en": "Digital Europe has a budget of 7.5 billion euros for the 2021-2027 period.",
+    "wrong_explanations_it": [
+      "",
+      "Horizon Europe finanzia la ricerca e l'innovazione, ma non specificamente progetti digitali.",
+      "InvestEU mobilizza investimenti privati, non finanzia direttamente tecnologie digitali.",
+      "L'ESF+ sostiene l'occupazione e l'inclusione sociale, non lo sviluppo tecnologico."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Horizon Europe funds research and innovation, but not specifically digital projects.",
+      "InvestEU mobilises private investments, it does not directly fund digital technologies.",
+      "ESF+ supports employment and social inclusion, not technological development."
+    ],
+    "category": "EU Programs",
+    "difficulty": "hard",
+    "id": "acr-048"
+  },
+  {
+    "question_it": "Quale trattato fondamentale dell'UE, entrato in vigore nel 2009, ha introdotto la Carta dei diritti fondamentali come parte vincolante del diritto dell'Unione?",
+    "question_en": "Which fundamental EU treaty, in force since 2009, made the Charter of Fundamental Rights a legally binding part of EU law?",
+    "options": [
+      {
+        "text_it": "TFEU - Trattato sul funzionamento dell'Unione europea",
+        "text_en": "TFEU - Treaty on the Functioning of the European Union"
+      },
+      {
+        "text_it": "TEU - Trattato sull'Unione europea",
+        "text_en": "TEU - Treaty on European Union"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Lisbon Treaty"
+      },
+      {
+        "text_it": "CEDU - Convenzione europea dei diritti dell'uomo",
+        "text_en": "ECHR - European Convention on Human Rights"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Trattato di Lisbona** (2009) ha dato valore giuridico vincolante alla Carta dei diritti fondamentali e ha introdotto importanti riforme istituzionali.",
+    "explanation_en": "The **Lisbon Treaty** (2009) gave legally binding force to the Charter of Fundamental Rights and introduced major institutional reforms.",
+    "motivation_it": "Questo trattato ha semplificato il processo decisionale dell'UE e rafforzato la democrazia partecipativa.",
+    "motivation_en": "This treaty simplified EU decision-making and strengthened participatory democracy.",
+    "wrong_explanations_it": [
+      "Il TFEU regola le politiche specifiche dell'UE ma non è il trattato che ha reso vincolante la Carta.",
+      "Il TEU stabilisce i principi fondamentali dell'UE ma non è il documento del 2009.",
+      "",
+      "La CEDU è un trattato del Consiglio d'Europa, non dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "The TFEU governs specific EU policies but wasn't the treaty that made the Charter binding.",
+      "The TEU establishes EU's core principles but isn't the 2009 document.",
+      "",
+      "The ECHR is a Council of Europe treaty, not an EU one."
+    ],
+    "category": "EU Legal",
+    "difficulty": "easy",
+    "id": "acr-049"
+  },
+  {
+    "question_it": "Quale direttiva UE stabilisce le norme minime per l'accoglienza dei richiedenti asilo negli Stati membri?",
+    "question_en": "Which EU directive sets minimum standards for the reception of asylum seekers in Member States?",
+    "options": [
+      {
+        "text_it": "Dublin III - Regolamento che determina lo Stato responsabile",
+        "text_en": "Dublin III - Regulation determining the responsible State"
+      },
+      {
+        "text_it": "CEAS - Sistema europeo comune di asilo",
+        "text_en": "CEAS - Common European Asylum System"
+      },
+      {
+        "text_it": "Direttiva qualifiche",
+        "text_en": "Qualifications Directive"
+      },
+      {
+        "text_it": "Direttiva accoglienza",
+        "text_en": "Reception Conditions Directive"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "La **Direttiva accoglienza** (2013/33/UE) garantisce condizioni di vita dignitose per i richiedenti asilo, compresi alloggio, assistenza sanitaria e accesso al lavoro.",
+    "explanation_en": "The **Reception Conditions Directive** (2013/33/EU) ensures dignified living standards for asylum seekers, including housing, healthcare and access to employment.",
+    "motivation_it": "Fa parte del Sistema europeo comune di asilo (CEAS) ma è specifica per le condizioni materiali di accoglienza.",
+    "motivation_en": "It's part of the Common European Asylum System (CEAS) but specifically addresses material reception conditions.",
+    "wrong_explanations_it": [
+      "Dublin III riguarda la determinazione dello Stato membro responsabile per l'esame della domanda.",
+      "Il CEAS è il sistema complessivo, non una specifica direttiva.",
+      "",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "Dublin III concerns determining which Member State is responsible for examining an application.",
+      "CEAS is the overall system, not a specific directive.",
+      "",
+      ""
+    ],
+    "category": "EU Legal",
+    "difficulty": "easy",
+    "id": "acr-050"
+  },
+  {
+    "question_it": "Quale strumento giuridico dell'UE stabilisce i requisiti minimi per la gestione dei rifiuti elettronici ed è noto come direttiva RAEE?",
+    "question_en": "Which EU legal instrument sets minimum requirements for the management of waste electrical and electronic equipment and is known as the WEEE Directive?",
+    "options": [
+      {
+        "text_it": "RoHS - Direttiva sulla restrizione delle sostanze pericolose",
+        "text_en": "RoHS - Restriction of Hazardous Substances Directive"
+      },
+      {
+        "text_it": "WEEE - Direttiva sui rifiuti di apparecchiature elettriche ed elettroniche",
+        "text_en": "WEEE - Waste Electrical and Electronic Equipment Directive"
+      },
+      {
+        "text_it": "ELV - Direttiva sui veicoli fuori uso",
+        "text_en": "ELV - End-of-Life Vehicles Directive"
+      },
+      {
+        "text_it": "BAT - Migliori tecniche disponibili",
+        "text_en": "BAT - Best Available Techniques"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **direttiva WEEE** (2012/19/UE) è lo strumento giuridico dell'UE che regola la raccolta, il trattamento e il riciclaggio dei rifiuti elettronici.",
+    "explanation_en": "The **WEEE Directive** (2012/19/EU) is the EU legal instrument that governs the collection, treatment, and recycling of electronic waste.",
+    "motivation_it": "La direttiva WEEE mira a ridurre l'impatto ambientale dei rifiuti elettronici e promuovere l'economia circolare.",
+    "motivation_en": "The WEEE Directive aims to reduce the environmental impact of electronic waste and promote a circular economy.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "ELV si applica ai veicoli fuori uso, non ai rifiuti elettronici.",
+      "BAT è un concetto utilizzato nella direttiva sulle emissioni industriali, non specifico per i rifiuti elettronici."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "ELV applies to end-of-life vehicles, not electronic waste.",
+      "BAT is a concept used in the Industrial Emissions Directive, not specific to electronic waste."
+    ],
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "id": "acr-051"
+  },
+  {
+    "question_it": "Quale strumento legislativo dell'UE istituisce un sistema comune di scambio di quote di emissione per i gas serra?",
+    "question_en": "Which EU legislative instrument establishes a common system for trading greenhouse gas emission allowances?",
+    "options": [
+      {
+        "text_it": "ETS - Sistema di scambio di quote di emissione",
+        "text_en": "ETS - Emissions Trading System"
+      },
+      {
+        "text_it": "CBAM - Meccanismo di adeguamento del carbonio alle frontiere",
+        "text_en": "CBAM - Carbon Border Adjustment Mechanism"
+      },
+      {
+        "text_it": "LULUCF - Uso del suolo, cambiamento di uso del suolo e silvicoltura",
+        "text_en": "LULUCF - Land Use, Land-Use Change and Forestry"
+      },
+      {
+        "text_it": "RED II - Direttiva sulle energie rinnovabili",
+        "text_en": "RED II - Renewable Energy Directive"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**ETS** (direttiva 2003/87/CE) è il principale strumento dell'UE per ridurre le emissioni di gas serra attraverso un sistema di scambio di quote.",
+    "explanation_en": "The **ETS** (Directive 2003/87/EC) is the EU's main tool for reducing greenhouse gas emissions through a cap-and-trade system.",
+    "motivation_it": "L'ETS copre oltre il 40% delle emissioni di gas serra dell'UE ed è uno dei pilastri della politica climatica europea.",
+    "motivation_en": "The ETS covers over 40% of the EU's greenhouse gas emissions and is a cornerstone of European climate policy.",
+    "wrong_explanations_it": [
+      "",
+      "CBAM è un meccanismo per applicare tariffe alle importazioni ad alta intensità di carbonio, non un sistema di scambio di quote.",
+      "LULUCF riguarda l'assorbimento di carbonio da parte del suolo e delle foreste, non lo scambio di emissioni.",
+      "RED II promuove le energie rinnovabili ma non istituisce un sistema di scambio di quote."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "CBAM is a mechanism to apply tariffs to carbon-intensive imports, not an emissions trading system.",
+      "LULUCF concerns carbon sequestration by land and forests, not emissions trading.",
+      "RED II promotes renewable energy but does not establish an allowance trading system."
+    ],
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "id": "acr-052"
+  },
+  {
+    "question_it": "Quale direttiva dell'UE stabilisce i requisiti minimi per la protezione degli animali utilizzati a fini scientifici?",
+    "question_en": "Which EU directive sets minimum requirements for the protection of animals used for scientific purposes?",
+    "options": [
+      {
+        "text_it": "REACH - Regolamento sulle sostanze chimiche",
+        "text_en": "REACH - Regulation on Chemicals"
+      },
+      {
+        "text_it": "Cosmetics - Direttiva sui prodotti cosmetici",
+        "text_en": "Cosmetics - Cosmetics Directive"
+      },
+      {
+        "text_it": "Animal Testing - Direttiva sulla protezione degli animali utilizzati a fini scientifici",
+        "text_en": "Animal Testing - Directive on the Protection of Animals Used for Scientific Purposes"
+      },
+      {
+        "text_it": "PPP - Regolamento sui prodotti fitosanitari",
+        "text_en": "PPP - Plant Protection Products Regulation"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **direttiva Animal Testing** (2010/63/UE) stabilisce norme rigorose per la protezione degli animali utilizzati nella ricerca e nei test scientifici.",
+    "explanation_en": "The **Animal Testing Directive** (2010/63/EU) sets strict standards for the protection of animals used in research and scientific testing.",
+    "motivation_it": "La direttiva promuove il principio delle 3R: sostituzione, riduzione e raffinamento degli esperimenti sugli animali.",
+    "motivation_en": "The directive promotes the 3Rs principle: replacement, reduction, and refinement of animal experiments.",
+    "wrong_explanations_it": [
+      "",
+      "REACH regola la registrazione, valutazione e autorizzazione delle sostanze chimiche, non la protezione degli animali.",
+      "",
+      "PPP si occupa dei prodotti fitosanitari e della loro approvazione, non della protezione degli animali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "REACH regulates the registration, evaluation, and authorisation of chemicals, not animal protection.",
+      "",
+      "PPP deals with plant protection products and their approval, not animal protection."
+    ],
+    "category": "EU Legal",
+    "difficulty": "medium",
+    "id": "acr-053"
+  },
+  {
+    "question_it": "Quale strumento legale dell'UE stabilisce un quadro comune per la valutazione e gestione dei rischi delle sostanze chimiche esistenti?",
+    "question_en": "Which EU legal instrument establishes a common framework for the assessment and management of risks of existing chemical substances?",
+    "options": [
+      {
+        "text_it": "CLP - Regolamento sulla classificazione, etichettatura e imballaggio delle sostanze chimiche",
+        "text_en": "CLP - Regulation on classification, labelling and packaging of chemical substances"
+      },
+      {
+        "text_it": "REACH - Regolamento sulla registrazione, valutazione, autorizzazione e restrizione delle sostanze chimiche",
+        "text_en": "REACH - Regulation on registration, evaluation, authorisation and restriction of chemicals"
+      },
+      {
+        "text_it": "BPR - Regolamento sui biocidi",
+        "text_en": "BPR - Biocidal Products Regulation"
+      },
+      {
+        "text_it": "PPP - Regolamento sui prodotti fitosanitari",
+        "text_en": "PPP - Plant Protection Products Regulation"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **REACH** (Regolamento 1907/2006) è lo strumento principale dell'UE per la gestione delle sostanze chimiche, richiedendo la registrazione di tutte le sostanze prodotte o importate nell'UE.",
+    "explanation_en": "**REACH** (Regulation 1907/2006) is the EU's primary instrument for chemical management, requiring registration of all substances manufactured or imported in the EU.",
+    "motivation_it": "Il REACH ha introdotto obblighi per le aziende di dimostrare la sicurezza delle sostanze chimiche prima dell'immissione sul mercato.",
+    "motivation_en": "REACH introduced obligations for companies to demonstrate the safety of chemical substances before placing them on the market.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il BPR riguarda specificamente i biocidi, non tutte le sostanze chimiche.",
+      "Il PPP si applica esclusivamente ai prodotti fitosanitari."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "BPR specifically concerns biocides, not all chemical substances.",
+      "PPP applies exclusively to plant protection products."
+    ],
+    "category": "EU Legal",
+    "difficulty": "hard",
+    "id": "acr-054"
+  },
+  {
+    "question_it": "Quale accordo internazionale dell'UE stabilisce il quadro giuridico per la cooperazione in materia di brevetti in Europa?",
+    "question_en": "Which EU international agreement establishes the legal framework for patent cooperation in Europe?",
+    "options": [
+      {
+        "text_it": "EPC - Convenzione sul brevetto europeo",
+        "text_en": "EPC - European Patent Convention"
+      },
+      {
+        "text_it": "UPCA - Accordo sul Tribunale unificato dei brevetti",
+        "text_en": "UPCA - Unified Patent Court Agreement"
+      },
+      {
+        "text_it": "PCT - Trattato di cooperazione in materia di brevetti",
+        "text_en": "PCT - Patent Cooperation Treaty"
+      },
+      {
+        "text_it": "TRIPS - Accordo sugli aspetti commerciali dei diritti di proprietà intellettuale",
+        "text_en": "TRIPS - Agreement on Trade-Related Aspects of Intellectual Property Rights"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**EPC** (Convenzione sul brevetto europeo) è stato firmato nel 1973 e costituisce la base legale per il sistema dei brevetti europei.",
+    "explanation_en": "The **EPC** (European Patent Convention) was signed in 1973 and forms the legal basis for the European patent system.",
+    "motivation_it": "L'EPC ha creato l'Organizzazione europea dei brevetti (EPO) e un sistema centralizzato per il deposito e l'esame delle domande di brevetto.",
+    "motivation_en": "The EPC created the European Patent Organisation (EPO) and a centralized system for filing and examining patent applications.",
+    "wrong_explanations_it": [
+      "",
+      "L'UPCA riguarda il sistema giudiziario per i brevetti unitari, non il quadro generale della cooperazione.",
+      "Il PCT è un trattato globale gestito dall'OMPI, non specificamente europeo.",
+      "Il TRIPS è un accordo dell'OMC che copre tutti i diritti di proprietà intellettuale, non solo i brevetti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The UPCA concerns the judicial system for unitary patents, not the general cooperation framework.",
+      "The PCT is a global treaty administered by WIPO, not specifically European.",
+      "TRIPS is a WTO agreement covering all intellectual property rights, not just patents."
+    ],
+    "category": "EU Legal",
+    "difficulty": "hard",
+    "id": "acr-055"
+  },
+  {
+    "question_it": "Quale strumento legale dell'UE stabilisce le norme per la protezione dei consumatori nelle transazioni commerciali transfrontaliere?",
+    "question_en": "Which EU legal instrument establishes rules for consumer protection in cross-border commercial transactions?",
+    "options": [
+      {
+        "text_it": "CPC - Regolamento sulla cooperazione per la protezione dei consumatori",
+        "text_en": "CPC - Regulation on Consumer Protection Cooperation"
+      },
+      {
+        "text_it": "CRD - Direttiva sui diritti dei consumatori",
+        "text_en": "CRD - Consumer Rights Directive"
+      },
+      {
+        "text_it": "ODR - Regolamento sulla risoluzione delle controversie online",
+        "text_en": "ODR - Regulation on Online Dispute Resolution"
+      },
+      {
+        "text_it": "UCPD - Direttiva sulle pratiche commerciali sleali",
+        "text_en": "UCPD - Unfair Commercial Practices Directive"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **CRD** (Direttiva 2011/83/UE) armonizza i diritti dei consumatori nelle transazioni transfrontaliere, inclusi il diritto di recesso e le informazioni obbligatorie.",
+    "explanation_en": "The **CRD** (Directive 2011/83/EU) harmonizes consumer rights in cross-border transactions, including the right of withdrawal and mandatory information.",
+    "motivation_it": "La CRD è fondamentale per il corretto funzionamento del mercato unico digitale, garantendo protezione ai consumatori in tutta l'UE.",
+    "motivation_en": "The CRD is crucial for the proper functioning of the digital single market, ensuring consumer protection across the EU.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "L'ODR specifica le procedure per risolvere le controversie online, non stabilisce diritti di base.",
+      "L'UCPD vieta le pratiche commerciali sleali ma non disciplina specificamente i diritti dei consumatori."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The ODR specifies procedures for resolving online disputes but does not establish basic rights.",
+      "The UCPD prohibits unfair commercial practices but does not specifically govern consumer rights."
+    ],
+    "category": "EU Legal",
+    "difficulty": "hard",
+    "id": "acr-056"
+  },
+  {
+    "question_it": "Quale programma dell'UE finanzia progetti per la protezione dell'ambiente e l'azione per il clima?",
+    "question_en": "Which EU programme funds projects for environmental protection and climate action?",
+    "options": [
+      {
+        "text_it": "LIFE - Programma per l'Ambiente e l'Azione per il Clima",
+        "text_en": "LIFE - Environment and Climate Action Programme"
+      },
+      {
+        "text_it": "ERASMUS+ - Programma per l'Istruzione, la Formazione e la Gioventù",
+        "text_en": "ERASMUS+ - Programme for Education, Training and Youth"
+      },
+      {
+        "text_it": "COSME - Programma per la Competitività delle PMI",
+        "text_en": "COSME - Programme for the Competitiveness of SMEs"
+      },
+      {
+        "text_it": "HORIZON - Programma Quadro per la Ricerca e l'Innovazione",
+        "text_en": "HORIZON - Framework Programme for Research and Innovation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il programma **LIFE** è lo strumento finanziario dell'UE dedicato esclusivamente all'ambiente e al clima, operativo dal 1992.",
+    "explanation_en": "The **LIFE** programme is the EU's financial instrument dedicated exclusively to environment and climate, operational since 1992.",
+    "motivation_it": "LIFE sostiene progetti in settori come biodiversità, economia circolare e mitigazione dei cambiamenti climatici.",
+    "motivation_en": "LIFE supports projects in areas like biodiversity, circular economy and climate change mitigation.",
+    "wrong_explanations_it": [
+      "",
+      "ERASMUS+ riguarda la mobilità educativa, non l'ambiente.",
+      "COSME si concentra sulle piccole imprese, non sulla politica ambientale.",
+      "HORIZON finanzia la ricerca in generale, non è specifico per l'ambiente."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "ERASMUS+ concerns educational mobility, not environment.",
+      "COSME focuses on small businesses, not environmental policy.",
+      "HORIZON funds general research, it's not specific to environment."
+    ],
+    "category": "EU Policies",
+    "difficulty": "easy",
+    "id": "acr-057"
+  },
+  {
+    "question_it": "Quale politica dell'UE stabilisce regole comuni per la gestione delle risorse ittiche?",
+    "question_en": "Which EU policy establishes common rules for managing fisheries resources?",
+    "options": [
+      {
+        "text_it": "PCP - Politica Comune della Pesca",
+        "text_en": "CFP - Common Fisheries Policy"
+      },
+      {
+        "text_it": "PAC - Politica Agricola Comune",
+        "text_en": "CAP - Common Agricultural Policy"
+      },
+      {
+        "text_it": "PESC - Politica Estera e di Sicurezza Comune",
+        "text_en": "CFSP - Common Foreign and Security Policy"
+      },
+      {
+        "text_it": "PSC - Patto di Stabilità e Crescita",
+        "text_en": "SGP - Stability and Growth Pact"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **PCP** mira a garantire che la pesca e l'acquacoltura siano sostenibili dal punto di vista ambientale, economico e sociale.",
+    "explanation_en": "The **CFP** aims to ensure fishing and aquaculture are environmentally, economically and socially sustainable.",
+    "motivation_it": "La PCP è stata riformata nel 2013 per porre fine alla pesca eccessiva e ridurre gli scarti.",
+    "motivation_en": "The CFP was reformed in 2013 to end overfishing and reduce discards.",
+    "wrong_explanations_it": [
+      "",
+      "La PAC riguarda l'agricoltura, non la pesca.",
+      "La PESC riguarda la politica estera, non le risorse marine.",
+      "Il PSC disciplina i bilanci nazionali, non la pesca."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The CAP concerns agriculture, not fisheries.",
+      "The CFSP concerns foreign policy, not marine resources.",
+      "The SGP governs national budgets, not fisheries."
+    ],
+    "category": "EU Policies",
+    "difficulty": "easy",
+    "id": "acr-058"
+  },
+  {
+    "question_it": "Quale programma dell'UE sostiene la cooperazione transfrontaliera tra le regioni?",
+    "question_en": "Which EU programme supports cross-border cooperation between regions?",
+    "options": [
+      {
+        "text_it": "INTERREG - Programma di Cooperazione Territoriale Europea",
+        "text_en": "INTERREG - European Territorial Cooperation Programme"
+      },
+      {
+        "text_it": "JUST - Programma Giustizia",
+        "text_en": "JUST - Justice Programme"
+      },
+      {
+        "text_it": "CREA - Programma per il Settore Culturale e Creativo",
+        "text_en": "CREA - Programme for the Cultural and Creative Sector"
+      },
+      {
+        "text_it": "EU4HEALTH - Programma per la Salute",
+        "text_en": "EU4HEALTH - Health Programme"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**INTERREG** è il principale strumento dell'UE per la cooperazione regionale, finanziando progetti congiunti tra regioni confinanti.",
+    "explanation_en": "**INTERREG** is the EU's main instrument for regional cooperation, funding joint projects between neighboring regions.",
+    "motivation_it": "INTERREG aiuta a risolvere sfide comuni come i trasporti, l'ambiente e lo sviluppo economico nelle regioni di frontiera.",
+    "motivation_en": "INTERREG helps address common challenges like transport, environment and economic development in border regions.",
+    "wrong_explanations_it": [
+      "",
+      "JUST riguarda la giustizia e i diritti, non la cooperazione regionale.",
+      "CREA finanzia il settore culturale, non i progetti transfrontalieri.",
+      "EU4HEALTH si concentra sulla sanità pubblica, non sulla cooperazione territoriale."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "JUST concerns justice and rights, not regional cooperation.",
+      "CREA funds the cultural sector, not cross-border projects.",
+      "EU4HEALTH focuses on public health, not territorial cooperation."
+    ],
+    "category": "EU Policies",
+    "difficulty": "easy",
+    "id": "acr-059"
+  },
+  {
+    "question_it": "Quale programma dell'UE finanzia progetti per migliorare l'occupabilità, l'istruzione e l'inclusione sociale?",
+    "question_en": "Which EU programme funds projects to improve employability, education, and social inclusion?",
+    "options": [
+      {
+        "text_it": "ESF - Fondo Sociale Europeo",
+        "text_en": "ESF - European Social Fund"
+      },
+      {
+        "text_it": "ERDF - Fondo Europeo di Sviluppo Regionale",
+        "text_en": "ERDF - European Regional Development Fund"
+      },
+      {
+        "text_it": "CF - Fondo di Coesione",
+        "text_en": "CF - Cohesion Fund"
+      },
+      {
+        "text_it": "EAFRD - Fondo Europeo Agricolo per lo Sviluppo Rurale",
+        "text_en": "EAFRD - European Agricultural Fund for Rural Development"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**ESF** è il principale strumento finanziario dell'UE per sostenere l'occupazione, aiutare le persone a ottenere migliori posti di lavoro e garantire opportunità di lavoro più eque.",
+    "explanation_en": "The **ESF** is the EU's main financial instrument for supporting employment, helping people get better jobs, and ensuring fairer job opportunities.",
+    "motivation_it": "L'ESF si concentra su gruppi vulnerabili, come i giovani disoccupati e le persone svantaggiate.",
+    "motivation_en": "The ESF focuses on vulnerable groups, such as unemployed youth and disadvantaged people.",
+    "wrong_explanations_it": [
+      "",
+      "L'ERDF finanzia progetti infrastrutturali e di sviluppo regionale, non direttamente l'occupabilità.",
+      "Il CF sostiene progetti di trasporto e ambiente nei paesi con PIL pro capite inferiore, non l'inclusione sociale.",
+      "L'EAFRD è dedicato allo sviluppo rurale e agricolo, non all'occupabilità urbana."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ERDF funds infrastructure and regional development projects, not directly employability.",
+      "The CF supports transport and environment projects in countries with lower GDP per capita, not social inclusion.",
+      "The EAFRD is dedicated to rural and agricultural development, not urban employability."
+    ],
+    "category": "EU Policies",
+    "difficulty": "medium",
+    "id": "acr-060"
+  },
+  {
+    "question_it": "Quale politica dell'UE stabilisce regole comuni per la sicurezza dei prodotti e la tutela dei consumatori?",
+    "question_en": "Which EU policy establishes common rules for product safety and consumer protection?",
+    "options": [
+      {
+        "text_it": "GPSD - Direttiva sulla Sicurezza Generale dei Prodotti",
+        "text_en": "GPSD - General Product Safety Directive"
+      },
+      {
+        "text_it": "REACH - Registrazione, Valutazione, Autorizzazione e Restrizione delle Sostanze Chimiche",
+        "text_en": "REACH - Registration, Evaluation, Authorisation and Restriction of Chemicals"
+      },
+      {
+        "text_it": "CE - Conformità Europea",
+        "text_en": "CE - European Conformity"
+      },
+      {
+        "text_it": "RoHS - Restrizione delle Sostanze Pericolose",
+        "text_en": "RoHS - Restriction of Hazardous Substances"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **GPSD** garantisce che i prodotti immessi sul mercato dell'UE siano sicuri per i consumatori e stabilisce obblighi per produttori e distributori.",
+    "explanation_en": "The **GPSD** ensures that products placed on the EU market are safe for consumers and sets obligations for manufacturers and distributors.",
+    "motivation_it": "La GPSD copre tutti i prodotti di consumo, eccetto quelli già disciplinati da normative specifiche.",
+    "motivation_en": "The GPSD covers all consumer products, except those already regulated by specific legislation.",
+    "wrong_explanations_it": [
+      "",
+      "REACH riguarda la gestione delle sostanze chimiche, non la sicurezza generale dei prodotti.",
+      "CE è un marchio di conformità, non una politica.",
+      "RoHS si concentra sulla limitazione di sostanze pericolose in apparecchiature elettriche ed elettroniche."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "REACH concerns the management of chemicals, not general product safety.",
+      "CE is a conformity mark, not a policy.",
+      "RoHS focuses on restricting hazardous substances in electrical and electronic equipment."
+    ],
+    "category": "EU Policies",
+    "difficulty": "medium",
+    "id": "acr-061"
+  },
+  {
+    "question_it": "Quale strumento finanziario dell'UE sostiene progetti per la protezione dell'ambiente e l'azione per il clima?",
+    "question_en": "Which EU financial instrument supports projects for environmental protection and climate action?",
+    "options": [
+      {
+        "text_it": "LIFE - Strumento Finanziario per l'Ambiente",
+        "text_en": "LIFE - Financial Instrument for the Environment"
+      },
+      {
+        "text_it": "H2020 - Orizzonte 2020",
+        "text_en": "H2020 - Horizon 2020"
+      },
+      {
+        "text_it": "EIB - Banca Europea per gli Investimenti",
+        "text_en": "EIB - European Investment Bank"
+      },
+      {
+        "text_it": "CEF - Meccanismo per Collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il programma **LIFE** è dedicato esclusivamente al finanziamento di progetti ambientali e climatici, promuovendo l'innovazione e le migliori pratiche.",
+    "explanation_en": "The **LIFE** programme is exclusively dedicated to funding environmental and climate projects, promoting innovation and best practices.",
+    "motivation_it": "LIFE è stato istituito nel 1992 e ha cofinanziato migliaia di progetti in tutta l'UE.",
+    "motivation_en": "LIFE was established in 1992 and has co-funded thousands of projects across the EU.",
+    "wrong_explanations_it": [
+      "",
+      "H2020 è un programma di ricerca e innovazione più ampio, non specificamente focalizzato sull'ambiente.",
+      "L'EIB fornisce prestiti per vari progetti, ma non è uno strumento dedicato esclusivamente all'ambiente.",
+      "Il CEF finanzia infrastrutture di trasporto, energia e digitale, non direttamente progetti ambientali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "H2020 is a broader research and innovation programme, not specifically focused on the environment.",
+      "The EIB provides loans for various projects but is not a tool exclusively dedicated to the environment.",
+      "The CEF funds transport, energy, and digital infrastructure, not directly environmental projects."
+    ],
+    "category": "EU Policies",
+    "difficulty": "medium",
+    "id": "acr-062"
+  },
+  {
+    "question_it": "Quale politica dell'UE promuove la cooperazione tra gli Stati membri nel campo dell'istruzione e della formazione?",
+    "question_en": "Which EU policy promotes cooperation among Member States in the field of education and training?",
+    "options": [
+      {
+        "text_it": "ET2020 - Strategia per l'Istruzione e la Formazione 2020",
+        "text_en": "ET2020 - Education and Training 2020 Strategy"
+      },
+      {
+        "text_it": "Erasmus+ - Programma per l'Istruzione, la Formazione, la Gioventù e lo Sport",
+        "text_en": "Erasmus+ - Programme for Education, Training, Youth and Sport"
+      },
+      {
+        "text_it": "EQF - Quadro Europeo delle Qualifiche",
+        "text_en": "EQF - European Qualifications Framework"
+      },
+      {
+        "text_it": "ESIF - Fondi Strutturali e di Investimento Europei",
+        "text_en": "ESIF - European Structural and Investment Funds"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La strategia **ET2020** mira a migliorare i sistemi di istruzione e formazione nell'UE, promuovendo la mobilità, l'inclusione e l'innovazione.",
+    "explanation_en": "The **ET2020** strategy aims to improve education and training systems in the EU, promoting mobility, inclusion, and innovation.",
+    "motivation_it": "ET2020 si concentra su obiettivi comuni, come la riduzione dell'abbandono scolastico e il miglioramento delle competenze.",
+    "motivation_en": "ET2020 focuses on common goals, such as reducing early school leaving and improving skills.",
+    "wrong_explanations_it": [
+      "",
+      "Erasmus+ è un programma di finanziamento, non una politica di cooperazione.",
+      "L'EQF è un quadro di riferimento per le qualifiche, non una politica.",
+      "Gli ESIF finanziano progetti di sviluppo regionale, non direttamente l'istruzione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Erasmus+ is a funding programme, not a cooperation policy.",
+      "The EQF is a reference framework for qualifications, not a policy.",
+      "The ESIF fund regional development projects, not directly education."
+    ],
+    "category": "EU Policies",
+    "difficulty": "medium",
+    "id": "acr-063"
+  },
+  {
+    "question_it": "Quale programma dell'UE, lanciato nel 2021, mira a finanziare la transizione verde e digitale attraverso obbligazioni sostenibili?",
+    "question_en": "Which EU program, launched in 2021, aims to finance the green and digital transition through sustainable bonds?",
+    "options": [
+      {
+        "text_it": "NGEU - Next Generation EU",
+        "text_en": "NGEU - Next Generation EU"
+      },
+      {
+        "text_it": "JTF - Fondo per una Transizione Giusta",
+        "text_en": "JTF - Just Transition Fund"
+      },
+      {
+        "text_it": "EFSI - Fondo Europeo per gli Investimenti Strategici",
+        "text_en": "EFSI - European Fund for Strategic Investments"
+      },
+      {
+        "text_it": "CEF - Meccanismo per Collegare l'Europa",
+        "text_en": "CEF - Connecting Europe Facility"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**NGEU** è il pacchetto di ripresa da 750 miliardi di euro che include il **Dispositivo per la Ripresa e la Resilienza (RRF)**, finanziato principalmente attraverso obbligazioni dell'UE.",
+    "explanation_en": "**NGEU** is the €750 billion recovery package that includes the **Recovery and Resilience Facility (RRF)**, primarily funded through EU bonds.",
+    "motivation_it": "NGEU rappresenta la risposta dell'UE alla pandemia di COVID-19 e alla crisi economica, con il 37% dei fondi destinati alla transizione verde.",
+    "motivation_en": "NGEU represents the EU's response to the COVID-19 pandemic and economic crisis, with 37% of funds allocated to the green transition.",
+    "wrong_explanations_it": [
+      "",
+      "Il JTF sostiene solo le regioni più colpite dalla transizione energetica, non è un programma generale.",
+      "L'EFSI (Piano Juncker) era operativo dal 2015 al 2020, prima di NGEU.",
+      "Il CEF finanzia infrastrutture di trasporto, energia e digitale, ma non emette obbligazioni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The JTF only supports regions most affected by the energy transition, not a general program.",
+      "EFSI (Juncker Plan) operated from 2015-2020, predating NGEU.",
+      "CEF funds transport, energy and digital infrastructure but doesn't issue bonds."
+    ],
+    "category": "EU Policies",
+    "difficulty": "hard",
+    "id": "acr-064"
+  },
+  {
+    "question_it": "Quale meccanismo dell'UE monitora e corregge gli squilibri macroeconomici negli Stati membri, compresi i disavanzi eccessivi?",
+    "question_en": "Which EU mechanism monitors and corrects macroeconomic imbalances in Member States, including excessive deficits?",
+    "options": [
+      {
+        "text_it": "MIP - Procedura per gli Squilibri Macroeconomici",
+        "text_en": "MIP - Macroeconomic Imbalance Procedure"
+      },
+      {
+        "text_it": "SEM - Semestre Europeo",
+        "text_en": "SEM - European Semester"
+      },
+      {
+        "text_it": "EDP - Procedura per i Disavanzi Eccessivi",
+        "text_en": "EDP - Excessive Deficit Procedure"
+      },
+      {
+        "text_it": "SGP - Patto di Stabilità e Crescita",
+        "text_en": "SGP - Stability and Growth Pact"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **MIP** è un quadro completo che identifica squilibri come bolle immobiliari o debito privato elevato, mentre l'**EDP** (opzione C) è una sua componente specifica per i disavanzi.",
+    "explanation_en": "The **MIP** is a comprehensive framework identifying imbalances like housing bubbles or high private debt, while **EDP** (Option C) is its specific component for deficits.",
+    "motivation_it": "Introdotto nel 2011 dopo la crisi del debito sovrano, il MIP completa il SGP con indicatori non fiscali.",
+    "motivation_en": "Introduced in 2011 after the sovereign debt crisis, MIP complements the SGP with non-fiscal indicators.",
+    "wrong_explanations_it": [
+      "",
+      "Il SEM è il ciclo di coordinamento delle politiche economiche che include MIP/EDP, ma non è uno strumento specifico.",
+      "L'EDP è una parte del MIP, ma non copre altri squilibri macroeconomici.",
+      "Il SGP si concentra sui deficit/del pubblico, mentre il MIP include indicatori più ampi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "SEM is the economic policy coordination cycle including MIP/EDP, but not a specific tool.",
+      "EDP is part of MIP but doesn't cover other macroeconomic imbalances.",
+      "SGP focuses on public deficits/debt, while MIP includes broader indicators."
+    ],
+    "category": "EU Policies",
+    "difficulty": "hard",
+    "id": "acr-065"
+  }
+]

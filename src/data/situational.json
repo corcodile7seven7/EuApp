@@ -1,0 +1,2607 @@
+[
+  {
+    "id": "sit-001",
+    "question_it": "Marco, italiano residente in Germania, vuole far riconoscere la sua laurea in ingegneria ottenuta in Italia per lavorare a Berlino. Quale direttiva UE garantisce questo diritto?",
+    "question_en": "Marco, an Italian resident in Germany, wants to have his engineering degree obtained in Italy recognized to work in Berlin. Which EU directive guarantees this right?",
+    "options": [
+      {
+        "text_it": "Direttiva 2005/36/CE sul riconoscimento delle qualifiche professionali",
+        "text_en": "Directive 2005/36/EC on the recognition of professional qualifications"
+      },
+      {
+        "text_it": "Regolamento GDPR (2016/679)",
+        "text_en": "GDPR Regulation (2016/679)"
+      },
+      {
+        "text_it": "Direttiva sui lavoratori distaccati (96/71/CE)",
+        "text_en": "Posted Workers Directive (96/71/EC)"
+      },
+      {
+        "text_it": "Direttiva sui consumatori (2011/83/UE)",
+        "text_en": "Consumer Rights Directive (2011/83/EU)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2005/36/CE** armonizza le regole per il riconoscimento delle qualifiche professionali tra Stati membri. *Modificata nel 2013*, introduce il principio della mutua fiducia tra sistemi educativi.",
+    "explanation_en": "**Directive 2005/36/EC** harmonizes rules for recognition of professional qualifications between Member States. *Amended in 2013*, it introduces the principle of mutual trust in education systems.",
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "motivation_it": "Il riconoscimento delle qualifiche è fondamentale per la libera circolazione dei lavoratori",
+    "motivation_en": "Qualification recognition is fundamental for free movement of workers",
+    "wrong_explanations_it": [
+      "",
+      "Il GDPR riguarda la protezione dei dati, non le qualifiche",
+      "La direttiva sui lavoratori distaccati regola condizioni lavorative temporanee",
+      "La direttiva consumatori riguarda acquisti, non riconoscimento titoli"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "GDPR concerns data protection, not qualifications",
+      "Posted Workers Directive regulates temporary working conditions",
+      "Consumer Directive concerns purchases, not degree recognition"
+    ]
+  },
+  {
+    "id": "sit-002",
+    "question_it": "Anna acquista online un laptop da un negozio francese ma cambia idea. Quanti giorni ha per esercitare il diritto di recesso?",
+    "question_en": "Anna buys a laptop online from a French shop but changes her mind. How many days does she have to exercise the right of withdrawal?",
+    "options": [
+      {
+        "text_it": "14 giorni lavorativi",
+        "text_en": "14 working days"
+      },
+      {
+        "text_it": "7 giorni di calendario",
+        "text_en": "7 calendar days"
+      },
+      {
+        "text_it": "30 giorni di calendario",
+        "text_en": "30 calendar days"
+      },
+      {
+        "text_it": "10 giorni lavorativi",
+        "text_en": "10 working days"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2011/83/UE** garantisce un periodo di ripensamento di *14 giorni di calendario* per gli acquisti a distanza. Il termine inizia dalla consegna del bene.",
+    "explanation_en": "**Directive 2011/83/EU** guarantees a *14-calendar day* cooling-off period for distance purchases. The period starts from goods delivery.",
+    "category": "Consumer Protection",
+    "difficulty": "easy",
+    "motivation_it": "Conoscere i diritti fondamentali degli acquirenti online",
+    "motivation_en": "Knowing fundamental rights of online buyers",
+    "wrong_explanations_it": [
+      "",
+      "7 giorni è il minimo per alcuni Stati prima dell'armonizzazione UE",
+      "30 giorni si applica solo in casi particolari",
+      "10 giorni è un periodo comune ma non quello UE"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "7 days was the minimum in some states before EU harmonization",
+      "30 days applies only in special cases",
+      "10 days is common but not the EU standard"
+    ]
+  },
+  {
+    "id": "sit-003",
+    "question_it": "Il volo di Piotr da Varsavia a Roma è cancellato con 12 ore di preavviso. Quale compensazione spetta secondo il regolamento EC 261/2004?",
+    "question_en": "Piotr's flight from Warsaw to Rome is cancelled with 12 hours notice. What compensation applies under EC 261/2004 regulation?",
+    "options": [
+      {
+        "text_it": "250€ (distanza <1500km)",
+        "text_en": "250€ (distance <1500km)"
+      },
+      {
+        "text_it": "Nessuna compensazione (preavviso >14 giorni)",
+        "text_en": "No compensation (notice >14 days)"
+      },
+      {
+        "text_it": "400€ (distanza 1500-3500km)",
+        "text_en": "400€ (distance 1500-3500km)"
+      },
+      {
+        "text_it": "600€ (distanza >3500km)",
+        "text_en": "600€ (distance >3500km)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Per voli intra-UE sotto *1500km*, la compensazione è **250€** se la cancellazione avviene con meno di *14 giorni* ma più di *7 ore* di preavviso. Varsavia-Roma è ~1300km.",
+    "explanation_en": "For intra-EU flights under *1500km*, compensation is **250€** if cancellation occurs with less than *14 days* but more than *7 hours* notice. Warsaw-Rome is ~1300km.",
+    "category": "Consumer Protection",
+    "difficulty": "hard",
+    "motivation_it": "I passeggeri devono conoscere i diritti in caso di disservizi aerei",
+    "motivation_en": "Passengers should know rights for air travel disruptions",
+    "wrong_explanations_it": [
+      "",
+      ">14 giorni annulla il diritto (qui sono 12 ore)",
+      "400€ per tratte più lunghe (es. Varsavia-Lisbona)",
+      "600€ per voli intercontinentali"
+    ],
+    "wrong_explanations_en": [
+      "",
+      ">14 days voids the right (here it's 12 hours)",
+      "400€ for longer routes (e.g. Warsaw-Lisbon)",
+      "600€ for intercontinental flights"
+    ]
+  },
+  {
+    "id": "sit-004",
+    "question_it": "Quale documento sanitario UE permette a Sofia (greca) di ricevere cure mediche durante le vacanze in Croazia?",
+    "question_en": "Which EU health document allows Sofia (Greek) to receive medical care while vacationing in Croatia?",
+    "options": [
+      {
+        "text_it": "Tessera Europea di Assicurazione Malattia (TEAM)",
+        "text_en": "European Health Insurance Card (EHIC)"
+      },
+      {
+        "text_it": "Certificato COVID digitale UE",
+        "text_en": "EU Digital COVID Certificate"
+      },
+      {
+        "text_it": "Prescrizione medica transfrontaliera",
+        "text_en": "Cross-border medical prescription"
+      },
+      {
+        "text_it": "Carta blu UE",
+        "text_en": "EU Blue Card"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **TEAM** (Tessera Europea Assicurazione Malattia) garantisce l'accesso a cure *medicamente necessarie* durante soggiorni temporanei in altri Stati membri, alle stesse condizioni dei residenti.",
+    "explanation_en": "The **EHIC** (European Health Insurance Card) provides access to *medically necessary* care during temporary stays in other Member States, under same conditions as residents.",
+    "category": "Citizens' Rights",
+    "difficulty": "easy",
+    "motivation_it": "Diritti sanitari transfrontalieri essenziali per i cittadini UE",
+    "motivation_en": "Cross-border health rights essential for EU citizens",
+    "wrong_explanations_it": [
+      "",
+      "Il certificato COVID riguarda solo vaccinazioni/test",
+      "Le prescrizioni transfrontaliere sono per farmaci, non accesso cure",
+      "La carta blu è per permessi di lavoro qualificati"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "COVID certificate concerns only vaccinations/tests",
+      "Cross-border prescriptions are for medicines, not care access",
+      "Blue Card is for qualified work permits"
+    ]
+  },
+  {
+    "id": "sit-005",
+    "question_it": "Quanti paesi UE devono essere rappresentati in una European Citizens' Initiative per essere valida?",
+    "question_en": "How many EU countries must be represented in a European Citizens' Initiative to be valid?",
+    "options": [
+      {
+        "text_it": "7 paesi con soglie minime di firme",
+        "text_en": "7 countries with minimum signature thresholds"
+      },
+      {
+        "text_it": "Tutti gli Stati membri (27)",
+        "text_en": "All Member States (27)"
+      },
+      {
+        "text_it": "3 paesi con più firme",
+        "text_en": "3 countries with most signatures"
+      },
+      {
+        "text_it": "15 paesi indipendentemente dalle firme",
+        "text_en": "15 countries regardless of signatures"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Un'iniziativa dei cittadini europei richiede **1 milione di firme** da almeno **7 Stati membri**, con *soglie minime* per paese (es: 15.750 per Germania, 4.500 per Malta).",
+    "explanation_en": "A European Citizens' Initiative requires **1 million signatures** from at least **7 Member States**, with *minimum thresholds* per country (e.g. 15,750 for Germany, 4,500 for Malta).",
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "motivation_it": "Strumento di democrazia partecipativa unico nel suo genere",
+    "motivation_en": "Unique participatory democracy instrument",
+    "wrong_explanations_it": [
+      "",
+      "Non serve coinvolgere tutti gli Stati",
+      "3 paesi non soddisfano i criteri di rappresentatività",
+      "15 paesi è un numero arbitrario non previsto"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Not all states need to be involved",
+      "3 countries don't meet representativeness criteria",
+      "15 countries is an arbitrary number not required"
+    ]
+  },
+  {
+    "id": "sit-006",
+    "question_it": "Luca vuole presentare una petizione al Parlamento Europeo riguardo a un problema transfrontaliero. Quale requisito deve soddisfare?",
+    "question_en": "Luca wants to submit a petition to the European Parliament about a cross-border issue. What requirement must he meet?",
+    "options": [
+      {
+        "text_it": "Essere cittadino UE o residente in un Stato membro",
+        "text_en": "Be an EU citizen or resident in a Member State"
+      },
+      {
+        "text_it": "Raccogliere 10.000 firme di sostegno",
+        "text_en": "Collect 10,000 supporting signatures"
+      },
+      {
+        "text_it": "Avere un avvocato specializzato in diritto UE",
+        "text_en": "Have a lawyer specialized in EU law"
+      },
+      {
+        "text_it": "Presentare la petizione in almeno 3 lingue ufficiali",
+        "text_en": "Submit the petition in at least 3 official languages"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **diritto di petizione** (articolo 227 TFUE) è accessibile a *qualsiasi cittadino UE* o persona *residente* in uno Stato membro, senza bisogno di firme aggiuntive o rappresentanza legale.",
+    "explanation_en": "The **right to petition** (Article 227 TFEU) is available to *any EU citizen* or person *resident* in a Member State, with no need for additional signatures or legal representation.",
+    "category": "Citizens' Rights",
+    "difficulty": "easy",
+    "motivation_it": "Strumento democratico poco conosciuto ma importante",
+    "motivation_en": "Little-known but important democratic tool",
+    "wrong_explanations_it": [
+      "",
+      "10.000 firme servono per l'Iniziativa dei Cittadini, non petizioni",
+      "Non è richiesta assistenza legale",
+      "Le petizioni possono essere in una sola lingua UE"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "10,000 signatures are for Citizens' Initiative, not petitions",
+      "Legal assistance isn't required",
+      "Petitions can be in just one EU language"
+    ]
+  },
+  {
+    "id": "sit-007",
+    "question_it": "Quale diritto GDPR permette a Emma di ottenere copia di tutti i dati personali detenuti da un'azienda?",
+    "question_en": "Which GDPR right allows Emma to obtain a copy of all personal data held by a company?",
+    "options": [
+      {
+        "text_it": "Diritto di accesso (Art. 15)",
+        "text_en": "Right of access (Art. 15)"
+      },
+      {
+        "text_it": "Diritto alla portabilità (Art. 20)",
+        "text_en": "Right to data portability (Art. 20)"
+      },
+      {
+        "text_it": "Diritto all'oblio (Art. 17)",
+        "text_en": "Right to erasure (Art. 17)"
+      },
+      {
+        "text_it": "Diritto di opposizione (Art. 21)",
+        "text_en": "Right to object (Art. 21)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**articolo 15 GDPR** garantisce il *diritto di accesso*, includendo: conferma del trattamento, copia dei dati, finalità, categorie di dati e destinatari.",
+    "explanation_en": "**Article 15 GDPR** guarantees the *right of access*, including: confirmation of processing, data copy, purposes, data categories and recipients.",
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "motivation_it": "Conoscere i diritti fondamentali sulla protezione dati",
+    "motivation_en": "Knowing fundamental data protection rights",
+    "wrong_explanations_it": [
+      "",
+      "La portabilità riguarda il trasferimento dati tra fornitori",
+      "L'oblio comporta la cancellazione, non l'accesso",
+      "L'opposizione permette di rifiutare trattamenti specifici"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Portability concerns data transfer between providers",
+      "Erasure involves deletion, not access",
+      "Objection allows refusing specific processing"
+    ]
+  },
+  {
+    "id": "sit-008",
+    "question_it": "Un'azienda tedesca distacca Klaus in Italia per 8 mesi. Quale direttiva garantisce parità di trattamento con i lavoratori italiani?",
+    "question_en": "A German company posts Klaus to Italy for 8 months. Which directive ensures equal treatment with Italian workers?",
+    "options": [
+      {
+        "text_it": "Direttiva 96/71/CE sui lavoratori distaccati",
+        "text_en": "Directive 96/71/EC on posted workers"
+      },
+      {
+        "text_it": "Direttiva 2014/67/UE sull'esecuzione della distaccamento",
+        "text_en": "Directive 2014/67/EU on enforcement of posting"
+      },
+      {
+        "text_it": "Regolamento Roma I (593/2008)",
+        "text_en": "Rome I Regulation (593/2008)"
+      },
+      {
+        "text_it": "Direttiva sul distacco dei manager (2018/957/UE)",
+        "text_en": "Directive on posting of managers (2018/957/EU)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 96/71/CE** stabilisce che i lavoratori distaccati hanno diritto a *condizioni essenziali di lavoro* del paese ospitante (retribuzione minima, orario, ferie, sicurezza).",
+    "explanation_en": "**Directive 96/71/EC** states that posted workers are entitled to *core working conditions* of the host country (minimum wage, working time, leave, safety).",
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "motivation_it": "Protezione dei diritti dei lavoratori mobili nell'UE",
+    "motivation_en": "Protection of mobile workers' rights in the EU",
+    "wrong_explanations_it": [
+      "",
+      "La 2014/67 riguarda controlli e frodi, non diritti sostanziali",
+      "Roma I regola la legge applicabile ai contratti",
+      "La 2018/957 modifica solo aspetti specifici per alte retribuzioni"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "2014/67 concerns checks and fraud, not substantive rights",
+      "Rome I regulates applicable law for contracts",
+      "2018/957 only amends specific aspects for high wages"
+    ]
+  },
+  {
+    "id": "sit-009",
+    "question_it": "Cosa prevede il regolamento UE 'roam like at home' per Maria che usa il cellulare spagnolo in Svezia?",
+    "question_en": "What does the EU 'roam like at home' regulation provide for Maria using her Spanish phone in Sweden?",
+    "options": [
+      {
+        "text_it": "Nessun costo aggiuntivo per chiamate/SMS/dati entro limiti ragionevoli",
+        "text_en": "No extra charges for calls/SMS/data within fair use limits"
+      },
+      {
+        "text_it": "Sconti del 50% su tutte le comunicazioni",
+        "text_en": "50% discount on all communications"
+      },
+      {
+        "text_it": "Tariffe ridotte solo per chiamate verso il paese d'origine",
+        "text_en": "Reduced rates only for calls to home country"
+      },
+      {
+        "text_it": "Gratuità illimitata solo per i dati",
+        "text_en": "Unlimited free data only"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Dal *15 giugno 2017*, il **regolamento (UE) 2017/920** elimina i sovrapprezzi per roaming nell'UE, con uso equo tipicamente definito come *consumi simili all'uso domestico*.",
+    "explanation_en": "Since *15 June 2017*, **Regulation (EU) 2017/920** removes roaming surcharges in the EU, with fair use typically defined as *consumption similar to domestic use*.",
+    "category": "Consumer Protection",
+    "difficulty": "medium",
+    "motivation_it": "Diritto fondamentale per i cittadini che viaggiano nell'UE",
+    "motivation_en": "Fundamental right for citizens traveling in the EU",
+    "wrong_explanations_it": [
+      "",
+      "Non sono previsti sconti parziali ma eliminazione totale dei costi aggiuntivi",
+      "Le tariffe ridotte solo verso casa sono state abolite nel 2007",
+      "I dati hanno le stesse regole di chiamate/SMS, senza gratuità illimitata"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "No partial discounts but complete elimination of extra costs",
+      "Reduced rates only to home country were abolished in 2007",
+      "Data has same rules as calls/SMS, without unlimited free use"
+    ]
+  },
+  {
+    "id": "sit-010",
+    "question_it": "Quale istituzione UE può indagare su casi di cattiva amministrazione da parte delle istituzioni europee?",
+    "question_en": "Which EU institution can investigate cases of maladministration by European institutions?",
+    "options": [
+      {
+        "text_it": "Mediatore europeo",
+        "text_en": "European Ombudsman"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      },
+      {
+        "text_it": "Eurojust",
+        "text_en": "Eurojust"
+      },
+      {
+        "text_it": "Agenzia europea per i diritti fondamentali",
+        "text_en": "European Union Agency for Fundamental Rights"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Mediatore europeo**, istituito dal *Trattato di Maastricht (1992)*, indaga su denunce di cattiva amministrazione da parte di istituzioni, agenzie e organi UE.",
+    "explanation_en": "The **European Ombudsman**, established by the *Maastricht Treaty (1992)*, investigates complaints about maladministration by EU institutions, agencies and bodies.",
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "motivation_it": "Meccanismo di controllo fondamentale per la trasparenza UE",
+    "motivation_en": "Key oversight mechanism for EU transparency",
+    "wrong_explanations_it": [
+      "",
+      "La Corte dei conti verifica la gestione finanziaria, non l'amministrazione",
+      "Eurojust coordina indagini penali transfrontaliere",
+      "L'Agenzia diritti fondamentali monitora ma non indaga casi specifici"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Court of Auditors checks financial management, not administration",
+      "Eurojust coordinates cross-border criminal investigations",
+      "Fundamental Rights Agency monitors but doesn't investigate cases"
+    ]
+  },
+  {
+    "id": "sit-011",
+    "question_it": "Quale termine massimo ha un'azienda per rispondere a una richiesta di cancellazione dati (diritto all'oblio) secondo il GDPR?",
+    "question_en": "What is the maximum timeframe for a company to respond to an erasure request (right to be forgotten) under GDPR?",
+    "options": [
+      {
+        "text_it": "1 mese (prorogabile a 3 per complessità)",
+        "text_en": "1 month (extendable to 3 for complexity)"
+      },
+      {
+        "text_it": "14 giorni lavorativi",
+        "text_en": "14 working days"
+      },
+      {
+        "text_it": "72 ore per richieste urgenti",
+        "text_en": "72 hours for urgent requests"
+      },
+      {
+        "text_it": "6 mesi per verifiche approfondite",
+        "text_en": "6 months for thorough checks"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**articolo 12 GDPR** impone di rispondere a *qualsiasi richiesta dell'interessato* entro **1 mese**, estendibile a *3 mesi* per casi complessi, con obbligo di notifica dell'estensione.",
+    "explanation_en": "**Article 12 GDPR** requires responding to *any data subject request* within **1 month**, extendable to *3 months* for complex cases, with obligation to notify about the extension.",
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "motivation_it": "Termini precisi sono essenziali per l'efficacia dei diritti GDPR",
+    "motivation_en": "Precise timeframes are essential for GDPR rights effectiveness",
+    "wrong_explanations_it": [
+      "",
+      "14 giorni è un termine comune ma non quello legale",
+      "72 ore si applica solo a violazioni dati (Art. 33)",
+      "6 mesi supera i limiti GDPR anche per casi complessi"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "14 days is common but not the legal standard",
+      "72 hours applies only to data breaches (Art. 33)",
+      "6 months exceeds GDPR limits even for complex cases"
+    ]
+  },
+  {
+    "id": "sit-012",
+    "question_it": "Cosa deve fare un'azienda prima di trasferire dati personali fuori dall'UE secondo il GDPR?",
+    "question_en": "What must a company do before transferring personal data outside the EU under GDPR?",
+    "options": [
+      {
+        "text_it": "Garantire un livello di protezione adeguato (es. clausole standard)",
+        "text_en": "Ensure an adequate protection level (e.g. standard clauses)"
+      },
+      {
+        "text_it": "Ottenere il consenso esplicito di ogni interessato",
+        "text_en": "Obtain explicit consent from each data subject"
+      },
+      {
+        "text_it": "Richiedere l'approvazione dell'autorità nazionale",
+        "text_en": "Request approval from national authority"
+      },
+      {
+        "text_it": "Pagare una tassa alla Commissione europea",
+        "text_en": "Pay a fee to the European Commission"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**articolo 44 GDPR** richiede che i trasferimenti extra-UE avvengano solo con *garanzie adeguate* come: decisione di adeguatezza, clausole contrattuali standard, regole vincolanti d'impresa.",
+    "explanation_en": "**Article 44 GDPR** requires extra-EU transfers only with *adequate safeguards* like: adequacy decision, standard contractual clauses, binding corporate rules.",
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "motivation_it": "Protezione dati è globale nel mondo interconnesso",
+    "motivation_en": "Data protection is global in interconnected world",
+    "wrong_explanations_it": [
+      "",
+      "Il consenso è solo una delle possibili basi giuridiche",
+      "Le autorità nazionali non hanno ruolo preventivo",
+      "Non sono previste tasse UE per i trasferimenti"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Consent is just one possible legal basis",
+      "National authorities have no preventive role",
+      "No EU fees are required for transfers"
+    ]
+  },
+  {
+    "id": "sit-013",
+    "question_it": "Quale diritto UE consente a Pierre di portare il suo conto bancario francese quando si trasferisce in Belgio?",
+    "question_en": "Which EU right allows Pierre to take his French bank account when moving to Belgium?",
+    "options": [
+      {
+        "text_it": "Libera prestazione di servizi (TFUE art. 56)",
+        "text_en": "Freedom to provide services (TFEU art. 56)"
+      },
+      {
+        "text_it": "Libera circolazione dei capitali (TFUE art. 63)",
+        "text_en": "Free movement of capital (TFEU art. 63)"
+      },
+      {
+        "text_it": "Diritto alla portabilità dei dati (GDPR art. 20)",
+        "text_en": "Right to data portability (GDPR art. 20)"
+      },
+      {
+        "text_it": "Direttiva sui servizi di pagamento (PSD2)",
+        "text_en": "Payment Services Directive (PSD2)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**articolo 56 TFUE** sulla libera prestazione di servizi impedisce alle banche di chiudere conti per *cambi di residenza* nell'UE, purché il conto sia in euro o nella valuta originale.",
+    "explanation_en": "**Article 56 TFEU** on free provision of services prevents banks from closing accounts due to *residence changes* in the EU, provided the account is in euro or original currency.",
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "motivation_it": "Diritti finanziari transfrontalieri poco conosciuti ma cruciali",
+    "motivation_en": "Little-known but crucial cross-border financial rights",
+    "wrong_explanations_it": [
+      "",
+      "La libera circolazione dei capitali riguarda investimenti, non servizi bancari",
+      "La portabilità dati GDPR non si applica ai conti correnti",
+      "PSD2 regola i pagamenti ma non la continuità dei conti"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Free movement of capital concerns investments, not banking services",
+      "GDPR data portability doesn't apply to bank accounts",
+      "PSD2 regulates payments but not account continuity"
+    ]
+  },
+  {
+    "id": "sit-014",
+    "question_it": "Quale organismo UE può aiutare Rafael a risolvere una disputa con una compagnia aerea greca dopo un volo cancellato?",
+    "question_en": "Which EU body can help Rafael resolve a dispute with a Greek airline after a cancelled flight?",
+    "options": [
+      {
+        "text_it": "Centro Europeo Consumatori (ECC-Net)",
+        "text_en": "European Consumer Centre (ECC-Net)"
+      },
+      {
+        "text_it": "Autorità europea della concorrenza",
+        "text_en": "European Competition Authority"
+      },
+      {
+        "text_it": "Rete giudiziaria europea",
+        "text_en": "European Judicial Network"
+      },
+      {
+        "text_it": "Europol",
+        "text_en": "Europol"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **rete ECC-Net**, finanziata dalla Commissione UE, offre *assistenza gratuita* per dispute transfrontaliere tra consumatori e trader, incluso il regolamento sui diritti dei passeggeri aerei.",
+    "explanation_en": "The **ECC-Net**, funded by the EU Commission, provides *free assistance* for cross-border disputes between consumers and traders, including air passenger rights regulation.",
+    "category": "Consumer Protection",
+    "difficulty": "medium",
+    "motivation_it": "Strumento pratico per far valere i diritti dei consumatori",
+    "motivation_en": "Practical tool to enforce consumer rights",
+    "wrong_explanations_it": [
+      "",
+      "L'autorità concorrenza si occupa di cartelli/abusi di posizione dominante",
+      "La rete giudiziaria assiste in casi penali",
+      "Europol combatte la criminalità organizzata"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Competition authority deals with cartels/market abuse",
+      "Judicial network assists in criminal cases",
+      "Europol fights organized crime"
+    ]
+  },
+  {
+    "id": "sit-015",
+    "question_it": "Quale direttiva UE protegge Eva che acquista un pacchetto vacanza (volo+hotel) da un'agenzia online?",
+    "question_en": "Which EU directive protects Eva when buying a holiday package (flight+hotel) from an online agency?",
+    "options": [
+      {
+        "text_it": "Direttiva 2015/2302 sui pacchetti turistici",
+        "text_en": "Directive 2015/2302 on package travel"
+      },
+      {
+        "text_it": "Direttiva 2005/29/CE sulle pratiche commerciali sleali",
+        "text_en": "Directive 2005/29/EC on unfair commercial practices"
+      },
+      {
+        "text_it": "Direttiva servizi digitali (DSA)",
+        "text_en": "Digital Services Act (DSA)"
+      },
+      {
+        "text_it": "Direttiva 2011/83/UE sui diritti dei consumatori",
+        "text_en": "Directive 2011/83/EU on consumer rights"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2015/2302** offre protezione completa per pacchetti turistici: diritto a *informazioni chiare*, *recesso senza costi* prima della partenza in caso di cambiamenti sostanziali, e *rimpatrio* se l'organizzatore fallisce.",
+    "explanation_en": "**Directive 2015/2302** provides comprehensive protection for travel packages: right to *clear information*, *free withdrawal* before departure for substantial changes, and *repatriation* if the organizer goes bankrupt.",
+    "category": "Consumer Protection",
+    "difficulty": "hard",
+    "motivation_it": "Protezione essenziale per acquisti complessi e ad alto valore",
+    "motivation_en": "Essential protection for complex, high-value purchases",
+    "wrong_explanations_it": [
+      "",
+      "La direttiva pratiche sleali riguarda pubblicità ingannevole ma non diritti specifici",
+      "Il DSA regola piattaforme digitali, non pacchetti turistici",
+      "La direttiva consumatori copre acquisti generici, non pacchetti"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Unfair practices directive concerns misleading ads but not specific rights",
+      "DSA regulates digital platforms, not travel packages",
+      "Consumer rights directive covers generic purchases, not packages"
+    ]
+  },
+  {
+    "id": "sit-016",
+    "question_it": "Marco, cittadino italiano, ha subito un incidente stradale in Francia. La sua richiesta di risarcimento di €3.200 è stata ignorata dal conducente francese. Quale procedura UE può utilizzare per risolvere la controversia in modo semplice ed economico?",
+    "question_en": "Marco, an Italian citizen, was involved in a car accident in France. His €3.200 compensation claim has been ignored by the French driver. Which EU procedure can he use to resolve the dispute simply and cost-effectively?",
+    "options": [
+      {
+        "text_it": "Procedura europea di ingiunzione di pagamento",
+        "text_en": "European Payment Order procedure"
+      },
+      {
+        "text_it": "Procedura europea per le controversie di modesta entità",
+        "text_en": "European Small Claims Procedure"
+      },
+      {
+        "text_it": "Ricorso alla Corte di Giustizia UE",
+        "text_en": "Appeal to the EU Court of Justice"
+      },
+      {
+        "text_it": "Mediazione transfrontaliera",
+        "text_en": "Cross-border mediation"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **procedura europea per le controversie di modesta entità** (Regolamento UE 2015/2421) si applica a controversie civili e commerciali fino a €5.000 tra parti di diversi Stati membri. È *semplice*, *economica* e non richiede un avvocato.",
+    "explanation_en": "The **European Small Claims Procedure** (Regulation EU 2015/2421) applies to civil and commercial disputes up to €5.000 between parties in different Member States. It's *simple*, *low-cost* and doesn't require a lawyer.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "easy",
+    "motivation_it": "Questa procedura è specificamente progettata per casi come quello di Marco, con importi inferiori a €5.000 e parti in diversi paesi UE.",
+    "motivation_en": "This procedure is specifically designed for cases like Marco's, with amounts below €5.000 and parties in different EU countries.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La Corte di Giustizia non è competente per casi individuali",
+      "La mediazione non produce una decisione vincolante"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Court of Justice doesn't handle individual cases",
+      "Mediation doesn't produce binding decision"
+    ]
+  },
+  {
+    "id": "sit-017",
+    "question_it": "Anna, farmacista tedesca, riceve una ricetta medica rilasciata in Polonia. Secondo la direttiva UE sui servizi sanitari transfrontalieri, cosa deve fare?",
+    "question_en": "Anna, a German pharmacist, receives a medical prescription issued in Poland. According to the EU directive on cross-border healthcare, what should she do?",
+    "options": [
+      {
+        "text_it": "Riconoscere la ricetta e dispensare il farmaco",
+        "text_en": "Recognize the prescription and dispense the medicine"
+      },
+      {
+        "text_it": "Rifiutarsi perché scritta in polacco",
+        "text_en": "Refuse because it's in Polish"
+      },
+      {
+        "text_it": "Chiedere una traduzione ufficiale",
+        "text_en": "Request an official translation"
+      },
+      {
+        "text_it": "Contattare l'ambasciata polacca",
+        "text_en": "Contact the Polish embassy"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2011/24/UE** stabilisce che le ricette mediche rilasciate in un paese UE devono essere riconosciute in tutti gli altri Stati membri, purché contengano elementi essenziali comprensibili (come nome del farmaco, posologia). *Non* è richiesta traduzione ufficiale.",
+    "explanation_en": "**Directive 2011/24/EU** states that medical prescriptions issued in one EU country must be recognized in all others, provided they contain essential understandable elements (like medicine name, dosage). *No* official translation is required.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "motivation_it": "La direttiva ha creato un sistema di riconoscimento reciproco per facilitare l'accesso alle cure transfrontaliere.",
+    "motivation_en": "The directive created a mutual recognition system to facilitate cross-border healthcare access.",
+    "wrong_explanations_it": [
+      "",
+      "La lingua non è motivo di rifiuto",
+      "Non serve traduzione ufficiale",
+      "Le ambasciate non sono coinvolte"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Language isn't grounds for refusal",
+      "Official translation isn't needed",
+      "Embassies aren't involved"
+    ]
+  },
+  {
+    "id": "sit-018",
+    "question_it": "Carlos, cittadino spagnolo assunto in Belgio, viene licenziato dopo aver rivelato la sua HIV positività. Quale direttiva UE è stata violata?",
+    "question_en": "Carlos, a Spanish citizen employed in Belgium, is fired after disclosing his HIV status. Which EU directive has been violated?",
+    "options": [
+      {
+        "text_it": "Direttiva 2000/78/CE sulla parità di trattamento in materia di occupazione",
+        "text_en": "Directive 2000/78/EC on equal treatment in employment"
+      },
+      {
+        "text_it": "Direttiva 89/391/CEE sulla sicurezza sul lavoro",
+        "text_en": "Directive 89/391/EEC on occupational safety"
+      },
+      {
+        "text_it": "Direttiva 2006/54/CE sulla parità di genere",
+        "text_en": "Directive 2006/54/EC on gender equality"
+      },
+      {
+        "text_it": "Direttiva 2019/1152 sulle condizioni di lavoro trasparenti",
+        "text_en": "Directive 2019/1152 on transparent working conditions"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2000/78/CE** vieta la discriminazione sul lavoro per *religione, disabilità, età o orientamento sessuale*. L'HIV è considerato una disabilità ai sensi della direttiva. Il licenziamento è una chiara violazione.",
+    "explanation_en": "**Directive 2000/78/EC** prohibits workplace discrimination based on *religion, disability, age or sexual orientation*. HIV is considered a disability under the directive. The dismissal is a clear violation.",
+    "category": "EU Workplace",
+    "difficulty": "hard",
+    "motivation_it": "Questa direttiva è il principale strumento UE contro le discriminazioni sul lavoro per motivi diversi dal genere.",
+    "motivation_en": "This directive is the main EU instrument against workplace discrimination on grounds other than gender.",
+    "wrong_explanations_it": [
+      "",
+      "Riguarda la sicurezza fisica, non le discriminazioni",
+      "Si applica solo alle disparità di genere",
+      "Regola i contratti, non le discriminazioni"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Covers physical safety, not discrimination",
+      "Only applies to gender disparities",
+      "Regulates contracts, not discrimination"
+    ]
+  },
+  {
+    "id": "sit-019",
+    "question_it": "Quale istituzione UE gestisce le denunce per violazioni del GDPR presentate da cittadini di un paese contro un'azienda in un altro Stato membro?",
+    "question_en": "Which EU body handles GDPR violation complaints filed by citizens from one country against a company in another Member State?",
+    "options": [
+      {
+        "text_it": "Autorità nazionale per la protezione dei dati del paese del cittadino",
+        "text_en": "National data protection authority of the citizen's country"
+      },
+      {
+        "text_it": "Autorità nazionale per la protezione dei dati del paese dell'azienda",
+        "text_en": "National data protection authority of the company's country"
+      },
+      {
+        "text_it": "Garante europeo della protezione dei dati",
+        "text_en": "European Data Protection Supervisor"
+      },
+      {
+        "text_it": "Agenzia dell'UE per la cibersicurezza",
+        "text_en": "EU Agency for Cybersecurity"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Secondo il **Regolamento GDPR (2016/679)**, le denunce possono essere presentate all'autorità nazionale del *paese di residenza del cittadino* (articolo 77), che poi collabora con l'autorità del paese dell'azienda attraverso il *meccanismo di cooperazione unico*.",
+    "explanation_en": "Under the **GDPR Regulation (2016/679)**, complaints can be filed with the national authority of the *citizen's country of residence* (Article 77), which then cooperates with the company's country authority through the *one-stop-shop mechanism*.",
+    "category": "Administrative Procedures",
+    "difficulty": "medium",
+    "motivation_it": "Il GDPR ha semplificato il processo per i cittadini, permettendo di agire localmente anche per violazioni transfrontaliere.",
+    "motivation_en": "GDPR simplified the process for citizens, allowing local action even for cross-border violations.",
+    "wrong_explanations_it": [
+      "",
+      "Il cittadino può scegliere ma non è obbligatorio",
+      "Si occupa solo delle istituzioni UE",
+      "Non gestisce denunce individuali"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Citizen can choose but isn't required",
+      "Only handles EU institutions",
+      "Doesn't process individual complaints"
+    ]
+  },
+  {
+    "id": "sit-020",
+    "question_it": "Sophie, funzionaria francese della Commissione UE, riceve un invito a cena da un lobbista che offre biglietti per l'opera. Come dovrebbe reagire secondo il Codice di condotta dei funzionari UE?",
+    "text_en": "Sophie, a French official at the EU Commission, receives a dinner invitation from a lobbyist offering opera tickets. How should she react according to the EU Staff Regulations Code of Conduct?",
+    "options": [
+      {
+        "text_it": "Rifiutare i biglietti ma accettare la cena se sotto i 50€",
+        "text_en": "Refuse the tickets but accept dinner if under €50"
+      },
+      {
+        "text_it": "Rifiutare entrambi e segnalare l'episodio",
+        "text_en": "Refuse both and report the incident"
+      },
+      {
+        "text_it": "Accettare solo se autorizzata dal superiore",
+        "text_en": "Accept only if authorized by supervisor"
+      },
+      {
+        "text_it": "Accettare perché comune pratica di networking",
+        "text_en": "Accept as common networking practice"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**articolo 11 del Regolamento dei dipendenti UE** vieta qualsiasi dono o vantaggio che possa compromettere l'indipendenza. I biglietti per l'opera superano chiaramente i limiti accettabili (*soglia usuale: 50€*) e la fonte (un lobbista) crea conflitto d'interessi.",
+    "explanation_en": "**Article 11 of EU Staff Regulations** prohibits any gift/benefit that could compromise independence. Opera tickets clearly exceed acceptable limits (*usual threshold: €50*) and the source (a lobbyist) creates conflict of interest.",
+    "category": "EU Workplace",
+    "difficulty": "medium",
+    "motivation_it": "L'integrità è fondamentale nel servizio UE. Anche l'apparenza di influenze indebite deve essere evitata.",
+    "motivation_en": "Integrity is fundamental in EU service. Even the appearance of undue influence must be avoided.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "L'autorizzazione non cambia la natura inappropriata",
+      "È esplicitamente vietato dal codice"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Authorization doesn't change inappropriate nature",
+      "Explicitly forbidden by the code"
+    ],
+    "question_en": "Sophie, funzionaria francese della Commissione UE, riceve un invito a cena da un lobbista che offre biglietti per l'opera. Come dovrebbe reagire secondo il Codice di condotta dei funzionari UE?"
+  },
+  {
+    "id": "sit-021",
+    "question_it": "Quale fase dell'procedura di selezione EPSO viene condotta per computer e valuta le competenze cognitive generali?",
+    "question_en": "Which EPSO selection procedure stage is computer-based and assesses general cognitive abilities?",
+    "options": [
+      {
+        "text_it": "Test preliminare computerizzato",
+        "text_en": "Computer-based pre-selection tests"
+      },
+      {
+        "text_it": "Assessment center",
+        "text_en": "Assessment center"
+      },
+      {
+        "text_it": "Intervista strutturata",
+        "text_en": "Structured interview"
+      },
+      {
+        "text_it": "Verifica delle qualifiche",
+        "text_en": "Talent screening"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **test preliminare computerizzato** (CBT) valuta *ragionamento verbale, numerico e astratto*. È la prima fase dopo la verifica dei requisiti formali, tipicamente condotta in centri autorizzati.",
+    "explanation_en": "The **computer-based pre-selection tests** (CBT) assess *verbal, numerical and abstract reasoning*. It's the first stage after formal eligibility checks, typically conducted in authorized centers.",
+    "category": "Administrative Procedures",
+    "difficulty": "easy",
+    "motivation_it": "Questa è una fase standardizzata comune a quasi tutti i concorsi EPSO AD5.",
+    "motivation_en": "This is a standardized stage common to nearly all EPSO AD5 competitions.",
+    "wrong_explanations_it": [
+      "",
+      "Valuta competenze trasversali, non cognitive",
+      "Verifica motivazione e adattabilità",
+      "Analizza CV e esperienze"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Assesses transversal skills, not cognitive",
+      "Checks motivation and adaptability",
+      "Analyses CV and experiences"
+    ]
+  },
+  {
+    "id": "sit-022",
+    "question_it": "Un cittadino lussemburghese muore in Italia lasciando proprietà in entrambi i paesi. Secondo il regolamento UE sulle successioni, quale legge si applica alla sua eredità?",
+    "question_en": "A Luxembourg citizen dies in Italy leaving property in both countries. According to the EU succession regulation, which law applies to his inheritance?",
+    "options": [
+      {
+        "text_it": "Legge del Lussemburgo (suo ultimo domicilio)",
+        "text_en": "Luxembourg law (his last habitual residence)"
+      },
+      {
+        "text_it": "Legge italiana (paese del decesso)",
+        "text_en": "Italian law (country of death)"
+      },
+      {
+        "text_it": "Legge di ciascun paese dove sono situati i beni",
+        "text_en": "Law of each country where assets are located"
+      },
+      {
+        "text_it": "Legge scelta dal defunto nel testamento",
+        "text_en": "Law chosen by the deceased in his will"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Regolamento UE 650/2012** stabilisce che le successioni sono governate dalla legge del *paese dell'ultimo domicilio abituale* del defunto (articolo 21), a meno che non abbia scelto esplicitamente la legge della sua nazionalità.",
+    "explanation_en": "**EU Regulation 650/2012** states that successions are governed by the law of the *country of last habitual residence* (Article 21), unless the deceased explicitly chose their nationality's law.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "hard",
+    "motivation_it": "Il regolamento ha introdotto un criterio uniforme per evitare conflitti di legge nelle successioni transfrontaliere.",
+    "motivation_en": "The regulation introduced a uniform criterion to prevent law conflicts in cross-border successions.",
+    "wrong_explanations_it": [
+      "",
+      "Il luogo di morte è irrilevante",
+      "Era la regola pre-regolamento, ora non più",
+      "Può scegliere solo la legge della sua nazionalità"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Place of death is irrelevant",
+      "Was the pre-regulation rule, no longer applies",
+      "Can only choose their nationality's law"
+    ]
+  },
+  {
+    "id": "sit-023",
+    "question_it": "Un camionista portoghese lavora temporaneamente in Germania. Quale documento UE certifica il suo diritto alle prestazioni sanitarie tedesche?",
+    "question_en": "A Portuguese truck driver works temporarily in Germany. Which EU document certifies his right to German healthcare benefits?",
+    "options": [
+      {
+        "text_it": "Tessera europea di assicurazione malattia (TEAM)",
+        "text_en": "European Health Insurance Card (EHIC)"
+      },
+      {
+        "text_it": "Certificato A1 di distacco",
+        "text_en": "A1 Portable Document certificate"
+      },
+      {
+        "text_it": "Modello E104",
+        "text_en": "Form E104"
+      },
+      {
+        "text_it": "Certificato S1",
+        "text_en": "S1 certificate"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **certificato A1** (ex E101) dimostra quale legislazione di sicurezza sociale si applica ai lavoratori transfrontalieri temporanei secondo il *Regolamento 883/2004*. È rilasciato dal paese di origine e obbligatorio per distacchi superiori a 24 mesi.",
+    "explanation_en": "The **A1 certificate** (ex E101) shows which social security legislation applies to temporary cross-border workers under *Regulation 883/2004*. Issued by the home country, it's mandatory for postings exceeding 24 months.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "motivation_it": "Questo documento è cruciale per i lavoratori distaccati per garantire la continuità della copertura sociale.",
+    "motivation_en": "This document is crucial for posted workers to ensure social coverage continuity.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Riguarda l'exportazione di pensioni",
+      "Per residenti all'estero non lavoratori"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Concerns pension exports",
+      "For non-working residents abroad"
+    ]
+  },
+  {
+    "id": "sit-024",
+    "question_it": "Una sentenza italiana di risarcimento danni deve essere eseguita in Svezia. Quale regolamento UE garantisce il suo riconoscimento senza procedura speciale?",
+    "question_en": "An Italian damages award needs enforcement in Sweden. Which EU regulation ensures its recognition without special procedure?",
+    "options": [
+      {
+        "text_it": "Regolamento Bruxelles I bis (1215/2012)",
+        "text_en": "Brussels I bis Regulation (1215/2012)"
+      },
+      {
+        "text_it": "Regolamento Roma I (593/2008)",
+        "text_en": "Rome I Regulation (593/2008)"
+      },
+      {
+        "text_it": "Regolamento insolvenza (2015/848)",
+        "text_en": "Insolvency Regulation (2015/848)"
+      },
+      {
+        "text_it": "Regolamento mediazione (524/2013)",
+        "text_en": "Mediation Regulation (524/2013)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Regolamento Bruxelles I bis** stabilisce che le sentenze in materia civile e commerciale emesse in un paese UE sono *automaticamente riconosciute* negli altri Stati membri (articolo 36), senza bisogno di dichiarazione di esecutività.",
+    "explanation_en": "**Brussels I bis Regulation** states that judgments in civil/commercial matters from one EU country are *automatically recognized* in others (Article 36), without needing exequatur.",
+    "category": "Administrative Procedures",
+    "difficulty": "hard",
+    "motivation_it": "Questo regolamento è fondamentale per la libera circolazione delle decisioni giudiziarie nel mercato unico.",
+    "motivation_en": "This regulation is fundamental for free movement of judicial decisions in the single market.",
+    "wrong_explanations_it": [
+      "",
+      "Regola la legge applicabile ai contratti",
+      "Riguarda le procedure fallimentari",
+      "Si applica agli accordi di mediazione"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Governs applicable law for contracts",
+      "Concerns bankruptcy procedures",
+      "Applies to mediation settlements"
+    ]
+  },
+  {
+    "id": "sit-025",
+    "question_it": "Un cittadino rumeno è arrestato in Grecia senza accesso a un avvocato. Quale articolo del TFEU potrebbe invocare per chiedere assistenza diplomatica?",
+    "question_en": "A Romanian citizen is arrested in Greece without lawyer access. Which TFEU article could he invoke to request diplomatic assistance?",
+    "options": [
+      {
+        "text_it": "Articolo 23",
+        "text_en": "Article 23"
+      },
+      {
+        "text_it": "Articolo 45",
+        "text_en": "Article 45"
+      },
+      {
+        "text_it": "Articolo 101",
+        "text_en": "Article 101"
+      },
+      {
+        "text_it": "Articolo 258",
+        "text_en": "Article 258"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**articolo 23 TFEU** stabilisce che ogni cittadino UE ha diritto alla *protezione diplomatica* da parte di qualsiasi Stato membro se il proprio paese non è rappresentato in un paese terzo. In questo caso, la Romania potrebbe chiedere alla Grecia (altro Stato UE) di assistere il suo cittadino.",
+    "explanation_en": "**Article 23 TFEU** grants every EU citizen the right to *diplomatic protection* by any Member State if their country isn't represented in a third country. Here, Romania could ask Greece (another EU state) to assist its citizen.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "motivation_it": "Questo diritto è una tangibile espressione della cittadinanza europea.",
+    "motivation_en": "This right is a tangible expression of European citizenship.",
+    "wrong_explanations_it": [
+      "",
+      "Riguarda la libera circolazione dei lavoratori",
+      "Sanzioni antitrust",
+      "Procedura d'infrazione"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Covers free movement of workers",
+      "Antitrust sanctions",
+      "Infringement procedure"
+    ]
+  },
+  {
+    "id": "sit-026",
+    "question_it": "Quale fase della procedura di reclutamento EPSO valuta specificamente le competenze trasversali attraverso esercizi pratici?",
+    "question_en": "Which EPSO recruitment phase specifically assesses transversal skills through practical exercises?",
+    "options": [
+      {
+        "text_it": "Assessment center",
+        "text_en": "Assessment center"
+      },
+      {
+        "text_it": "Test preliminare computerizzato",
+        "text_en": "Computer-based tests"
+      },
+      {
+        "text_it": "Verifica delle qualifiche",
+        "text_en": "Talent screening"
+      },
+      {
+        "text_it": "Intervista orale",
+        "text_en": "Oral interview"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**assessment center** valuta competenze come *lavoro di squadra, comunicazione e leadership* attraverso *case studies, presentazioni e giochi di ruolo*. Dura tipicamente 1-2 giorni ed è condotto da valutatori formati.",
+    "explanation_en": "The **assessment center** evaluates skills like *teamwork, communication and leadership* through *case studies, presentations and role-playing*. It typically lasts 1-2 days and is conducted by trained assessors.",
+    "category": "Administrative Procedures",
+    "difficulty": "easy",
+    "motivation_it": "Questa fase è cruciale per valutare come i candidati applicano competenze in scenari lavorativi realistici.",
+    "motivation_en": "This phase is crucial to assess how candidates apply skills in realistic work scenarios.",
+    "wrong_explanations_it": [
+      "",
+      "Valuta capacità cognitive generali",
+      "Analizza CV e esperienze precedenti",
+      "Verifica motivazione e conoscenze specifiche"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Assesses general cognitive abilities",
+      "Analyses CV and prior experiences",
+      "Checks motivation and specific knowledge"
+    ]
+  },
+  {
+    "id": "sit-027",
+    "question_it": "Una sentenza tedesca ordina il blocco di un sito web che viola i diritti d'autore. Secondo il regolamento UE 1215/2012, in quali paesi può essere eseguita questa misura?",
+    "question_en": "A German court orders blocking of a copyright-infringing website. Under EU Regulation 1215/2012, in which countries can this measure be enforced?",
+    "options": [
+      {
+        "text_it": "Solo in Germania",
+        "text_en": "Only in Germany"
+      },
+      {
+        "text_it": "In tutti gli Stati UE",
+        "text_en": "In all EU states"
+      },
+      {
+        "text_it": "Nei paesi di lingua tedesca",
+        "text_en": "In German-speaking countries"
+      },
+      {
+        "text_it": "Nei paesi che aderiscono alla direttiva copyright",
+        "text_en": "In countries implementing the copyright directive"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Sebbene il **Regolamento Bruxelles I bis** faciliti il riconoscimento delle sentenze, le *misure ingiuntive* (come i blocchi web) sono limitate al territorio dello Stato membro che le emette (*principio di territorialità*). Servirebbero procedure separate in altri paesi.",
+    "explanation_en": "While the **Brussels I bis Regulation** facilitates judgment recognition, *injunctive measures* (like website blocks) are limited to the issuing Member State's territory (*territoriality principle*). Separate procedures would be needed in other countries.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "hard",
+    "motivation_it": "Le misure coercitive hanno implicazioni territoriali che il regolamento non supera completamente.",
+    "motivation_en": "Enforcement measures have territorial implications the regulation doesn't fully overcome.",
+    "wrong_explanations_it": [
+      "",
+      "Le misure coercitive restano territoriali",
+      "Non è un criterio linguistico",
+      "L'attuazione di direttive non è rilevante"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Enforcement measures remain territorial",
+      "Language isn't a criterion",
+      "Directive implementation isn't relevant"
+    ]
+  },
+  {
+    "id": "sit-028",
+    "question_it": "Un dipendente pubblico UE vuole candidarsi alle elezioni europee nel suo paese. Cosa prevede il Regolamento dei dipendenti UE?",
+    "question_en": "An EU civil servant wants to run in European elections in his country. What do the EU Staff Regulations provide?",
+    "options": [
+      {
+        "text_it": "Deve ottenere un permesso speciale",
+        "text_en": "Must obtain special leave"
+      },
+      {
+        "text_it": "Deve dimettersi prima della candidatura",
+        "text_en": "Must resign before candidacy"
+      },
+      {
+        "text_it": "Può candidarsi mantenendo il posto",
+        "text_en": "Can run while keeping the position"
+      },
+      {
+        "text_it": "È vietato per conflitto d'interessi",
+        "text_en": "Forbidden due to conflict of interest"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**articolo 11 bis** del Regolamento dei dipendenti UE richiede le *dimissioni* prima di presentare candidature elettorali che potrebbero creare conflitto con i doveri di indipendenza e lealtà. Eccezione: elezioni locali non retribuite.",
+    "explanation_en": "**Article 11 bis** of EU Staff Regulations requires *resignation* before submitting electoral candidacies that could conflict with independence and loyalty duties. Exception: unpaid local elections.",
+    "category": "EU Workplace",
+    "difficulty": "medium",
+    "motivation_it": "La neutralità del servizio pubblico UE è considerata prioritaria rispetto all'attività politica attiva.",
+    "motivation_en": "EU civil service neutrality is prioritized over active political engagement.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Sarebbe incompatibile con l'indipendenza",
+      "Si applica solo a incarichi retribuiti"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Would conflict with independence",
+      "Only applies to paid positions"
+    ]
+  },
+  {
+    "id": "sit-029",
+    "question_it": "Una patente di guida italiana scaduta da 5 anni può essere rinnovata in Spagna?",
+    "question_en": "Can an Italian driving license expired for 5 years be renewed in Spain?",
+    "options": [
+      {
+        "text_it": "Sì, senza restrizioni",
+        "text_en": "Yes, without restrictions"
+      },
+      {
+        "text_it": "Solo se convertita prima della scadenza",
+        "text_en": "Only if converted before expiration"
+      },
+      {
+        "text_it": "No, deve essere rinnovata in Italia",
+        "text_en": "No, must be renewed in Italy"
+      },
+      {
+        "text_it": "Solo per residenti da oltre 2 anni",
+        "text_en": "Only for residents over 2 years"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Direttiva 2006/126/CE** permette il rinnovo transfrontaliero solo per patenti *validi* o scaduti da meno di *1 anno*. Dopo questo termine, il rinnovo deve avvenire nel paese di emissione (Italia), che potrebbe richiedere un nuovo esame.",
+    "explanation_en": "**Directive 2006/126/EC** allows cross-border renewal only for *valid* licenses or those expired less than *1 year*. Beyond this, renewal must occur in the issuing country (Italy), which may require retesting.",
+    "category": "Cross-Border Scenarios",
+    "difficulty": "easy",
+    "motivation_it": "La direttiva bilancia la libera circolazione con la necessità di verifiche sulla capacità di guida.",
+    "motivation_en": "The directive balances free movement with need for driving ability verification.",
+    "wrong_explanations_it": [
+      "",
+      "Ci sono limiti temporali precisi",
+      "",
+      "La residenza non è un fattore rilevante"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "There are precise time limits",
+      "",
+      "Residence isn't a relevant factor"
+    ]
+  },
+  {
+    "id": "sit-030",
+    "question_it": "Quale istituzione UE riceve e valuta le denunce per presunta cattiva amministrazione da parte delle istituzioni europee?",
+    "question_en": "Which EU institution receives and assesses complaints about alleged maladministration by EU bodies?",
+    "options": [
+      {
+        "text_it": "Mediatore europeo",
+        "text_en": "European Ombudsman"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      },
+      {
+        "text_it": "Eurojust",
+        "text_en": "Eurojust"
+      },
+      {
+        "text_it": "Agenzia UE per i diritti fondamentali",
+        "text_en": "EU Agency for Fundamental Rights"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Mediatore europeo**, istituito dal *Trattato di Maastricht* (art. 228 TFUE), indaga su casi di *cattiva amministrazione* (ritardi, discriminazioni, abusi di potere) nelle istituzioni UE. I cittadini possono presentare denunce gratuite.",
+    "explanation_en": "The **European Ombudsman**, established by the *Maastricht Treaty* (art. 228 TFEU), investigates *maladministration* (delays, discrimination, power abuse) in EU bodies. Citizens can file free complaints.",
+    "category": "Administrative Procedures",
+    "difficulty": "easy",
+    "motivation_it": "Questa è una delle principali vie di ricorso per i cittadini contro le istituzioni UE.",
+    "motivation_en": "This is a main recourse channel for citizens against EU institutions.",
+    "wrong_explanations_it": [
+      "",
+      "Controlla la gestione finanziaria",
+      "Coordina indagini penali",
+      "Monitora i diritti ma non gestisce denunce"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Audits financial management",
+      "Coordinates criminal investigations",
+      "Monitors rights but doesn't handle complaints"
+    ]
+  },
+  {
+    "question_it": "Maria, una cittadina polacca che vive in Spagna, vuole votare alle elezioni comunali locali. Quale trattato UE le garantisce questo diritto?",
+    "question_en": "Maria, a Polish citizen living in Spain, wants to vote in local municipal elections. Which EU treaty guarantees this right?",
+    "options": [
+      {
+        "text_it": "Trattato sul Funzionamento dell'Unione Europea (TFUE)",
+        "text_en": "Treaty on the Functioning of the European Union (TFEU)"
+      },
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Lisbon Treaty"
+      },
+      {
+        "text_it": "Trattato di Schengen",
+        "text_en": "Schengen Treaty"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Trattato di Maastricht** del 1992 ha introdotto il concetto di cittadinanza dell'Unione Europea, garantendo ai cittadini UE il diritto di votare alle elezioni locali nello Stato membro di residenza.",
+    "explanation_en": "The **Maastricht Treaty** of 1992 introduced the concept of European Union citizenship, granting EU citizens the right to vote in local elections in their Member State of residence.",
+    "motivation_it": "Il diritto di voto locale è un aspetto fondamentale della cittadinanza europea.",
+    "motivation_en": "The right to vote locally is a fundamental aspect of European citizenship.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il Trattato di Lisbona ha modificato il TFUE ma non ha introdotto questo diritto",
+      "Il Trattato di Schengen riguarda la libera circolazione, non i diritti politici"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The Lisbon Treaty amended TFEU but didn't introduce this right",
+      "The Schengen Treaty concerns free movement, not political rights"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "easy",
+    "id": "sit-031"
+  },
+  {
+    "question_it": "Giovanni, un cittadino italiano, vuole trasferirsi in Francia per lavoro. Quale principio dell'UE garantisce questo diritto?",
+    "question_en": "Giovanni, an Italian citizen, wants to move to France for work. Which EU principle guarantees this right?",
+    "options": [
+      {
+        "text_it": "Libera circolazione dei lavoratori",
+        "text_en": "Free movement of workers"
+      },
+      {
+        "text_it": "Libera prestazione di servizi",
+        "text_en": "Free provision of services"
+      },
+      {
+        "text_it": "Libera circolazione delle merci",
+        "text_en": "Free movement of goods"
+      },
+      {
+        "text_it": "Libera circolazione dei capitali",
+        "text_en": "Free movement of capital"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il principio della **libera circolazione dei lavoratori** permette ai cittadini UE di lavorare in qualsiasi Stato membro senza discriminazioni basate sulla nazionalità.",
+    "explanation_en": "The **free movement of workers** principle allows EU citizens to work in any Member State without discrimination based on nationality.",
+    "motivation_it": "La libera circolazione dei lavoratori è uno dei fondamenti del mercato unico europeo.",
+    "motivation_en": "Free movement of workers is one of the foundations of the European single market.",
+    "wrong_explanations_it": [
+      "",
+      "La libera prestazione di servizi riguarda le attività economiche temporanee",
+      "La libera circolazione delle merci concerne il commercio di prodotti",
+      "La libera circolazione dei capitali regola i movimenti finanziari"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Free provision of services concerns temporary economic activities",
+      "Free movement of goods concerns trade of products",
+      "Free movement of capital regulates financial movements"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "easy",
+    "id": "sit-032"
+  },
+  {
+    "question_it": "Maria, una cittadina polacca residente in Spagna, desidera votare alle elezioni europee. Quale trattato UE garantisce questo diritto?",
+    "question_en": "Maria, a Polish citizen living in Spain, wants to vote in European elections. Which EU treaty guarantees this right?",
+    "options": [
+      {
+        "text_it": "Trattato sul funzionamento dell'Unione europea (TFUE)",
+        "text_en": "Treaty on the Functioning of the European Union (TFEU)"
+      },
+      {
+        "text_it": "Trattato di Maastricht",
+        "text_en": "Maastricht Treaty"
+      },
+      {
+        "text_it": "Trattato di Lisbona",
+        "text_en": "Lisbon Treaty"
+      },
+      {
+        "text_it": "Trattato di Roma",
+        "text_en": "Treaty of Rome"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Trattato sul funzionamento dell'Unione europea (TFUE)** all'articolo 22 garantisce il diritto di voto alle elezioni europee per i cittadini UE residenti in un altro Stato membro. Questo diritto è fondamentale per la cittadinanza europea.",
+    "explanation_en": "The **Treaty on the Functioning of the European Union (TFEU)** in Article 22 guarantees the right to vote in European elections for EU citizens residing in another Member State. This right is fundamental to European citizenship.",
+    "motivation_it": "Il diritto di voto alle elezioni europee è un pilastro della cittadinanza europea.",
+    "motivation_en": "The right to vote in European elections is a cornerstone of European citizenship.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Maastricht ha istituito l'Unione europea, ma non specifica il diritto di voto alle elezioni europee",
+      "Il Trattato di Lisbona ha modificato il TFUE, ma non è il trattato principale che garantisce questo diritto",
+      "Il Trattato di Roma ha istituito la CEE, ma non tratta del diritto di voto alle elezioni europee"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Maastricht Treaty established the European Union but does not specify the right to vote in European elections",
+      "The Lisbon Treaty amended the TFEU but is not the main treaty guaranteeing this right",
+      "The Treaty of Rome established the EEC but does not address the right to vote in European elections"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "id": "sit-033"
+  },
+  {
+    "question_it": "Giovanni, un cittadino italiano, vuole trasferirsi in Francia per lavoro. Quale principio UE garantisce la libera circolazione dei lavoratori?",
+    "question_en": "Giovanni, an Italian citizen, wants to move to France for work. Which EU principle guarantees the free movement of workers?",
+    "options": [
+      {
+        "text_it": "Libera circolazione dei lavoratori (articolo 45 TFUE)",
+        "text_en": "Free movement of workers (Article 45 TFEU)"
+      },
+      {
+        "text_it": "Libera circolazione delle merci",
+        "text_en": "Free movement of goods"
+      },
+      {
+        "text_it": "Libera circolazione dei servizi",
+        "text_en": "Free movement of services"
+      },
+      {
+        "text_it": "Libera circolazione dei capitali",
+        "text_en": "Free movement of capital"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il principio della **libera circolazione dei lavoratori**, sancito dall'articolo 45 del TFUE, permette ai cittadini UE di lavorare in qualsiasi Stato membro senza discriminazioni basate sulla nazionalità.",
+    "explanation_en": "The principle of **free movement of workers**, enshrined in Article 45 of the TFEU, allows EU citizens to work in any Member State without discrimination based on nationality.",
+    "motivation_it": "La libera circolazione dei lavoratori è uno dei pilastri del mercato unico europeo.",
+    "motivation_en": "The free movement of workers is one of the cornerstones of the European single market.",
+    "wrong_explanations_it": [
+      "",
+      "La libera circolazione delle merci riguarda il commercio, non i lavoratori",
+      "La libera circolazione dei servizi riguarda le attività economiche, non i lavoratori",
+      "La libera circolazione dei capitali riguarda gli investimenti, non i lavoratori"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Free movement of goods concerns trade, not workers",
+      "Free movement of services concerns economic activities, not workers",
+      "Free movement of capital concerns investments, not workers"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "id": "sit-034"
+  },
+  {
+    "question_it": "Sophia, una cittadina greca, riceve assistenza medica durante una vacanza in Italia. Quale direttiva UE garantisce questo diritto?",
+    "question_en": "Sophia, a Greek citizen, receives medical care while on vacation in Italy. Which EU directive guarantees this right?",
+    "options": [
+      {
+        "text_it": "Direttiva 2011/24/UE sull'assistenza sanitaria transfrontaliera",
+        "text_en": "Directive 2011/24/EU on cross-border healthcare"
+      },
+      {
+        "text_it": "Direttiva sui consumatori (2011/83/UE)",
+        "text_en": "Consumer Rights Directive (2011/83/EU)"
+      },
+      {
+        "text_it": "Direttiva sui lavoratori distaccati (96/71/CE)",
+        "text_en": "Posted Workers Directive (96/71/EC)"
+      },
+      {
+        "text_it": "Direttiva sulla protezione dei dati (GDPR)",
+        "text_en": "Data Protection Directive (GDPR)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2011/24/UE** garantisce ai cittadini UE il diritto di ricevere assistenza sanitaria in un altro Stato membro e di essere rimborsati secondo le regole del proprio paese di residenza.",
+    "explanation_en": "**Directive 2011/24/EU** ensures that EU citizens have the right to receive healthcare in another Member State and to be reimbursed according to the rules of their country of residence.",
+    "motivation_it": "L'assistenza sanitaria transfrontaliera è un diritto fondamentale per i cittadini UE.",
+    "motivation_en": "Cross-border healthcare is a fundamental right for EU citizens.",
+    "wrong_explanations_it": [
+      "",
+      "La direttiva sui consumatori riguarda acquisti, non assistenza sanitaria",
+      "La direttiva sui lavoratori distaccati regola condizioni lavorative temporanee",
+      "Il GDPR riguarda la protezione dei dati, non l'assistenza sanitaria"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Consumer Directive concerns purchases, not healthcare",
+      "The Posted Workers Directive regulates temporary working conditions",
+      "GDPR concerns data protection, not healthcare"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "medium",
+    "id": "sit-035"
+  },
+  {
+    "question_it": "Karolina, una cittadina ceca residente in Irlanda, viene discriminata sul lavoro a causa della sua nazionalità. Quale articolo del Trattato sul Funzionamento dell'Unione Europea (TFUE) protegge i suoi diritti?",
+    "question_en": "Karolina, a Czech citizen living in Ireland, faces workplace discrimination due to her nationality. Which article of the Treaty on the Functioning of the European Union (TFEU) protects her rights?",
+    "options": [
+      {
+        "text_it": "Articolo 18 TFUE (divieto di discriminazione in base alla nazionalità)",
+        "text_en": "Article 18 TFEU (prohibition of discrimination based on nationality)"
+      },
+      {
+        "text_it": "Articolo 45 TFUE (libera circolazione dei lavoratori)",
+        "text_en": "Article 45 TFEU (free movement of workers)"
+      },
+      {
+        "text_it": "Articolo 157 TFUE (parità di retribuzione tra uomini e donne)",
+        "text_en": "Article 157 TFEU (equal pay for male and female workers)"
+      },
+      {
+        "text_it": "Articolo 21 TFUE (diritto di circolazione e soggiorno)",
+        "text_en": "Article 21 TFEU (right to move and reside freely)"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "L'**Articolo 18 TFUE** vieta espressamente *qualsiasi discriminazione* basata sulla nazionalità nell'ambito di applicazione dei trattati. Si applica a tutti i settori, compreso l'impiego.",
+    "explanation_en": "**Article 18 TFEU** explicitly prohibits *any discrimination* based on nationality within the scope of the treaties. It applies to all areas, including employment.",
+    "motivation_it": "La non discriminazione è un principio fondamentale del diritto UE",
+    "motivation_en": "Non-discrimination is a fundamental principle of EU law",
+    "wrong_explanations_it": [
+      "",
+      "L'art.45 riguarda l'accesso al lavoro, non la discriminazione post-assunzione",
+      "L'art.157 tratta solo disparità di genere, non nazionalità",
+      "L'art.21 garantisce mobilità ma non specificamente protezione antidiscriminatoria"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Art.45 concerns job access, not post-hire discrimination",
+      "Art.157 covers only gender disparity, not nationality",
+      "Art.21 guarantees mobility but not specific anti-discrimination protection"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "id": "sit-036"
+  },
+  {
+    "question_it": "Lars, un cittadino danese, viene multato in Portogallo per aver guidato con un'auto noleggiata senza il kit di sicurezza obbligatorio locale. Può contestare la multa in base al principio UE di riconoscimento reciproco?",
+    "question_en": "Lars, a Danish citizen, is fined in Portugal for driving a rental car without the locally mandatory safety kit. Can he challenge the fine based on the EU principle of mutual recognition?",
+    "options": [
+      {
+        "text_it": "No, perché le norme di sicurezza stradale rientrano nelle competenze nazionali",
+        "text_en": "No, because road safety regulations fall under national competence"
+      },
+      {
+        "text_it": "Sì, se dimostra che il veicolo era conforme alle norme danesi",
+        "text_en": "Yes, if he proves the vehicle complied with Danish standards"
+      },
+      {
+        "text_it": "Solo se il kit non era obbligatorio in nessun Stato membro",
+        "text_en": "Only if the kit wasn't mandatory in any Member State"
+      },
+      {
+        "text_it": "Sì, perché il principio di riconoscimento reciproco si applica a tutti i beni",
+        "text_en": "Yes, because mutual recognition applies to all goods"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio di riconoscimento reciproco** non si applica alle *norme di sicurezza stradale*, che rimangono di competenza nazionale. Gli Stati possono imporre requisiti specifici per la circolazione sul loro territorio.",
+    "explanation_en": "The **mutual recognition principle** doesn't apply to *road safety regulations*, which remain national competence. States may impose specific requirements for vehicles on their territory.",
+    "motivation_it": "La sicurezza stradale è un'area dove gli Stati membri mantengono ampia discrezionalità",
+    "motivation_en": "Road safety is an area where Member States retain wide discretion",
+    "wrong_explanations_it": [
+      "",
+      "Il riconoscimento reciproco non copre requisiti tecnici per veicoli circolanti",
+      "L'uniformità tra Stati non è requisito per le norme di sicurezza nazionale",
+      "Il principio si applica ai beni commercializzati, non alla loro circolazione"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Mutual recognition doesn't cover technical requirements for circulating vehicles",
+      "Uniformity across States isn't required for national safety rules",
+      "The principle applies to marketed goods, not their circulation"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "id": "sit-037"
+  },
+  {
+    "question_it": "Elena, una cittadina bulgara residente in Svezia da 4 anni, viene esclusa da un concorso pubblico perché non ha ancora la cittadinanza svedese. Quale direttiva UE è stata violata?",
+    "question_en": "Elena, a Bulgarian citizen resident in Sweden for 4 years, is excluded from a public tender for not having Swedish citizenship yet. Which EU directive has been violated?",
+    "options": [
+      {
+        "text_it": "Direttiva 2004/38/CE sui diritti di soggiorno",
+        "text_en": "Directive 2004/38/EC on residence rights"
+      },
+      {
+        "text_it": "Direttiva 2014/24/UE sugli appalti pubblici",
+        "text_en": "Directive 2014/24/EU on public procurement"
+      },
+      {
+        "text_it": "Direttiva 2000/43/CE sulla parità razziale",
+        "text_en": "Directive 2000/43/EC on racial equality"
+      },
+      {
+        "text_it": "Direttiva 1999/70/CE sul lavoro a tempo determinato",
+        "text_en": "Directive 1999/70/EC on fixed-term work"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2004/38/CE** garantisce ai cittadini UE con *soggiorno permanente* (oltre 5 anni) parità di trattamento con i cittadini nazionali, compreso l'accesso agli impieghi pubblici non riservati.",
+    "explanation_en": "**Directive 2004/38/EC** grants EU citizens with *permanent residence* (over 5 years) equal treatment with nationals, including access to non-reserved public employment.",
+    "motivation_it": "La direttiva stabilisce una graduale acquisizione di diritti basata sulla durata del soggiorno",
+    "motivation_en": "The directive establishes gradual acquisition of rights based on residence duration",
+    "wrong_explanations_it": [
+      "",
+      "La direttiva appalti regola procedure di gara, non requisiti di partecipazione",
+      "La direttiva sulla parità razziale non copre la cittadinanza",
+      "La direttiva sul lavoro temporaneo riguarda condizioni contrattuali"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Procurement directive governs tender procedures, not participation requirements",
+      "Racial equality directive doesn't cover citizenship",
+      "Fixed-term work directive concerns contractual conditions"
+    ],
+    "category": "Citizens' Rights",
+    "difficulty": "hard",
+    "id": "sit-038"
+  },
+  {
+    "question_it": "Maria, una cittadina polacca che vive in Spagna, vuole votare alle elezioni comunali. Quale principio UE le garantisce questo diritto?",
+    "question_en": "Maria, a Polish citizen living in Spain, wants to vote in local elections. Which EU principle guarantees her this right?",
+    "options": [
+      {
+        "text_it": "Principio di non discriminazione",
+        "text_en": "Principle of non-discrimination"
+      },
+      {
+        "text_it": "Libera circolazione dei cittadini",
+        "text_en": "Free movement of citizens"
+      },
+      {
+        "text_it": "Diritto di voto e di eleggibilità alle elezioni comunali",
+        "text_en": "Right to vote and stand in municipal elections"
+      },
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Principle of subsidiarity"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **diritto di voto e di eleggibilità alle elezioni comunali** (articolo 22 TFUE) garantisce ai cittadini UE residenti in un altro Stato membro il diritto di partecipare alle elezioni locali alle stesse condizioni dei cittadini nazionali.",
+    "explanation_en": "The **right to vote and stand in municipal elections** (Article 22 TFEU) grants EU citizens residing in another Member State the right to participate in local elections under the same conditions as national citizens.",
+    "motivation_it": "Questo diritto è fondamentale per l'integrazione dei cittadini UE che vivono in un altro Stato membro.",
+    "motivation_en": "This right is fundamental for the integration of EU citizens living in another Member State.",
+    "wrong_explanations_it": [
+      "",
+      "La non discriminazione è un principio generale ma non specifico per il diritto di voto",
+      "",
+      "La sussidiarietà riguarda la ripartizione di competenze tra UE e Stati membri"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Non-discrimination is a general principle but not specific for voting rights",
+      "",
+      "Subsidiarity concerns the division of competences between EU and Member States"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "easy",
+    "id": "sit-039"
+  },
+  {
+    "question_it": "Jan, un cittadino ceco, acquista un telefono in Germania ma scopre che è difettoso. Quale direttiva UE lo protegge?",
+    "question_en": "Jan, a Czech citizen, buys a phone in Germany but finds it defective. Which EU directive protects him?",
+    "options": [
+      {
+        "text_it": "Direttiva sui diritti dei consumatori",
+        "text_en": "Consumer Rights Directive"
+      },
+      {
+        "text_it": "Direttiva sulla vendita di beni di consumo",
+        "text_en": "Consumer Sales Directive"
+      },
+      {
+        "text_it": "Direttiva sulle pratiche commerciali sleali",
+        "text_en": "Unfair Commercial Practices Directive"
+      },
+      {
+        "text_it": "Direttiva sui servizi di pagamento",
+        "text_en": "Payment Services Directive"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Direttiva sulla vendita di beni di consumo** (1999/44/CE) garantisce che i beni acquistati nell'UE siano conformi al contratto e prevede il diritto a riparazione, sostituzione o rimborso entro 2 anni in caso di difetti.",
+    "explanation_en": "The **Consumer Sales Directive** (1999/44/EC) ensures that goods purchased in the EU conform to the contract and provides rights to repair, replacement or refund within 2 years for defects.",
+    "motivation_it": "Questa direttiva armonizza le garanzie per i consumatori in tutti gli Stati membri.",
+    "motivation_en": "This directive harmonizes consumer guarantees across all Member States.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La direttiva sulle pratiche commerciali sleali riguarda la pubblicità ingannevole",
+      "La direttiva sui servizi di pagamento riguarda le transazioni finanziarie"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Unfair Commercial Practices Directive concerns misleading advertising",
+      "Payment Services Directive concerns financial transactions"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "easy",
+    "id": "sit-040"
+  },
+  {
+    "question_it": "Luca, un cittadino italiano, lavora come freelance per un'azienda belga. Dopo 6 mesi, l'azienda smette di pagarlo senza spiegazioni. Quale strumento UE può utilizzare per recuperare il credito transfrontaliero?",
+    "question_en": "Luca, an Italian citizen, works as a freelancer for a Belgian company. After 6 months, the company stops paying him without explanation. Which EU instrument can he use to recover the cross-border debt?",
+    "options": [
+      {
+        "text_it": "Procedura europea di ingiunzione di pagamento",
+        "text_en": "European Payment Order procedure"
+      },
+      {
+        "text_it": "Direttiva sui ritardi di pagamento",
+        "text_en": "Late Payment Directive"
+      },
+      {
+        "text_it": "Ricorso alla Corte europea dei diritti dell'uomo",
+        "text_en": "Appeal to the European Court of Human Rights"
+      },
+      {
+        "text_it": "Regolamento sul riconoscimento reciproco",
+        "text_en": "Mutual Recognition Regulation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **procedura europea di ingiunzione di pagamento** (Regolamento UE 1896/2006) consente di ottenere un titolo esecutivo per crediti *incontestati* in casi transfrontalieri, senza dover avviare un procedimento ordinario.",
+    "explanation_en": "The **European Payment Order procedure** (Regulation EU 1896/2006) allows obtaining an enforceable title for *uncontested* claims in cross-border cases, without going through ordinary proceedings.",
+    "motivation_it": "Questo strumento è particolarmente utile per professionisti e PMI che operano transfrontalieramente nell'UE.",
+    "motivation_en": "This instrument is particularly useful for professionals and SMEs operating cross-border within the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La direttiva stabilisce termini di pagamento ma non è uno strumento esecutivo",
+      "La Corte EDU non si occupa di controversie commerciali",
+      "Il riconoscimento reciproco riguarda prodotti e qualifiche professionali"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The directive sets payment terms but isn't an enforcement tool",
+      "ECHR doesn't handle commercial disputes",
+      "Mutual recognition concerns products and professional qualifications"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "id": "sit-041"
+  },
+  {
+    "question_it": "Elena, cittadina rumena residente in Austria, viene licenziata mentre è incinta. Quale direttiva UE protegge i suoi diritti in questa situazione transfrontaliera?",
+    "question_en": "Elena, a Romanian citizen residing in Austria, is dismissed while pregnant. Which EU directive protects her rights in this cross-border situation?",
+    "options": [
+      {
+        "text_it": "Direttiva sull'uguaglianza di genere",
+        "text_en": "Gender Equality Directive"
+      },
+      {
+        "text_it": "Direttiva sui lavoratori distaccati",
+        "text_en": "Posted Workers Directive"
+      },
+      {
+        "text_it": "Direttiva sulla parità di trattamento",
+        "text_en": "Equal Treatment Directive"
+      },
+      {
+        "text_it": "Direttiva conciliazione vita-lavoro",
+        "text_en": "Work-Life Balance Directive"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Direttiva sulla parità di trattamento** (2006/54/CE) vieta la discriminazione sul lavoro per *maternità*, garantendo protezione contro licenziamenti ingiustificati durante la gravidanza in tutto l'UE.",
+    "explanation_en": "The **Equal Treatment Directive** (2006/54/EC) prohibits workplace discrimination based on *pregnancy*, providing protection against unjustified dismissal during pregnancy across the EU.",
+    "motivation_it": "Questa direttiva è fondamentale per garantire pari opportunità nel mercato del lavoro europeo.",
+    "motivation_en": "This directive is fundamental for ensuring equal opportunities in the European labor market.",
+    "wrong_explanations_it": [
+      "La direttiva sull'uguaglianza di genere riguarda principalmente la parità retributiva",
+      "La direttiva sui lavoratori distaccati regola condizioni lavorative temporanee",
+      "",
+      "La direttiva conciliazione riguarda congedi parentali e flessibilità lavorativa"
+    ],
+    "wrong_explanations_en": [
+      "Gender Equality Directive mainly concerns equal pay",
+      "Posted Workers Directive regulates temporary working conditions",
+      "",
+      "Work-Life Balance Directive concerns parental leave and work flexibility"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "id": "sit-042"
+  },
+  {
+    "question_it": "Mikael, cittadino svedese, subisce un infortunio durante una vacanza in Grecia e necessita di cure prolungate. Quale regolamento UE garantisce il suo diritto a ricevere assistenza sanitaria?",
+    "question_en": "Mikael, a Swedish citizen, suffers an injury while on vacation in Greece and requires prolonged medical care. Which EU regulation guarantees his right to receive healthcare?",
+    "options": [
+      {
+        "text_it": "Regolamento sui diritti dei passeggeri",
+        "text_en": "Passenger Rights Regulation"
+      },
+      {
+        "text_it": "Regolamento sul coordinamento dei sistemi di sicurezza sociale",
+        "text_en": "Social Security Coordination Regulation"
+      },
+      {
+        "text_it": "Direttiva servizi sanitari transfrontalieri",
+        "text_en": "Cross-Border Healthcare Directive"
+      },
+      {
+        "text_it": "Regolamento sul marchio CE",
+        "text_en": "CE Marking Regulation"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Regolamento sul coordinamento dei sistemi di sicurezza sociale** (883/2004) garantisce l'accesso a cure *medicamente necessarie* durante soggiorni temporanei in altri Stati membri, tramite la tessera europea di assicurazione malattia.",
+    "explanation_en": "The **Social Security Coordination Regulation** (883/2004) guarantees access to *medically necessary* treatment during temporary stays in other Member States, through the European Health Insurance Card.",
+    "motivation_it": "Questo sistema è fondamentale per la libera circolazione dei cittadini UE in sicurezza.",
+    "motivation_en": "This system is fundamental for the safe free movement of EU citizens.",
+    "wrong_explanations_it": [
+      "Il regolamento sui passeggeri riguarda diritti nei trasporti",
+      "",
+      "La direttiva riguarda cure programmate all'estero, non emergenze",
+      "Il marchio CE riguarda la conformità dei prodotti"
+    ],
+    "wrong_explanations_en": [
+      "Passenger Rights Regulation concerns transport rights",
+      "",
+      "The directive concerns planned treatment abroad, not emergencies",
+      "CE Marking concerns product compliance"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "medium",
+    "id": "sit-043"
+  },
+  {
+    "question_it": "Maria, cittadina polacca residente in Spagna, viene licenziata dopo aver rivelato pratiche illegali nel suo posto di lavoro. Quale direttiva UE la protegge in questa situazione?",
+    "question_en": "Maria, a Polish citizen residing in Spain, is dismissed after revealing illegal practices at her workplace. Which EU directive protects her in this situation?",
+    "options": [
+      {
+        "text_it": "Direttiva sui diritti dei lavoratori (2006/54/CE)",
+        "text_en": "Workers' Rights Directive (2006/54/EC)"
+      },
+      {
+        "text_it": "Direttiva sulla protezione dei whistleblower (2019/1937/UE)",
+        "text_en": "Whistleblower Protection Directive (2019/1937/EU)"
+      },
+      {
+        "text_it": "Direttiva sulla parità di trattamento (2000/78/CE)",
+        "text_en": "Equal Treatment Directive (2000/78/EC)"
+      },
+      {
+        "text_it": "Direttiva sulla tutela dei dati personali (2016/680/UE)",
+        "text_en": "Personal Data Protection Directive (2016/680/EU)"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Direttiva sulla protezione dei whistleblower (2019/1937/UE)** garantisce protezione ai lavoratori che segnalano violazioni del diritto dell'Unione, compresi i licenziamenti ingiustificati. È applicabile in *casi transfrontalieri* come quello di Maria.",
+    "explanation_en": "The **Whistleblower Protection Directive (2019/1937/EU)** ensures protection for workers reporting breaches of Union law, including wrongful dismissals. It applies in *cross-border cases* like Maria's.",
+    "motivation_it": "Questa direttiva è stata adottata per incoraggiare la segnalazione di illeciti e proteggere i whistleblower da rappresaglie.",
+    "motivation_en": "This directive was adopted to encourage reporting of wrongdoing and protect whistleblowers from retaliation.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La direttiva sulla parità di trattamento si concentra sulla discriminazione",
+      "La direttiva sulla tutela dei dati personali non è rilevante per questo caso"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The Equal Treatment Directive focuses on discrimination",
+      "The Personal Data Protection Directive is not relevant to this case"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "hard",
+    "id": "sit-044"
+  },
+  {
+    "question_it": "Jan, cittadino ceco, acquista un'automobile in Germania ma scopre che è difettosa. Il venditore rifiuta di ripararla. Quale direttiva UE garantisce i suoi diritti in questa situazione?",
+    "question_en": "Jan, a Czech citizen, buys a car in Germany but discovers it is defective. The seller refuses to repair it. Which EU directive guarantees his rights in this situation?",
+    "options": [
+      {
+        "text_it": "Direttiva sui diritti dei consumatori (2011/83/UE)",
+        "text_en": "Consumer Rights Directive (2011/83/EU)"
+      },
+      {
+        "text_it": "Direttiva sulla vendita di beni di consumo (2019/771/UE)",
+        "text_en": "Consumer Sales Directive (2019/771/EU)"
+      },
+      {
+        "text_it": "Direttiva sui servizi di pagamento (2015/2366/UE)",
+        "text_en": "Payment Services Directive (2015/2366/EU)"
+      },
+      {
+        "text_it": "Direttiva sulla concorrenza (2014/104/UE)",
+        "text_en": "Competition Directive (2014/104/EU)"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Direttiva sulla vendita di beni di consumo (2019/771/UE)** garantisce che i consumatori abbiano diritto alla riparazione, sostituzione o rimborso per beni difettosi acquistati in *transazioni transfrontaliere*. È applicabile al caso di Jan.",
+    "explanation_en": "The **Consumer Sales Directive (2019/771/EU)** ensures consumers have the right to repair, replacement, or refund for defective goods purchased in *cross-border transactions*. It applies to Jan's case.",
+    "motivation_it": "Questa direttiva è stata aggiornata nel 2019 per rafforzare i diritti dei consumatori nelle vendite transfrontaliere.",
+    "motivation_en": "This directive was updated in 2019 to strengthen consumer rights in cross-border sales.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La direttiva sui servizi di pagamento riguarda i pagamenti elettronici",
+      "La direttiva sulla concorrenza non è rilevante per i diritti dei consumatori"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The Payment Services Directive concerns electronic payments",
+      "The Competition Directive is not relevant to consumer rights"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "hard",
+    "id": "sit-045"
+  },
+  {
+    "question_it": "Sophie, cittadina francese residente in Belgio, viene multata per aver guidato con un tasso alcolemico superiore al limite legale. Il Belgio applica un limite più severo rispetto alla Francia. Quale principio UE è rilevante in questo caso?",
+    "question_en": "Sophie, a French citizen residing in Belgium, is fined for driving with an alcohol level above the legal limit. Belgium applies a stricter limit than France. Which EU principle is relevant in this case?",
+    "options": [
+      {
+        "text_it": "Principio del riconoscimento reciproco",
+        "text_en": "Principle of mutual recognition"
+      },
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Principle of subsidiarity"
+      },
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Principle of proportionality"
+      },
+      {
+        "text_it": "Principio di non discriminazione",
+        "text_en": "Principle of non-discrimination"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio del riconoscimento reciproco** stabilisce che uno Stato membro deve generalmente accettare le norme di un altro Stato membro, ma può applicare norme più severe in *questioni di sicurezza pubblica*, come i limiti alcolemici.",
+    "explanation_en": "The **principle of mutual recognition** states that a Member State must generally accept the rules of another Member State but may apply stricter rules in *matters of public safety*, such as alcohol limits.",
+    "motivation_it": "Questo principio è fondamentale per garantire la libera circolazione mantenendo la sicurezza pubblica.",
+    "motivation_en": "This principle is crucial to ensure free movement while maintaining public safety.",
+    "wrong_explanations_it": [
+      "",
+      "Il principio di sussidiarietà riguarda la competenza decisionale tra UE e Stati membri",
+      "Il principio di proporzionalità si applica alle misure dell'UE rispetto agli obiettivi",
+      "Il principio di non discriminazione non è rilevante per questo caso"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The principle of subsidiarity concerns decision-making authority between EU and Member States",
+      "The principle of proportionality applies to EU measures relative to objectives",
+      "The principle of non-discrimination is not relevant to this case"
+    ],
+    "category": "Cross-Border Scenarios",
+    "difficulty": "hard",
+    "id": "sit-046"
+  },
+  {
+    "question_it": "Luca, un consumatore italiano, acquista un televisore online da un negozio tedesco che si rompe dopo 3 giorni. Quale diritto UE gli garantisce la riparazione o la sostituzione gratuita?",
+    "question_en": "Luca, an Italian consumer, buys a TV online from a German store that breaks after 3 days. Which EU right guarantees him free repair or replacement?",
+    "options": [
+      {
+        "text_it": "Garanzia legale di conformità di 2 anni",
+        "text_en": "2-year legal guarantee of conformity"
+      },
+      {
+        "text_it": "Diritto di recesso entro 14 giorni",
+        "text_en": "Right of withdrawal within 14 days"
+      },
+      {
+        "text_it": "Garanzia commerciale estesa",
+        "text_en": "Extended commercial warranty"
+      },
+      {
+        "text_it": "Regola del rimborso immediato",
+        "text_en": "Immediate refund rule"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2019/771/UE** stabilisce che i beni devono essere conformi al contratto per *2 anni*. In caso di difetti, il consumatore ha diritto a riparazione, sostituzione o rimborso.",
+    "explanation_en": "**Directive 2019/771/EU** requires goods to be in conformity with the contract for *2 years*. For defects, consumers are entitled to repair, replacement or refund.",
+    "motivation_it": "Conoscere i diritti fondamentali degli acquirenti nell'UE",
+    "motivation_en": "Understanding basic EU purchaser rights",
+    "wrong_explanations_it": [
+      "",
+      "Il diritto di recesso riguarda solo la restituzione senza motivo",
+      "Le garanzie commerciali sono opzionali e aggiuntive",
+      "Non esiste una regola UE per rimborsi immediati"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Right of withdrawal applies only to no-reason returns",
+      "Commercial warranties are optional extras",
+      "No EU rule mandates immediate refunds"
+    ],
+    "category": "Consumer Protection",
+    "difficulty": "easy",
+    "id": "sit-047"
+  },
+  {
+    "question_it": "Maria ordina un vestito online da un sito olandese che non arriva entro la data promessa. Quale direttiva UE la protegge?",
+    "question_en": "Maria orders a dress online from a Dutch website that doesn't arrive by the promised date. Which EU directive protects her?",
+    "options": [
+      {
+        "text_it": "Direttiva 2011/83/UE sui diritti dei consumatori",
+        "text_en": "Directive 2011/83/EU on consumer rights"
+      },
+      {
+        "text_it": "Regolamento GDPR",
+        "text_en": "GDPR Regulation"
+      },
+      {
+        "text_it": "Direttiva sui servizi di pagamento",
+        "text_en": "Payment Services Directive"
+      },
+      {
+        "text_it": "Direttiva sulle pratiche commerciali sleali",
+        "text_en": "Unfair Commercial Practices Directive"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2011/83/UE** stabilisce che i trader devono consegnare i beni entro *30 giorni* salvo accordo diverso. In caso di ritardo, il consumatore può recedere e ottenere il rimborso.",
+    "explanation_en": "**Directive 2011/83/EU** requires traders to deliver goods within *30 days* unless otherwise agreed. For delays, consumers may withdraw and get a refund.",
+    "motivation_it": "Protezione contro ritardi nelle consegne online",
+    "motivation_en": "Protection against online delivery delays",
+    "wrong_explanations_it": [
+      "",
+      "Il GDPR riguarda la privacy, non le consegne",
+      "La direttiva PSD2 regola i pagamenti, non le consegne",
+      "La direttiva UCPD riguarda la pubblicità ingannevole"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "GDPR concerns privacy, not deliveries",
+      "PSD2 regulates payments, not deliveries",
+      "UCPD covers misleading advertising"
+    ],
+    "category": "Consumer Protection",
+    "difficulty": "easy",
+    "id": "sit-048"
+  },
+  {
+    "question_it": "Maria, una cittadina italiana, acquista un elettrodomestico online da un negozio tedesco. Dopo la consegna, scopre che il prodotto è difettoso. Quale direttiva UE protegge i suoi diritti in questo caso?",
+    "question_en": "Maria, an Italian citizen, buys a household appliance online from a German store. After delivery, she discovers the product is defective. Which EU directive protects her rights in this case?",
+    "options": [
+      {
+        "text_it": "Direttiva 2011/83/UE",
+        "text_en": "Directive 2011/83/EU"
+      },
+      {
+        "text_it": "Direttiva 1999/44/CE",
+        "text_en": "Directive 1999/44/EC"
+      },
+      {
+        "text_it": "Direttiva 2005/29/CE",
+        "text_en": "Directive 2005/29/EC"
+      },
+      {
+        "text_it": "Direttiva 2006/114/CE",
+        "text_en": "Directive 2006/114/EC"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Direttiva 1999/44/CE** stabilisce i diritti dei consumatori per i beni difettosi, garantendo la conformità del prodotto e il diritto a riparazione, sostituzione o rimborso.",
+    "explanation_en": "**Directive 1999/44/EC** establishes consumer rights for defective goods, ensuring product conformity and the right to repair, replacement, or refund.",
+    "motivation_it": "Conoscere i diritti dei consumatori per i beni acquistati nell'UE è fondamentale per garantire protezione.",
+    "motivation_en": "Understanding consumer rights for goods purchased in the EU is essential for ensuring protection.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La Direttiva 2005/29/CE si occupa di pratiche commerciali sleali, non di difetti.",
+      "La Direttiva 2006/114/CE riguarda la pubblicità comparativa, non i beni difettosi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Directive 2005/29/EC deals with unfair commercial practices, not defects.",
+      "Directive 2006/114/EC concerns comparative advertising, not defective goods."
+    ],
+    "category": "Consumer Protection",
+    "difficulty": "medium",
+    "id": "sit-049"
+  },
+  {
+    "question_it": "Luca, un cittadino italiano, acquista un biglietto aereo da una compagnia low-cost spagnola ma il volo viene cancellato senza preavviso. Quale regolamento UE gli garantisce il diritto al rimborso?",
+    "question_en": "Luca, an Italian citizen, buys a flight ticket from a Spanish low-cost airline but the flight is cancelled without notice. Which EU regulation guarantees his right to a refund?",
+    "options": [
+      {
+        "text_it": "Regolamento (CE) n. 261/2004",
+        "text_en": "Regulation (EC) No 261/2004"
+      },
+      {
+        "text_it": "Regolamento (CE) n. 1107/2006",
+        "text_en": "Regulation (EC) No 1107/2006"
+      },
+      {
+        "text_it": "Regolamento (CE) n. 1008/2008",
+        "text_en": "Regulation (EC) No 1008/2008"
+      },
+      {
+        "text_it": "Regolamento (CE) n. 2018/1999",
+        "text_en": "Regulation (EC) No 2018/1999"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Regolamento (CE) n. 261/2004** stabilisce i diritti dei passeggeri in caso di cancellazione del volo, garantendo il diritto al rimborso o al trasporto alternativo.",
+    "explanation_en": "**Regulation (EC) No 261/2004** establishes passenger rights in case of flight cancellation, guaranteeing the right to a refund or alternative transport.",
+    "motivation_it": "Conoscere i diritti dei passeggeri aerei è fondamentale per garantire protezione in caso di cancellazioni.",
+    "motivation_en": "Understanding air passenger rights is essential for ensuring protection in case of cancellations.",
+    "wrong_explanations_it": [
+      "",
+      "Il Regolamento (CE) n. 1107/2006 riguarda i diritti dei passeggeri disabili, non le cancellazioni.",
+      "Il Regolamento (CE) n. 1008/2008 riguarda le regole di mercato per i servizi aerei, non i rimborsi.",
+      "Il Regolamento (CE) n. 2018/1999 non esiste."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Regulation (EC) No 1107/2006 concerns the rights of disabled passengers, not cancellations.",
+      "Regulation (EC) No 1008/2008 concerns market rules for air services, not refunds.",
+      "Regulation (EC) No 2018/1999 does not exist."
+    ],
+    "category": "Consumer Protection",
+    "difficulty": "medium",
+    "id": "sit-050"
+  },
+  {
+    "question_it": "Maria, una cittadina italiana, acquista un frigorifero online da un negozio tedesco che si guasta dopo 13 mesi. Secondo la normativa UE, quali diritti può esercitare?",
+    "question_en": "Maria, an Italian citizen, buys a refrigerator online from a German store that breaks down after 13 months. Under EU law, what rights can she exercise?",
+    "options": [
+      {
+        "text_it": "Richiedere una riparazione gratuita o una sostituzione",
+        "text_en": "Request a free repair or replacement"
+      },
+      {
+        "text_it": "Richiedere un rimborso completo",
+        "text_en": "Request a full refund"
+      },
+      {
+        "text_it": "Non ha diritto a nulla poiché il periodo di garanzia legale è scaduto",
+        "text_en": "She has no rights as the legal guarantee period has expired"
+      },
+      {
+        "text_it": "Richiedere una riparazione a pagamento",
+        "text_en": "Request a paid repair"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Secondo la **Direttiva 2011/83/UE**, i consumatori hanno diritto a una riparazione gratuita o sostituzione per beni difettosi entro *2 anni* dall'acquisto. Questo vale anche dopo il primo anno, purché il difetto sia preesistente.",
+    "explanation_en": "Under **Directive 2011/83/EU**, consumers are entitled to a free repair or replacement for defective goods within *2 years* of purchase. This applies even after the first year, provided the defect existed beforehand.",
+    "motivation_it": "Comprendere i diritti dei consumatori oltre il periodo iniziale di garanzia",
+    "motivation_en": "Understanding consumer rights beyond the initial guarantee period",
+    "wrong_explanations_it": [
+      "",
+      "Il rimborso completo è possibile solo nei primi 6 mesi",
+      "La garanzia legale UE copre fino a 2 anni",
+      "La riparazione a pagamento è un'opzione, ma non è obbligatoria"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "A full refund is only possible within the first 6 months",
+      "The EU legal guarantee covers up to 2 years",
+      "Paid repair is an option but not mandatory"
+    ],
+    "category": "Consumer Protection",
+    "difficulty": "hard",
+    "id": "sit-051"
+  },
+  {
+    "question_it": "Maria, una cittadina rumena residente in Italia, vuole votare alle elezioni comunali. Quale direttiva UE garantisce questo diritto?",
+    "question_en": "Maria, a Romanian citizen living in Italy, wants to vote in local elections. Which EU directive guarantees this right?",
+    "options": [
+      {
+        "text_it": "Direttiva 94/80/CE sul diritto di voto e di eleggibilità alle elezioni comunali",
+        "text_en": "Directive 94/80/EC on the right to vote and stand in municipal elections"
+      },
+      {
+        "text_it": "Direttiva 2004/38/CE sul diritto di libera circolazione e soggiorno",
+        "text_en": "Directive 2004/38/EC on the right of free movement and residence"
+      },
+      {
+        "text_it": "Direttiva 2011/98/UE sulla procedura unica di domanda per un permesso di lavoro",
+        "text_en": "Directive 2011/98/EU on the single application procedure for a work permit"
+      },
+      {
+        "text_it": "Direttiva 2016/801/UE sulle condizioni di ingresso e soggiorno dei cittadini di paesi terzi",
+        "text_en": "Directive 2016/801/EU on the conditions of entry and residence of third-country nationals"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 94/80/CE** stabilisce il diritto dei cittadini UE residenti in un altro Stato membro di *votare e candidarsi* alle elezioni comunali, purché soddisfino le stesse condizioni degli elettori nazionali.",
+    "explanation_en": "**Directive 94/80/EC** establishes the right of EU citizens residing in another Member State to *vote and stand* in municipal elections, provided they meet the same conditions as national voters.",
+    "motivation_it": "Il diritto di partecipazione politica è un pilastro della cittadinanza europea.",
+    "motivation_en": "The right to political participation is a cornerstone of European citizenship.",
+    "wrong_explanations_it": [
+      "",
+      "Regola la libera circolazione ma non i diritti elettorali",
+      "Si applica ai cittadini di paesi terzi che lavorano nell'UE",
+      "Non si occupa dei diritti dei cittadini UE"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Governs free movement but not voting rights",
+      "Applies to third-country nationals working in the EU",
+      "Does not address EU citizens' rights"
+    ],
+    "category": "Administrative Procedures",
+    "difficulty": "easy",
+    "id": "sit-052"
+  },
+  {
+    "question_it": "Giovanni, un cittadino italiano residente in Francia, deve ottenere un codice fiscale francese. Quale principio UE semplifica questo processo?",
+    "question_en": "Giovanni, an Italian citizen living in France, needs to get a French tax number. Which EU principle simplifies this process?",
+    "options": [
+      {
+        "text_it": "Principio di non discriminazione",
+        "text_en": "Principle of non-discrimination"
+      },
+      {
+        "text_it": "Libera circolazione dei lavoratori",
+        "text_en": "Free movement of workers"
+      },
+      {
+        "text_it": "Mutuo riconoscimento",
+        "text_en": "Mutual recognition"
+      },
+      {
+        "text_it": "Proporzionalità",
+        "text_en": "Proportionality"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio di non discriminazione** (articolo 18 TFUE) garantisce che Giovanni possa ottenere il codice fiscale alle *stesse condizioni* dei cittadini francesi, senza procedure aggiuntive.",
+    "explanation_en": "The **principle of non-discrimination** (Article 18 TFEU) ensures Giovanni can obtain the tax number under the *same conditions* as French citizens, without additional procedures.",
+    "motivation_it": "L'uguaglianza di trattamento è essenziale per l'integrazione dei cittadini UE nei paesi ospitanti.",
+    "motivation_en": "Equal treatment is essential for the integration of EU citizens in host countries.",
+    "wrong_explanations_it": [
+      "",
+      "Si applica al lavoro ma non agli aspetti fiscali",
+      "Riguarda il riconoscimento di qualifiche professionali",
+      "Limita l'azione dell'UE a ciò che è strettamente necessario"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Applies to work but not fiscal matters",
+      "Concerns recognition of professional qualifications",
+      "Limits EU action to what is strictly necessary"
+    ],
+    "category": "Administrative Procedures",
+    "difficulty": "easy",
+    "id": "sit-053"
+  },
+  {
+    "question_it": "Maria, una cittadina polacca residente in Spagna, riceve una multa per eccesso di velocità in Francia. Vuole contestarla ma non parla francese. Quale direttiva UE garantisce il suo diritto a ricevere assistenza linguistica durante il procedimento?",
+    "question_en": "Maria, a Polish citizen living in Spain, receives a speeding ticket in France. She wants to appeal it but doesn't speak French. Which EU directive guarantees her right to language assistance during the proceedings?",
+    "options": [
+      {
+        "text_it": "Direttiva 2010/64/UE sul diritto all'interpretazione e traduzione nei procedimenti penali",
+        "text_en": "Directive 2010/64/EU on the right to interpretation and translation in criminal proceedings"
+      },
+      {
+        "text_it": "Direttiva 2012/13/UE sul diritto all'informazione nei procedimenti penali",
+        "text_en": "Directive 2012/13/EU on the right to information in criminal proceedings"
+      },
+      {
+        "text_it": "Direttiva 2013/48/UE sul diritto all'avvocato nei procedimenti penali",
+        "text_en": "Directive 2013/48/EU on the right of access to a lawyer in criminal proceedings"
+      },
+      {
+        "text_it": "Direttiva 2016/343/UE sul rafforzamento della presunzione di innocenza",
+        "text_en": "Directive 2016/343/EU on strengthening the presumption of innocence"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2010/64/UE** stabilisce che gli imputati hanno diritto a *interpreti e traduzioni* quando non comprendono la lingua del procedimento. Questo si applica alle infrazioni stradali che possono portare a sanzioni privative della libertà (articolo 1).",
+    "explanation_en": "**Directive 2010/64/EU** provides that defendants have the right to *interpreters and translations* when they don't understand the language of proceedings. This applies to traffic offenses that may lead to custodial sanctions (Article 1).",
+    "motivation_it": "Questa direttiva fa parte del pacchetto 'diritti procedurali' per garantire un processo equo in tutta l'UE.",
+    "motivation_en": "This directive is part of the 'procedural rights package' to ensure fair trials across the EU.",
+    "wrong_explanations_it": [
+      "",
+      "Si occupa solo del diritto a ricevere informazioni scritte",
+      "Garantisce l'accesso a un avvocato ma non l'assistenza linguistica",
+      "Riguarda la presunzione di innocenza, non le garanzie linguistiche"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Only covers the right to written information",
+      "Guarantees lawyer access but not language assistance",
+      "Concerns presumption of innocence, not language rights"
+    ],
+    "category": "Administrative Procedures",
+    "difficulty": "hard",
+    "id": "sit-054"
+  },
+  {
+    "question_it": "Luca, un cittadino italiano, lavora per un'azienda tedesca in Belgio con un contratto a tempo determinato. Dopo 2 anni, il contratto non viene rinnovato senza spiegazioni. Quale direttiva UE protegge i suoi diritti in questa situazione?",
+    "question_en": "Luca, an Italian citizen, works for a German company in Belgium on a fixed-term contract. After 2 years, the contract isn't renewed without explanation. Which EU directive protects his rights in this situation?",
+    "options": [
+      {
+        "text_it": "Direttiva 1999/70/CE sul lavoro a tempo determinato",
+        "text_en": "Directive 1999/70/EC on fixed-term work"
+      },
+      {
+        "text_it": "Direttiva 2008/104/CE sul lavoro tramite agenzia",
+        "text_en": "Directive 2008/104/EC on temporary agency work"
+      },
+      {
+        "text_it": "Direttiva 2003/88/CE sull'orario di lavoro",
+        "text_en": "Directive 2003/88/EC on working time"
+      },
+      {
+        "text_it": "Direttiva 91/533/CEE sul contratto di lavoro",
+        "text_en": "Directive 91/533/EEC on employment contracts"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 1999/70/CE** stabilisce che i lavoratori a tempo determinato non possono essere trattati meno favorevolmente di quelli a tempo indeterminato senza *giustificazione oggettiva* (clausola 4). Il mancato rinnovo dopo anni ripetuti può costituire abuso.",
+    "explanation_en": "**Directive 1999/70/EC** states that fixed-term workers cannot be treated less favorably than permanent ones without *objective justification* (clause 4). Non-renewal after repeated years may constitute abuse.",
+    "motivation_it": "La direttiva mira a prevenire l'abuso di contratti consecutivi a tempo determinato.",
+    "motivation_en": "The directive aims to prevent abuse of consecutive fixed-term contracts.",
+    "wrong_explanations_it": [
+      "",
+      "Si applica solo ai lavoratori assunti tramite agenzie interinali",
+      "Riguarda i periodi di riposo e le ferie, non la tipologia contrattuale",
+      "Obbliga solo a fornire informazioni scritte sul contratto"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Only applies to agency workers",
+      "Concerns rest periods and leave, not contract type",
+      "Only requires written contract information"
+    ],
+    "category": "Administrative Procedures",
+    "difficulty": "hard",
+    "id": "sit-055"
+  },
+  {
+    "question_it": "Maria, una cittadina polacca che lavora in Spagna, riceve uno stipendio inferiore rispetto ai colleghi spagnoli per lo stesso lavoro. Quale principio UE è stato violato?",
+    "question_en": "Maria, a Polish citizen working in Spain, receives a lower salary than her Spanish colleagues for the same job. Which EU principle has been violated?",
+    "options": [
+      {
+        "text_it": "Principio di parità di retribuzione per lavoro uguale",
+        "text_en": "Principle of equal pay for equal work"
+      },
+      {
+        "text_it": "Libera circolazione dei lavoratori",
+        "text_en": "Free movement of workers"
+      },
+      {
+        "text_it": "Direttiva sul lavoro a tempo determinato",
+        "text_en": "Directive on fixed-term work"
+      },
+      {
+        "text_it": "Regolamento sulla sicurezza sociale",
+        "text_en": "Regulation on social security"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio di parità di retribuzione per lavoro uguale** è sancito dal **Trattato sul Funzionamento dell'Unione Europea (TFUE)**. Maria ha diritto alla stessa retribuzione dei colleghi spagnoli per lo stesso lavoro.",
+    "explanation_en": "The **principle of equal pay for equal work** is enshrined in the **Treaty on the Functioning of the European Union (TFEU)**. Maria is entitled to the same pay as her Spanish colleagues for the same job.",
+    "motivation_it": "Questo principio è fondamentale per garantire pari opportunità nel mercato del lavoro europeo.",
+    "motivation_en": "This principle is fundamental to ensuring equal opportunities in the European labor market.",
+    "wrong_explanations_it": [
+      "",
+      "Si riferisce al diritto di lavorare in un altro Stato membro, non alla retribuzione",
+      "Regola i contratti a tempo determinato, non la parità di retribuzione",
+      "Riguarda i diritti di sicurezza sociale, non la retribuzione"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Refers to the right to work in another Member State, not pay",
+      "Regulates fixed-term contracts, not equal pay",
+      "Concerns social security rights, not pay"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "easy",
+    "id": "sit-056"
+  },
+  {
+    "question_it": "Luca, un cittadino italiano, lavora temporaneamente in Francia per 3 mesi. Quale documento UE gli consente di accedere ai servizi sanitari francesi?",
+    "question_en": "Luca, an Italian citizen, is temporarily working in France for 3 months. Which EU document allows him to access French healthcare services?",
+    "options": [
+      {
+        "text_it": "Tessera Europea di Assicurazione Malattia (TEAM)",
+        "text_en": "European Health Insurance Card (EHIC)"
+      },
+      {
+        "text_it": "Certificato A1",
+        "text_en": "Certificate A1"
+      },
+      {
+        "text_it": "Modulo E104",
+        "text_en": "Form E104"
+      },
+      {
+        "text_it": "Regolamento sulla sicurezza sociale",
+        "text_en": "Regulation on social security"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Tessera Europea di Assicurazione Malattia (TEAM)** garantisce l'accesso ai servizi sanitari pubblici durante soggiorni temporanei in altri Stati membri. Luca può utilizzarla per ricevere cure mediche in Francia.",
+    "explanation_en": "The **European Health Insurance Card (EHIC)** provides access to public healthcare services during temporary stays in other Member States. Luca can use it to receive medical treatment in France.",
+    "motivation_it": "La TEAM è essenziale per i cittadini UE che viaggiano o lavorano temporaneamente all'estero.",
+    "motivation_en": "The EHIC is essential for EU citizens traveling or working temporarily abroad.",
+    "wrong_explanations_it": [
+      "",
+      "Certifica il regime di sicurezza sociale applicabile, non l'accesso alle cure",
+      "Non è più utilizzato per soggiorni temporanei",
+      "È un quadro giuridico generale, non un documento specifico"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Certifies the applicable social security scheme, not access to healthcare",
+      "No longer used for temporary stays",
+      "Is a general legal framework, not a specific document"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "easy",
+    "id": "sit-057"
+  },
+  {
+    "question_it": "Maria, una cittadina polacca che lavora in Spagna, scopre di essere pagata meno dei suoi colleghi spagnoli per lo stesso lavoro. Quale principio UE è stato violato?",
+    "question_en": "Maria, a Polish citizen working in Spain, discovers she is paid less than her Spanish colleagues for the same work. Which EU principle has been violated?",
+    "options": [
+      {
+        "text_it": "Principio della parità di retribuzione per lavori di pari valore",
+        "text_en": "Principle of equal pay for equal work"
+      },
+      {
+        "text_it": "Libera circolazione dei lavoratori",
+        "text_en": "Free movement of workers"
+      },
+      {
+        "text_it": "Principio di non discriminazione basata sulla nazionalità",
+        "text_en": "Principle of non-discrimination based on nationality"
+      },
+      {
+        "text_it": "Principio di trasparenza nelle condizioni di lavoro",
+        "text_en": "Principle of transparency in working conditions"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio della parità di retribuzione per lavori di pari valore** è sancito dall'articolo 157 del TFUE e dalla **Direttiva 2006/54/CE**. Esso garantisce che i lavoratori ricevano lo stesso compenso per lo stesso lavoro, indipendentemente dalla nazionalità.",
+    "explanation_en": "The **principle of equal pay for equal work** is enshrined in Article 157 TFEU and **Directive 2006/54/EC**. It ensures that workers receive the same compensation for the same work, regardless of nationality.",
+    "motivation_it": "Questo principio è fondamentale per garantire pari opportunità nel mercato del lavoro dell'UE.",
+    "motivation_en": "This principle is fundamental to ensuring equal opportunities in the EU labor market.",
+    "wrong_explanations_it": [
+      "",
+      "La libera circolazione riguarda il diritto di lavorare in un altro Stato membro",
+      "La discriminazione basata sulla nazionalità è vietata, ma non è il principio principale applicabile",
+      "La trasparenza riguarda le informazioni contrattuali, non la parità di retribuzione"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Free movement concerns the right to work in another Member State",
+      "Discrimination based on nationality is prohibited, but it is not the main applicable principle",
+      "Transparency concerns contractual information, not equal pay"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "medium",
+    "id": "sit-058"
+  },
+  {
+    "question_it": "Luca, un cittadino italiano, lavora temporaneamente in Francia per 3 mesi. Quale documento UE deve ottenere per dimostrare la sua copertura sanitaria?",
+    "question_en": "Luca, an Italian citizen, is temporarily working in France for 3 months. Which EU document must he obtain to prove his health coverage?",
+    "options": [
+      {
+        "text_it": "Carta Europea di Assicurazione Malattia (CEAM)",
+        "text_en": "European Health Insurance Card (EHIC)"
+      },
+      {
+        "text_it": "Certificato S1",
+        "text_en": "S1 Certificate"
+      },
+      {
+        "text_it": "Modulo A1",
+        "text_en": "A1 Form"
+      },
+      {
+        "text_it": "Certificato E101",
+        "text_en": "E101 Certificate"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Carta Europea di Assicurazione Malattia (CEAM)** è il documento che permette ai cittadini UE di accedere alle cure mediche necessarie durante un soggiorno temporaneo in un altro Stato membro.",
+    "explanation_en": "The **European Health Insurance Card (EHIC)** is the document that allows EU citizens to access necessary medical care during a temporary stay in another Member State.",
+    "motivation_it": "La CEAM è essenziale per garantire l'accesso alle cure mediche durante i soggiorni temporanei nell'UE.",
+    "motivation_en": "The EHIC is essential to ensure access to medical care during temporary stays in the EU.",
+    "wrong_explanations_it": [
+      "",
+      "Il Certificato S1 è per chi si trasferisce definitivamente in un altro Stato membro",
+      "Il Modulo A1 riguarda la sicurezza sociale per lavoratori distaccati",
+      "Il Certificato E101 è stato sostituito dal Modulo A1"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The S1 Certificate is for those permanently moving to another Member State",
+      "The A1 Form concerns social security for posted workers",
+      "The E101 Certificate has been replaced by the A1 Form"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "medium",
+    "id": "sit-059"
+  },
+  {
+    "question_it": "Sophie, una cittadina francese, lavora in Belgio e vuole richiedere il riconoscimento delle sue qualifiche professionali. Quale direttiva UE si applica?",
+    "question_en": "Sophie, a French citizen, works in Belgium and wants to request recognition of her professional qualifications. Which EU directive applies?",
+    "options": [
+      {
+        "text_it": "Direttiva 2005/36/CE sul riconoscimento delle qualifiche professionali",
+        "text_en": "Directive 2005/36/EC on the recognition of professional qualifications"
+      },
+      {
+        "text_it": "Direttiva 2014/24/UE sugli appalti pubblici",
+        "text_en": "Directive 2014/24/EU on public procurement"
+      },
+      {
+        "text_it": "Direttiva 2011/24/UE sull'assistenza sanitaria transfrontaliera",
+        "text_en": "Directive 2011/24/EU on cross-border healthcare"
+      },
+      {
+        "text_it": "Direttiva 2006/123/CE sui servizi nel mercato interno",
+        "text_en": "Directive 2006/123/EC on services in the internal market"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Direttiva 2005/36/CE** stabilisce le regole per il riconoscimento delle qualifiche professionali tra gli Stati membri dell'UE, facilitando la mobilità dei lavoratori.",
+    "explanation_en": "**Directive 2005/36/EC** sets out the rules for the recognition of professional qualifications between EU Member States, facilitating worker mobility.",
+    "motivation_it": "Questa direttiva è cruciale per garantire che i professionisti possano esercitare la loro professione in tutta l'UE.",
+    "motivation_en": "This directive is crucial to ensure that professionals can practice their profession across the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La direttiva sugli appalti pubblici non riguarda il riconoscimento delle qualifiche",
+      "La direttiva sull'assistenza sanitaria transfrontaliera riguarda l'accesso alle cure",
+      "La direttiva sui servizi nel mercato interno regola le attività economiche, non le qualifiche"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The directive on public procurement does not concern the recognition of qualifications",
+      "The directive on cross-border healthcare concerns access to healthcare",
+      "The directive on services in the internal market regulates economic activities, not qualifications"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "medium",
+    "id": "sit-060"
+  },
+  {
+    "question_it": "Maria, cittadina polacca che lavora in Spagna, scopre di essere pagata meno dei suoi colleghi spagnoli per lo stesso lavoro. Quale principio del diritto UE è stato violato?",
+    "question_en": "Maria, a Polish citizen working in Spain, discovers she is paid less than her Spanish colleagues for the same work. Which principle of EU law has been violated?",
+    "options": [
+      {
+        "text_it": "Principio della parità di retribuzione tra lavoratori di sesso maschile e femminile (articolo 157 TFUE)",
+        "text_en": "Principle of equal pay for male and female workers (Article 157 TFEU)"
+      },
+      {
+        "text_it": "Principio della non discriminazione in base alla nazionalità (articolo 45 TFUE)",
+        "text_en": "Principle of non-discrimination based on nationality (Article 45 TFEU)"
+      },
+      {
+        "text_it": "Principio del salario minimo stabilito dalla direttiva UE 2022/2041",
+        "text_en": "Principle of minimum wage established by EU Directive 2022/2041"
+      },
+      {
+        "text_it": "Principio della trasparenza salariale della direttiva UE 2023/970",
+        "text_en": "Principle of pay transparency under EU Directive 2023/970"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**articolo 45 TFUE** vieta la discriminazione basata sulla nazionalità riguardo all'occupazione, alla retribuzione e ad altre condizioni di lavoro. Questo caso rappresenta una chiara violazione del **principio di parità di trattamento** dei lavoratori UE.",
+    "explanation_en": "**Article 45 TFEU** prohibits discrimination based on nationality regarding employment, remuneration and other working conditions. This case constitutes a clear violation of the **equal treatment principle** for EU workers.",
+    "motivation_it": "La libera circolazione dei lavoratori è uno dei pilastri fondamentali del mercato unico europeo.",
+    "motivation_en": "Free movement of workers is one of the fundamental pillars of the European single market.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La direttiva stabilisce solo standard minimi, non vieta disparità tra lavoratori",
+      "La direttiva riguarda la trasparenza, non vieta direttamente le disparità"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The directive only sets minimum standards, doesn't prohibit disparities between workers",
+      "The directive concerns transparency, doesn't directly prohibit disparities"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "hard",
+    "id": "sit-061"
+  },
+  {
+    "question_it": "Luca, cittadino italiano, lavora temporaneamente in Francia per 3 mesi. Quale documento UE garantisce che i suoi contributi previdenziali italiani siano presi in considerazione?",
+    "question_en": "Luca, an Italian citizen, is temporarily working in France for 3 months. Which EU document ensures his Italian social security contributions are taken into account?",
+    "options": [
+      {
+        "text_it": "Regolamento (CE) n. 883/2004 sul coordinamento dei sistemi di sicurezza sociale",
+        "text_en": "Regulation (EC) No 883/2004 on the coordination of social security systems"
+      },
+      {
+        "text_it": "Direttiva 96/71/CE sul distacco dei lavoratori",
+        "text_en": "Directive 96/71/EC on the posting of workers"
+      },
+      {
+        "text_it": "Carta europea della sicurezza sociale",
+        "text_en": "European Social Security Card"
+      },
+      {
+        "text_it": "Regolamento (UE) 2016/679 sul trattamento dei dati personali",
+        "text_en": "Regulation (EU) 2016/679 on the processing of personal data"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Regolamento (CE) n. 883/2004** stabilisce le regole per determinare quale legislazione nazionale si applica e garantisce che i periodi di assicurazione, occupazione o residenza siano presi in considerazione da tutti i paesi UE coinvolti. Questo è fondamentale per i lavoratori mobili come Luca.",
+    "explanation_en": "**Regulation (EC) No 883/2004** establishes rules to determine which national legislation applies and ensures that periods of insurance, employment or residence are taken into account by all involved EU countries. This is crucial for mobile workers like Luca.",
+    "motivation_it": "Questo regolamento è essenziale per proteggere i diritti dei lavoratori che si spostano tra paesi UE.",
+    "motivation_en": "This regulation is essential to protect the rights of workers moving between EU countries.",
+    "wrong_explanations_it": [
+      "",
+      "Riguarda le condizioni minime di lavoro per i distaccati, non la sicurezza sociale",
+      "Non esiste un documento UE con questo nome",
+      "Riguarda la protezione dei dati, non la sicurezza sociale"
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Concerns minimum working conditions for posted workers, not social security",
+      "No EU document exists with this name",
+      "Concerns data protection, not social security"
+    ],
+    "category": "EU Workplace",
+    "difficulty": "hard",
+    "id": "sit-062"
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "eui-001",
+    "question_it": "Dove ha sede ufficiale il Parlamento europeo?",
+    "question_en": "Where is the official seat of the European Parliament?",
+    "options": [
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      },
+      {
+        "text_it": "Strasburgo",
+        "text_en": "Strasbourg"
+      },
+      {
+        "text_it": "Lussemburgo",
+        "text_en": "Luxembourg"
+      },
+      {
+        "text_it": "L'Aia",
+        "text_en": "The Hague"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La sede ufficiale del **Parlamento europeo** è a **Strasburgo**, dove si tengono le sessioni plenarie mensili (Protocollo n. 6 ai Trattati).",
+    "explanation_en": "The official seat of the **European Parliament** is in **Strasbourg**, where monthly plenary sessions are held (Protocol No 6 to the Treaties).",
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "motivation_it": "I Trattati stabiliscono Strasburgo come sede ufficiale del PE, anche se gran parte del lavoro si svolge a Bruxelles.",
+    "motivation_en": "The Treaties establish Strasbourg as the official seat of the EP, even though much of the work takes place in Brussels.",
+    "wrong_explanations_it": [
+      "Bruxelles ospita le sessioni aggiuntive e le commissioni, ma non è la sede ufficiale.",
+      "",
+      "Lussemburgo ospita il Segretariato generale, non la sede ufficiale del PE.",
+      "L'Aia non ha alcun legame istituzionale con il Parlamento europeo."
+    ],
+    "wrong_explanations_en": [
+      "Brussels hosts additional sessions and committees, but is not the official seat.",
+      "",
+      "Luxembourg hosts the General Secretariat, not the official seat of the EP.",
+      "The Hague has no institutional link to the European Parliament."
+    ]
+  },
+  {
+    "id": "eui-002",
+    "question_it": "Quanti deputati compongono attualmente il Parlamento europeo?",
+    "question_en": "How many MEPs currently make up the European Parliament?",
+    "options": [
+      {
+        "text_it": "650",
+        "text_en": "650"
+      },
+      {
+        "text_it": "705",
+        "text_en": "705"
+      },
+      {
+        "text_it": "751",
+        "text_en": "751"
+      },
+      {
+        "text_it": "785",
+        "text_en": "785"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Dopo la Brexit, il Parlamento europeo è composto da **705 deputati** (Art. 14 TUE, come modificato dalla decisione 2018/937).",
+    "explanation_en": "After Brexit, the European Parliament is composed of **705 MEPs** (Art. 14 TEU, as amended by Decision 2018/937).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Il numero massimo di seggi è stato ridistribuito dopo l'uscita del Regno Unito, passando da 751 a 705.",
+    "motivation_en": "The maximum number of seats was redistributed after the UK's departure, going from 751 to 705.",
+    "wrong_explanations_it": [
+      "650 è un numero inferiore a quello effettivo dei seggi del PE.",
+      "",
+      "751 era il numero massimo prima della Brexit, non più attuale.",
+      "785 supera ampiamente il numero di seggi previsto dai Trattati."
+    ],
+    "wrong_explanations_en": [
+      "650 is lower than the actual number of EP seats.",
+      "",
+      "751 was the maximum number before Brexit, no longer current.",
+      "785 far exceeds the number of seats provided for by the Treaties."
+    ]
+  },
+  {
+    "id": "eui-003",
+    "question_it": "Ogni quanti anni si tengono le elezioni del Parlamento europeo?",
+    "question_en": "How often are European Parliament elections held?",
+    "options": [
+      {
+        "text_it": "Ogni 3 anni",
+        "text_en": "Every 3 years"
+      },
+      {
+        "text_it": "Ogni 4 anni",
+        "text_en": "Every 4 years"
+      },
+      {
+        "text_it": "Ogni 5 anni",
+        "text_en": "Every 5 years"
+      },
+      {
+        "text_it": "Ogni 6 anni",
+        "text_en": "Every 6 years"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Le elezioni del **Parlamento europeo** si tengono ogni **5 anni** a suffragio universale diretto (Art. 14(3) TUE).",
+    "explanation_en": "**European Parliament** elections are held every **5 years** by direct universal suffrage (Art. 14(3) TEU).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Il mandato dei deputati europei dura cinque anni, dal 1979 i cittadini dell'UE votano direttamente i propri rappresentanti.",
+    "motivation_en": "The term of office for MEPs lasts five years; since 1979, EU citizens have directly elected their representatives.",
+    "wrong_explanations_it": [
+      "3 anni non corrisponde al ciclo elettorale del PE.",
+      "4 anni è il ciclo tipico di molti parlamenti nazionali, non del PE.",
+      "",
+      "6 anni non corrisponde alla durata del mandato europeo."
+    ],
+    "wrong_explanations_en": [
+      "3 years does not correspond to the EP electoral cycle.",
+      "4 years is the typical cycle of many national parliaments, not the EP.",
+      "",
+      "6 years does not correspond to the European parliamentary term."
+    ]
+  },
+  {
+    "id": "eui-004",
+    "question_it": "Qual è il ruolo principale del Consiglio europeo?",
+    "question_en": "What is the main role of the European Council?",
+    "options": [
+      {
+        "text_it": "Approvare la legislazione dell'UE",
+        "text_en": "Approve EU legislation"
+      },
+      {
+        "text_it": "Definire gli orientamenti e le priorità politiche generali dell'UE",
+        "text_en": "Define the general political directions and priorities of the EU"
+      },
+      {
+        "text_it": "Gestire il bilancio dell'UE",
+        "text_en": "Manage the EU budget"
+      },
+      {
+        "text_it": "Controllare la conformità al diritto dell'UE",
+        "text_en": "Monitor compliance with EU law"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Consiglio europeo** definisce gli **orientamenti e le priorità politiche generali** dell'UE, ma *non esercita funzioni legislative* (Art. 15 TUE).",
+    "explanation_en": "The **European Council** defines the **general political directions and priorities** of the EU, but *does not exercise legislative functions* (Art. 15 TEU).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Il Consiglio europeo è l'organo di indirizzo politico dell'UE; la funzione legislativa spetta al Consiglio dell'UE e al Parlamento.",
+    "motivation_en": "The European Council is the political steering body of the EU; the legislative function belongs to the Council of the EU and Parliament.",
+    "wrong_explanations_it": [
+      "La legislazione viene approvata dal Consiglio dell'UE e dal Parlamento, non dal Consiglio europeo.",
+      "",
+      "Il bilancio è gestito dalla Commissione e controllato dalla Corte dei conti.",
+      "Il controllo di conformità spetta alla Corte di giustizia e alla Commissione."
+    ],
+    "wrong_explanations_en": [
+      "Legislation is approved by the Council of the EU and Parliament, not the European Council.",
+      "",
+      "The budget is managed by the Commission and audited by the Court of Auditors.",
+      "Compliance monitoring is the role of the Court of Justice and the Commission."
+    ]
+  },
+  {
+    "id": "eui-005",
+    "question_it": "Per quanto tempo dura il mandato del Presidente del Consiglio europeo?",
+    "question_en": "How long is the term of office of the President of the European Council?",
+    "options": [
+      {
+        "text_it": "1 anno",
+        "text_en": "1 year"
+      },
+      {
+        "text_it": "2 anni e mezzo, rinnovabile una volta",
+        "text_en": "2 and a half years, renewable once"
+      },
+      {
+        "text_it": "4 anni",
+        "text_en": "4 years"
+      },
+      {
+        "text_it": "5 anni, rinnovabile una volta",
+        "text_en": "5 years, renewable once"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Presidente del **Consiglio europeo** è eletto per un mandato di **2 anni e mezzo**, rinnovabile *una volta* (Art. 15(5) TUE).",
+    "explanation_en": "The President of the **European Council** is elected for a term of **2 and a half years**, renewable *once* (Art. 15(5) TEU).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Questa carica è stata istituita dal Trattato di Lisbona per dare continuità ai lavori del Consiglio europeo.",
+    "motivation_en": "This position was established by the Treaty of Lisbon to provide continuity to the work of the European Council.",
+    "wrong_explanations_it": [
+      "1 anno è troppo breve; era la durata della presidenza a rotazione prima di Lisbona.",
+      "",
+      "4 anni non corrisponde alla durata prevista dai Trattati.",
+      "5 anni è la durata del mandato del Parlamento europeo, non del Presidente del Consiglio europeo."
+    ],
+    "wrong_explanations_en": [
+      "1 year is too short; it was the rotating presidency duration before Lisbon.",
+      "",
+      "4 years does not correspond to the duration set by the Treaties.",
+      "5 years is the term of the European Parliament, not the European Council President."
+    ]
+  },
+  {
+    "id": "eui-006",
+    "question_it": "Quale istituzione detiene il diritto esclusivo di iniziativa legislativa nell'UE?",
+    "question_en": "Which institution holds the exclusive right of legislative initiative in the EU?",
+    "options": [
+      {
+        "text_it": "Il Parlamento europeo",
+        "text_en": "The European Parliament"
+      },
+      {
+        "text_it": "Il Consiglio dell'UE",
+        "text_en": "The Council of the EU"
+      },
+      {
+        "text_it": "La Commissione europea",
+        "text_en": "The European Commission"
+      },
+      {
+        "text_it": "Il Consiglio europeo",
+        "text_en": "The European Council"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Commissione europea** detiene il **diritto esclusivo di iniziativa legislativa**, salvo casi specifici previsti dai Trattati (Art. 17(2) TUE).",
+    "explanation_en": "The **European Commission** holds the **exclusive right of legislative initiative**, except in specific cases provided by the Treaties (Art. 17(2) TEU).",
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "motivation_it": "Questo monopolio dell'iniziativa garantisce coerenza e indipendenza nella proposta di nuove leggi europee.",
+    "motivation_en": "This monopoly on initiative ensures coherence and independence in proposing new European laws.",
+    "wrong_explanations_it": [
+      "Il PE può chiedere alla Commissione di presentare proposte, ma non ha potere di iniziativa diretta.",
+      "Il Consiglio dell'UE può chiedere alla Commissione di agire, ma non propone direttamente la legislazione.",
+      "",
+      "Il Consiglio europeo fornisce orientamenti politici ma non presenta proposte legislative."
+    ],
+    "wrong_explanations_en": [
+      "The EP can request the Commission to submit proposals, but has no direct initiative power.",
+      "The Council of the EU can ask the Commission to act, but does not directly propose legislation.",
+      "",
+      "The European Council provides political guidelines but does not submit legislative proposals."
+    ]
+  },
+  {
+    "id": "eui-007",
+    "question_it": "Come si chiama la procedura legislativa più comune nell'UE?",
+    "question_en": "What is the most common legislative procedure in the EU called?",
+    "options": [
+      {
+        "text_it": "Procedura di consultazione",
+        "text_en": "Consultation procedure"
+      },
+      {
+        "text_it": "Procedura legislativa ordinaria (codecisione)",
+        "text_en": "Ordinary legislative procedure (codecision)"
+      },
+      {
+        "text_it": "Procedura di approvazione",
+        "text_en": "Consent procedure"
+      },
+      {
+        "text_it": "Procedura di cooperazione",
+        "text_en": "Cooperation procedure"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **procedura legislativa ordinaria** (ex codecisione) è la procedura più comune, in cui PE e Consiglio agiscono come *co-legislatori* su un piano di parità (Art. 294 TFUE).",
+    "explanation_en": "The **ordinary legislative procedure** (formerly codecision) is the most common procedure, in which EP and Council act as *co-legislators* on an equal footing (Art. 294 TFEU).",
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "motivation_it": "Il Trattato di Lisbona ha reso la codecisione la procedura standard, ribattezzandola procedura legislativa ordinaria.",
+    "motivation_en": "The Treaty of Lisbon made codecision the standard procedure, renaming it ordinary legislative procedure.",
+    "wrong_explanations_it": [
+      "La consultazione è una procedura speciale con un ruolo limitato del PE.",
+      "",
+      "La procedura di approvazione è usata per casi specifici come l'adesione di nuovi Stati.",
+      "La procedura di cooperazione è stata abolita dal Trattato di Lisbona."
+    ],
+    "wrong_explanations_en": [
+      "Consultation is a special procedure with a limited role for the EP.",
+      "",
+      "The consent procedure is used for specific cases such as accession of new States.",
+      "The cooperation procedure was abolished by the Treaty of Lisbon."
+    ]
+  },
+  {
+    "id": "eui-008",
+    "question_it": "Dove ha sede la Corte di giustizia dell'Unione europea (CGUE)?",
+    "question_en": "Where is the Court of Justice of the European Union (CJEU) located?",
+    "options": [
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      },
+      {
+        "text_it": "Strasburgo",
+        "text_en": "Strasbourg"
+      },
+      {
+        "text_it": "Lussemburgo",
+        "text_en": "Luxembourg"
+      },
+      {
+        "text_it": "L'Aia",
+        "text_en": "The Hague"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Corte di giustizia dell'UE** ha sede a **Lussemburgo**. Comprende la Corte di giustizia e il Tribunale (Art. 19 TUE).",
+    "explanation_en": "The **Court of Justice of the EU** is located in **Luxembourg**. It comprises the Court of Justice and the General Court (Art. 19 TEU).",
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "motivation_it": "Lussemburgo ospita sia la Corte di giustizia sia il Tribunale, nonché la Corte dei conti.",
+    "motivation_en": "Luxembourg hosts both the Court of Justice and the General Court, as well as the Court of Auditors.",
+    "wrong_explanations_it": [
+      "Bruxelles è sede di molte istituzioni, ma non della CGUE.",
+      "Strasburgo ospita le plenarie del PE e la Corte europea dei diritti dell'uomo (non UE).",
+      "",
+      "L'Aia ospita la Corte internazionale di giustizia (ONU) ed Europol, non la CGUE."
+    ],
+    "wrong_explanations_en": [
+      "Brussels hosts many institutions, but not the CJEU.",
+      "Strasbourg hosts EP plenaries and the European Court of Human Rights (not EU).",
+      "",
+      "The Hague hosts the International Court of Justice (UN) and Europol, not the CJEU."
+    ]
+  },
+  {
+    "id": "eui-009",
+    "question_it": "Qual è il metodo di voto standard nel Consiglio dell'UE per le materie legislative?",
+    "question_en": "What is the standard voting method in the Council of the EU for legislative matters?",
+    "options": [
+      {
+        "text_it": "Unanimità",
+        "text_en": "Unanimity"
+      },
+      {
+        "text_it": "Maggioranza semplice",
+        "text_en": "Simple majority"
+      },
+      {
+        "text_it": "Maggioranza qualificata (VMQ)",
+        "text_en": "Qualified majority voting (QMV)"
+      },
+      {
+        "text_it": "Doppia maggioranza semplice",
+        "text_en": "Double simple majority"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **voto a maggioranza qualificata (VMQ)** è il metodo standard nel Consiglio: richiede il **55% degli Stati** che rappresentino almeno il **65% della popolazione** dell'UE (Art. 16(4) TUE).",
+    "explanation_en": "**Qualified majority voting (QMV)** is the standard method in the Council: it requires **55% of Member States** representing at least **65% of the EU population** (Art. 16(4) TEU).",
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "motivation_it": "La VMQ è il metodo predefinito dal Trattato di Lisbona per rendere il processo decisionale più efficiente.",
+    "motivation_en": "QMV is the default method since the Treaty of Lisbon to make the decision-making process more efficient.",
+    "wrong_explanations_it": [
+      "L'unanimità è richiesta solo in settori sensibili come la fiscalità e la politica estera.",
+      "La maggioranza semplice si usa per questioni procedurali, non legislative.",
+      "",
+      "La doppia maggioranza semplice non è un metodo di voto previsto dai Trattati."
+    ],
+    "wrong_explanations_en": [
+      "Unanimity is required only in sensitive areas such as taxation and foreign policy.",
+      "Simple majority is used for procedural matters, not legislative ones.",
+      "",
+      "Double simple majority is not a voting method provided for by the Treaties."
+    ]
+  },
+  {
+    "id": "eui-010",
+    "question_it": "Dove ha sede la Banca centrale europea (BCE)?",
+    "question_en": "Where is the European Central Bank (ECB) located?",
+    "options": [
+      {
+        "text_it": "Berlino",
+        "text_en": "Berlin"
+      },
+      {
+        "text_it": "Lussemburgo",
+        "text_en": "Luxembourg"
+      },
+      {
+        "text_it": "Francoforte sul Meno",
+        "text_en": "Frankfurt am Main"
+      },
+      {
+        "text_it": "Amsterdam",
+        "text_en": "Amsterdam"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Banca centrale europea** ha sede a **Francoforte sul Meno**, in Germania (Protocollo n. 4 ai Trattati).",
+    "explanation_en": "The **European Central Bank** is located in **Frankfurt am Main**, Germany (Protocol No 4 to the Treaties).",
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "motivation_it": "Francoforte è tradizionalmente il centro finanziario tedesco e fu scelta come sede della BCE alla sua creazione nel 1998.",
+    "motivation_en": "Frankfurt is traditionally Germany's financial centre and was chosen as the ECB's seat at its creation in 1998.",
+    "wrong_explanations_it": [
+      "Berlino è la capitale della Germania ma non ospita la BCE.",
+      "Lussemburgo ospita altre istituzioni UE come la Corte di giustizia, non la BCE.",
+      "",
+      "Amsterdam ospita l'Agenzia europea per i medicinali (EMA), non la BCE."
+    ],
+    "wrong_explanations_en": [
+      "Berlin is the capital of Germany but does not host the ECB.",
+      "Luxembourg hosts other EU institutions like the Court of Justice, not the ECB.",
+      "",
+      "Amsterdam hosts the European Medicines Agency (EMA), not the ECB."
+    ]
+  },
+  {
+    "id": "eui-011",
+    "question_it": "Qual è la funzione principale della Corte dei conti europea?",
+    "question_en": "What is the main function of the European Court of Auditors?",
+    "options": [
+      {
+        "text_it": "Emettere sentenze sul diritto dell'UE",
+        "text_en": "Issue rulings on EU law"
+      },
+      {
+        "text_it": "Controllare la gestione finanziaria dell'UE",
+        "text_en": "Audit the financial management of the EU"
+      },
+      {
+        "text_it": "Gestire la politica monetaria",
+        "text_en": "Manage monetary policy"
+      },
+      {
+        "text_it": "Proporre nuova legislazione",
+        "text_en": "Propose new legislation"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Corte dei conti europea** verifica la *corretta gestione delle finanze* dell'UE e contribuisce a migliorare la gestione finanziaria (Art. 285-287 TFUE).",
+    "explanation_en": "The **European Court of Auditors** checks the *sound financial management* of the EU and contributes to improving financial management (Art. 285-287 TFEU).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Nonostante il nome, la Corte dei conti non è un tribunale: è l'organo di controllo finanziario esterno dell'UE.",
+    "motivation_en": "Despite its name, the Court of Auditors is not a court: it is the EU's external financial control body.",
+    "wrong_explanations_it": [
+      "Le sentenze sul diritto dell'UE sono emesse dalla Corte di giustizia dell'UE.",
+      "",
+      "La politica monetaria è gestita dalla Banca centrale europea.",
+      "La proposta legislativa è competenza esclusiva della Commissione europea."
+    ],
+    "wrong_explanations_en": [
+      "Rulings on EU law are issued by the Court of Justice of the EU.",
+      "",
+      "Monetary policy is managed by the European Central Bank.",
+      "Legislative proposals are the exclusive competence of the European Commission."
+    ]
+  },
+  {
+    "id": "eui-012",
+    "question_it": "Quale organo consultivo rappresenta le autorità regionali e locali nell'UE?",
+    "question_en": "Which advisory body represents regional and local authorities in the EU?",
+    "options": [
+      {
+        "text_it": "Comitato economico e sociale europeo (CESE)",
+        "text_en": "European Economic and Social Committee (EESC)"
+      },
+      {
+        "text_it": "Comitato delle regioni (CdR)",
+        "text_en": "Committee of the Regions (CoR)"
+      },
+      {
+        "text_it": "Comitato politico e di sicurezza (COPS)",
+        "text_en": "Political and Security Committee (PSC)"
+      },
+      {
+        "text_it": "Agenzia delle regioni europee",
+        "text_en": "Agency of European Regions"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Comitato delle regioni** (CdR) è l'organo consultivo che rappresenta le **autorità regionali e locali** dell'UE (Art. 300 e 305-307 TFUE).",
+    "explanation_en": "The **Committee of the Regions** (CoR) is the advisory body representing **regional and local authorities** in the EU (Art. 300 and 305-307 TFEU).",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Il CdR deve essere consultato su materie che riguardano le competenze regionali e locali, come la coesione e i trasporti.",
+    "motivation_en": "The CoR must be consulted on matters affecting regional and local competences, such as cohesion and transport.",
+    "wrong_explanations_it": [
+      "Il CESE rappresenta la società civile organizzata (datori di lavoro, lavoratori, altri interessi), non le regioni.",
+      "",
+      "Il COPS è un organo del Consiglio che si occupa di politica estera e di sicurezza.",
+      "L'Agenzia delle regioni europee non è un organo istituzionale dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "The EESC represents organised civil society (employers, workers, other interests), not regions.",
+      "",
+      "The PSC is a Council body dealing with foreign and security policy.",
+      "The Agency of European Regions is not an institutional body of the EU."
+    ]
+  },
+  {
+    "id": "eui-013",
+    "question_it": "Il Comitato economico e sociale europeo (CESE) rappresenta quali gruppi?",
+    "question_en": "Which groups does the European Economic and Social Committee (EESC) represent?",
+    "options": [
+      {
+        "text_it": "Governi nazionali e regionali",
+        "text_en": "National and regional governments"
+      },
+      {
+        "text_it": "Partiti politici europei",
+        "text_en": "European political parties"
+      },
+      {
+        "text_it": "Datori di lavoro, lavoratori e altri gruppi della società civile",
+        "text_en": "Employers, workers and other civil society groups"
+      },
+      {
+        "text_it": "Organizzazioni internazionali",
+        "text_en": "International organisations"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **CESE** rappresenta tre gruppi: **datori di lavoro**, **lavoratori** e **altri interessi** della società civile (Art. 300(2) TFUE).",
+    "explanation_en": "The **EESC** represents three groups: **employers**, **workers** and **other interests** from civil society (Art. 300(2) TFEU).",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "Il CESE è un ponte tra le istituzioni UE e la società civile organizzata, garantendo la partecipazione socioeconomica.",
+    "motivation_en": "The EESC is a bridge between EU institutions and organised civil society, ensuring socioeconomic participation.",
+    "wrong_explanations_it": [
+      "I governi nazionali e regionali sono rappresentati nel Consiglio dell'UE e nel Comitato delle regioni.",
+      "I partiti politici europei operano nel Parlamento europeo, non nel CESE.",
+      "",
+      "Le organizzazioni internazionali non sono rappresentate da organi consultivi dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "National and regional governments are represented in the Council of the EU and the Committee of the Regions.",
+      "European political parties operate in the European Parliament, not the EESC.",
+      "",
+      "International organisations are not represented by EU advisory bodies."
+    ]
+  },
+  {
+    "id": "eui-014",
+    "question_it": "Nella procedura legislativa ordinaria, quante letture sono previste al massimo?",
+    "question_en": "In the ordinary legislative procedure, how many readings are possible at most?",
+    "options": [
+      {
+        "text_it": "Una sola lettura",
+        "text_en": "One reading only"
+      },
+      {
+        "text_it": "Due letture più eventuale conciliazione",
+        "text_en": "Two readings plus possible conciliation"
+      },
+      {
+        "text_it": "Tre letture più eventuale conciliazione",
+        "text_en": "Three readings plus possible conciliation"
+      },
+      {
+        "text_it": "Quattro letture",
+        "text_en": "Four readings"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La procedura legislativa ordinaria prevede al massimo **due letture** in ciascuna istituzione, seguite da un eventuale **comitato di conciliazione** se non c'è accordo (Art. 294 TFUE).",
+    "explanation_en": "The ordinary legislative procedure provides for a maximum of **two readings** in each institution, followed by a possible **conciliation committee** if no agreement is reached (Art. 294 TFEU).",
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "motivation_it": "Se PE e Consiglio non trovano un accordo in seconda lettura, si convoca un comitato di conciliazione per elaborare un testo comune.",
+    "motivation_en": "If the EP and Council do not reach agreement in second reading, a conciliation committee is convened to draw up a joint text.",
+    "wrong_explanations_it": [
+      "Una sola lettura non riflette la complessità della procedura legislativa ordinaria.",
+      "",
+      "Tre letture più conciliazione non è previsto; la conciliazione avviene dopo la seconda lettura.",
+      "Quattro letture non sono contemplate dai Trattati."
+    ],
+    "wrong_explanations_en": [
+      "One reading alone does not reflect the complexity of the ordinary legislative procedure.",
+      "",
+      "Three readings plus conciliation is not provided; conciliation happens after the second reading.",
+      "Four readings are not contemplated by the Treaties."
+    ]
+  },
+  {
+    "id": "eui-015",
+    "question_it": "Quale agenzia dell'UE ha sede ad Amsterdam?",
+    "question_en": "Which EU agency is headquartered in Amsterdam?",
+    "options": [
+      {
+        "text_it": "Europol",
+        "text_en": "Europol"
+      },
+      {
+        "text_it": "Agenzia europea per i medicinali (EMA)",
+        "text_en": "European Medicines Agency (EMA)"
+      },
+      {
+        "text_it": "EFSA",
+        "text_en": "EFSA"
+      },
+      {
+        "text_it": "Frontex",
+        "text_en": "Frontex"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**Agenzia europea per i medicinali (EMA)** ha sede ad **Amsterdam** dal 2019, dopo il trasferimento da Londra a seguito della Brexit.",
+    "explanation_en": "The **European Medicines Agency (EMA)** has been headquartered in **Amsterdam** since 2019, after relocating from London following Brexit.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "L'EMA si è trasferita da Londra ad Amsterdam nel marzo 2019 come conseguenza diretta della Brexit.",
+    "motivation_en": "The EMA relocated from London to Amsterdam in March 2019 as a direct consequence of Brexit.",
+    "wrong_explanations_it": [
+      "Europol ha sede all'Aia, non ad Amsterdam.",
+      "",
+      "L'EFSA (Autorità europea per la sicurezza alimentare) ha sede a Parma, Italia.",
+      "Frontex ha sede a Varsavia, Polonia."
+    ],
+    "wrong_explanations_en": [
+      "Europol is headquartered in The Hague, not Amsterdam.",
+      "",
+      "EFSA (European Food Safety Authority) is headquartered in Parma, Italy.",
+      "Frontex is headquartered in Warsaw, Poland."
+    ]
+  },
+  {
+    "id": "eui-016",
+    "question_it": "Dove ha sede Europol?",
+    "question_en": "Where is Europol headquartered?",
+    "options": [
+      {
+        "text_it": "Amsterdam",
+        "text_en": "Amsterdam"
+      },
+      {
+        "text_it": "L'Aia",
+        "text_en": "The Hague"
+      },
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      },
+      {
+        "text_it": "Lione",
+        "text_en": "Lyon"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "**Europol**, l'agenzia dell'UE per la cooperazione di polizia, ha sede a **L'Aia**, nei Paesi Bassi.",
+    "explanation_en": "**Europol**, the EU agency for law enforcement cooperation, is headquartered in **The Hague**, the Netherlands.",
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "motivation_it": "L'Aia è anche sede della Corte internazionale di giustizia e di Eurojust, rendendola un importante centro giudiziario e di sicurezza.",
+    "motivation_en": "The Hague is also home to the International Court of Justice and Eurojust, making it an important judicial and security hub.",
+    "wrong_explanations_it": [
+      "Amsterdam ospita l'EMA, non Europol.",
+      "",
+      "Bruxelles ospita molte istituzioni UE ma non Europol.",
+      "Lione ospita Interpol, non Europol."
+    ],
+    "wrong_explanations_en": [
+      "Amsterdam hosts the EMA, not Europol.",
+      "",
+      "Brussels hosts many EU institutions but not Europol.",
+      "Lyon hosts Interpol, not Europol."
+    ]
+  },
+  {
+    "id": "eui-017",
+    "question_it": "Dove ha sede l'Autorità europea per la sicurezza alimentare (EFSA)?",
+    "question_en": "Where is the European Food Safety Authority (EFSA) headquartered?",
+    "options": [
+      {
+        "text_it": "Roma",
+        "text_en": "Rome"
+      },
+      {
+        "text_it": "Milano",
+        "text_en": "Milan"
+      },
+      {
+        "text_it": "Parma",
+        "text_en": "Parma"
+      },
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**EFSA** ha sede a **Parma**, in Italia, dal 2005. Fornisce consulenza scientifica indipendente sulla sicurezza alimentare.",
+    "explanation_en": "**EFSA** has been headquartered in **Parma**, Italy, since 2005. It provides independent scientific advice on food safety.",
+    "category": "Seats & Organization",
+    "difficulty": "medium",
+    "motivation_it": "L'Italia ospita l'EFSA a Parma, una delle poche agenzie dell'UE con sede nel Paese.",
+    "motivation_en": "Italy hosts EFSA in Parma, one of the few EU agencies headquartered in the country.",
+    "wrong_explanations_it": [
+      "Roma non ospita agenzie dell'UE di questo tipo.",
+      "Milano è un importante centro economico ma non ospita l'EFSA.",
+      "",
+      "Bruxelles ospita sedi istituzionali ma non l'EFSA."
+    ],
+    "wrong_explanations_en": [
+      "Rome does not host EU agencies of this type.",
+      "Milan is an important economic centre but does not host EFSA.",
+      "",
+      "Brussels hosts institutional headquarters but not EFSA."
+    ]
+  },
+  {
+    "id": "eui-018",
+    "question_it": "Chi nomina i membri della Commissione europea?",
+    "question_en": "Who appoints the members of the European Commission?",
+    "options": [
+      {
+        "text_it": "Il Parlamento europeo da solo",
+        "text_en": "The European Parliament alone"
+      },
+      {
+        "text_it": "Il Consiglio europeo di comune accordo con il Presidente della Commissione eletto, con approvazione del PE",
+        "text_en": "The European Council by common accord with the elected Commission President, with EP approval"
+      },
+      {
+        "text_it": "I governi nazionali direttamente",
+        "text_en": "National governments directly"
+      },
+      {
+        "text_it": "La Corte di giustizia dell'UE",
+        "text_en": "The Court of Justice of the EU"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "I commissari sono proposti dal Consiglio di comune accordo con il **Presidente eletto della Commissione**, e l'intero collegio deve ricevere l'**approvazione del Parlamento europeo** (Art. 17(7) TUE).",
+    "explanation_en": "Commissioners are proposed by the Council by common accord with the **elected Commission President**, and the entire college must receive **European Parliament approval** (Art. 17(7) TEU).",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "Il processo di nomina coinvolge più istituzioni per garantire equilibrio e legittimità democratica.",
+    "motivation_en": "The appointment process involves multiple institutions to ensure balance and democratic legitimacy.",
+    "wrong_explanations_it": [
+      "Il PE approva il collegio ma non nomina i singoli commissari.",
+      "",
+      "I governi propongono candidati ma la nomina formale segue la procedura prevista dai Trattati.",
+      "La Corte di giustizia non ha alcun ruolo nella nomina dei commissari."
+    ],
+    "wrong_explanations_en": [
+      "The EP approves the college but does not appoint individual Commissioners.",
+      "",
+      "Governments propose candidates but formal appointment follows the Treaty procedure.",
+      "The Court of Justice has no role in appointing Commissioners."
+    ]
+  },
+  {
+    "id": "eui-019",
+    "question_it": "Cosa si intende per competenze esclusive dell'UE?",
+    "question_en": "What are exclusive competences of the EU?",
+    "options": [
+      {
+        "text_it": "Settori in cui sia l'UE sia gli Stati membri possono legiferare",
+        "text_en": "Areas where both the EU and Member States can legislate"
+      },
+      {
+        "text_it": "Settori in cui solo l'UE può legiferare",
+        "text_en": "Areas where only the EU can legislate"
+      },
+      {
+        "text_it": "Settori in cui solo gli Stati membri possono legiferare",
+        "text_en": "Areas where only Member States can legislate"
+      },
+      {
+        "text_it": "Settori senza alcuna competenza legislativa",
+        "text_en": "Areas with no legislative competence"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Le **competenze esclusive** sono settori in cui *solo l'UE* può adottare atti giuridicamente vincolanti; gli Stati membri possono farlo solo se autorizzati dall'UE (Art. 2(1) e 3 TFUE).",
+    "explanation_en": "**Exclusive competences** are areas where *only the EU* can adopt legally binding acts; Member States can do so only if empowered by the EU (Art. 2(1) and 3 TFEU).",
+    "category": "Competences",
+    "difficulty": "medium",
+    "motivation_it": "Esempi di competenze esclusive includono l'unione doganale, la politica commerciale comune e la politica monetaria per l'eurozona.",
+    "motivation_en": "Examples of exclusive competences include the customs union, common commercial policy and monetary policy for the eurozone.",
+    "wrong_explanations_it": [
+      "Settori in cui entrambi possono legiferare sono le competenze concorrenti, non esclusive.",
+      "",
+      "Settori di sola competenza nazionale non rientrano nelle competenze dell'UE.",
+      "Tutti i settori citati nei Trattati hanno una qualche forma di competenza attribuita."
+    ],
+    "wrong_explanations_en": [
+      "Areas where both can legislate are shared competences, not exclusive.",
+      "",
+      "Areas of sole national competence do not fall under EU competences.",
+      "All areas mentioned in the Treaties have some form of attributed competence."
+    ]
+  },
+  {
+    "id": "eui-020",
+    "question_it": "Quale dei seguenti è un esempio di competenza esclusiva dell'UE?",
+    "question_en": "Which of the following is an example of exclusive EU competence?",
+    "options": [
+      {
+        "text_it": "Istruzione",
+        "text_en": "Education"
+      },
+      {
+        "text_it": "Unione doganale",
+        "text_en": "Customs union"
+      },
+      {
+        "text_it": "Turismo",
+        "text_en": "Tourism"
+      },
+      {
+        "text_it": "Sanità pubblica",
+        "text_en": "Public health"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**unione doganale** è una delle cinque competenze esclusive dell'UE elencate nell'Art. 3 TFUE, insieme a politica commerciale comune, concorrenza, risorse biologiche marine e politica monetaria (eurozona).",
+    "explanation_en": "The **customs union** is one of the five exclusive EU competences listed in Art. 3 TFEU, along with common commercial policy, competition, marine biological resources and monetary policy (eurozone).",
+    "category": "Competences",
+    "difficulty": "medium",
+    "motivation_it": "Solo l'UE può adottare norme vincolanti in materia doganale; gli Stati membri non possono agire unilateralmente.",
+    "motivation_en": "Only the EU can adopt binding rules on customs matters; Member States cannot act unilaterally.",
+    "wrong_explanations_it": [
+      "L'istruzione è una competenza di sostegno dell'UE, non esclusiva.",
+      "",
+      "Il turismo è una competenza di sostegno, coordinamento o complemento.",
+      "La sanità pubblica è una competenza concorrente con aspetti di sostegno."
+    ],
+    "wrong_explanations_en": [
+      "Education is a supporting EU competence, not exclusive.",
+      "",
+      "Tourism is a supporting, coordinating or supplementary competence.",
+      "Public health is a shared competence with supporting aspects."
+    ]
+  },
+  {
+    "id": "eui-021",
+    "question_it": "Qual è il ruolo principale dell'Avvocato Generale presso la Corte di Giustizia dell'UE?",
+    "question_en": "What is the main role of the Advocate General at the Court of Justice of the EU?",
+    "options": [
+      {
+        "text_it": "Rappresentare gli Stati membri",
+        "text_en": "Represent the Member States"
+      },
+      {
+        "text_it": "Fornire pareri giuridici indipendenti",
+        "text_en": "Provide independent legal opinions"
+      },
+      {
+        "text_it": "Decidere sulle controversie tra istituzioni UE",
+        "text_en": "Decide on disputes between EU institutions"
+      },
+      {
+        "text_it": "Supervisionare l'attuazione del diritto UE",
+        "text_en": "Oversee the implementation of EU law"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**Avvocato Generale** fornisce pareri giuridici indipendenti (*opinioni*) sulle cause dinanzi alla Corte di Giustizia dell'UE, aiutando i giudici a prendere decisioni informate.",
+    "explanation_en": "The **Advocate General** provides independent legal opinions (*opinions*) on cases before the Court of Justice of the EU, assisting judges in making informed decisions.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "Comprendere il ruolo degli Avvocati Generali è fondamentale per conoscere il funzionamento della Corte di Giustizia dell'UE.",
+    "motivation_en": "Understanding the role of Advocates General is crucial to grasp the functioning of the Court of Justice of the EU.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Le decisioni sulle controversie spettano ai giudici.",
+      "La supervisione dell'attuazione del diritto UE è compito della Commissione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Decisions on disputes are made by judges.",
+      "Overseeing the implementation of EU law is the Commission's task."
+    ]
+  },
+  {
+    "id": "eui-022",
+    "question_it": "Quale istituzione UE è responsabile dell'adozione del bilancio dell'UE?",
+    "question_en": "Which EU institution is responsible for adopting the EU budget?",
+    "options": [
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo e Consiglio dell'UE",
+        "text_en": "European Parliament and Council of the EU"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Il **bilancio dell'UE** è adottato congiuntamente dal **Parlamento Europeo** e dal **Consiglio dell'UE**, seguendo una procedura specifica delineata nei trattati.",
+    "explanation_en": "The **EU budget** is adopted jointly by the **European Parliament** and the **Council of the EU**, following a specific procedure outlined in the treaties.",
+    "category": "EU Processes",
+    "difficulty": "medium",
+    "motivation_it": "Conoscere il processo di adozione del bilancio è essenziale per comprendere il funzionamento finanziario dell'UE.",
+    "motivation_en": "Understanding the budget adoption process is essential to grasp the financial functioning of the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La Commissione propone il bilancio ma non lo adotta.",
+      "Il Parlamento Europeo da solo non può adottare il bilancio.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Commission proposes the budget but does not adopt it.",
+      "The European Parliament alone cannot adopt the budget.",
+      ""
+    ]
+  },
+  {
+    "id": "eui-023",
+    "question_it": "Quale principio dell'UE stabilisce che l'azione dell'Unione non deve andare oltre quanto necessario per raggiungere gli obiettivi dei trattati?",
+    "question_en": "Which EU principle states that the Union's action must not go beyond what is necessary to achieve the objectives of the treaties?",
+    "options": [
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Subsidiarity principle"
+      },
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Proportionality principle"
+      },
+      {
+        "text_it": "Principio di leale cooperazione",
+        "text_en": "Principle of sincere cooperation"
+      },
+      {
+        "text_it": "Principio di non discriminazione",
+        "text_en": "Principle of non-discrimination"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **principio di proporzionalità** (*articolo 5 TUE*) stabilisce che l'azione dell'UE deve essere limitata a quanto necessario per raggiungere gli obiettivi dei trattati.",
+    "explanation_en": "The **proportionality principle** (*Article 5 TEU*) states that EU action must be limited to what is necessary to achieve the objectives of the treaties.",
+    "category": "Competences",
+    "difficulty": "hard",
+    "motivation_it": "Il principio di proporzionalità è fondamentale per garantire che l'UE agisca in modo equilibrato e rispettoso delle competenze nazionali.",
+    "motivation_en": "The proportionality principle is crucial to ensure that the EU acts in a balanced manner and respects national competences.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il principio di leale cooperazione si applica ai rapporti tra UE e Stati membri.",
+      "Il principio di non discriminazione riguarda i diritti dei cittadini."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The principle of sincere cooperation applies to relations between the EU and Member States.",
+      "The principle of non-discrimination concerns citizens' rights."
+    ]
+  },
+  {
+    "id": "eui-024",
+    "question_it": "Quale procedura legislativa richiede il consenso del Parlamento Europeo senza possibilità di emendamenti?",
+    "question_en": "Which legislative procedure requires the consent of the European Parliament without the possibility of amendments?",
+    "options": [
+      {
+        "text_it": "Procedura ordinaria",
+        "text_en": "Ordinary legislative procedure"
+      },
+      {
+        "text_it": "Procedura di consultazione",
+        "text_en": "Consultation procedure"
+      },
+      {
+        "text_it": "Procedura di approvazione",
+        "text_en": "Consent procedure"
+      },
+      {
+        "text_it": "Procedura di cooperazione",
+        "text_en": "Cooperation procedure"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **procedura di approvazione** (*consent*) richiede che il Parlamento Europeo approvi o respinga una proposta senza possibilità di emendamenti, spesso utilizzata per accordi internazionali.",
+    "explanation_en": "The **consent procedure** requires the European Parliament to approve or reject a proposal without the possibility of amendments, often used for international agreements.",
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "motivation_it": "Conoscere le diverse procedure legislative è essenziale per comprendere il processo decisionale dell'UE.",
+    "motivation_en": "Understanding the different legislative procedures is essential to grasp the EU decision-making process.",
+    "wrong_explanations_it": [
+      "",
+      "La procedura ordinaria prevede emendamenti e negoziati.",
+      "",
+      "La procedura di cooperazione è stata sostituita dalla procedura ordinaria."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ordinary procedure allows amendments and negotiations.",
+      "",
+      "The cooperation procedure has been replaced by the ordinary procedure."
+    ]
+  },
+  {
+    "id": "eui-025",
+    "question_it": "Quale meccanismo consente a un gruppo di Stati membri di avanzare in un'area specifica senza il coinvolgimento di tutti?",
+    "question_en": "Which mechanism allows a group of Member States to advance in a specific area without the involvement of all?",
+    "options": [
+      {
+        "text_it": "Cooperazione rafforzata",
+        "text_en": "Enhanced cooperation"
+      },
+      {
+        "text_it": "Procedura di infrazione",
+        "text_en": "Infringement procedure"
+      },
+      {
+        "text_it": "Dialogo strutturato",
+        "text_en": "Structured dialogue"
+      },
+      {
+        "text_it": "Metodo aperto di coordinamento",
+        "text_en": "Open method of coordination"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **cooperazione rafforzata** (*articolo 20 TUE*) consente a un gruppo di almeno 9 Stati membri di avanzare in un'area specifica senza il coinvolgimento di tutti gli altri.",
+    "explanation_en": "**Enhanced cooperation** (*Article 20 TEU*) allows a group of at least 9 Member States to advance in a specific area without the involvement of all others.",
+    "category": "Competences",
+    "difficulty": "hard",
+    "motivation_it": "La cooperazione rafforzata è uno strumento importante per promuovere l'integrazione differenziata nell'UE.",
+    "motivation_en": "Enhanced cooperation is an important tool for promoting differentiated integration in the EU.",
+    "wrong_explanations_it": [
+      "",
+      "La procedura di infrazione riguarda il mancato rispetto del diritto UE.",
+      "Il dialogo strutturato è un metodo di coordinamento nelle politiche estere.",
+      "Il metodo aperto di coordinamento è un approccio non vincolante."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The infringement procedure concerns non-compliance with EU law.",
+      "Structured dialogue is a method of coordination in foreign policies.",
+      "The open method of coordination is a non-binding approach."
+    ]
+  },
+  {
+    "id": "eui-026",
+    "question_it": "Quale istituzione UE ha il potere di iniziativa legislativa?",
+    "question_en": "Which EU institution has the power of legislative initiative?",
+    "options": [
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Corte di Giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **Commissione Europea** detiene il **potere di iniziativa legislativa**, proponendo nuove leggi e modifiche alle normative esistenti.",
+    "explanation_en": "The **European Commission** holds the **power of legislative initiative**, proposing new laws and amendments to existing legislation.",
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "motivation_it": "Il potere di iniziativa legislativa è un aspetto chiave del ruolo della Commissione nel processo decisionale dell'UE.",
+    "motivation_en": "The power of legislative initiative is a key aspect of the Commission's role in the EU decision-making process.",
+    "wrong_explanations_it": [
+      "",
+      "Il Parlamento Europeo può richiedere proposte legislative ma non ha il potere di iniziativa.",
+      "",
+      "La Corte di Giustizia interpreta il diritto UE ma non propone leggi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The European Parliament can request legislative proposals but does not have the power of initiative.",
+      "",
+      "The Court of Justice interprets EU law but does not propose laws."
+    ]
+  },
+  {
+    "id": "eui-027",
+    "question_it": "Quale principio dell'UE stabilisce che le decisioni devono essere prese al livello più vicino ai cittadini?",
+    "question_en": "Which EU principle states that decisions should be taken as closely as possible to the citizens?",
+    "options": [
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Proportionality principle"
+      },
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Subsidiarity principle"
+      },
+      {
+        "text_it": "Principio di democrazia rappresentativa",
+        "text_en": "Principle of representative democracy"
+      },
+      {
+        "text_it": "Principio di trasparenza",
+        "text_en": "Principle of transparency"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **principio di sussidiarietà** (*articolo 5 TUE*) stabilisce che le decisioni devono essere prese al livello più vicino ai cittadini, a meno che l'azione a livello UE non sia più efficace.",
+    "explanation_en": "The **subsidiarity principle** (*Article 5 TEU*) states that decisions should be taken as closely as possible to the citizens, unless action at EU level is more effective.",
+    "category": "Competences",
+    "difficulty": "medium",
+    "motivation_it": "Il principio di sussidiarietà è fondamentale per garantire che l'UE agisca solo quando necessario.",
+    "motivation_en": "The subsidiarity principle is crucial to ensure that the EU acts only when necessary.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il principio di democrazia rappresentativa si riferisce alla rappresentanza dei cittadini.",
+      "Il principio di trasparenza riguarda l'accesso alle informazioni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The principle of representative democracy refers to citizens' representation.",
+      "The transparency principle concerns access to information."
+    ]
+  },
+  {
+    "id": "eui-028",
+    "question_it": "Quale procedura legislativa è la più utilizzata nell'UE?",
+    "question_en": "Which legislative procedure is the most commonly used in the EU?",
+    "options": [
+      {
+        "text_it": "Procedura di consultazione",
+        "text_en": "Consultation procedure"
+      },
+      {
+        "text_it": "Procedura ordinaria",
+        "text_en": "Ordinary legislative procedure"
+      },
+      {
+        "text_it": "Procedura di approvazione",
+        "text_en": "Consent procedure"
+      },
+      {
+        "text_it": "Procedura di cooperazione",
+        "text_en": "Cooperation procedure"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **procedura ordinaria** (*ex procedura di codecisione*) è la più utilizzata nell'UE, coinvolgendo il Parlamento Europeo e il Consiglio dell'UE come colegislatori.",
+    "explanation_en": "The **ordinary legislative procedure** (*formerly co-decision procedure*) is the most commonly used in the EU, involving the European Parliament and the Council of the EU as co-legislators.",
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "motivation_it": "La procedura ordinaria è il cuore del processo legislativo dell'UE.",
+    "motivation_en": "The ordinary legislative procedure is the core of the EU legislative process.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La procedura di approvazione è utilizzata solo in casi specifici.",
+      "La procedura di cooperazione è stata sostituita dalla procedura ordinaria."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The consent procedure is used only in specific cases.",
+      "The cooperation procedure has been replaced by the ordinary procedure."
+    ]
+  },
+  {
+    "id": "eui-029",
+    "question_it": "Quale istituzione UE è responsabile della supervisione della protezione dei dati nell'UE?",
+    "question_en": "Which EU institution is responsible for overseeing data protection in the EU?",
+    "options": [
+      {
+        "text_it": "Garante europeo della protezione dei dati",
+        "text_en": "European Data Protection Supervisor"
+      },
+      {
+        "text_it": "Corte di Giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      },
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Garante europeo della protezione dei dati** (*EDPS*) è responsabile della supervisione della protezione dei dati nelle istituzioni e negli organi dell'UE.",
+    "explanation_en": "The **European Data Protection Supervisor** (*EDPS*) is responsible for overseeing data protection in EU institutions and bodies.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "La protezione dei dati è un diritto fondamentale nell'UE, e il ruolo dell'EDPS è cruciale per garantirne il rispetto.",
+    "motivation_en": "Data protection is a fundamental right in the EU, and the role of the EDPS is crucial to ensure its respect.",
+    "wrong_explanations_it": [
+      "",
+      "La Corte di Giustizia interpreta il diritto UE ma non supervisiona la protezione dei dati.",
+      "La Commissione Europea promuove la protezione dei dati ma non la supervisiona.",
+      "Il Parlamento Europeo legifera sulla protezione dei dati ma non la supervisiona."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Court of Justice interprets EU law but does not oversee data protection.",
+      "The European Commission promotes data protection but does not oversee it.",
+      "The European Parliament legislates on data protection but does not oversee it."
+    ]
+  },
+  {
+    "id": "eui-030",
+    "question_it": "Quale procedura consente ai parlamenti nazionali di contestare una proposta legislativa UE per violazione del principio di sussidiarietà?",
+    "question_en": "Which procedure allows national parliaments to challenge an EU legislative proposal for violation of the subsidiarity principle?",
+    "options": [
+      {
+        "text_it": "Procedura della carta gialla",
+        "text_en": "Yellow card procedure"
+      },
+      {
+        "text_it": "Procedura della carta arancione",
+        "text_en": "Orange card procedure"
+      },
+      {
+        "text_it": "Procedura della carta rossa",
+        "text_en": "Red card procedure"
+      },
+      {
+        "text_it": "Procedura della carta blu",
+        "text_en": "Blue card procedure"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **procedura della carta gialla** consente ai parlamenti nazionali di contestare una proposta legislativa UE se ritengono che violi il principio di sussidiarietà.",
+    "explanation_en": "The **yellow card procedure** allows national parliaments to challenge an EU legislative proposal if they believe it violates the subsidiarity principle.",
+    "category": "Decision Making",
+    "difficulty": "hard",
+    "motivation_it": "La procedura della carta gialla è uno strumento importante per garantire il rispetto del principio di sussidiarietà.",
+    "motivation_en": "The yellow card procedure is an important tool to ensure respect for the subsidiarity principle.",
+    "wrong_explanations_it": [
+      "",
+      "La procedura della carta arancione non esiste.",
+      "La procedura della carta rossa non esiste.",
+      "La procedura della carta blu non esiste."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The orange card procedure does not exist.",
+      "The red card procedure does not exist.",
+      "The blue card procedure does not exist."
+    ]
+  },
+  {
+    "id": "eui-031",
+    "question_it": "Quale istituzione UE è responsabile della gestione delle agenzie dell'UE?",
+    "question_en": "Which EU institution is responsible for managing EU agencies?",
+    "options": [
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Corte di Giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Commissione Europea** è responsabile della gestione e del coordinamento delle **agenzie dell'UE**, che svolgono compiti specifici in settori tecnici o specializzati.",
+    "explanation_en": "The **European Commission** is responsible for managing and coordinating **EU agencies**, which carry out specific tasks in technical or specialized areas.",
+    "category": "Seats & Organization",
+    "difficulty": "medium",
+    "motivation_it": "Le agenzie dell'UE svolgono un ruolo cruciale nell'attuazione delle politiche dell'UE, e la Commissione ne coordina le attività.",
+    "motivation_en": "EU agencies play a crucial role in implementing EU policies, and the Commission coordinates their activities.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'UE non gestisce direttamente le agenzie.",
+      "Il Parlamento Europeo supervisiona ma non gestisce le agenzie.",
+      "La Corte di Giustizia non ha un ruolo nella gestione delle agenzie."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the EU does not directly manage agencies.",
+      "The European Parliament oversees but does not manage agencies.",
+      "The Court of Justice has no role in managing agencies."
+    ]
+  },
+  {
+    "id": "eui-032",
+    "question_it": "Quale organo dell'UE è responsabile di indagare sulle denunce di cattiva amministrazione nelle istituzioni UE?",
+    "question_en": "Which EU body is responsible for investigating complaints of maladministration in EU institutions?",
+    "options": [
+      {
+        "text_it": "Mediatore europeo",
+        "text_en": "European Ombudsman"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      },
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Mediatore europeo** è responsabile di indagare sulle denunce di **cattiva amministrazione** nelle istituzioni e negli organi dell'UE.",
+    "explanation_en": "The **European Ombudsman** is responsible for investigating complaints of **maladministration** in EU institutions and bodies.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "Il Mediatore europeo svolge un ruolo cruciale nel garantire la trasparenza e l'integrità delle istituzioni UE.",
+    "motivation_en": "The European Ombudsman plays a crucial role in ensuring transparency and integrity in EU institutions.",
+    "wrong_explanations_it": [
+      "",
+      "La Corte dei conti europea controlla le finanze dell'UE.",
+      "La Commissione Europea non indaga sulle denunce di cattiva amministrazione.",
+      "Il Parlamento Europeo supervisiona ma non indaga direttamente."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The European Court of Auditors audits EU finances.",
+      "The European Commission does not investigate complaints of maladministration.",
+      "The European Parliament oversees but does not directly investigate."
+    ]
+  },
+  {
+    "id": "eui-033",
+    "question_it": "Quale procedura legislativa richiede solo il parere del Parlamento Europeo?",
+    "question_en": "Which legislative procedure requires only the opinion of the European Parliament?",
+    "options": [
+      {
+        "text_it": "Procedura ordinaria",
+        "text_en": "Ordinary legislative procedure"
+      },
+      {
+        "text_it": "Procedura di consultazione",
+        "text_en": "Consultation procedure"
+      },
+      {
+        "text_it": "Procedura di approvazione",
+        "text_en": "Consent procedure"
+      },
+      {
+        "text_it": "Procedura di cooperazione",
+        "text_en": "Cooperation procedure"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **procedura di consultazione** richiede solo un **parere** del Parlamento Europeo, senza potere di emendamento o veto.",
+    "explanation_en": "The **consultation procedure** requires only an **opinion** from the European Parliament, without the power to amend or veto.",
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "motivation_it": "La procedura di consultazione è utilizzata in casi specifici in cui il Parlamento Europeo ha un ruolo consultivo.",
+    "motivation_en": "The consultation procedure is used in specific cases where the European Parliament has a consultative role.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La procedura di approvazione richiede il consenso del Parlamento.",
+      "La procedura di cooperazione è stata sostituita dalla procedura ordinaria."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The consent procedure requires Parliament's approval.",
+      "The cooperation procedure has been replaced by the ordinary procedure."
+    ]
+  },
+  {
+    "id": "eui-034",
+    "question_it": "Quale principio dell'UE stabilisce che le azioni dell'Unione devono essere giustificate da obiettivi chiari e limitati?",
+    "question_en": "Which EU principle states that Union actions must be justified by clear and limited objectives?",
+    "options": [
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Subsidiarity principle"
+      },
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Proportionality principle"
+      },
+      {
+        "text_it": "Principio di attribuzione",
+        "text_en": "Principle of conferral"
+      },
+      {
+        "text_it": "Principio di trasparenza",
+        "text_en": "Principle of transparency"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **principio di attribuzione** (*articolo 5 TUE*) stabilisce che l'UE può agire solo nei limiti delle competenze conferitele dai trattati.",
+    "explanation_en": "The **principle of conferral** (*Article 5 TEU*) states that the EU can act only within the limits of the competences conferred upon it by the treaties.",
+    "category": "Competences",
+    "difficulty": "hard",
+    "motivation_it": "Il principio di attribuzione è fondamentale per garantire che l'UE agisca solo nei limiti delle sue competenze.",
+    "motivation_en": "The principle of conferral is crucial to ensure that the EU acts only within the limits of its competences.",
+    "wrong_explanations_it": [
+      "",
+      "Il principio di sussidiarietà riguarda il livello di intervento.",
+      "",
+      "Il principio di trasparenza riguarda l'accesso alle informazioni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The subsidiarity principle concerns the level of intervention.",
+      "",
+      "The transparency principle concerns access to information."
+    ]
+  },
+  {
+    "id": "eui-035",
+    "question_it": "Quale istituzione UE è responsabile della supervisione delle elezioni europee?",
+    "question_en": "Which EU institution is responsible for overseeing European elections?",
+    "options": [
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Corte di Giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Parlamento Europeo** è responsabile della supervisione delle **elezioni europee**, garantendo che si svolgano in modo libero e democratico.",
+    "explanation_en": "The **European Parliament** is responsible for overseeing **European elections**, ensuring they are conducted freely and democratically.",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "Le elezioni europee sono un momento cruciale per la democrazia nell'UE, e il Parlamento svolge un ruolo chiave nel garantirne l'integrità.",
+    "motivation_en": "European elections are a crucial moment for democracy in the EU, and the Parliament plays a key role in ensuring their integrity.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il Consiglio dell'UE non ha un ruolo diretto nelle elezioni.",
+      "La Corte di Giustizia non supervisiona le elezioni."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The Council of the EU has no direct role in elections.",
+      "The Court of Justice does not oversee elections."
+    ]
+  },
+  {
+    "id": "eui-036",
+    "question_it": "Quale procedura legislativa è utilizzata per l'adozione degli atti delegati?",
+    "question_en": "Which legislative procedure is used for the adoption of delegated acts?",
+    "options": [
+      {
+        "text_it": "Procedura ordinaria",
+        "text_en": "Ordinary legislative procedure"
+      },
+      {
+        "text_it": "Procedura di consultazione",
+        "text_en": "Consultation procedure"
+      },
+      {
+        "text_it": "Procedura di comitologia",
+        "text_en": "Comitology procedure"
+      },
+      {
+        "text_it": "Procedura di approvazione",
+        "text_en": "Consent procedure"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "La **procedura di comitologia** è utilizzata per l'adozione degli **atti delegati**, che consentono alla Commissione di integrare o modificare aspetti tecnici delle leggi UE.",
+    "explanation_en": "The **comitology procedure** is used for the adoption of **delegated acts**, which allow the Commission to supplement or amend technical aspects of EU laws.",
+    "category": "Decision Making",
+    "difficulty": "hard",
+    "motivation_it": "La comitologia è un aspetto tecnico ma cruciale del processo legislativo dell'UE.",
+    "motivation_en": "Comitology is a technical but crucial aspect of the EU legislative process.",
+    "wrong_explanations_it": [
+      "",
+      "La procedura ordinaria è utilizzata per le leggi principali.",
+      "",
+      "La procedura di approvazione è utilizzata per accordi internazionali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The ordinary procedure is used for main laws.",
+      "",
+      "The consent procedure is used for international agreements."
+    ]
+  },
+  {
+    "id": "eui-037",
+    "question_it": "Quale istituzione UE è responsabile della supervisione delle politiche estere dell'UE?",
+    "question_en": "Which EU institution is responsible for overseeing EU foreign policies?",
+    "options": [
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Alto Rappresentante dell'UE",
+        "text_en": "High Representative of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "L'**Alto Rappresentante dell'UE** è responsabile della supervisione delle **politiche estere dell'UE**, coordinando l'azione esterna dell'Unione.",
+    "explanation_en": "The **High Representative of the EU** is responsible for overseeing **EU foreign policies**, coordinating the Union's external action.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "L'Alto Rappresentante svolge un ruolo cruciale nel rappresentare l'UE sulla scena internazionale.",
+    "motivation_en": "The High Representative plays a crucial role in representing the EU on the international stage.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'UE adotta decisioni ma non supervisiona direttamente.",
+      "",
+      "Il Parlamento Europeo supervisiona ma non coordina le politiche estere."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the EU adopts decisions but does not directly oversee.",
+      "",
+      "The European Parliament oversees but does not coordinate foreign policies."
+    ]
+  },
+  {
+    "id": "eui-038",
+    "question_it": "Quale istituzione UE è responsabile della supervisione delle politiche monetarie nell'Eurozona?",
+    "question_en": "Which EU institution is responsible for overseeing monetary policies in the Eurozone?",
+    "options": [
+      {
+        "text_it": "Banca centrale europea",
+        "text_en": "European Central Bank"
+      },
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Banca centrale europea** (*BCE*) è responsabile della supervisione delle **politiche monetarie** nell'Eurozona, garantendo la stabilità dei prezzi.",
+    "explanation_en": "The **European Central Bank** (*ECB*) is responsible for overseeing **monetary policies** in the Eurozone, ensuring price stability.",
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "motivation_it": "La BCE svolge un ruolo cruciale nella gestione dell'euro e nella stabilità economica dell'Eurozona.",
+    "motivation_en": "The ECB plays a crucial role in managing the euro and ensuring economic stability in the Eurozone.",
+    "wrong_explanations_it": [
+      "",
+      "La Commissione Europea non supervisiona le politiche monetarie.",
+      "Il Consiglio dell'UE non ha un ruolo diretto nelle politiche monetarie.",
+      "Il Parlamento Europeo supervisiona ma non gestisce le politiche monetarie."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The European Commission does not oversee monetary policies.",
+      "The Council of the EU has no direct role in monetary policies.",
+      "The European Parliament oversees but does not manage monetary policies."
+    ]
+  },
+  {
+    "id": "eui-039",
+    "question_it": "Quale istituzione UE è responsabile della supervisione delle politiche agricole comuni?",
+    "question_en": "Which EU institution is responsible for overseeing the Common Agricultural Policy?",
+    "options": [
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Corte di Giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Commissione Europea** è responsabile della supervisione delle **politiche agricole comuni** (*PAC*), garantendone l'attuazione e il finanziamento.",
+    "explanation_en": "The **European Commission** is responsible for overseeing the **Common Agricultural Policy** (*CAP*), ensuring its implementation and funding.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "La PAC è una delle politiche più importanti dell'UE, e la Commissione svolge un ruolo chiave nella sua gestione.",
+    "motivation_en": "The CAP is one of the EU's most important policies, and the Commission plays a key role in its management.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'UE adotta decisioni ma non supervisiona direttamente.",
+      "Il Parlamento Europeo supervisiona ma non gestisce la PAC.",
+      "La Corte di Giustizia interpreta il diritto UE ma non supervisiona la PAC."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the EU adopts decisions but does not directly oversee.",
+      "The European Parliament oversees but does not manage the CAP.",
+      "The Court of Justice interprets EU law but does not oversee the CAP."
+    ]
+  },
+  {
+    "id": "eui-040",
+    "question_it": "Quale istituzione UE è responsabile della supervisione delle politiche di coesione?",
+    "question_en": "Which EU institution is responsible for overseeing cohesion policies?",
+    "options": [
+      {
+        "text_it": "Commissione Europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Parlamento Europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Commissione Europea** è responsabile della supervisione delle **politiche di coesione**, garantendone l'attuazione e il finanziamento per ridurre le disparità regionali.",
+    "explanation_en": "The **European Commission** is responsible for overseeing **cohesion policies**, ensuring their implementation and funding to reduce regional disparities.",
+    "category": "EU Institutions",
+    "difficulty": "medium",
+    "motivation_it": "Le politiche di coesione sono fondamentali per promuovere lo sviluppo equilibrato delle regioni dell'UE.",
+    "motivation_en": "Cohesion policies are crucial for promoting balanced development across EU regions.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'UE adotta decisioni ma non supervisiona direttamente.",
+      "Il Parlamento Europeo supervisiona ma non gestisce le politiche di coesione.",
+      "La Corte dei conti europea controlla le finanze ma non supervisiona le politiche."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the EU adopts decisions but does not directly oversee.",
+      "The European Parliament oversees but does not manage cohesion policies.",
+      "The European Court of Auditors audits finances but does not oversee policies."
+    ]
+  },
+  {
+    "question_it": "Qual è l'organo esecutivo dell'Unione Europea?",
+    "question_en": "What is the executive body of the European Union?",
+    "options": [
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio europeo",
+        "text_en": "European Council"
+      },
+      {
+        "text_it": "Corte di giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Commissione europea** è l'organo esecutivo dell'UE, responsabile dell'attuazione delle politiche e della gestione del bilancio.",
+    "explanation_en": "The **European Commission** is the EU's executive body, responsible for implementing policies and managing the budget.",
+    "motivation_it": "La Commissione europea svolge un ruolo fondamentale nel processo decisionale dell'UE.",
+    "motivation_en": "The European Commission plays a crucial role in the EU's decision-making process.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "id": "eui-041"
+  },
+  {
+    "question_it": "Quale istituzione rappresenta gli interessi dei cittadini dell'UE?",
+    "question_en": "Which institution represents the interests of EU citizens?",
+    "options": [
+      {
+        "text_it": "Consiglio dell'UE",
+        "text_en": "Council of the EU"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Banca centrale europea",
+        "text_en": "European Central Bank"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Parlamento europeo** è l'unica istituzione dell'UE eletta direttamente dai cittadini e rappresenta i loro interessi.",
+    "explanation_en": "The **European Parliament** is the only EU institution directly elected by citizens and represents their interests.",
+    "motivation_it": "Il Parlamento europeo garantisce la rappresentanza democratica nell'UE.",
+    "motivation_en": "The European Parliament ensures democratic representation in the EU.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "",
+      "Incorrect answer."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "id": "eui-042"
+  },
+  {
+    "question_it": "Chi è il Presidente della Commissione europea?",
+    "question_en": "Who is the President of the European Commission?",
+    "options": [
+      {
+        "text_it": "Ursula von der Leyen",
+        "text_en": "Ursula von der Leyen"
+      },
+      {
+        "text_it": "Charles Michel",
+        "text_en": "Charles Michel"
+      },
+      {
+        "text_it": "Roberta Metsola",
+        "text_en": "Roberta Metsola"
+      },
+      {
+        "text_it": "Christine Lagarde",
+        "text_en": "Christine Lagarde"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "**Ursula von der Leyen** è l'attuale Presidente della Commissione europea, in carica dal dicembre 2019.",
+    "explanation_en": "**Ursula von der Leyen** is the current President of the European Commission, in office since December 2019.",
+    "motivation_it": "Il Presidente della Commissione europea svolge un ruolo chiave nella guida delle politiche dell'UE.",
+    "motivation_en": "The President of the European Commission plays a key role in guiding EU policies.",
+    "wrong_explanations_it": [
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "easy",
+    "id": "eui-043"
+  },
+  {
+    "question_it": "Quale delle seguenti istituzioni dell'UE ha il potere di nominare il Mediatore europeo?",
+    "question_en": "Which of the following EU institutions has the power to appoint the European Ombudsman?",
+    "options": [
+      {
+        "text_it": "Consiglio europeo",
+        "text_en": "European Council"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Corte di giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Mediatore europeo** è nominato dal **Parlamento europeo** dopo ogni elezione parlamentare e può essere rieletto (Art. 228 TFUE). Il ruolo del Mediatore è quello di indagare sulle denunce di cattiva amministrazione da parte delle istituzioni dell'UE.",
+    "explanation_en": "The **European Ombudsman** is appointed by the **European Parliament** after each parliamentary election and can be re-elected (Art. 228 TFEU). The Ombudsman's role is to investigate complaints of maladministration by EU institutions.",
+    "motivation_it": "Questa domanda richiede una conoscenza approfondita delle procedure di nomina specifiche delle istituzioni dell'UE.",
+    "motivation_en": "This question requires in-depth knowledge of specific appointment procedures within EU institutions.",
+    "wrong_explanations_it": [
+      "Il Consiglio europeo non ha competenza nella nomina del Mediatore europeo.",
+      "",
+      "La Commissione europea non nomina il Mediatore, sebbene collabori con esso.",
+      "La Corte di giustizia dell'UE non è coinvolta nella nomina del Mediatore europeo."
+    ],
+    "wrong_explanations_en": [
+      "The European Council has no authority to appoint the European Ombudsman.",
+      "",
+      "The European Commission does not appoint the Ombudsman, although it cooperates with them.",
+      "The Court of Justice of the EU is not involved in the appointment of the European Ombudsman."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "hard",
+    "id": "eui-044"
+  },
+  {
+    "question_it": "Quale delle seguenti istituzioni dell'UE è responsabile della supervisione dell'applicazione del diritto dell'Unione negli Stati membri?",
+    "question_en": "Which of the following EU institutions is responsible for overseeing the application of Union law in Member States?",
+    "options": [
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'Unione europea",
+        "text_en": "Council of the European Union"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Commissione europea** è definita la **'custode dei Trattati'** e ha il compito di garantire che il diritto dell'UE sia correttamente applicato negli Stati membri (Art. 17 TUE). Può avviare procedure di infrazione contro gli Stati membri che violano il diritto dell'UE.",
+    "explanation_en": "The **European Commission** is referred to as the **'Guardian of the Treaties'** and is tasked with ensuring that EU law is properly applied in Member States (Art. 17 TEU). It can initiate infringement procedures against Member States that violate EU law.",
+    "motivation_it": "Questa domanda verifica la comprensione del ruolo chiave della Commissione europea nel sistema giuridico dell'UE.",
+    "motivation_en": "This question tests understanding of the European Commission's pivotal role in the EU legal system.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'Unione europea non ha un ruolo diretto nell'applicazione del diritto dell'UE.",
+      "Il Parlamento europeo non è responsabile della supervisione dell'applicazione del diritto dell'UE.",
+      "La Corte dei conti europea è incaricata di controllare la gestione finanziaria, non l'applicazione del diritto."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the European Union does not have a direct role in the application of EU law.",
+      "The European Parliament is not responsible for overseeing the application of EU law.",
+      "The European Court of Auditors is tasked with financial management control, not the application of law."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "hard",
+    "id": "eui-045"
+  },
+  {
+    "question_it": "Quale dei seguenti organismi dell'UE ha il potere di adottare atti delegati?",
+    "question_en": "Which of the following EU bodies has the power to adopt delegated acts?",
+    "options": [
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Consiglio dell'Unione europea",
+        "text_en": "Council of the European Union"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Comitato delle regioni",
+        "text_en": "Committee of the Regions"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Commissione europea** è l'unica istituzione dell'UE autorizzata ad adottare **atti delegati**, che sono utilizzati per integrare o modificare aspetti non essenziali della legislazione dell'UE (Art. 290 TFUE). Questo potere è concesso dal Parlamento europeo e dal Consiglio.",
+    "explanation_en": "The **European Commission** is the only EU institution authorized to adopt **delegated acts**, which are used to supplement or amend non-essential elements of EU legislation (Art. 290 TFEU). This power is granted by the European Parliament and the Council.",
+    "motivation_it": "Questa domanda richiede una conoscenza dettagliata delle procedure legislative speciali dell'UE.",
+    "motivation_en": "This question requires detailed knowledge of special legislative procedures in the EU.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'Unione europea non può adottare atti delegati, ma può concedere tale potere alla Commissione.",
+      "Il Parlamento europeo non adotta direttamente atti delegati, ma può revocare tale potere alla Commissione.",
+      "Il Comitato delle regioni non ha alcun ruolo nell'adozione di atti delegati."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the European Union cannot adopt delegated acts but can grant this power to the Commission.",
+      "The European Parliament does not directly adopt delegated acts but can revoke this power from the Commission.",
+      "The Committee of the Regions has no role in adopting delegated acts."
+    ],
+    "category": "EU Institutions",
+    "difficulty": "hard",
+    "id": "eui-046"
+  },
+  {
+    "question_it": "Qual è il principale metodo di votazione utilizzato dal Consiglio dell'UE per le decisioni legislative?",
+    "question_en": "What is the main voting method used by the Council of the EU for legislative decisions?",
+    "options": [
+      {
+        "text_it": "Votazione a maggioranza semplice",
+        "text_en": "Simple majority voting"
+      },
+      {
+        "text_it": "Votazione a maggioranza qualificata",
+        "text_en": "Qualified majority voting"
+      },
+      {
+        "text_it": "Votazione all'unanimità",
+        "text_en": "Unanimity voting"
+      },
+      {
+        "text_it": "Votazione a maggioranza assoluta",
+        "text_en": "Absolute majority voting"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "Il **Consiglio dell'UE** utilizza principalmente la **votazione a maggioranza qualificata** per le decisioni legislative, come stabilito dai trattati dell'UE.",
+    "explanation_en": "The **Council of the EU** primarily uses **qualified majority voting** for legislative decisions, as established by EU treaties.",
+    "motivation_it": "Questo metodo garantisce che le decisioni riflettano un ampio consenso tra gli Stati membri.",
+    "motivation_en": "This method ensures that decisions reflect broad consensus among Member States.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "L'unanimità è richiesta solo per questioni specifiche, come la politica estera.",
+      "La maggioranza assoluta non è un metodo standard nel Consiglio dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Unanimity is required only for specific issues, such as foreign policy.",
+      "Absolute majority is not a standard method in the Council of the EU."
+    ],
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "id": "eui-047"
+  },
+  {
+    "question_it": "Quale istituzione dell'UE rappresenta gli interessi dei cittadini europei nel processo legislativo?",
+    "question_en": "Which EU institution represents the interests of European citizens in the legislative process?",
+    "options": [
+      {
+        "text_it": "Il Consiglio dell'UE",
+        "text_en": "The Council of the EU"
+      },
+      {
+        "text_it": "La Commissione europea",
+        "text_en": "The European Commission"
+      },
+      {
+        "text_it": "Il Parlamento europeo",
+        "text_en": "The European Parliament"
+      },
+      {
+        "text_it": "Il Consiglio europeo",
+        "text_en": "The European Council"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **Parlamento europeo** è l'istituzione che rappresenta direttamente gli interessi dei **cittadini europei** nel processo legislativo.",
+    "explanation_en": "The **European Parliament** is the institution that directly represents the interests of **European citizens** in the legislative process.",
+    "motivation_it": "Il Parlamento europeo è eletto direttamente dai cittadini dell'UE.",
+    "motivation_en": "The European Parliament is directly elected by EU citizens.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio dell'UE rappresenta i governi degli Stati membri.",
+      "",
+      "Il Consiglio europeo definisce gli orientamenti politici generali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Council of the EU represents the governments of Member States.",
+      "",
+      "The European Council sets the EU's general political direction."
+    ],
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "id": "eui-048"
+  },
+  {
+    "question_it": "Quale istituzione dell'UE è responsabile della gestione quotidiana delle politiche dell'UE?",
+    "question_en": "Which EU institution is responsible for the day-to-day management of EU policies?",
+    "options": [
+      {
+        "text_it": "Il Parlamento europeo",
+        "text_en": "The European Parliament"
+      },
+      {
+        "text_it": "La Commissione europea",
+        "text_en": "The European Commission"
+      },
+      {
+        "text_it": "Il Consiglio dell'UE",
+        "text_en": "The Council of the EU"
+      },
+      {
+        "text_it": "Il Consiglio europeo",
+        "text_en": "The European Council"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **Commissione europea** è responsabile della **gestione quotidiana** delle politiche dell'UE, oltre a proporre nuove leggi.",
+    "explanation_en": "The **European Commission** is responsible for the **day-to-day management** of EU policies, as well as proposing new laws.",
+    "motivation_it": "La Commissione funge da braccio esecutivo dell'UE.",
+    "motivation_en": "The Commission acts as the EU's executive branch.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "Il Consiglio dell'UE decide sulle proposte legislative ma non gestisce le politiche.",
+      "Il Consiglio europeo definisce le priorità politiche ma non gestisce le operazioni quotidiane."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "The Council of the EU decides on legislative proposals but does not manage policies.",
+      "The European Council sets political priorities but does not manage day-to-day operations."
+    ],
+    "category": "Decision Making",
+    "difficulty": "easy",
+    "id": "eui-049"
+  },
+  {
+    "question_it": "Qual è il ruolo principale del Comitato dei Rappresentanti Permanenti (COREPER) nel processo decisionale dell'UE?",
+    "question_en": "What is the main role of the Committee of Permanent Representatives (COREPER) in the EU decision-making process?",
+    "options": [
+      {
+        "text_it": "Preparare i lavori del Consiglio dell'UE",
+        "text_en": "Prepare the work of the Council of the EU"
+      },
+      {
+        "text_it": "Proporre nuove legislazioni",
+        "text_en": "Propose new legislations"
+      },
+      {
+        "text_it": "Controllare l'attuazione delle politiche UE",
+        "text_en": "Monitor the implementation of EU policies"
+      },
+      {
+        "text_it": "Rappresentare gli interessi dei cittadini europei",
+        "text_en": "Represent the interests of European citizens"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **COREPER** è responsabile di **preparare i lavori del Consiglio dell'UE**, discutendo e negoziando proposte legislative prima che siano adottate dal Consiglio.",
+    "explanation_en": "The **COREPER** is responsible for **preparing the work of the Council of the EU**, discussing and negotiating legislative proposals before they are adopted by the Council.",
+    "motivation_it": "Il COREPER svolge un ruolo cruciale nel garantire che le decisioni del Consiglio siano ben preparate e ponderate.",
+    "motivation_en": "The COREPER plays a crucial role in ensuring that the Council's decisions are well-prepared and considered.",
+    "wrong_explanations_it": [
+      "",
+      "Il COREPER non ha il potere di proporre nuove legislazioni, che è riservato alla Commissione europea.",
+      "Il controllo dell'attuazione delle politiche UE è compito della Commissione europea.",
+      "Il COREPER rappresenta gli Stati membri, non direttamente i cittadini europei."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The COREPER does not have the power to propose new legislations, which is reserved for the European Commission.",
+      "Monitoring the implementation of EU policies is the task of the European Commission.",
+      "The COREPER represents member states, not directly European citizens."
+    ],
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "id": "eui-050"
+  },
+  {
+    "question_it": "Qual è il requisito per l'applicazione della procedura legislativa ordinaria nell'UE?",
+    "question_en": "What is the requirement for the application of the ordinary legislative procedure in the EU?",
+    "options": [
+      {
+        "text_it": "Accordo tra Parlamento europeo e Consiglio dell'UE",
+        "text_en": "Agreement between the European Parliament and the Council of the EU"
+      },
+      {
+        "text_it": "Unanimità nel Consiglio europeo",
+        "text_en": "Unanimity in the European Council"
+      },
+      {
+        "text_it": "Proposta diretta da parte del Parlamento europeo",
+        "text_en": "Direct proposal from the European Parliament"
+      },
+      {
+        "text_it": "Approvazione preliminare della Corte di Giustizia",
+        "text_en": "Preliminary approval by the Court of Justice"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **procedura legislativa ordinaria** richiede un **accordo tra il Parlamento europeo e il Consiglio dell'UE**, che devono approvare congiuntamente la legislazione proposta.",
+    "explanation_en": "The **ordinary legislative procedure** requires an **agreement between the European Parliament and the Council of the EU**, which must jointly approve the proposed legislation.",
+    "motivation_it": "Questa procedura garantisce che le leggi dell'UE siano il risultato di un processo democratico e bilanciato.",
+    "motivation_en": "This procedure ensures that EU laws are the result of a democratic and balanced process.",
+    "wrong_explanations_it": [
+      "",
+      "L'unanimità nel Consiglio europeo non è un requisito per la procedura legislativa ordinaria.",
+      "Il Parlamento europeo non ha il potere di iniziativa legislativa diretta.",
+      "La Corte di Giustizia non ha un ruolo preliminare nell'approvazione della legislazione."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Unanimity in the European Council is not a requirement for the ordinary legislative procedure.",
+      "The European Parliament does not have direct legislative initiative power.",
+      "The Court of Justice does not have a preliminary role in the approval of legislation."
+    ],
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "id": "eui-051"
+  },
+  {
+    "question_it": "Quale meccanismo consente agli Stati membri di opporsi a una proposta legislativa dell'UE durante la fase di controllo dei parlamenti nazionali?",
+    "question_en": "Which mechanism allows member states to oppose an EU legislative proposal during the national parliaments' scrutiny phase?",
+    "options": [
+      {
+        "text_it": "Cartellino giallo",
+        "text_en": "Yellow card"
+      },
+      {
+        "text_it": "Cartellino rosso",
+        "text_en": "Red card"
+      },
+      {
+        "text_it": "Cartellino verde",
+        "text_en": "Green card"
+      },
+      {
+        "text_it": "Cartellino blu",
+        "text_en": "Blue card"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **cartellino giallo** consente ai parlamenti nazionali di **esprimere obiezioni** a una proposta legislativa dell'UE, costringendo la Commissione a riesaminarla.",
+    "explanation_en": "The **yellow card** allows national parliaments to **raise objections** to an EU legislative proposal, forcing the Commission to reconsider it.",
+    "motivation_it": "Questo meccanismo rafforza il ruolo dei parlamenti nazionali nel processo legislativo dell'UE.",
+    "motivation_en": "This mechanism strengthens the role of national parliaments in the EU legislative process.",
+    "wrong_explanations_it": [
+      "",
+      "Il cartellino rosso non è un meccanismo riconosciuto nel processo legislativo dell'UE.",
+      "Il cartellino verde non esiste nel contesto del controllo dei parlamenti nazionali.",
+      "Il cartellino blu non è utilizzato nel processo legislativo dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The red card is not a recognized mechanism in the EU legislative process.",
+      "The green card does not exist in the context of national parliaments' scrutiny.",
+      "The blue card is not used in the EU legislative process."
+    ],
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "id": "eui-052"
+  },
+  {
+    "question_it": "Qual è il ruolo del Consiglio europeo nel processo decisionale dell'UE?",
+    "question_en": "What is the role of the European Council in the EU decision-making process?",
+    "options": [
+      {
+        "text_it": "Definire le priorità politiche e gli orientamenti generali",
+        "text_en": "Define political priorities and general guidelines"
+      },
+      {
+        "text_it": "Adottare atti legislativi",
+        "text_en": "Adopt legislative acts"
+      },
+      {
+        "text_it": "Controllare l'attuazione delle politiche UE",
+        "text_en": "Monitor the implementation of EU policies"
+      },
+      {
+        "text_it": "Proporre nuove legislazioni",
+        "text_en": "Propose new legislations"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Consiglio europeo** ha il compito di **definire le priorità politiche e gli orientamenti generali** dell'UE, senza adottare direttamente atti legislativi.",
+    "explanation_en": "The **European Council** is tasked with **defining political priorities and general guidelines** for the EU, without directly adopting legislative acts.",
+    "motivation_it": "Il Consiglio europeo svolge un ruolo cruciale nel dare direzione politica all'Unione europea.",
+    "motivation_en": "The European Council plays a crucial role in providing political direction to the European Union.",
+    "wrong_explanations_it": [
+      "",
+      "L'adozione di atti legislativi è compito del Consiglio dell'UE e del Parlamento europeo.",
+      "Il controllo dell'attuazione delle politiche UE è compito della Commissione europea.",
+      "La proposta di nuove legislazioni è riservata alla Commissione europea."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The adoption of legislative acts is the task of the Council of the EU and the European Parliament.",
+      "Monitoring the implementation of EU policies is the task of the European Commission.",
+      "Proposing new legislations is reserved for the European Commission."
+    ],
+    "category": "Decision Making",
+    "difficulty": "medium",
+    "id": "eui-053"
+  },
+  {
+    "question_it": "Dove ha sede la Banca centrale europea (BCE)?",
+    "question_en": "Where is the European Central Bank (ECB) headquartered?",
+    "options": [
+      {
+        "text_it": "Francoforte sul Meno",
+        "text_en": "Frankfurt am Main"
+      },
+      {
+        "text_it": "Parigi",
+        "text_en": "Paris"
+      },
+      {
+        "text_it": "Roma",
+        "text_en": "Rome"
+      },
+      {
+        "text_it": "Berlino",
+        "text_en": "Berlin"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Banca centrale europea (BCE)** ha sede a **Francoforte sul Meno**, in Germania, come stabilito dal Trattato sull'Unione europea.",
+    "explanation_en": "The **European Central Bank (ECB)** is headquartered in **Frankfurt am Main**, Germany, as established by the Treaty on European Union.",
+    "motivation_it": "La scelta di Francoforte riflette il ruolo centrale della Germania nell'Unione economica e monetaria.",
+    "motivation_en": "The choice of Frankfurt reflects Germany's central role in the Economic and Monetary Union.",
+    "wrong_explanations_it": [
+      "",
+      "Parigi ospita altre istituzioni come l'OCSE, ma non la BCE.",
+      "Roma è la sede di alcune agenzie UE, ma non della BCE.",
+      "Berlino è la capitale tedesca, ma non ospita la BCE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Paris hosts other institutions like the OECD, but not the ECB.",
+      "Rome hosts some EU agencies, but not the ECB.",
+      "Berlin is the German capital, but does not host the ECB."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "id": "eui-054"
+  },
+  {
+    "question_it": "Quale città ospita il Segretariato generale del Consiglio dell'UE?",
+    "question_en": "Which city hosts the General Secretariat of the Council of the EU?",
+    "options": [
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      },
+      {
+        "text_it": "Lussemburgo",
+        "text_en": "Luxembourg"
+      },
+      {
+        "text_it": "Strasburgo",
+        "text_en": "Strasbourg"
+      },
+      {
+        "text_it": "Vienna",
+        "text_en": "Vienna"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Segretariato generale del Consiglio dell'UE** ha sede a **Bruxelles**, dove supporta le attività del Consiglio e del Consiglio europeo.",
+    "explanation_en": "The **General Secretariat of the Council of the EU** is based in **Brussels**, where it supports the work of both the Council and the European Council.",
+    "motivation_it": "Bruxelles è il principale centro decisionale dell'UE, ospitando la maggior parte delle istituzioni.",
+    "motivation_en": "Brussels is the EU's main decision-making hub, hosting most institutions.",
+    "wrong_explanations_it": [
+      "",
+      "Lussemburgo ospita la Corte di giustizia UE e alcuni servizi della Commissione.",
+      "Strasburgo è la sede ufficiale del Parlamento europeo.",
+      "Vienna ospita alcune agenzie UE come l'Agenzia per i diritti fondamentali."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Luxembourg hosts the EU Court of Justice and some Commission services.",
+      "Strasbourg is the official seat of the European Parliament.",
+      "Vienna hosts some EU agencies like the Fundamental Rights Agency."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "easy",
+    "id": "eui-055"
+  },
+  {
+    "question_it": "Qual è la sede principale della Corte dei conti europea?",
+    "question_en": "What is the main seat of the European Court of Auditors?",
+    "options": [
+      {
+        "text_it": "Lussemburgo",
+        "text_en": "Luxembourg"
+      },
+      {
+        "text_it": "Bruxelles",
+        "text_en": "Brussels"
+      },
+      {
+        "text_it": "Francoforte",
+        "text_en": "Frankfurt"
+      },
+      {
+        "text_it": "Vienna",
+        "text_en": "Vienna"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Corte dei conti europea** ha la sua sede principale a **Lussemburgo**, come stabilito dai Trattati dell'UE.",
+    "explanation_en": "The **European Court of Auditors** has its main seat in **Luxembourg**, as established by the EU Treaties.",
+    "motivation_it": "La Corte dei conti europea è un'istituzione chiave per il controllo finanziario dell'UE.",
+    "motivation_en": "The European Court of Auditors is a key institution for the financial control of the EU.",
+    "wrong_explanations_it": [
+      "",
+      "Bruxelles ospita molte istituzioni dell'UE, ma non la Corte dei conti.",
+      "Francoforte è la sede della Banca centrale europea.",
+      "Vienna ospita alcune agenzie dell'UE, ma non la Corte dei conti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Brussels hosts many EU institutions, but not the Court of Auditors.",
+      "Frankfurt is the seat of the European Central Bank.",
+      "Vienna hosts some EU agencies, but not the Court of Auditors."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "medium",
+    "id": "eui-056"
+  },
+  {
+    "question_it": "Quale istituzione dell'UE ha sede a Francoforte?",
+    "question_en": "Which EU institution is based in Frankfurt?",
+    "options": [
+      {
+        "text_it": "Banca centrale europea",
+        "text_en": "European Central Bank"
+      },
+      {
+        "text_it": "Corte di giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Banca centrale europea (BCE)** ha la sua sede principale a **Francoforte**, in Germania.",
+    "explanation_en": "The **European Central Bank (ECB)** has its main seat in **Frankfurt**, Germany.",
+    "motivation_it": "La BCE svolge un ruolo cruciale nella gestione della politica monetaria dell'Eurozona.",
+    "motivation_en": "The ECB plays a crucial role in managing the monetary policy of the Eurozone.",
+    "wrong_explanations_it": [
+      "",
+      "La Corte di giustizia dell'UE ha sede a Lussemburgo.",
+      "Il Parlamento europeo ha sede ufficiale a Strasburgo.",
+      "La Commissione europea ha sede principale a Bruxelles."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Court of Justice of the EU is based in Luxembourg.",
+      "The European Parliament has its official seat in Strasbourg.",
+      "The European Commission has its main seat in Brussels."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "medium",
+    "id": "eui-057"
+  },
+  {
+    "question_it": "Quale istituzione dell'UE ha sede ufficiale a Strasburgo e Bruxelles?",
+    "question_en": "Which EU institution has official seats in Strasbourg and Brussels?",
+    "options": [
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Consiglio europeo",
+        "text_en": "European Council"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Corte dei conti europea",
+        "text_en": "European Court of Auditors"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Parlamento europeo** ha sedi ufficiali sia a **Strasburgo** (per le sessioni plenarie) che a **Bruxelles** (per commissioni e sessioni aggiuntive).",
+    "explanation_en": "The **European Parliament** has official seats in both **Strasbourg** (for plenary sessions) and **Brussels** (for committees and additional sessions).",
+    "motivation_it": "Questa configurazione riflette la distribuzione geografica delle attività del Parlamento europeo.",
+    "motivation_en": "This configuration reflects the geographical distribution of the European Parliament's activities.",
+    "wrong_explanations_it": [
+      "",
+      "Il Consiglio europeo ha sede a Bruxelles.",
+      "La Commissione europea ha sede principale a Bruxelles.",
+      "La Corte dei conti europea ha sede solo a Lussemburgo."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The European Council is based in Brussels.",
+      "The European Commission has its main seat in Brussels.",
+      "The European Court of Auditors is based only in Luxembourg."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "medium",
+    "id": "eui-058"
+  },
+  {
+    "question_it": "Qual è la sede principale della Corte dei conti europea e quale trattato ne stabilisce la localizzazione?",
+    "question_en": "What is the main seat of the European Court of Auditors and which treaty establishes its location?",
+    "options": [
+      {
+        "text_it": "Lussemburgo, Trattato di Maastricht",
+        "text_en": "Luxembourg, Treaty of Maastricht"
+      },
+      {
+        "text_it": "Bruxelles, Trattato di Lisbona",
+        "text_en": "Brussels, Treaty of Lisbon"
+      },
+      {
+        "text_it": "Strasburgo, Trattato di Roma",
+        "text_en": "Strasbourg, Treaty of Rome"
+      },
+      {
+        "text_it": "Francoforte, Trattato di Amsterdam",
+        "text_en": "Frankfurt, Treaty of Amsterdam"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **Corte dei conti europea** ha sede principale a **Lussemburgo**, come stabilito dall'**articolo 287 del Trattato sul funzionamento dell'Unione europea** (TFUE), consolidato dal Trattato di Maastricht.",
+    "explanation_en": "The **European Court of Auditors** has its main seat in **Luxembourg**, as established by **Article 287 of the Treaty on the Functioning of the European Union** (TFEU), consolidated by the Treaty of Maastricht.",
+    "motivation_it": "La Corte dei conti europea è un'istituzione chiave per il controllo finanziario dell'UE e la sua sede è stata fissata già nel Trattato di Maastricht.",
+    "motivation_en": "The European Court of Auditors is a key institution for EU financial control, and its seat was established as early as the Treaty of Maastricht.",
+    "wrong_explanations_it": [
+      "",
+      "Bruxelles ospita molte istituzioni UE ma non è la sede della Corte dei conti.",
+      "Strasburgo è la sede del Parlamento europeo, non della Corte dei conti.",
+      "Francoforte ospita la Banca centrale europea, non la Corte dei conti."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Brussels hosts many EU institutions but is not the seat of the Court of Auditors.",
+      "Strasbourg is the seat of the European Parliament, not the Court of Auditors.",
+      "Frankfurt hosts the European Central Bank, not the Court of Auditors."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "hard",
+    "id": "eui-059"
+  },
+  {
+    "question_it": "Quale trattato ha istituito formalmente il Consiglio europeo come istituzione dell'UE e dove si trova la sua sede permanente?",
+    "question_en": "Which treaty formally established the European Council as an EU institution and where is its permanent seat located?",
+    "options": [
+      {
+        "text_it": "Trattato di Lisbona, Bruxelles",
+        "text_en": "Treaty of Lisbon, Brussels"
+      },
+      {
+        "text_it": "Trattato di Maastricht, Strasburgo",
+        "text_en": "Treaty of Maastricht, Strasbourg"
+      },
+      {
+        "text_it": "Trattato di Roma, Lussemburgo",
+        "text_en": "Treaty of Rome, Luxembourg"
+      },
+      {
+        "text_it": "Trattato di Amsterdam, Francoforte",
+        "text_en": "Treaty of Amsterdam, Frankfurt"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Consiglio europeo** è stato istituito formalmente come istituzione UE dal **Trattato di Lisbona** (2009) e ha la sua sede permanente a **Bruxelles**, nel complesso Justus Lipsius.",
+    "explanation_en": "The **European Council** was formally established as an EU institution by the **Treaty of Lisbon** (2009) and has its permanent seat in **Brussels**, at the Justus Lipsius building.",
+    "motivation_it": "Il Trattato di Lisbona ha rafforzato il ruolo del Consiglio europeo, conferendogli uno status istituzionale chiaro e una sede permanente.",
+    "motivation_en": "The Treaty of Lisbon strengthened the role of the European Council, granting it a clear institutional status and a permanent seat.",
+    "wrong_explanations_it": [
+      "",
+      "Il Trattato di Maastricht ha creato l'UE ma non ha istituito formalmente il Consiglio europeo.",
+      "Il Trattato di Roma ha istituito la CEE, non il Consiglio europeo.",
+      "Il Trattato di Amsterdam ha modificato alcuni aspetti istituzionali ma non ha istituito il Consiglio europeo."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The Treaty of Maastricht created the EU but did not formally establish the European Council.",
+      "The Treaty of Rome established the EEC, not the European Council.",
+      "The Treaty of Amsterdam amended some institutional aspects but did not establish the European Council."
+    ],
+    "category": "Seats & Organization",
+    "difficulty": "hard",
+    "id": "eui-060"
+  },
+  {
+    "question_it": "Quale delle seguenti è una competenza esclusiva dell'UE?",
+    "question_en": "Which of the following is an exclusive competence of the EU?",
+    "options": [
+      {
+        "text_it": "Politica fiscale",
+        "text_en": "Fiscal policy"
+      },
+      {
+        "text_it": "Unione doganale",
+        "text_en": "Customs union"
+      },
+      {
+        "text_it": "Istruzione",
+        "text_en": "Education"
+      },
+      {
+        "text_it": "Sanità pubblica",
+        "text_en": "Public health"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**unione doganale** è una competenza esclusiva dell'UE, come definito dall'**Articolo 3 TFUE**. Gli Stati membri non possono agire autonomamente in questo settore.",
+    "explanation_en": "The **customs union** is an exclusive competence of the EU, as defined in **Article 3 TFEU**. Member States cannot act autonomously in this area.",
+    "motivation_it": "Le competenze esclusive sono fondamentali per garantire un'azione coordinata e uniforme in settori chiave per l'integrazione europea.",
+    "motivation_en": "Exclusive competences are essential to ensure coordinated and uniform action in key areas for European integration.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "L'istruzione è una competenza concorrente, non esclusiva.",
+      "La sanità pubblica è una competenza concorrente, non esclusiva."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Education is a shared competence, not exclusive.",
+      "Public health is a shared competence, not exclusive."
+    ],
+    "category": "Competences",
+    "difficulty": "easy",
+    "id": "eui-061"
+  },
+  {
+    "question_it": "Quale delle seguenti è una competenza concorrente tra l'UE e gli Stati membri?",
+    "question_en": "Which of the following is a shared competence between the EU and Member States?",
+    "options": [
+      {
+        "text_it": "Politica monetaria per l'eurozona",
+        "text_en": "Monetary policy for the eurozone"
+      },
+      {
+        "text_it": "Ambiente",
+        "text_en": "Environment"
+      },
+      {
+        "text_it": "Politica commerciale comune",
+        "text_en": "Common commercial policy"
+      },
+      {
+        "text_it": "Unione doganale",
+        "text_en": "Customs union"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "L'**ambiente** è una competenza concorrente, come definito dall'**Articolo 4 TFUE**. Sia l'UE che gli Stati membri possono legiferare in questo settore, ma le norme dell'UE prevalgono.",
+    "explanation_en": "The **environment** is a shared competence, as defined in **Article 4 TFEU**. Both the EU and Member States can legislate in this area, but EU rules take precedence.",
+    "motivation_it": "Le competenze concorrenti permettono un equilibrio tra l'azione dell'UE e l'autonomia degli Stati membri.",
+    "motivation_en": "Shared competences allow a balance between EU action and Member State autonomy.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La politica commerciale comune è una competenza esclusiva dell'UE.",
+      "L'unione doganale è una competenza esclusiva dell'UE."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Common commercial policy is an exclusive competence of the EU.",
+      "Customs union is an exclusive competence of the EU."
+    ],
+    "category": "Competences",
+    "difficulty": "easy",
+    "id": "eui-062"
+  },
+  {
+    "question_it": "Quale delle seguenti è una competenza concorrente tra UE e Stati membri?",
+    "question_en": "Which of the following is a shared competence between the EU and Member States?",
+    "options": [
+      {
+        "text_it": "Unione doganale",
+        "text_en": "Customs union"
+      },
+      {
+        "text_it": "Politica agricola comune",
+        "text_en": "Common agricultural policy"
+      },
+      {
+        "text_it": "Politica monetaria per l'eurozona",
+        "text_en": "Monetary policy for the eurozone"
+      },
+      {
+        "text_it": "Politica estera e di sicurezza comune",
+        "text_en": "Common foreign and security policy"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **politica agricola comune** è una **competenza concorrente** (Art. 4 TFUE), dove sia l'UE sia gli Stati membri possono legiferare, ma gli Stati devono rispettare le norme UE. Le altre opzioni sono competenze esclusive o speciali.",
+    "explanation_en": "The **common agricultural policy** is a **shared competence** (Art. 4 TFEU), where both the EU and Member States may legislate, but States must comply with EU rules. The other options are exclusive or special competences.",
+    "motivation_it": "Le competenze concorrenti richiedono un equilibrio tra azione dell'UE e sovranità nazionale.",
+    "motivation_en": "Shared competences require a balance between EU action and national sovereignty.",
+    "wrong_explanations_it": [
+      "",
+      "",
+      "La politica monetaria per l'eurozona è una competenza esclusiva dell'UE.",
+      "La politica estera è una competenza speciale, non concorrente."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "",
+      "Monetary policy for the eurozone is an exclusive EU competence.",
+      "Foreign policy is a special competence, not shared."
+    ],
+    "category": "Competences",
+    "difficulty": "medium",
+    "id": "eui-063"
+  },
+  {
+    "question_it": "In quale settore l'UE ha competenza di sostenere, coordinare o completare l'azione degli Stati membri?",
+    "question_en": "In which area does the EU have competence to support, coordinate or supplement Member States' actions?",
+    "options": [
+      {
+        "text_it": "Mercato interno",
+        "text_en": "Internal market"
+      },
+      {
+        "text_it": "Protezione dei consumatori",
+        "text_en": "Consumer protection"
+      },
+      {
+        "text_it": "Turismo",
+        "text_en": "Tourism"
+      },
+      {
+        "text_it": "Ambiente",
+        "text_en": "Environment"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **turismo** rientra nelle **competenze di sostegno** (Art. 6 TFUE), dove l'UE può solo integrare le politiche nazionali. Mercato interno, protezione dei consumatori e ambiente sono competenze concorrenti.",
+    "explanation_en": "**Tourism** falls under **supporting competences** (Art. 6 TFEU), where the EU can only supplement national policies. Internal market, consumer protection and environment are shared competences.",
+    "motivation_it": "Le competenze di sostegno riflettono settori in cui l'UE agisce senza armonizzare le leggi nazionali.",
+    "motivation_en": "Supporting competences reflect areas where the EU acts without harmonizing national laws.",
+    "wrong_explanations_it": [
+      "Il mercato interno è una competenza concorrente (Art. 4 TFUE).",
+      "La protezione dei consumatori è una competenza concorrente.",
+      "",
+      "L'ambiente è una competenza concorrente."
+    ],
+    "wrong_explanations_en": [
+      "The internal market is a shared competence (Art. 4 TFEU).",
+      "Consumer protection is a shared competence.",
+      "",
+      "Environment is a shared competence."
+    ],
+    "category": "Competences",
+    "difficulty": "medium",
+    "id": "eui-064"
+  },
+  {
+    "question_it": "Quale principio limita l'azione dell'UE nelle competenze concorrenti?",
+    "question_en": "Which principle limits EU action in shared competences?",
+    "options": [
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Subsidiarity principle"
+      },
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Proportionality principle"
+      },
+      {
+        "text_it": "Principio di leale cooperazione",
+        "text_en": "Principle of sincere cooperation"
+      },
+      {
+        "text_it": "Principio di attribuzione",
+        "text_en": "Principle of conferral"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **principio di sussidiarietà** (Art. 5 TUE) impone all'UE di intervenire solo se gli obiettivi non possono essere raggiunti sufficientemente dagli Stati membri. Gli altri principi regolano aspetti diversi.",
+    "explanation_en": "The **subsidiarity principle** (Art. 5 TEU) requires the EU to act only if objectives cannot be sufficiently achieved by Member States. Other principles regulate different aspects.",
+    "motivation_it": "La sussidiarietà è fondamentale per bilanciare l'integrazione europea con l'autonomia nazionale.",
+    "motivation_en": "Subsidiarity is key to balancing European integration with national autonomy.",
+    "wrong_explanations_it": [
+      "",
+      "La proporzionalità limita l'intensità dell'azione UE, non la scelta di agire.",
+      "La leale cooperazione riguarda i rapporti tra UE e Stati, non la competenza.",
+      "L'attribuzione definisce le competenze UE, ma non ne limita l'esercizio."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Proportionality limits the intensity of EU action, not the choice to act.",
+      "Sincere cooperation governs EU-State relations, not competence.",
+      "Conferral defines EU competences but doesn't limit their exercise."
+    ],
+    "category": "Competences",
+    "difficulty": "medium",
+    "id": "eui-065"
+  },
+  {
+    "question_it": "Quale principio garantisce che l'UE eserciti le sue competenze solo nei limiti previsti dai Trattati?",
+    "question_en": "Which principle ensures that the EU exercises its competences only within the limits set by the Treaties?",
+    "options": [
+      {
+        "text_it": "Principio di sussidiarietà",
+        "text_en": "Principle of subsidiarity"
+      },
+      {
+        "text_it": "Principio di proporzionalità",
+        "text_en": "Principle of proportionality"
+      },
+      {
+        "text_it": "Principio di attribuzione",
+        "text_en": "Principle of conferral"
+      },
+      {
+        "text_it": "Principio di leale cooperazione",
+        "text_en": "Principle of sincere cooperation"
+      }
+    ],
+    "correct": 2,
+    "explanation_it": "Il **principio di attribuzione** (Art. 5 TUE) stabilisce che l'UE può agire solo nei settori in cui le è stata attribuita competenza dai Trattati. Questo principio delimita il potere dell'UE rispetto agli Stati membri.",
+    "explanation_en": "The **principle of conferral** (Art. 5 TEU) states that the EU can act only in areas where competence has been conferred upon it by the Treaties. This principle defines the limits of EU power relative to Member States.",
+    "motivation_it": "Questo principio è fondamentale per garantire il rispetto della sovranità degli Stati membri.",
+    "motivation_en": "This principle is fundamental to ensuring respect for the sovereignty of Member States.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "",
+      "Incorrect answer."
+    ],
+    "category": "Competences",
+    "difficulty": "hard",
+    "id": "eui-066"
+  },
+  {
+    "question_it": "Quale delle seguenti competenze è classificata come 'competenza di sostegno' secondo il TFUE?",
+    "question_en": "Which of the following competences is classified as a 'supporting competence' under the TFEU?",
+    "options": [
+      {
+        "text_it": "Politica agricola comune",
+        "text_en": "Common agricultural policy"
+      },
+      {
+        "text_it": "Protezione della salute pubblica",
+        "text_en": "Protection of public health"
+      },
+      {
+        "text_it": "Unione doganale",
+        "text_en": "Customs union"
+      },
+      {
+        "text_it": "Politica commerciale comune",
+        "text_en": "Common commercial policy"
+      }
+    ],
+    "correct": 1,
+    "explanation_it": "La **protezione della salute pubblica** è una **competenza di sostegno** (Art. 6 TFUE), in cui l'UE può sostenere, coordinare o integrare le azioni degli Stati membri, senza sostituirsi a essi.",
+    "explanation_en": "**Protection of public health** is a **supporting competence** (Art. 6 TFEU), where the EU can support, coordinate, or complement the actions of Member States without replacing them.",
+    "motivation_it": "Le competenze di sostegno riflettono il ruolo limitato dell'UE in settori sensibili per gli Stati membri.",
+    "motivation_en": "Supporting competences reflect the limited role of the EU in areas sensitive to Member States.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "",
+      "Risposta non corretta.",
+      "Risposta non corretta."
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "",
+      "Incorrect answer.",
+      "Incorrect answer."
+    ],
+    "category": "Competences",
+    "difficulty": "hard",
+    "id": "eui-067"
+  },
+  {
+    "question_it": "Qual è il principale strumento legislativo utilizzato dall'UE per armonizzare le leggi tra gli Stati membri?",
+    "question_en": "What is the main legislative instrument used by the EU to harmonize laws among member states?",
+    "options": [
+      {
+        "text_it": "Direttiva",
+        "text_en": "Directive"
+      },
+      {
+        "text_it": "Regolamento",
+        "text_en": "Regulation"
+      },
+      {
+        "text_it": "Decisione",
+        "text_en": "Decision"
+      },
+      {
+        "text_it": "Raccomandazione",
+        "text_en": "Recommendation"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "La **direttiva** è lo strumento principale per l'armonizzazione delle leggi negli Stati membri, poiché stabilisce obiettivi comuni ma lascia agli Stati la scelta della forma e dei mezzi per raggiungerli.",
+    "explanation_en": "The **directive** is the main instrument for harmonizing laws in member states, as it sets common objectives but leaves states the choice of form and means to achieve them.",
+    "motivation_it": "Le direttive sono fondamentali per garantire la coerenza delle politiche dell'UE rispettando le differenze nazionali.",
+    "motivation_en": "Directives are essential to ensure EU policy coherence while respecting national differences.",
+    "wrong_explanations_it": [
+      "",
+      "I regolamenti sono direttamente applicabili e non richiedono recepimento, quindi non lasciano flessibilità agli Stati membri.",
+      "Le decisioni sono atti vincolanti ma si applicano solo a destinatari specifici, non a tutti gli Stati membri.",
+      "Le raccomandazioni non sono vincolanti e non servono per l'armonizzazione legislativa."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Regulations are directly applicable and do not require transposition, so they leave no flexibility to member states.",
+      "Decisions are binding but apply only to specific addressees, not all member states.",
+      "Recommendations are non-binding and not used for legislative harmonization."
+    ],
+    "category": "EU Processes",
+    "difficulty": "easy",
+    "id": "eui-068"
+  },
+  {
+    "question_it": "Quale istituzione dell'UE rappresenta gli interessi dei governi degli Stati membri?",
+    "question_en": "Which EU institution represents the interests of member states' governments?",
+    "options": [
+      {
+        "text_it": "Consiglio dell'Unione europea",
+        "text_en": "Council of the European Union"
+      },
+      {
+        "text_it": "Parlamento europeo",
+        "text_en": "European Parliament"
+      },
+      {
+        "text_it": "Commissione europea",
+        "text_en": "European Commission"
+      },
+      {
+        "text_it": "Corte di giustizia dell'UE",
+        "text_en": "Court of Justice of the EU"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **Consiglio dell'Unione europea** (noto anche come Consiglio dei ministri) è l'istituzione che rappresenta i governi degli Stati membri, con ministri nazionali che deliberano su varie materie.",
+    "explanation_en": "The **Council of the European Union** (also known as the Council of Ministers) is the institution representing member states' governments, with national ministers deliberating on various policy areas.",
+    "motivation_it": "Il Consiglio è fondamentale nel processo decisionale dell'UE, bilanciando gli interessi nazionali con quelli comunitari.",
+    "motivation_en": "The Council is crucial in EU decision-making, balancing national interests with community objectives.",
+    "wrong_explanations_it": [
+      "",
+      "Il Parlamento europeo rappresenta i cittadini dell'UE, non i governi nazionali.",
+      "La Commissione rappresenta l'interesse generale dell'UE, non i governi nazionali.",
+      "La Corte di giustizia interpreta il diritto dell'UE, non rappresenta i governi."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "The European Parliament represents EU citizens, not national governments.",
+      "The Commission represents the EU's general interest, not national governments.",
+      "The Court of Justice interprets EU law, it doesn't represent governments."
+    ],
+    "category": "EU Processes",
+    "difficulty": "easy",
+    "id": "eui-069"
+  },
+  {
+    "question_it": "Qual è il ruolo del Comitato dei Rappresentanti Permanenti (COREPER) nel processo decisionale dell'UE?",
+    "question_en": "What is the role of the Committee of Permanent Representatives (COREPER) in EU decision-making?",
+    "options": [
+      {
+        "text_it": "Preparare i lavori del Consiglio dell'UE e negoziare compromessi tra Stati membri",
+        "text_en": "Prepare the work of the Council of the EU and negotiate compromises between Member States"
+      },
+      {
+        "text_it": "Adottare atti legislativi in assenza del Consiglio",
+        "text_en": "Adopt legislative acts in the absence of the Council"
+      },
+      {
+        "text_it": "Rappresentare la Commissione europea nelle riunioni del Consiglio",
+        "text_en": "Represent the European Commission in Council meetings"
+      },
+      {
+        "text_it": "Controllare la conformità delle proposte legislative ai trattati",
+        "text_en": "Check the compliance of legislative proposals with the treaties"
+      }
+    ],
+    "correct": 0,
+    "explanation_it": "Il **COREPER** è composto dagli ambasciatori degli Stati membri e ha il compito cruciale di **preparare i lavori del Consiglio dell'UE**, trovando compromessi tra le posizioni nazionali prima che i dossier raggiungano il livello ministeriale.",
+    "explanation_en": "**COREPER** consists of Member States' ambassadors and has the crucial task of **preparing the work of the Council of the EU**, finding compromises between national positions before files reach ministerial level.",
+    "motivation_it": "Il COREPER svolge un ruolo fondamentale nel processo decisionale dell'UE, agendo come filtro tra i gruppi di lavoro tecnici e il Consiglio.",
+    "motivation_en": "COREPER plays a fundamental role in EU decision-making, acting as a filter between technical working groups and the Council.",
+    "wrong_explanations_it": [
+      "",
+      "Solo il Consiglio può adottare atti legislativi, non il COREPER.",
+      "Il COREPER rappresenta gli Stati membri, non la Commissione.",
+      "Il controllo di conformità ai trattati spetta alla Corte di giustizia, non al COREPER."
+    ],
+    "wrong_explanations_en": [
+      "",
+      "Only the Council can adopt legislative acts, not COREPER.",
+      "COREPER represents Member States, not the Commission.",
+      "Treaty compliance checks are the role of the Court of Justice, not COREPER."
+    ],
+    "category": "EU Processes",
+    "difficulty": "medium",
+    "id": "eui-070"
+  },
+  {
+    "question_it": "In quale fase del processo legislativo ordinario la Commissione può modificare la sua proposta?",
+    "question_en": "At which stage of the ordinary legislative procedure can the Commission amend its proposal?",
+    "options": [
+      {
+        "text_it": "Prima della prima lettura in Parlamento",
+        "text_en": "Before the first reading in Parliament"
+      },
+      {
+        "text_it": "Durante la seconda lettura in Consiglio",
+        "text_en": "During the Council's second reading"
+      },
+      {
+        "text_it": "Dopo l'adozione della posizione comune",
+        "text_en": "After the adoption of the common position"
+      },
+      {
+        "text_it": "In tutte le fasi del procedimento",
+        "text_en": "At all stages of the procedure"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "La **Commissione** mantiene il **diritto di modificare la sua proposta in qualsiasi fase** del processo legislativo ordinario, fino all'adozione finale dell'atto (articolo 293 TFUE). Questo è un potere chiave che preserva il suo ruolo di custode dei trattati.",
+    "explanation_en": "The **Commission** retains the **right to amend its proposal at any stage** of the ordinary legislative procedure, until final adoption of the act (Article 293 TFEU). This is a key power preserving its role as guardian of the treaties.",
+    "motivation_it": "Questa prerogativa consente alla Commissione di adattare la proposta a sviluppi politici o compromessi istituzionali.",
+    "motivation_en": "This prerogative allows the Commission to adapt the proposal to political developments or institutional compromises.",
+    "wrong_explanations_it": [
+      "La Commissione può modificare anche dopo la prima lettura, non solo prima.",
+      "Non solo durante la seconda lettura, ma in qualsiasi fase.",
+      "Non solo prima della posizione comune, ma anche dopo.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "The Commission can amend after first reading too, not just before.",
+      "Not only during second reading, but at any stage.",
+      "Not only before common position, but also after.",
+      ""
+    ],
+    "category": "EU Processes",
+    "difficulty": "medium",
+    "id": "eui-071"
+  },
+  {
+    "question_it": "Qual è la procedura specifica utilizzata per adottare atti delegati nell'UE?",
+    "question_en": "What is the specific procedure used to adopt delegated acts in the EU?",
+    "options": [
+      {
+        "text_it": "Procedura legislativa ordinaria",
+        "text_en": "Ordinary legislative procedure"
+      },
+      {
+        "text_it": "Procedura di comitologia",
+        "text_en": "Comitology procedure"
+      },
+      {
+        "text_it": "Procedura di controllo",
+        "text_en": "Scrutiny procedure"
+      },
+      {
+        "text_it": "Procedura di delegazione",
+        "text_en": "Delegation procedure"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Gli **atti delegati** sono adottati tramite la **procedura di delegazione**, che consente alla Commissione di integrare o modificare determinati aspetti non essenziali di un atto legislativo, previa autorizzazione del Parlamento europeo e del Consiglio.",
+    "explanation_en": "**Delegated acts** are adopted through the **delegation procedure**, which allows the Commission to supplement or amend certain non-essential aspects of a legislative act, subject to authorization by the European Parliament and the Council.",
+    "motivation_it": "La comprensione delle diverse procedure legislative è fondamentale per conoscere il funzionamento delle istituzioni UE.",
+    "motivation_en": "Understanding the different legislative procedures is essential to grasp the functioning of EU institutions.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "Incorrect answer.",
+      ""
+    ],
+    "category": "EU Processes",
+    "difficulty": "hard",
+    "id": "eui-072"
+  },
+  {
+    "question_it": "Quale delle seguenti condizioni è necessaria affinché il Parlamento europeo possa esercitare il diritto di iniziativa legislativa?",
+    "question_en": "Which of the following conditions is necessary for the European Parliament to exercise its right of legislative initiative?",
+    "options": [
+      {
+        "text_it": "Un voto favorevole della maggioranza semplice degli eurodeputati",
+        "text_en": "A favorable vote by a simple majority of MEPs"
+      },
+      {
+        "text_it": "Un'approvazione preliminare del Consiglio europeo",
+        "text_en": "Preliminary approval by the European Council"
+      },
+      {
+        "text_it": "Una richiesta formale della Commissione europea",
+        "text_en": "A formal request from the European Commission"
+      },
+      {
+        "text_it": "Un'istanza presentata da almeno un milione di cittadini UE",
+        "text_en": "A petition by at least one million EU citizens"
+      }
+    ],
+    "correct": 3,
+    "explanation_it": "Il **Parlamento europeo** può esercitare il diritto di iniziativa legislativa solo in risposta a un'**istanza presentata da almeno un milione di cittadini UE**, ai sensi dell'Iniziativa dei cittadini europei (ICE).",
+    "explanation_en": "The **European Parliament** can exercise its right of legislative initiative only in response to a **petition by at least one million EU citizens**, under the European Citizens' Initiative (ECI).",
+    "motivation_it": "Questa domanda mette alla prova la conoscenza delle condizioni specifiche per l'iniziativa legislativa del PE.",
+    "motivation_en": "This question tests knowledge of the specific conditions for the EP's legislative initiative.",
+    "wrong_explanations_it": [
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      "Risposta non corretta.",
+      ""
+    ],
+    "wrong_explanations_en": [
+      "Incorrect answer.",
+      "Incorrect answer.",
+      "Incorrect answer.",
+      ""
+    ],
+    "category": "EU Processes",
+    "difficulty": "hard",
+    "id": "eui-073"
+  }
+]

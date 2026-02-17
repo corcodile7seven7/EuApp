@@ -5,6 +5,7 @@ import { useQuiz } from '../../hooks/useQuiz';
 import { useTimer } from '../../hooks/useTimer';
 import { SECTIONS } from '../../utils/scoring';
 import QuestionCard from './QuestionCard';
+import AbstractQuestionCard from '../abstract/AbstractQuestionCard';
 import QuizResults from './QuizResults';
 import EnhancedExplanation from './EnhancedExplanation';
 import Timer from './Timer';
@@ -13,10 +14,26 @@ import { getWeakQuestionsForSection } from '../../utils/weakness';
 
 import euKnowledge from '../../data/eu-knowledge.json';
 import digitalSkills from '../../data/digital-skills.json';
+import verbalReasoning from '../../data/verbal-reasoning.json';
+import numericalReasoning from '../../data/numerical-reasoning.json';
+import abstractReasoning from '../../data/abstract-reasoning.json';
+import temporal from '../../data/temporal.json';
+import euInstitutions from '../../data/eu-institutions.json';
+import acronyms from '../../data/acronyms.json';
+import situational from '../../data/situational.json';
+import itAdvanced from '../../data/it-advanced.json';
 
 const DATA = {
   'eu-knowledge': euKnowledge,
   'digital-skills': digitalSkills,
+  'verbal-reasoning': verbalReasoning,
+  'numerical-reasoning': numericalReasoning,
+  'abstract-reasoning': abstractReasoning,
+  'temporal': temporal,
+  'eu-institutions': euInstitutions,
+  'acronyms': acronyms,
+  'situational': situational,
+  'it-advanced': itAdvanced,
 };
 
 function shuffleArray(arr) {
@@ -26,6 +43,10 @@ function shuffleArray(arr) {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
+}
+
+function getAllQuestions() {
+  return Object.values(DATA).flat();
 }
 
 export default function QuizEngine() {
@@ -38,23 +59,44 @@ export default function QuizEngine() {
   const numQ = parseInt(searchParams.get('num') || '0', 10);
   const isWeak = searchParams.get('weak') === 'true';
   const isExam = mode === 'exam';
-  const cfg = SECTIONS[section];
-  const timePerQ = cfg?.timePerQuestion || 60;
 
-  const allQuestions = useMemo(() => DATA[section] || [], [section]);
+  const isAll = section === 'all';
+  const isMixed = section === 'mixed';
+  const isSpecial = isAll || isMixed;
+  const isAbstract = section === 'abstract-reasoning';
+
+  const cfg = isSpecial ? null : SECTIONS[section];
+  const timePerQ = isSpecial ? 70 : (cfg?.timePerQuestion || 60);
+
+  const allQuestions = useMemo(() => {
+    if (isAll || isMixed) return getAllQuestions();
+    return DATA[section] || [];
+  }, [section, isAll, isMixed]);
+
   const questions = useMemo(() => {
-    if (isWeak) {
+    if (isWeak && !isSpecial) {
       const questionStats = storage.getQuestionStats();
       const weakQs = getWeakQuestionsForSection(section, questionStats, allQuestions, numQ || 20);
       return weakQs.length > 0 ? weakQs : shuffleArray(allQuestions).slice(0, numQ || 20);
     }
+    if (isMixed) {
+      const shuffled = shuffleArray(allQuestions);
+      return numQ > 0 ? shuffled.slice(0, numQ) : shuffled;
+    }
+    if (isAll) {
+      return numQ > 0 ? allQuestions.slice(0, numQ) : allQuestions;
+    }
     const shuffled = shuffleArray(allQuestions);
     return numQ > 0 ? shuffled.slice(0, numQ) : shuffled;
-  }, [allQuestions, numQ, isWeak, section]);
+  }, [allQuestions, numQ, isWeak, section, isSpecial, isMixed, isAll]);
+
+  const passScore = isSpecial
+    ? Math.round(questions.length * 0.65)
+    : (cfg?.passScore || 10);
 
   const quiz = useQuiz(questions, {
     sectionId: section,
-    passScore: cfg?.passScore || 10,
+    passScore,
   });
 
   const handleFinishRef = useRef(null);
@@ -113,7 +155,7 @@ export default function QuizEngine() {
     quiz.prev();
   }, [quiz]);
 
-  if (!cfg || !allQuestions.length) {
+  if (!isSpecial && (!cfg || !allQuestions.length)) {
     return (
       <div className="p-6 text-center">
         <p className="text-gray-500">{t('common.error')}</p>
@@ -138,6 +180,10 @@ export default function QuizEngine() {
   const q = questions[quiz.current];
   const currentAnswer = quiz.answers[quiz.current];
   const isFlagged = quiz.flagged.has(quiz.current);
+
+  // Detect if current question is abstract (for mixed/all modes)
+  const isAbstractQuestion = isAbstract || (q && (q.sequence || q.matrix) && q.options_shapes);
+  const CardComponent = isAbstractQuestion ? AbstractQuestionCard : QuestionCard;
 
   return (
     <div className="max-w-2xl mx-auto p-4">
@@ -168,7 +214,7 @@ export default function QuizEngine() {
       </div>
 
       {/* Question */}
-      <QuestionCard
+      <CardComponent
         question={q}
         selected={currentAnswer}
         onSelect={handleAnswer}
