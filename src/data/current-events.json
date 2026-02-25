@@ -1,0 +1,641 @@
+[
+  {
+    "id": "ce-001",
+    "question_it": "Quanti seggi conta il Parlamento Europeo dopo le elezioni di giugno 2024?",
+    "question_en": "How many seats does the European Parliament have after the June 2024 elections?",
+    "options": [
+      { "text_it": "705 seggi", "text_en": "705 seats" },
+      { "text_it": "720 seggi", "text_en": "720 seats" },
+      { "text_it": "751 seggi", "text_en": "751 seats" },
+      { "text_it": "732 seggi", "text_en": "732 seats" }
+    ],
+    "correct": 1,
+    "explanation_it": "Le elezioni europee del 6-9 giugno 2024 hanno portato a 720 eurodeputati, rispetto ai 705 della legislatura precedente. L'aumento riflette la crescita demografica di alcuni Stati Membri.",
+    "explanation_en": "The European elections of 6-9 June 2024 resulted in 720 MEPs, up from 705 in the previous legislature. The increase reflects demographic growth in some Member States.",
+    "motivation_it": "Il numero 720 è il totale **aggiornato** dopo la ridistribuzione dei seggi per le elezioni 2024.",
+    "motivation_en": "720 is the **updated** total after seat reallocation for the 2024 elections.",
+    "wrong_explanations_it": ["705 era il numero della legislatura 2019-2024, prima della ridistribuzione.", "", "751 era il limite massimo previsto dal Trattato di Lisbona per la legislatura fino al 2019.", "732 fu il numero della legislatura 2004-2009 dopo l'allargamento."],
+    "wrong_explanations_en": ["705 was the number in the 2019-2024 legislature, before reallocation.", "", "751 was the maximum set by the Treaty of Lisbon for the legislature until 2019.", "732 was the number in the 2004-2009 legislature after enlargement."],
+    "category": "Elezioni EP 2024",
+    "difficulty": "easy",
+    "visualId": "current-ep-elections"
+  },
+  {
+    "id": "ce-002",
+    "question_it": "Quale partito ha ottenuto il maggior numero di seggi alle elezioni europee di giugno 2024?",
+    "question_en": "Which party won the most seats in the June 2024 European elections?",
+    "options": [
+      { "text_it": "Socialisti e Democratici (S&D)", "text_en": "Socialists and Democrats (S&D)" },
+      { "text_it": "Partito Popolare Europeo (PPE/EPP)", "text_en": "European People's Party (EPP)" },
+      { "text_it": "Renew Europe", "text_en": "Renew Europe" },
+      { "text_it": "Conservatori e Riformisti (ECR)", "text_en": "European Conservatives and Reformists (ECR)" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Partito Popolare Europeo (PPE/EPP) è risultato il primo gruppo con circa 188 seggi, confermandosi la forza politica dominante al Parlamento Europeo.",
+    "explanation_en": "The European People's Party (EPP) emerged as the largest group with approximately 188 seats, confirming itself as the dominant political force in the European Parliament.",
+    "motivation_it": "L'**EPP** è stato il primo partito con ~188 seggi, consolidando la sua posizione di gruppo più grande del PE.",
+    "motivation_en": "The **EPP** was the largest party with ~188 seats, consolidating its position as the biggest group in the EP.",
+    "wrong_explanations_it": ["L'S&D è rimasto il secondo gruppo con circa 136 seggi.", "", "Renew Europe ha subito perdite significative, scendendo a circa 77 seggi.", "L'ECR è cresciuto ma si è fermato a circa 78 seggi, terzo gruppo."],
+    "wrong_explanations_en": ["S&D remained the second group with about 136 seats.", "", "Renew Europe suffered significant losses, falling to about 77 seats.", "ECR grew but stopped at about 78 seats, the third-largest group."],
+    "category": "Elezioni EP 2024",
+    "difficulty": "easy",
+    "visualId": "current-ep-elections"
+  },
+  {
+    "id": "ce-003",
+    "question_it": "Qual è stata l'affluenza alle elezioni europee di giugno 2024?",
+    "question_en": "What was the voter turnout in the June 2024 European elections?",
+    "options": [
+      { "text_it": "43% circa", "text_en": "About 43%" },
+      { "text_it": "51% circa", "text_en": "About 51%" },
+      { "text_it": "60% circa", "text_en": "About 60%" },
+      { "text_it": "38% circa", "text_en": "About 38%" }
+    ],
+    "correct": 1,
+    "explanation_it": "L'affluenza alle elezioni europee di giugno 2024 è stata di circa il 51%, la più alta dal 1994. Questo rappresenta un trend positivo rispetto al minimo storico del 42.6% del 2014.",
+    "explanation_en": "Voter turnout in the June 2024 European elections was approximately 51%, the highest since 1994. This represents a positive trend compared to the historic low of 42.6% in 2014.",
+    "motivation_it": "Il **51%** di affluenza è il dato ufficiale — il più alto dal 1994, segnale di crescente interesse dei cittadini europei.",
+    "motivation_en": "The **51%** turnout is the official figure — the highest since 1994, a sign of growing European citizen engagement.",
+    "wrong_explanations_it": ["43% è stata l'affluenza nelle elezioni 2019 (primo dato in crescita dopo anni di calo).", "", "60% sarebbe un'affluenza molto elevata, superiore ai livelli degli anni '80.", "38% è stata l'affluenza minima registrata nelle elezioni 2014."],
+    "wrong_explanations_en": ["43% was the turnout in 2019 (first data showing growth after years of decline).", "", "60% would be very high turnout, above 1980s levels.", "38% was approximately the minimum recorded in 2014 elections."],
+    "category": "Elezioni EP 2024",
+    "difficulty": "medium",
+    "visualId": "current-ep-elections"
+  },
+  {
+    "id": "ce-004",
+    "question_it": "Chi è stato eletto/rieletto Presidente del Parlamento Europeo nel luglio 2024?",
+    "question_en": "Who was elected/re-elected President of the European Parliament in July 2024?",
+    "options": [
+      { "text_it": "Ursula von der Leyen", "text_en": "Ursula von der Leyen" },
+      { "text_it": "Roberta Metsola", "text_en": "Roberta Metsola" },
+      { "text_it": "António Costa", "text_en": "António Costa" },
+      { "text_it": "Kaja Kallas", "text_en": "Kaja Kallas" }
+    ],
+    "correct": 1,
+    "explanation_it": "Roberta Metsola (PPE, Malta) è stata rieletta Presidente del Parlamento Europeo nel luglio 2024 per un secondo mandato di 2 anni e mezzo.",
+    "explanation_en": "Roberta Metsola (EPP, Malta) was re-elected President of the European Parliament in July 2024 for a second 2.5-year term.",
+    "motivation_it": "**Roberta Metsola** è la Presidente del PE — distinguila da von der Leyen (Commissione) e Costa (Consiglio Europeo).",
+    "motivation_en": "**Roberta Metsola** is the EP President — distinguish her from von der Leyen (Commission) and Costa (European Council).",
+    "wrong_explanations_it": ["Von der Leyen è Presidente della Commissione Europea (2° mandato dal dicembre 2024).", "", "António Costa è Presidente del Consiglio Europeo (dal dicembre 2024).", "Kaja Kallas è l'Alto Rappresentante per la politica estera (HR/VP) dal dicembre 2024."],
+    "wrong_explanations_en": ["Von der Leyen is President of the European Commission (2nd term from December 2024).", "", "António Costa is President of the European Council (from December 2024).", "Kaja Kallas is the High Representative for Foreign Affairs (HR/VP) from December 2024."],
+    "category": "Elezioni EP 2024",
+    "difficulty": "medium",
+    "visualId": "institution-ep"
+  },
+  {
+    "id": "ce-005",
+    "question_it": "Quando è entrato in vigore l'AI Act europeo?",
+    "question_en": "When did the European AI Act enter into force?",
+    "options": [
+      { "text_it": "1° gennaio 2024", "text_en": "1 January 2024" },
+      { "text_it": "2 agosto 2024", "text_en": "2 August 2024" },
+      { "text_it": "17 febbraio 2024", "text_en": "17 February 2024" },
+      { "text_it": "1° novembre 2024", "text_en": "1 November 2024" }
+    ],
+    "correct": 1,
+    "explanation_it": "L'AI Act è entrato in vigore il 2 agosto 2024. È il primo regolamento mondiale completo sull'intelligenza artificiale, con un approccio basato sul rischio.",
+    "explanation_en": "The AI Act entered into force on 2 August 2024. It is the world's first comprehensive regulation on artificial intelligence, with a risk-based approach.",
+    "motivation_it": "**2 agosto 2024** — data precisa dell'entrata in vigore dell'AI Act, il primo regolamento mondiale sull'IA.",
+    "motivation_en": "**2 August 2024** — the exact date the AI Act entered into force, the world's first AI regulation.",
+    "wrong_explanations_it": ["1° gennaio 2024 è una data inventata — l'AI Act non era ancora in vigore.", "", "17 febbraio 2024 è la data della piena applicazione del DSA, non dell'AI Act.", "1° novembre 2024 è la data della piena applicazione del DMA."],
+    "wrong_explanations_en": ["1 January 2024 is a distractor — the AI Act was not yet in force.", "", "17 February 2024 is the full application date of the DSA, not the AI Act.", "1 November 2024 is the full application date of the DMA."],
+    "category": "AI Act",
+    "difficulty": "medium",
+    "visualId": "current-ai-act"
+  },
+  {
+    "id": "ce-006",
+    "question_it": "Qual è la sanzione massima prevista dall'AI Act per le violazioni più gravi (sistemi di IA vietati)?",
+    "question_en": "What is the maximum fine under the AI Act for the most serious violations (prohibited AI systems)?",
+    "options": [
+      { "text_it": "10 milioni di euro o 2% del fatturato globale", "text_en": "€10 million or 2% of global turnover" },
+      { "text_it": "35 milioni di euro o 7% del fatturato globale", "text_en": "€35 million or 7% of global turnover" },
+      { "text_it": "20 milioni di euro o 4% del fatturato globale", "text_en": "€20 million or 4% of global turnover" },
+      { "text_it": "50 milioni di euro o 10% del fatturato globale", "text_en": "€50 million or 10% of global turnover" }
+    ],
+    "correct": 1,
+    "explanation_it": "L'AI Act prevede tre livelli di sanzioni: 35M€/7% per sistemi vietati, 15M€/3% per non conformità ai requisiti, 7.5M€/1.5% per informazioni false alle autorità.",
+    "explanation_en": "The AI Act provides three tiers of fines: €35M/7% for prohibited systems, €15M/3% for non-compliance with requirements, €7.5M/1.5% for false information to authorities.",
+    "motivation_it": "**35M€ o 7%** è la sanzione massima — più alta del GDPR (20M€/4%) per enfatizzare la gravità dei sistemi IA vietati.",
+    "motivation_en": "**€35M or 7%** is the maximum fine — higher than GDPR (€20M/4%) to emphasize the seriousness of prohibited AI systems.",
+    "wrong_explanations_it": ["10M€/2% è il livello minore per informazioni false o non conformità minore.", "", "20M€/4% sono le sanzioni del GDPR per protezione dati, non dell'AI Act.", "50M€/10% non è una soglia prevista dall'AI Act."],
+    "wrong_explanations_en": ["€10M/2% is a lower level for false information or minor non-compliance.", "", "€20M/4% are GDPR fines for data protection, not AI Act fines.", "€50M/10% is not a threshold under the AI Act."],
+    "category": "AI Act",
+    "difficulty": "hard",
+    "visualId": "current-ai-act"
+  },
+  {
+    "id": "ce-007",
+    "question_it": "Come classifica l'AI Act i sistemi di intelligenza artificiale?",
+    "question_en": "How does the AI Act classify artificial intelligence systems?",
+    "options": [
+      { "text_it": "Per settore di applicazione (sanitario, finanziario, educativo, industriale)", "text_en": "By application sector (healthcare, financial, educational, industrial)" },
+      { "text_it": "Per livello di rischio (inaccettabile, alto, limitato, minimo)", "text_en": "By risk level (unacceptable, high, limited, minimal)" },
+      { "text_it": "Per tipo di algoritmo (machine learning, deep learning, NLP, visione)", "text_en": "By algorithm type (machine learning, deep learning, NLP, vision)" },
+      { "text_it": "Per dimensione dell'azienda (PMI, grande impresa, multinazionale)", "text_en": "By company size (SME, large enterprise, multinational)" }
+    ],
+    "correct": 1,
+    "explanation_it": "L'AI Act adotta un approccio risk-based con 4 livelli: rischio inaccettabile (vietato), rischio alto (obblighi rigorosi), rischio limitato (trasparenza), rischio minimo (nessun obbligo specifico).",
+    "explanation_en": "The AI Act adopts a risk-based approach with 4 levels: unacceptable risk (prohibited), high risk (strict obligations), limited risk (transparency), minimal risk (no specific obligations).",
+    "motivation_it": "**Risk-based** è il principio chiave dell'AI Act — classifica per **rischio** non per settore o tecnologia.",
+    "motivation_en": "**Risk-based** is the key principle of the AI Act — it classifies by **risk** not by sector or technology.",
+    "wrong_explanations_it": ["La classificazione per settore è usata in altri contesti regolatori ma non dall'AI Act.", "", "La classificazione per tipo di algoritmo è tecnica ma non è l'approccio normativo scelto.", "La dimensione aziendale determina alcune soglie ma non la classificazione principale dei sistemi IA."],
+    "wrong_explanations_en": ["Sector-based classification is used in other regulatory contexts but not by the AI Act.", "", "Algorithm-type classification is technical but not the chosen regulatory approach.", "Company size determines some thresholds but not the main classification of AI systems."],
+    "category": "AI Act",
+    "difficulty": "easy",
+    "visualId": "current-ai-act"
+  },
+  {
+    "id": "ce-008",
+    "question_it": "Quale tipo di utilizzo dell'IA è classificato come 'rischio inaccettabile' e quindi vietato dall'AI Act?",
+    "question_en": "Which type of AI use is classified as 'unacceptable risk' and therefore prohibited by the AI Act?",
+    "options": [
+      { "text_it": "Sistemi di raccomandazione per piattaforme di streaming", "text_en": "Recommendation systems for streaming platforms" },
+      { "text_it": "Sistemi di credito sociale generalizzato da parte di governi", "text_en": "General-purpose social scoring systems by governments" },
+      { "text_it": "Chatbot di supporto clienti con obbligo di divulgazione", "text_en": "Customer support chatbots with disclosure obligation" },
+      { "text_it": "Sistemi di IA per la diagnosi medica assistita", "text_en": "AI systems for assisted medical diagnosis" }
+    ],
+    "correct": 1,
+    "explanation_it": "I sistemi di credito sociale generalizzato da parte di autorità pubbliche sono vietati. Sono vietati anche: manipolazione subliminale, sfruttamento vulnerabilità, identificazione biometrica in tempo reale in spazi pubblici (con eccezioni).",
+    "explanation_en": "General social scoring systems by public authorities are prohibited. Also prohibited: subliminal manipulation, exploitation of vulnerabilities, real-time biometric identification in public spaces (with exceptions).",
+    "motivation_it": "**Credito sociale** = vietato perché viola dignità e diritti fondamentali. Le altre opzioni rientrano in categorie permesse o a rischio alto ma non vietate.",
+    "motivation_en": "**Social scoring** = prohibited because it violates dignity and fundamental rights. The other options fall into permitted categories or high-risk but not prohibited.",
+    "wrong_explanations_it": ["I sistemi di raccomandazione sono a rischio limitato o minimo — non vietati.", "", "I chatbot con disclosure sono permessi (rischio limitato, obbligo di trasparenza).", "La diagnosi medica assistita è ad alto rischio ma non vietata — richiede conformità rigorosa."],
+    "wrong_explanations_en": ["Recommendation systems are limited or minimal risk — not prohibited.", "", "Chatbots with disclosure are permitted (limited risk, transparency obligation).", "Assisted medical diagnosis is high risk but not prohibited — it requires strict compliance."],
+    "category": "AI Act",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ce-009",
+    "question_it": "Da quando è operativo il CBAM (Carbon Border Adjustment Mechanism) nella sua fase transitoria?",
+    "question_en": "Since when has the CBAM (Carbon Border Adjustment Mechanism) been operational in its transitional phase?",
+    "options": [
+      { "text_it": "1° gennaio 2023", "text_en": "1 January 2023" },
+      { "text_it": "1° ottobre 2023", "text_en": "1 October 2023" },
+      { "text_it": "1° gennaio 2026", "text_en": "1 January 2026" },
+      { "text_it": "1° luglio 2024", "text_en": "1 July 2024" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il CBAM è entrato nella fase transitoria il 1° ottobre 2023. In questa fase le aziende devono solo riportare le emissioni incorporate nelle importazioni, senza pagamento. Il pagamento pieno inizia il 1° gennaio 2026.",
+    "explanation_en": "The CBAM entered its transitional phase on 1 October 2023. During this phase, companies only need to report embedded emissions in imports, without payment. Full payment starts on 1 January 2026.",
+    "motivation_it": "**1° ottobre 2023** = fase transitoria (solo reportistica). **1° gennaio 2026** = fase piena (pagamento certificati). Non confonderle.",
+    "motivation_en": "**1 October 2023** = transitional phase (reporting only). **1 January 2026** = full phase (certificate payment). Don't confuse them.",
+    "wrong_explanations_it": ["1° gennaio 2023 è la data di adozione del regolamento, non dell'entrata in vigore operativa.", "", "1° gennaio 2026 è l'inizio della fase piena con pagamento dei certificati CBAM, non la fase transitoria.", "1° luglio 2024 non è una data significativa per il CBAM."],
+    "wrong_explanations_en": ["1 January 2023 is the regulation adoption date, not the operational entry into force.", "", "1 January 2026 is when the full phase with CBAM certificate payments begins, not the transitional phase.", "1 July 2024 is not a significant CBAM date."],
+    "category": "CBAM",
+    "difficulty": "hard",
+    "visualId": "current-cbam"
+  },
+  {
+    "id": "ce-010",
+    "question_it": "Quali settori industriali sono coperti dal CBAM nella sua prima fase?",
+    "question_en": "Which industrial sectors are covered by CBAM in its first phase?",
+    "options": [
+      { "text_it": "Petrolio, gas naturale, carbone, plastica", "text_en": "Oil, natural gas, coal, plastics" },
+      { "text_it": "Cemento, acciaio, alluminio, fertilizzanti, elettricità, idrogeno", "text_en": "Cement, steel, aluminium, fertilisers, electricity, hydrogen" },
+      { "text_it": "Automobili, aviazione, shipping, prodotti chimici", "text_en": "Automobiles, aviation, shipping, chemicals" },
+      { "text_it": "Prodotti agricoli, carne, latticini, prodotti forestali", "text_en": "Agricultural products, meat, dairy, forestry products" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il CBAM copre inizialmente 6 settori ad alta intensità di carbonio: cemento, acciaio, alluminio, fertilizzanti, elettricità e idrogeno. Questi sono i settori dove il rischio di 'carbon leakage' è più elevato.",
+    "explanation_en": "CBAM initially covers 6 carbon-intensive sectors: cement, steel, aluminium, fertilisers, electricity and hydrogen. These are the sectors with the highest risk of 'carbon leakage'.",
+    "motivation_it": "**Cemento-Acciaio-Alluminio-Fertilizzanti-Elettricità-Idrogeno** — 6 settori con alto rischio di 'carbon leakage'.",
+    "motivation_en": "**Cement-Steel-Aluminium-Fertilisers-Electricity-Hydrogen** — 6 sectors with high carbon leakage risk.",
+    "wrong_explanations_it": ["Petrolio e gas sono coperti dall'ETS ma non dal CBAM nella prima fase.", "", "Auto e aviazione potrebbero essere inclusi in espansioni future ma non nella prima fase.", "Prodotti agricoli non sono inclusi — il CBAM si concentra su settori industriali ad alta intensità energetica."],
+    "wrong_explanations_en": ["Oil and gas are covered by ETS but not CBAM in the first phase.", "", "Cars and aviation may be included in future expansions but not in the first phase.", "Agricultural products are not included — CBAM focuses on energy-intensive industrial sectors."],
+    "category": "CBAM",
+    "difficulty": "medium",
+    "visualId": "current-cbam"
+  },
+  {
+    "id": "ce-011",
+    "question_it": "Qual è l'obiettivo principale del CBAM?",
+    "question_en": "What is the main objective of CBAM?",
+    "options": [
+      { "text_it": "Aumentare le entrate fiscali dell'UE per finanziare il Green Deal", "text_en": "Increase EU tax revenues to fund the Green Deal" },
+      { "text_it": "Prevenire il carbon leakage e garantire parità di condizioni tra produttori UE e non UE", "text_en": "Prevent carbon leakage and ensure a level playing field between EU and non-EU producers" },
+      { "text_it": "Ridurre le importazioni dall'Asia proteggendo l'industria europea", "text_en": "Reduce imports from Asia to protect European industry" },
+      { "text_it": "Sostituire il sistema ETS di scambio quote di emissioni", "text_en": "Replace the EU ETS emissions trading system" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il CBAM mira a evitare il 'carbon leakage', cioè il trasferimento di produzioni inquinanti fuori dall'UE per eludere i costi del carbonio. Garantisce che le importazioni paghino un prezzo del carbonio equivalente a quello pagato dai produttori UE.",
+    "explanation_en": "CBAM aims to prevent 'carbon leakage' — the transfer of polluting production outside the EU to avoid carbon costs. It ensures imports pay a carbon price equivalent to that paid by EU producers.",
+    "motivation_it": "**Carbon leakage** è il problema chiave — i produttori europei pagano il carbonio, quelli extra-UE no: CBAM livella il campo.",
+    "motivation_en": "**Carbon leakage** is the key problem — EU producers pay for carbon, non-EU ones don't: CBAM levels the playing field.",
+    "wrong_explanations_it": ["Le entrate sono un effetto secondario, non l'obiettivo principale.", "", "Il CBAM è uno strumento climatico, non protezionistico — non è diretto specificamente contro l'Asia.", "Il CBAM non sostituisce l'ETS ma lo completa per le importazioni."],
+    "wrong_explanations_en": ["Revenue generation is a secondary effect, not the primary objective.", "", "CBAM is a climate tool, not protectionist — it's not specifically directed at Asia.", "CBAM doesn't replace the ETS but complements it for imports."],
+    "category": "CBAM",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-012",
+    "question_it": "Da quando si applica pienamente il Digital Services Act (DSA)?",
+    "question_en": "Since when has the Digital Services Act (DSA) been fully applicable?",
+    "options": [
+      { "text_it": "1° gennaio 2024", "text_en": "1 January 2024" },
+      { "text_it": "17 febbraio 2024", "text_en": "17 February 2024" },
+      { "text_it": "1° novembre 2024", "text_en": "1 November 2024" },
+      { "text_it": "25 agosto 2023", "text_en": "25 August 2023" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il DSA si applica pienamente dal 17 febbraio 2024 a tutte le piattaforme. Le Piattaforme Online di Grandi Dimensioni (VLOP) erano soggette al DSA già dal 25 agosto 2023.",
+    "explanation_en": "The DSA has been fully applicable since 17 February 2024 to all platforms. Very Large Online Platforms (VLOPs) were already subject to the DSA from 25 August 2023.",
+    "motivation_it": "**17 febbraio 2024** = DSA per tutte le piattaforme. **25 agosto 2023** = solo per le VLOP (piattaforme con 45M+ utenti).",
+    "motivation_en": "**17 February 2024** = DSA for all platforms. **25 August 2023** = only for VLOPs (45M+ user platforms).",
+    "wrong_explanations_it": ["1° gennaio 2024 non è una data significativa per il DSA.", "", "1° novembre 2024 è la data della piena applicazione del DMA, non del DSA.", "25 agosto 2023 è la data di applicazione anticipata solo per le VLOP (piattaforme molto grandi)."],
+    "wrong_explanations_en": ["1 January 2024 is not a significant DSA date.", "", "1 November 2024 is the full application date of the DMA, not the DSA.", "25 August 2023 was the early application date only for VLOPs (very large platforms)."],
+    "category": "DSA + DMA",
+    "difficulty": "hard",
+    "visualId": "current-dsa"
+  },
+  {
+    "id": "ce-013",
+    "question_it": "Qual è la soglia di utenti mensili attivi nell'UE che definisce una Very Large Online Platform (VLOP) ai sensi del DSA?",
+    "question_en": "What is the threshold of monthly active users in the EU that defines a Very Large Online Platform (VLOP) under the DSA?",
+    "options": [
+      { "text_it": "10 milioni di utenti", "text_en": "10 million users" },
+      { "text_it": "45 milioni di utenti", "text_en": "45 million users" },
+      { "text_it": "100 milioni di utenti", "text_en": "100 million users" },
+      { "text_it": "1 miliardo di utenti", "text_en": "1 billion users" }
+    ],
+    "correct": 1,
+    "explanation_it": "Le Very Large Online Platforms (VLOP) sono definite dal DSA come piattaforme con almeno 45 milioni di utenti mensili attivi nell'UE (circa il 10% della popolazione EU di 450 milioni).",
+    "explanation_en": "Very Large Online Platforms (VLOPs) are defined by the DSA as platforms with at least 45 million monthly active users in the EU (approximately 10% of the EU population of 450 million).",
+    "motivation_it": "**45 milioni** = 10% della popolazione UE (450M) → soglia VLOP nel DSA.",
+    "motivation_en": "**45 million** = 10% of EU population (450M) → VLOP threshold in DSA.",
+    "wrong_explanations_it": ["10 milioni è una soglia generica per alcune disposizioni ma non per la designazione VLOP.", "", "100 milioni è la soglia per alcune piattaforme globali ma non quella del DSA.", "1 miliardo riguarda piattaforme globali come Facebook ma non è la soglia DSA."],
+    "wrong_explanations_en": ["10 million is a generic threshold for some provisions but not VLOP designation.", "", "100 million relates to some global platforms but is not the DSA threshold.", "1 billion relates to global platforms like Facebook but is not the DSA threshold."],
+    "category": "DSA + DMA",
+    "difficulty": "medium",
+    "visualId": "current-dsa"
+  },
+  {
+    "id": "ce-014",
+    "question_it": "Quanti 'gatekeeper' sono stati designati ai sensi del Digital Markets Act (DMA) entro il 2024?",
+    "question_en": "How many 'gatekeepers' were designated under the Digital Markets Act (DMA) by 2024?",
+    "options": [
+      { "text_it": "4 gatekeeper", "text_en": "4 gatekeepers" },
+      { "text_it": "7 gatekeeper", "text_en": "7 gatekeepers" },
+      { "text_it": "12 gatekeeper", "text_en": "12 gatekeepers" },
+      { "text_it": "20 gatekeeper", "text_en": "20 gatekeepers" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il DMA ha designato 7 gatekeeper: Alphabet (Google), Amazon, Apple, ByteDance (TikTok), Meta, Microsoft, Samsung. Ognuno ha servizi 'core platform' specifici soggetti agli obblighi DMA.",
+    "explanation_en": "The DMA designated 7 gatekeepers: Alphabet (Google), Amazon, Apple, ByteDance (TikTok), Meta, Microsoft, Samsung. Each has specific 'core platform services' subject to DMA obligations.",
+    "motivation_it": "**7 gatekeeper**: Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Samsung — le Big Tech soggette al DMA.",
+    "motivation_en": "**7 gatekeepers**: Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Samsung — the Big Tech subject to DMA.",
+    "wrong_explanations_it": ["4 è troppo pochi — già nel 2023 erano stati designati più di 4 gatekeeper.", "", "12 è superiore al numero attuale — al 2024 sono 7 i gatekeeper designati.", "20 è troppo alto — il DMA si concentra sui principali player di mercato che controllano l'accesso al mercato digitale."],
+    "wrong_explanations_en": ["4 is too few — more than 4 gatekeepers were designated already in 2023.", "", "12 is higher than the current number — by 2024 there are 7 designated gatekeepers.", "20 is too high — the DMA focuses on the main market players who control access to the digital market."],
+    "category": "DSA + DMA",
+    "difficulty": "medium",
+    "visualId": "current-dma"
+  },
+  {
+    "id": "ce-015",
+    "question_it": "Da quando si applica pienamente il Digital Markets Act (DMA)?",
+    "question_en": "Since when has the Digital Markets Act (DMA) been fully applicable?",
+    "options": [
+      { "text_it": "1° maggio 2023", "text_en": "1 May 2023" },
+      { "text_it": "1° novembre 2024", "text_en": "1 November 2024" },
+      { "text_it": "17 febbraio 2024", "text_en": "17 February 2024" },
+      { "text_it": "2 agosto 2024", "text_en": "2 August 2024" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il DMA si applica pienamente dal 1° novembre 2024. I gatekeeper erano già stati designati e i termini per conformarsi alle nuove obbligazioni scadevano a marzo 2024.",
+    "explanation_en": "The DMA has been fully applicable since 1 November 2024. The gatekeepers had already been designated and the deadlines for compliance with new obligations expired in March 2024.",
+    "motivation_it": "**1° novembre 2024** = DMA piena applicazione. Non confondere con: DSA (17 febbraio 2024) o AI Act (2 agosto 2024).",
+    "motivation_en": "**1 November 2024** = DMA full application. Don't confuse with: DSA (17 February 2024) or AI Act (2 August 2024).",
+    "wrong_explanations_it": ["1° maggio 2023 è la data di entrata in vigore del regolamento DMA, non della piena applicazione.", "", "17 febbraio 2024 è la piena applicazione del DSA, non del DMA.", "2 agosto 2024 è l'entrata in vigore dell'AI Act."],
+    "wrong_explanations_en": ["1 May 2023 is when the DMA regulation entered into force, not full application.", "", "17 February 2024 is DSA full application, not DMA.", "2 August 2024 is when the AI Act entered into force."],
+    "category": "DSA + DMA",
+    "difficulty": "hard",
+    "visualId": "current-dma"
+  },
+  {
+    "id": "ce-016",
+    "question_it": "Quando sono stati avviati ufficialmente i negoziati di adesione con Ucraina e Moldova?",
+    "question_en": "When were accession negotiations officially launched with Ukraine and Moldova?",
+    "options": [
+      { "text_it": "Giugno 2022 (status di candidato)", "text_en": "June 2022 (candidate status)" },
+      { "text_it": "Giugno 2024 (avvio negozi)", "text_en": "June 2024 (negotiations launched)" },
+      { "text_it": "Dicembre 2023 (decisione Consiglio Europeo)", "text_en": "December 2023 (European Council decision)" },
+      { "text_it": "Ottobre 2024 (prima conferenza intergovernativa)", "text_en": "October 2024 (first intergovernmental conference)" }
+    ],
+    "correct": 1,
+    "explanation_it": "I negoziati di adesione con Ucraina e Moldova sono stati formalmente avviati il 25 giugno 2024 durante la presidenza belga del Consiglio UE. Il Consiglio Europeo aveva dato il via libera a dicembre 2023.",
+    "explanation_en": "Accession negotiations with Ukraine and Moldova were formally launched on 25 June 2024 during the Belgian Presidency of the EU Council. The European Council had given the green light in December 2023.",
+    "motivation_it": "**Candidati giugno 2022** → **Consiglio OK dicembre 2023** → **Negoziati avviati giugno 2024**. Tre date diverse!",
+    "motivation_en": "**Candidates June 2022** → **Council OK December 2023** → **Negotiations launched June 2024**. Three different dates!",
+    "wrong_explanations_it": ["Giugno 2022 è quando Ucraina e Moldova hanno ottenuto lo *status di candidato*, non quando sono iniziati i negoziati.", "", "Dicembre 2023 è quando il Consiglio Europeo ha deciso di aprire i negoziati, ma i negoziati formali sono iniziati nel 2024.", "Ottobre 2024 potrebbe riferirsi a conferenze successive ma non all'avvio ufficiale dei negoziati."],
+    "wrong_explanations_en": ["June 2022 is when Ukraine and Moldova received *candidate status*, not when negotiations started.", "", "December 2023 is when the European Council decided to open negotiations, but formal negotiations started in 2024.", "October 2024 may refer to subsequent conferences but not the official launch of negotiations."],
+    "category": "Allargamento",
+    "difficulty": "hard",
+    "visualId": "current-enlargement"
+  },
+  {
+    "id": "ce-017",
+    "question_it": "Quale paese è entrato più recentemente nell'Unione Europea (stato membro più giovane)?",
+    "question_en": "Which country most recently joined the European Union (youngest member state)?",
+    "options": [
+      { "text_it": "Bulgaria (2007)", "text_en": "Bulgaria (2007)" },
+      { "text_it": "Croazia (2013)", "text_en": "Croatia (2013)" },
+      { "text_it": "Romania (2007)", "text_en": "Romania (2007)" },
+      { "text_it": "Slovenia (2004)", "text_en": "Slovenia (2004)" }
+    ],
+    "correct": 1,
+    "explanation_it": "La Croazia è l'ultimo paese ad aver aderito all'UE, il 1° luglio 2013. Da allora l'UE conta 27 stati membri (28 fino alla Brexit del 2020).",
+    "explanation_en": "Croatia is the last country to have joined the EU, on 1 July 2013. Since then the EU has had 27 member states (28 until Brexit in 2020).",
+    "motivation_it": "**Croazia 2013** = ultimo stato membro. L'UE attuale ha **27 stati** dopo la Brexit del 31 gennaio 2020.",
+    "motivation_en": "**Croatia 2013** = latest member state. Current EU has **27 states** after Brexit on 31 January 2020.",
+    "wrong_explanations_it": ["Bulgaria e Romania sono entrate entrambe nel 2007, prima della Croazia.", "", "Romania è entrata nel 2007 come Bulgaria.", "Slovenia è entrata nel 2004 nel Big Bang dell'allargamento."],
+    "wrong_explanations_en": ["Bulgaria and Romania both joined in 2007, before Croatia.", "", "Romania joined in 2007 like Bulgaria.", "Slovenia joined in 2004 in the Big Bang enlargement."],
+    "category": "Allargamento",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-018",
+    "question_it": "Quanti stati membri conta attualmente l'Unione Europea (2025)?",
+    "question_en": "How many member states does the European Union currently have (2025)?",
+    "options": [
+      { "text_it": "25 stati", "text_en": "25 states" },
+      { "text_it": "27 stati", "text_en": "27 states" },
+      { "text_it": "28 stati", "text_en": "28 states" },
+      { "text_it": "30 stati", "text_en": "30 states" }
+    ],
+    "correct": 1,
+    "explanation_it": "L'UE conta 27 stati membri dal 31 gennaio 2020, data in cui il Regno Unito ha completato la sua uscita (Brexit). Prima erano 28.",
+    "explanation_en": "The EU has had 27 member states since 31 January 2020, when the United Kingdom completed its withdrawal (Brexit). Previously there were 28.",
+    "motivation_it": "**27 stati** = 28 - 1 (Brexit UK il 31 gennaio 2020). Facile: 27 = il numero attuale post-Brexit.",
+    "motivation_en": "**27 states** = 28 - 1 (Brexit UK on 31 January 2020). Simple: 27 = current number post-Brexit.",
+    "wrong_explanations_it": ["25 era il numero dopo l'allargamento del 2004 (prima di BG+RO+HR).", "", "28 era il numero prima della Brexit del 31 gennaio 2020.", "30 è il numero ipotetico con futuri allargamenti — non ancora raggiunto."],
+    "wrong_explanations_en": ["25 was the number after the 2004 enlargement (before BG+RO+HR).", "", "28 was the number before Brexit on 31 January 2020.", "30 is the hypothetical number with future enlargements — not yet reached."],
+    "category": "Allargamento",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-019",
+    "question_it": "Chi è il Presidente della Commissione Europea nel secondo mandato che inizia a dicembre 2024?",
+    "question_en": "Who is President of the European Commission in the second mandate starting December 2024?",
+    "options": [
+      { "text_it": "António Costa", "text_en": "António Costa" },
+      { "text_it": "Ursula von der Leyen", "text_en": "Ursula von der Leyen" },
+      { "text_it": "Charles Michel", "text_en": "Charles Michel" },
+      { "text_it": "Kaja Kallas", "text_en": "Kaja Kallas" }
+    ],
+    "correct": 1,
+    "explanation_it": "Ursula von der Leyen è stata rieletta Presidente della Commissione Europea per un secondo mandato 2024-2029 dal Parlamento Europeo il 18 luglio 2024. Ha iniziato il secondo mandato il 1° dicembre 2024.",
+    "explanation_en": "Ursula von der Leyen was re-elected President of the European Commission for a second 2024-2029 mandate by the European Parliament on 18 July 2024. She began her second term on 1 December 2024.",
+    "motivation_it": "**Von der Leyen** = Commissione. **Costa** = Consiglio Europeo. **Metsola** = Parlamento. **Kallas** = Esteri (HR/VP).",
+    "motivation_en": "**Von der Leyen** = Commission. **Costa** = European Council. **Metsola** = Parliament. **Kallas** = Foreign Affairs (HR/VP).",
+    "wrong_explanations_it": ["António Costa è Presidente del Consiglio Europeo (non della Commissione) dal 1° dicembre 2024.", "", "Charles Michel era il precedente Presidente del Consiglio Europeo (2019-2024).", "Kaja Kallas è l'Alto Rappresentante per gli Affari Esteri (HR/VP), ex Primo Ministro estone."],
+    "wrong_explanations_en": ["António Costa is President of the European Council (not the Commission) from 1 December 2024.", "", "Charles Michel was the previous President of the European Council (2019-2024).", "Kaja Kallas is the High Representative for Foreign Affairs (HR/VP), former Estonian Prime Minister."],
+    "category": "Nuova Commissione 2024",
+    "difficulty": "easy",
+    "visualId": "institution-commission"
+  },
+  {
+    "id": "ce-020",
+    "question_it": "Chi è l'Alto Rappresentante dell'UE per gli affari esteri e la politica di sicurezza nella Commissione von der Leyen II?",
+    "question_en": "Who is the EU High Representative for Foreign Affairs and Security Policy in the von der Leyen II Commission?",
+    "options": [
+      { "text_it": "Josep Borrell", "text_en": "Josep Borrell" },
+      { "text_it": "Kaja Kallas", "text_en": "Kaja Kallas" },
+      { "text_it": "Federica Mogherini", "text_en": "Federica Mogherini" },
+      { "text_it": "Charles Michel", "text_en": "Charles Michel" }
+    ],
+    "correct": 1,
+    "explanation_it": "Kaja Kallas, ex Prima Ministro dell'Estonia, è diventata l'Alto Rappresentante per gli Affari Esteri e la Politica di Sicurezza (HR/VP) dal 1° dicembre 2024, succedendo a Josep Borrell.",
+    "explanation_en": "Kaja Kallas, former Prime Minister of Estonia, became the High Representative for Foreign Affairs and Security Policy (HR/VP) from 1 December 2024, succeeding Josep Borrell.",
+    "motivation_it": "**Kallas** = HR/VP dal dicembre 2024 (Estonia). **Borrell** = precedente HR/VP (2019-2024).",
+    "motivation_en": "**Kallas** = HR/VP from December 2024 (Estonia). **Borrell** = previous HR/VP (2019-2024).",
+    "wrong_explanations_it": ["Josep Borrell era l'HR/VP nella prima Commissione von der Leyen (2019-2024).", "", "Federica Mogherini era l'HR/VP nella Commissione Juncker (2014-2019).", "Charles Michel era Presidente del Consiglio Europeo (2019-2024), ora sostituito da António Costa."],
+    "wrong_explanations_en": ["Josep Borrell was HR/VP in the first von der Leyen Commission (2019-2024).", "", "Federica Mogherini was HR/VP in the Juncker Commission (2014-2019).", "Charles Michel was President of the European Council (2019-2024), now replaced by António Costa."],
+    "category": "Nuova Commissione 2024",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ce-021",
+    "question_it": "Chi è il Presidente del Consiglio Europeo a partire dal 1° dicembre 2024?",
+    "question_en": "Who is the President of the European Council from 1 December 2024?",
+    "options": [
+      { "text_it": "Charles Michel", "text_en": "Charles Michel" },
+      { "text_it": "António Costa", "text_en": "António Costa" },
+      { "text_it": "Ursula von der Leyen", "text_en": "Ursula von der Leyen" },
+      { "text_it": "Donald Tusk", "text_en": "Donald Tusk" }
+    ],
+    "correct": 1,
+    "explanation_it": "António Costa, ex Primo Ministro del Portogallo, è diventato Presidente del Consiglio Europeo il 1° dicembre 2024, succedendo a Charles Michel.",
+    "explanation_en": "António Costa, former Prime Minister of Portugal, became President of the European Council on 1 December 2024, succeeding Charles Michel.",
+    "motivation_it": "**Costa** = Consiglio EUROPEO (capi di stato). **Von der Leyen** = Commissione. **Metsola** = Parlamento.",
+    "motivation_en": "**Costa** = European COUNCIL (heads of state). **Von der Leyen** = Commission. **Metsola** = Parliament.",
+    "wrong_explanations_it": ["Charles Michel era il precedente Presidente del Consiglio Europeo (2019-2024), ora terminato il mandato.", "", "Ursula von der Leyen è Presidente della Commissione, non del Consiglio Europeo.", "Donald Tusk è stato Presidente del Consiglio Europeo dal 2014 al 2019."],
+    "wrong_explanations_en": ["Charles Michel was the previous President of the European Council (2019-2024), mandate now ended.", "", "Ursula von der Leyen is Commission President, not European Council President.", "Donald Tusk was President of the European Council from 2014 to 2019."],
+    "category": "Nuova Commissione 2024",
+    "difficulty": "medium",
+    "visualId": "institution-european-council"
+  },
+  {
+    "id": "ce-022",
+    "question_it": "Quando è stato adottato il Patto europeo sulla migrazione e l'asilo?",
+    "question_en": "When was the European Pact on Migration and Asylum adopted?",
+    "options": [
+      { "text_it": "Ottobre 2023", "text_en": "October 2023" },
+      { "text_it": "Maggio 2024", "text_en": "May 2024" },
+      { "text_it": "Dicembre 2024", "text_en": "December 2024" },
+      { "text_it": "Febbraio 2023", "text_en": "February 2023" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Patto europeo sulla migrazione e l'asilo è stato adottato dal Parlamento Europeo il 10 aprile 2024 e dal Consiglio il 14 maggio 2024. È entrato in vigore il 22 giugno 2024.",
+    "explanation_en": "The European Pact on Migration and Asylum was adopted by the European Parliament on 10 April 2024 and by the Council on 14 May 2024. It entered into force on 22 June 2024.",
+    "motivation_it": "**Maggio 2024** = Patto Migrazione adottato → in vigore giugno 2024 → Stati hanno 2 anni per adeguarsi (→ 2026).",
+    "motivation_en": "**May 2024** = Migration Pact adopted → in force June 2024 → States have 2 years to comply (→ 2026).",
+    "wrong_explanations_it": ["Ottobre 2023 non è corretto — le negoziazioni erano in corso ma non era ancora stato adottato.", "", "Dicembre 2024 è troppo tardi — il Patto era già adottato e in vigore da giugno 2024.", "Febbraio 2023 è troppo presto — le negoziazioni erano ancora in corso."],
+    "wrong_explanations_en": ["October 2023 is incorrect — negotiations were ongoing but it had not yet been adopted.", "", "December 2024 is too late — the Pact was already adopted and in force since June 2024.", "February 2023 is too early — negotiations were still ongoing."],
+    "category": "Patto Migrazione",
+    "difficulty": "medium",
+    "visualId": "current-migration-pact"
+  },
+  {
+    "id": "ce-023",
+    "question_it": "Cosa prevede il principio di 'solidarietà obbligatoria' nel Patto sulla migrazione?",
+    "question_en": "What does the principle of 'mandatory solidarity' in the Migration Pact entail?",
+    "options": [
+      { "text_it": "Tutti gli Stati devono accettare lo stesso numero di rifugiati", "text_en": "All states must accept the same number of refugees" },
+      { "text_it": "Gli Stati scelgono tra ricollocare migranti o contribuire finanziariamente/operativamente", "text_en": "States choose between relocating migrants or contributing financially/operationally" },
+      { "text_it": "Solo i paesi di frontiera (Grecia, Italia, Malta) gestiscono le richieste d'asilo", "text_en": "Only border countries (Greece, Italy, Malta) handle asylum requests" },
+      { "text_it": "Il numero di rifugiati è fissato dal Consiglio Europeo in base al PIL", "text_en": "The number of refugees is set by the European Council based on GDP" }
+    ],
+    "correct": 1,
+    "explanation_it": "La solidarietà obbligatoria nel Patto Migrazione non significa quote fisse. Gli Stati scelgono tra: a) ricollocare migranti dal paese di primo arrivo, b) contribuire finanziariamente, c) fornire supporto operativo (personale, attrezzature).",
+    "explanation_en": "Mandatory solidarity in the Migration Pact does not mean fixed quotas. States choose between: a) relocating migrants from the country of first arrival, b) contributing financially, c) providing operational support (personnel, equipment).",
+    "motivation_it": "**Solidarietà FLESSIBILE** = o ricollocazione o contributo finanziario/operativo. Non quote rigide!",
+    "motivation_en": "**FLEXIBLE solidarity** = either relocation OR financial/operational contribution. No rigid quotas!",
+    "wrong_explanations_it": ["Quote uguali per tutti non è previsto — è il modello che ha fallito nel 2015.", "", "Solo i paesi di frontiera che gestiscono: è esattamente il problema che il Patto vuole risolvere.", "Il PIL può influenzare il calcolo ma non è l'unico criterio e non è il Consiglio Europeo a fissare i numeri."],
+    "wrong_explanations_en": ["Equal quotas for all is not provided — that's the model that failed in 2015.", "", "Only border countries handling it is exactly the problem the Pact aims to solve.", "GDP may influence the calculation but it's not the only criterion and it's not the European Council that sets the numbers."],
+    "category": "Patto Migrazione",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ce-024",
+    "question_it": "Qual è l'ammontare totale del Quadro Finanziario Pluriennale 2021-2027 dell'UE, incluso NextGenerationEU?",
+    "question_en": "What is the total amount of the EU Multiannual Financial Framework 2021-2027, including NextGenerationEU?",
+    "options": [
+      { "text_it": "€750 miliardi", "text_en": "€750 billion" },
+      { "text_it": "Circa €1.824 miliardi", "text_en": "About €1.824 trillion" },
+      { "text_it": "€500 miliardi", "text_en": "€500 billion" },
+      { "text_it": "€2.5 trilioni", "text_en": "€2.5 trillion" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il QFP 2021-2027 ammonta a €1.074 miliardi a prezzi 2018. Aggiungendo NextGenerationEU (€750 miliardi), il totale è circa €1.824 miliardi — il più grande pacchetto di spesa nella storia dell'UE.",
+    "explanation_en": "The 2021-2027 MFF amounts to €1.074 trillion at 2018 prices. Adding NextGenerationEU (€750 billion), the total is approximately €1.824 trillion — the largest spending package in EU history.",
+    "motivation_it": "**QFP 1.074Mld + NextGenEU 750Mld = ~1.824 miliardi** → record storico UE.",
+    "motivation_en": "**MFF 1.074T + NextGenEU 750B = ~1.824 trillion** → EU historical record.",
+    "wrong_explanations_it": ["€750 miliardi è solo la parte NextGenerationEU, non il totale.", "", "€500 miliardi è inferiore al solo QFP ordinario.", "€2.5 trilioni è superiore al totale effettivo."],
+    "wrong_explanations_en": ["€750 billion is only the NextGenerationEU part, not the total.", "", "€500 billion is less than the ordinary MFF alone.", "€2.5 trillion is higher than the actual total."],
+    "category": "MFF + RRF",
+    "difficulty": "hard",
+    "visualId": "current-mff"
+  },
+  {
+    "id": "ce-025",
+    "question_it": "Qual è la dimensione del Recovery and Resilience Facility (RRF) nel programma NextGenerationEU?",
+    "question_en": "What is the size of the Recovery and Resilience Facility (RRF) within the NextGenerationEU programme?",
+    "options": [
+      { "text_it": "€500 miliardi", "text_en": "€500 billion" },
+      { "text_it": "€723.8 miliardi", "text_en": "€723.8 billion" },
+      { "text_it": "€1.074 miliardi", "text_en": "€1.074 trillion" },
+      { "text_it": "€312 miliardi", "text_en": "€312 billion" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il RRF (Recovery and Resilience Facility) ammonta a €723.8 miliardi (di cui €338 miliardi in sovvenzioni e €385.8 miliardi in prestiti). È il principale strumento di NextGenerationEU da €750 miliardi totali.",
+    "explanation_en": "The RRF (Recovery and Resilience Facility) amounts to €723.8 billion (of which €338 billion in grants and €385.8 billion in loans). It is the main instrument within the €750 billion NextGenerationEU programme.",
+    "motivation_it": "**RRF = 723.8Mld** (338 grants + 385.8 loans) = cuore di NextGenerationEU.",
+    "motivation_en": "**RRF = 723.8B** (338 grants + 385.8 loans) = heart of NextGenerationEU.",
+    "wrong_explanations_it": ["€500 miliardi è inferiore al RRF effettivo.", "", "€1.074 miliardi è il QFP ordinario, non il RRF.", "€312 miliardi corrisponde indicativamente alla sola parte in sovvenzioni del RRF (aggiornata post-accordo)."],
+    "wrong_explanations_en": ["€500 billion is less than the actual RRF.", "", "€1.074 trillion is the ordinary MFF, not the RRF.", "€312 billion corresponds approximately to only the grant portion of the RRF (updated post-agreement)."],
+    "category": "MFF + RRF",
+    "difficulty": "hard",
+    "visualId": "current-mff"
+  },
+  {
+    "id": "ce-026",
+    "question_it": "Entro quando gli Stati Membri devono spendere i fondi del Recovery and Resilience Facility (RRF)?",
+    "question_en": "By when must Member States spend Recovery and Resilience Facility (RRF) funds?",
+    "options": [
+      { "text_it": "Entro il 31 dicembre 2023", "text_en": "By 31 December 2023" },
+      { "text_it": "Entro il 31 agosto 2026", "text_en": "By 31 August 2026" },
+      { "text_it": "Entro il 31 dicembre 2030", "text_en": "By 31 December 2030" },
+      { "text_it": "Nessuna scadenza — i fondi rimangono disponibili", "text_en": "No deadline — funds remain available indefinitely" }
+    ],
+    "correct": 1,
+    "explanation_it": "Gli investimenti e le riforme finanziati dal RRF devono essere completati entro il 31 agosto 2026. I pagamenti ai paesi avvengono a tranche in base al raggiungimento di milestones e target concordati nei Piani nazionali.",
+    "explanation_en": "Investments and reforms funded by the RRF must be completed by 31 August 2026. Payments to countries occur in tranches based on the achievement of milestones and targets agreed in the National Plans.",
+    "motivation_it": "**31 agosto 2026** = scadenza RRF. I pagamenti sono a tranche basati su milestones raggiunte.",
+    "motivation_en": "**31 August 2026** = RRF deadline. Payments are in tranches based on achieved milestones.",
+    "wrong_explanations_it": ["31 dicembre 2023 è già passato — molti paesi non avevano ancora speso tutti i fondi.", "", "31 dicembre 2030 è la scadenza del QFP ordinario 2021-2027 per l'impegno delle risorse.", "I fondi RRF hanno una scadenza precisa — non sono a disposizione indefinitamente."],
+    "wrong_explanations_en": ["31 December 2023 has passed — many countries had not yet spent all their funds.", "", "31 December 2030 is the ordinary MFF 2021-2027 deadline for resource commitments.", "RRF funds have a specific deadline — they are not available indefinitely."],
+    "category": "MFF + RRF",
+    "difficulty": "hard"
+  },
+  {
+    "id": "ce-027",
+    "question_it": "Qual è l'obiettivo del Green Deal europeo in termini di riduzione delle emissioni di CO₂ entro il 2030?",
+    "question_en": "What is the European Green Deal objective for CO₂ emission reduction by 2030?",
+    "options": [
+      { "text_it": "Riduzione del 40% rispetto al 1990", "text_en": "40% reduction compared to 1990" },
+      { "text_it": "Riduzione del 55% rispetto al 1990 (obiettivo Fit for 55)", "text_en": "55% reduction compared to 1990 (Fit for 55 objective)" },
+      { "text_it": "Riduzione del 70% rispetto al 1990", "text_en": "70% reduction compared to 1990" },
+      { "text_it": "Neutralità climatica (zero emissioni nette) entro il 2030", "text_en": "Climate neutrality (net zero emissions) by 2030" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Green Deal europeo e il pacchetto 'Fit for 55' mirano a ridurre le emissioni di gas serra di almeno il 55% entro il 2030 rispetto ai livelli del 1990. La neutralità climatica è l'obiettivo per il 2050.",
+    "explanation_en": "The European Green Deal and the 'Fit for 55' package aim to reduce greenhouse gas emissions by at least 55% by 2030 compared to 1990 levels. Climate neutrality is the objective for 2050.",
+    "motivation_it": "**55% entro 2030** = obiettivo Fit for 55. **Neutralità climatica 2050** = obiettivo finale. Due date diverse!",
+    "motivation_en": "**55% by 2030** = Fit for 55 objective. **Climate neutrality 2050** = final objective. Two different dates!",
+    "wrong_explanations_it": ["40% era l'obiettivo precedente del pacchetto clima 2020 — ora innalzato al 55%.", "", "70% non è l'obiettivo UE — sarebbe più ambizioso del Fit for 55.", "Neutralità climatica è l'obiettivo 2050, non 2030."],
+    "wrong_explanations_en": ["40% was the previous 2020 climate package objective — now raised to 55%.", "", "70% is not the EU objective — it would be more ambitious than Fit for 55.", "Climate neutrality is the 2050 objective, not 2030."],
+    "category": "Green Deal + Net Zero",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ce-028",
+    "question_it": "Entro quale anno l'UE punta alla neutralità climatica (emissioni nette zero) secondo il Green Deal?",
+    "question_en": "By what year does the EU aim to achieve climate neutrality (net zero emissions) according to the Green Deal?",
+    "options": [
+      { "text_it": "2035", "text_en": "2035" },
+      { "text_it": "2050", "text_en": "2050" },
+      { "text_it": "2040", "text_en": "2040" },
+      { "text_it": "2060", "text_en": "2060" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Green Deal europeo stabilisce l'obiettivo di neutralità climatica (emissioni nette zero) entro il 2050. Questo obiettivo è stato codificato nella Legge europea sul clima (European Climate Law) adottata nel 2021.",
+    "explanation_en": "The European Green Deal sets the objective of climate neutrality (net zero emissions) by 2050. This objective was codified in the European Climate Law adopted in 2021.",
+    "motivation_it": "**2050** = neutralità climatica UE. **2030** = -55% emissioni. **2035** = fine vendite auto benzina/diesel.",
+    "motivation_en": "**2050** = EU climate neutrality. **2030** = -55% emissions. **2035** = end of petrol/diesel car sales.",
+    "wrong_explanations_it": ["2035 è l'anno in cui cesserà la vendita di nuove auto con motore a combustione interna, non la neutralità climatica.", "", "2040 non è la data ufficiale della neutralità climatica UE — è un anno intermedio.", "2060 è l'obiettivo della Cina per la neutralità climatica, non dell'UE."],
+    "wrong_explanations_en": ["2035 is when sales of new internal combustion engine cars will end, not climate neutrality.", "", "2040 is not the official EU climate neutrality date — it's an intermediate year.", "2060 is China's climate neutrality target, not the EU's."],
+    "category": "Green Deal + Net Zero",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-029",
+    "question_it": "Quando cesserà la vendita di nuove automobili con motore a combustione interna (benzina/diesel) nell'UE?",
+    "question_en": "When will sales of new internal combustion engine vehicles (petrol/diesel) cease in the EU?",
+    "options": [
+      { "text_it": "2030", "text_en": "2030" },
+      { "text_it": "2035", "text_en": "2035" },
+      { "text_it": "2040", "text_en": "2040" },
+      { "text_it": "2050", "text_en": "2050" }
+    ],
+    "correct": 1,
+    "explanation_it": "Dal 1° gennaio 2035 non potranno essere vendute nell'UE nuove automobili e furgoni leggeri con motori a combustione interna (benzina, diesel, ibridi). Saranno permessi solo veicoli a zero emissioni (elettrici, idrogeno). Le auto esistenti potranno continuare a circolare.",
+    "explanation_en": "From 1 January 2035, no new cars and light vans with internal combustion engines (petrol, diesel, hybrids) can be sold in the EU. Only zero-emission vehicles (electric, hydrogen) will be permitted. Existing cars can continue to circulate.",
+    "motivation_it": "**2035** = stop vendita nuove auto ICE. **2030** = -55% emissioni settore auto. **2050** = neutralità climatica.",
+    "motivation_en": "**2035** = stop new ICE car sales. **2030** = -55% transport emissions. **2050** = climate neutrality.",
+    "wrong_explanations_it": ["2030 è il target intermedio di riduzione emissioni, non il divieto di vendita ICE.", "", "2040 non è la data del divieto ICE — è 5 anni dopo il 2035 effettivo.", "2050 è l'anno della neutralità climatica generale, il divieto ICE è già nel 2035."],
+    "wrong_explanations_en": ["2030 is the intermediate emission reduction target, not the ICE sales ban.", "", "2040 is not the ICE ban date — it's 5 years after the actual 2035 date.", "2050 is the year of general climate neutrality, the ICE ban is already in 2035."],
+    "category": "Green Deal + Net Zero",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-030",
+    "question_it": "Quale delle seguenti NON è una delle priorità strategiche della Commissione von der Leyen II (2024-2029)?",
+    "question_en": "Which of the following is NOT one of the strategic priorities of the von der Leyen II Commission (2024-2029)?",
+    "options": [
+      { "text_it": "Green Deal europeo e transizione climatica", "text_en": "European Green Deal and climate transition" },
+      { "text_it": "Digitalizzazione e decennio digitale", "text_en": "Digitalisation and digital decade" },
+      { "text_it": "Uscita dell'UE dall'euro e ritorno alle valute nazionali", "text_en": "EU exit from the euro and return to national currencies" },
+      { "text_it": "Competitività europea (Rapporto Draghi)", "text_en": "European competitiveness (Draghi Report)" }
+    ],
+    "correct": 2,
+    "explanation_it": "L'uscita dall'euro non è assolutamente una priorità della Commissione — al contrario, von der Leyen ha riaffermato l'impegno per l'euro. Le priorità reali includono: Green Deal, digitalizzazione, difesa comune, stato di diritto, competitività (rapporto Draghi), allargamento.",
+    "explanation_en": "Exiting the euro is absolutely not a Commission priority — on the contrary, von der Leyen reaffirmed commitment to the euro. Real priorities include: Green Deal, digitalisation, common defence, rule of law, competitiveness (Draghi report), enlargement.",
+    "motivation_it": "L'**uscita dall'euro** è assurda — mai proposta da nessuna istituzione UE. Le altre 3 sono priorità reali.",
+    "motivation_en": "**Exiting the euro** is absurd — never proposed by any EU institution. The other 3 are real priorities.",
+    "wrong_explanations_it": ["Il Green Deal è una priorità centrale della Commissione von der Leyen dal 2019.", "", "La digitalizzazione e il Decennio Digitale 2030 sono priorità dichiarate.", "Il Rapporto Draghi sulla competitività (2024) ha influenzato direttamente le priorità della Commissione per il secondo mandato."],
+    "wrong_explanations_en": ["The Green Deal has been a central Commission priority since 2019.", "", "Digitalisation and the Digital Decade 2030 are stated priorities.", "The Draghi Report on competitiveness (2024) directly influenced Commission priorities for the second mandate."],
+    "category": "Nuova Commissione 2024",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ce-031",
+    "question_it": "Il Rapporto Draghi sulla competitività europea (settembre 2024) identifica quale come il principale divario dell'UE rispetto agli USA e alla Cina?",
+    "question_en": "The Draghi Report on European competitiveness (September 2024) identifies which as the main EU gap compared to the US and China?",
+    "options": [
+      { "text_it": "Mancanza di manodopera qualificata e immigrazione insufficiente", "text_en": "Lack of skilled labour and insufficient immigration" },
+      { "text_it": "Deficit di innovazione e assenza di grandi aziende tecnologiche europee", "text_en": "Innovation deficit and absence of major European tech companies" },
+      { "text_it": "Sistema fiscale troppo elevato rispetto a USA e Cina", "text_en": "Tax system too high compared to US and China" },
+      { "text_it": "Eccessiva dipendenza dall'aiuto militare USA in Europa", "text_en": "Excessive dependence on US military aid in Europe" }
+    ],
+    "correct": 1,
+    "explanation_it": "Il Rapporto Draghi (settembre 2024) identifica il deficit di innovazione come il problema centrale: l'UE non ha prodotto nessuna grande azienda tecnologica negli ultimi 50 anni. Chiede €800 miliardi/anno di investimenti aggiuntivi.",
+    "explanation_en": "The Draghi Report (September 2024) identifies the innovation deficit as the central problem: the EU has not produced any major tech company in the past 50 years. It calls for €800 billion/year in additional investments.",
+    "motivation_it": "**Draghi 2024** = deficit innovazione + 0 big tech europee + bisogno di 800Mld/anno di investimenti extra.",
+    "motivation_en": "**Draghi 2024** = innovation deficit + 0 major European tech companies + need for €800B/year extra investment.",
+    "wrong_explanations_it": ["La manodopera è un problema ma non la diagnosi principale del Rapporto Draghi.", "", "La tassazione non è identificata come causa principale del gap competitivo nel rapporto.", "La dipendenza militare è un problema distinto trattato più nell'ambito della difesa, non nel rapporto Draghi sulla competitività."],
+    "wrong_explanations_en": ["Labour is a problem but not the main diagnosis of the Draghi Report.", "", "Taxation is not identified as the main cause of the competitiveness gap in the report.", "Military dependence is a separate issue dealt with more in the defence context, not in the Draghi competitiveness report."],
+    "category": "Green Deal + Net Zero",
+    "difficulty": "hard"
+  }
+]

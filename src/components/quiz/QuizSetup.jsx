@@ -14,6 +14,7 @@ const categories = [
   { id: 'acronyms', icon: '🔤', colorClass: 'bg-[#BE185D]' },
   { id: 'situational', icon: '🎯', colorClass: 'bg-[#059669]' },
   { id: 'it-advanced', icon: '⚙️', colorClass: 'bg-[#0891B2]' },
+  { id: 'current-events', icon: '⚡', colorClass: 'bg-[#DC2626]' },
 ];
 
 const questionCounts = [10, 15, 20, 30, 0]; // 0 = all

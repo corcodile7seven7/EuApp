@@ -2,6 +2,7 @@ import { useState, useCallback } from 'react';
 import { useLanguage } from '../../context/LanguageContext';
 import { getDeepDiveExplanation, hasApiKey } from '../../utils/deepseek';
 import renderMarkdown from '../../utils/renderMarkdown';
+import VisualContextModal from '../visual/VisualContextModal';
 
 const optionLabels = ['A', 'B', 'C', 'D'];
 
@@ -79,6 +80,11 @@ export default function EnhancedExplanation({ question, selectedOption, showDeep
             );
           })}
         </div>
+      )}
+
+      {/* Visual Context button */}
+      {question.visualId && (
+        <VisualContextModal visualId={question.visualId} />
       )}
 
       {/* Deep Dive AI button */}

@@ -2,16 +2,17 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import it from '../i18n/it.json';
 import en from '../i18n/en.json';
+import { storage } from '../utils/storage';
 
 const translations = { it, en };
 const LanguageContext = createContext();
 
 export function LanguageProvider({ children }) {
-  const [lang, setLang] = useState(() => localStorage.getItem('epso-lang') || 'it');
-  const [quizLang, setQuizLang] = useState(() => localStorage.getItem('epso-quiz-lang') || 'it');
+  const [lang, setLang] = useState(() => storage.get('lang') || 'it');
+  const [quizLang, setQuizLang] = useState(() => storage.get('quiz-lang') || 'it');
 
-  useEffect(() => { localStorage.setItem('epso-lang', lang); }, [lang]);
-  useEffect(() => { localStorage.setItem('epso-quiz-lang', quizLang); }, [quizLang]);
+  useEffect(() => { storage.set('lang', lang); }, [lang]);
+  useEffect(() => { storage.set('quiz-lang', quizLang); }, [quizLang]);
 
   const t = (key) => {
     const keys = key.split('.');

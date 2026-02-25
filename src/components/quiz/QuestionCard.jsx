@@ -1,4 +1,5 @@
 import { useLanguage } from '../../context/LanguageContext';
+import renderMarkdown from '../../utils/renderMarkdown';
 
 const optionLabels = ['A', 'B', 'C', 'D'];
 
@@ -11,10 +12,10 @@ export default function QuestionCard({ question, selected, onSelect, showFeedbac
     <div className="space-y-4">
       {question.passage_it && (
         <div className="p-4 bg-gray-100 dark:bg-dark-surface rounded-lg text-sm leading-relaxed border-l-4 border-eu-blue">
-          {quizLang === 'en' ? question.passage_en : question.passage_it}
+          {renderMarkdown(quizLang === 'en' ? question.passage_en : question.passage_it)}
         </div>
       )}
-      <p className="text-base font-medium leading-relaxed">{qText}</p>
+      <div className="text-base font-medium leading-relaxed">{renderMarkdown(qText)}</div>
       <div className="space-y-2">
         {question.options.map((opt, i) => {
           const optText = quizLang === 'en' ? opt.text_en : opt.text_it;
@@ -50,7 +51,7 @@ export default function QuestionCard({ question, selected, onSelect, showFeedbac
               }`}>
                 {optionLabels[i]}
               </span>
-              <span className="text-sm text-left">{optText}</span>
+              <span className="text-sm text-left">{renderMarkdown(optText)}</span>
             </button>
           );
         })}

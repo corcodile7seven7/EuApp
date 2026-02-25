@@ -24,6 +24,27 @@ const API_KEY = 'sk-or-v1-3d57d92a87dc2e2050e19ad6e488b4e7e171ff8ed4ab5852fc72a2
 const SECTION_FILES = {
   'eu-knowledge': 'src/data/eu-knowledge.json',
   'digital-skills': 'src/data/digital-skills.json',
+  'temporal': 'src/data/temporal.json',
+  'eu-institutions': 'src/data/eu-institutions.json',
+  'acronyms': 'src/data/acronyms.json',
+  'situational': 'src/data/situational.json',
+  'it-advanced': 'src/data/it-advanced.json',
+  'verbal-reasoning': 'src/data/verbal-reasoning.json',
+  'numerical-reasoning': 'src/data/numerical-reasoning.json',
+  'abstract-reasoning': 'src/data/abstract-reasoning.json',
+};
+
+const SECTION_PREFIXES = {
+  'eu-knowledge': 'eu',
+  'digital-skills': 'ds',
+  'temporal': 'temp',
+  'eu-institutions': 'eui',
+  'acronyms': 'acr',
+  'situational': 'sit',
+  'it-advanced': 'ita',
+  'verbal-reasoning': 'vr',
+  'numerical-reasoning': 'nr',
+  'abstract-reasoning': 'ar',
 };
 
 const CATEGORIES = {
@@ -36,6 +57,14 @@ const CATEGORIES = {
     'Information & Data Literacy', 'Communication & Collaboration',
     'Digital Content Creation', 'Safety & Security', 'Problem Solving',
   ],
+  'temporal': ['EU Treaties', 'Timeline', 'Accession History', 'Key Dates'],
+  'eu-institutions': ['Seats & Organization', 'Decision Making', 'Competences', 'Reform & History'],
+  'acronyms': ['EU Bodies', 'Programs', 'Policies', 'Legal'],
+  'situational': ["Citizens' Rights", 'Cross-Border Scenarios', 'Consumer Protection'],
+  'it-advanced': ['Networking', 'Cloud', 'AI & Machine Learning', 'Software Dev', 'Digital Governance'],
+  'verbal-reasoning': ['Reading Comprehension', 'Logical Deduction', 'Inference'],
+  'numerical-reasoning': ['Percentages', 'Budget Analysis', 'Growth Rates', 'Statistics'],
+  'abstract-reasoning': ['Visual Patterns', 'Sequences', 'Matrices'],
 };
 
 // --- CLI args ---
@@ -53,9 +82,51 @@ const count = parseInt(getArg('count') || '10', 10);
 const outputPath = getArg('output');
 const enrichMode = hasFlag('enrich');
 const dryRun = hasFlag('dry-run');
+const listSections = hasFlag('list-sections');
+const validateFile = getArg('validate');
+
+// --list-sections: show available sections and exit
+if (listSections) {
+  console.log('Available sections:');
+  for (const [id, file] of Object.entries(SECTION_FILES)) {
+    const cats = CATEGORIES[id] || [];
+    console.log(`  ${id}`);
+    console.log(`    File: ${file}`);
+    console.log(`    Categories: ${cats.join(', ')}`);
+  }
+  process.exit(0);
+}
+
+// --validate: validate an existing JSON file
+if (validateFile) {
+  const filePath = path.resolve(ROOT, validateFile);
+  if (!fs.existsSync(filePath)) {
+    console.error(`File not found: ${filePath}`);
+    process.exit(1);
+  }
+  const questions = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  console.log(`Validating ${questions.length} questions from ${validateFile}...`);
+  let errors = 0;
+  for (let i = 0; i < questions.length; i++) {
+    const errs = validateQuestion(questions[i]);
+    if (errs.length > 0) {
+      console.warn(`  [${i}] ${questions[i].id || '(no id)'}: ${errs.join(', ')}`);
+      errors++;
+    }
+  }
+  if (errors === 0) {
+    console.log(`All ${questions.length} questions are valid.`);
+  } else {
+    console.log(`${errors}/${questions.length} questions have errors.`);
+  }
+  process.exit(errors > 0 ? 1 : 0);
+}
 
 if (!section || !SECTION_FILES[section]) {
-  console.error('Usage: --section eu-knowledge|digital-skills [--category "..."] [--count N] [--output path] [--enrich] [--dry-run]');
+  console.error('Usage: --section <section-id> [--category "..."] [--count N] [--output path] [--enrich] [--dry-run]');
+  console.error('       --list-sections     List all available sections');
+  console.error('       --validate <file>   Validate an existing JSON file');
+  console.error('\nAvailable sections: ' + Object.keys(SECTION_FILES).join(', '));
   process.exit(1);
 }
 
@@ -305,15 +376,17 @@ async function main() {
     }
 
     // Assign IDs
-    const prefix = section === 'eu-knowledge' ? 'eu' : 'dig';
+    const prefix = SECTION_PREFIXES[section] || section.slice(0, 3);
     let startId = 1;
 
     // If merging with existing file, start after max existing ID
     if (fs.existsSync(dataFile)) {
       const existing = JSON.parse(fs.readFileSync(dataFile, 'utf8'));
       const maxId = existing.reduce((max, q) => {
-        const num = parseInt(q.id.replace(prefix + '-', ''), 10);
-        return num > max ? num : max;
+        if (!q.id) return max;
+        const parts = q.id.split('-');
+        const num = parseInt(parts[parts.length - 1], 10);
+        return !isNaN(num) && num > max ? num : max;
       }, 0);
       startId = maxId + 1;
     }

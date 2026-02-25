@@ -6,7 +6,8 @@
     "study": "Studio",
     "stats": "Statistiche",
     "settings": "Impostazioni",
-    "info": "Info"
+    "info": "Info",
+    "visual": "Visuale"
   },
   "dashboard": {
     "title": "Dashboard",
@@ -169,6 +170,7 @@
     "acronyms": "Acronimi",
     "situational": "Situazionale",
     "it-advanced": "IT Avanzato",
+    "current-events": "Attualità 2024-25",
     "all": "Tutte le categorie",
     "mixed": "Modalità mista"
   },
@@ -182,8 +184,26 @@
     "eu-institutions": "Istituzioni, sedi, competenze, processi decisionali",
     "acronyms": "Identifica organi, programmi e politiche UE dalle descrizioni",
     "situational": "Scenari transfrontalieri, diritti dei cittadini, casi pratici",
-    "it-advanced": "Reti, cloud, AI, cybersecurity, governance digitale"
+    "it-advanced": "Reti, cloud, AI, cybersecurity, governance digitale",
+    "current-events": "AI Act, CBAM, DSA/DMA, elezioni EP, allargamento, nuova Commissione"
   },
+  "visual": {
+    "title": "Apprendimento Visivo",
+    "tab_timeline": "Timeline",
+    "tab_tree": "Albero",
+    "tab_map": "Mappa",
+    "tab_institutions": "Istituzioni",
+    "tab_current": "Attualità",
+    "tab_flashcards": "Flashcard",
+    "visual_context": "Contesto visivo",
+    "see_more": "Vedi nella pagina visiva",
+    "hot_badge": "EPSO HOT",
+    "flashcard_front": "Fronte",
+    "flashcard_back": "Retro",
+    "mnemonic": "Mnemonica",
+    "tap_to_flip": "Tocca per girare"
+  },
+  "nav_visual": "Visuale",
   "ai": {
     "why_correct": "Perché è corretta",
     "your_answer": "la tua risposta",
@@ -241,5 +261,40 @@
     "error": "Errore",
     "sec": "sec",
     "min": "min"
+  },
+  "generator": {
+    "title": "Generatore Domande AI",
+    "subtitle": "Genera nuove domande per la tua banca dati usando DeepSeek AI",
+    "section": "Sezione",
+    "category": "Categoria",
+    "count": "Numero domande",
+    "difficulty": "Difficoltà",
+    "difficulty_easy": "Facile",
+    "difficulty_medium": "Medio",
+    "difficulty_hard": "Difficile",
+    "difficulty_mixed": "Misto",
+    "generate": "Genera Domande",
+    "generating": "Generazione in corso...",
+    "preview": "Anteprima domande generate",
+    "save_all": "Salva tutte nella banca dati",
+    "saved": "Salvate!",
+    "delete": "Elimina",
+    "clear_all": "Elimina tutte le generate",
+    "clear_confirm": "Eliminare tutte le domande generate per questa sezione?",
+    "no_api_key": "Nessuna chiave API configurata. Vai in Impostazioni per aggiungerne una.",
+    "rate_minute": "Limite richieste al minuto raggiunto. Riprova tra poco.",
+    "rate_daily": "Limite giornaliero raggiunto. Riprova domani.",
+    "success": "Domande generate con successo!",
+    "error": "Errore durante la generazione",
+    "questions_saved_one": "1 domanda salvata",
+    "questions_saved": "{{count}} domande salvate",
+    "saved_count": "Domande salvate per sezione",
+    "no_saved": "Nessuna domanda generata salvata",
+    "back": "Torna alle Impostazioni",
+    "select_category": "Seleziona categoria",
+    "settings_card_title": "Genera Domande AI",
+    "settings_card_desc": "Genera nuove domande per la tua banca dati usando DeepSeek AI",
+    "settings_card_btn": "Apri Generatore",
+    "total_generated": "domande generate salvate"
   }
 }

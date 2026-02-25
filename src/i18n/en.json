@@ -6,7 +6,8 @@
     "study": "Study",
     "stats": "Statistics",
     "settings": "Settings",
-    "info": "Info"
+    "info": "Info",
+    "visual": "Visual"
   },
   "dashboard": {
     "title": "Dashboard",
@@ -169,6 +170,7 @@
     "acronyms": "Acronyms",
     "situational": "Situational",
     "it-advanced": "IT Advanced",
+    "current-events": "Current Events 2024-25",
     "all": "All Categories",
     "mixed": "Mixed Mode"
   },
@@ -182,8 +184,26 @@
     "eu-institutions": "Institutions, seats, competences, decision processes",
     "acronyms": "Identify EU bodies, programs and policies from descriptions",
     "situational": "Cross-border scenarios, citizens' rights, practical cases",
-    "it-advanced": "Networking, cloud, AI, cybersecurity, digital governance"
+    "it-advanced": "Networking, cloud, AI, cybersecurity, digital governance",
+    "current-events": "AI Act, CBAM, DSA/DMA, EP elections, enlargement, new Commission"
   },
+  "visual": {
+    "title": "Visual Learning",
+    "tab_timeline": "Timeline",
+    "tab_tree": "Tree",
+    "tab_map": "Map",
+    "tab_institutions": "Institutions",
+    "tab_current": "Current Events",
+    "tab_flashcards": "Flashcards",
+    "visual_context": "Visual context",
+    "see_more": "See in visual page",
+    "hot_badge": "EPSO HOT",
+    "flashcard_front": "Front",
+    "flashcard_back": "Back",
+    "mnemonic": "Mnemonic",
+    "tap_to_flip": "Tap to flip"
+  },
+  "nav_visual": "Visual",
   "ai": {
     "why_correct": "Why it's correct",
     "your_answer": "your answer",
@@ -241,5 +261,40 @@
     "error": "Error",
     "sec": "sec",
     "min": "min"
+  },
+  "generator": {
+    "title": "AI Question Generator",
+    "subtitle": "Generate new questions for your question bank using DeepSeek AI",
+    "section": "Section",
+    "category": "Category",
+    "count": "Number of questions",
+    "difficulty": "Difficulty",
+    "difficulty_easy": "Easy",
+    "difficulty_medium": "Medium",
+    "difficulty_hard": "Hard",
+    "difficulty_mixed": "Mixed",
+    "generate": "Generate Questions",
+    "generating": "Generating...",
+    "preview": "Preview of generated questions",
+    "save_all": "Save all to question bank",
+    "saved": "Saved!",
+    "delete": "Delete",
+    "clear_all": "Delete all generated",
+    "clear_confirm": "Delete all generated questions for this section?",
+    "no_api_key": "No API key configured. Go to Settings to add one.",
+    "rate_minute": "Per-minute request limit reached. Try again shortly.",
+    "rate_daily": "Daily limit reached. Try again tomorrow.",
+    "success": "Questions generated successfully!",
+    "error": "Error during generation",
+    "questions_saved_one": "1 question saved",
+    "questions_saved": "{{count}} questions saved",
+    "saved_count": "Saved questions by section",
+    "no_saved": "No generated questions saved yet",
+    "back": "Back to Settings",
+    "select_category": "Select category",
+    "settings_card_title": "Generate AI Questions",
+    "settings_card_desc": "Generate new questions for your question bank using DeepSeek AI",
+    "settings_card_btn": "Open Generator",
+    "total_generated": "generated questions saved"
   }
 }

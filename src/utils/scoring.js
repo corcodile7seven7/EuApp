@@ -93,6 +93,14 @@ export const SECTIONS = {
     weight: 0,
     color: '#0891B2',
   },
+  'current-events': {
+    id: 'current-events',
+    timePerQuestion: 70,
+    passScore: 20,
+    totalQuestions: 31,
+    weight: 0,
+    color: '#DC2626',
+  },
 };
 
 export function getSectionLabel(sectionId, t) {

@@ -4,6 +4,7 @@
  */
 import { useLanguage } from '../../context/LanguageContext';
 import ShapeRenderer, { ShapeSequence, ShapeMatrix } from './ShapeRenderer';
+import renderMarkdown from '../../utils/renderMarkdown';
 
 const optionLabels = ['A', 'B', 'C', 'D'];
 
@@ -15,7 +16,7 @@ export default function AbstractQuestionCard({ question, selected, onSelect, sho
   return (
     <div className="space-y-4">
       {/* Question text */}
-      <p className="text-base font-medium leading-relaxed">{qText}</p>
+      <div className="text-base font-medium leading-relaxed">{renderMarkdown(qText)}</div>
 
       {/* Shape sequence or matrix */}
       {question.matrix ? (

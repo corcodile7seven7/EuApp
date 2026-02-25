@@ -1,31 +1,35 @@
-const PREFIX = 'epso-';
+let ACTIVE_PREFIX = 'epso-';
 const DATA_VERSION = 1;
 
 export const storage = {
+  setProfile(profileId) {
+    ACTIVE_PREFIX = profileId ? `epso-${profileId}-` : 'epso-';
+  },
+
   get(key) {
     try {
-      const raw = localStorage.getItem(PREFIX + key);
+      const raw = localStorage.getItem(ACTIVE_PREFIX + key);
       return raw ? JSON.parse(raw) : null;
     } catch { return null; }
   },
 
   set(key, value) {
     try {
-      localStorage.setItem(PREFIX + key, JSON.stringify(value));
+      localStorage.setItem(ACTIVE_PREFIX + key, JSON.stringify(value));
     } catch (e) {
       console.error('Storage write error:', e);
     }
   },
 
   remove(key) {
-    localStorage.removeItem(PREFIX + key);
+    localStorage.removeItem(ACTIVE_PREFIX + key);
   },
 
   clear() {
     const keys = [];
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
-      if (k.startsWith(PREFIX)) keys.push(k);
+      if (k.startsWith(ACTIVE_PREFIX)) keys.push(k);
     }
     keys.forEach(k => localStorage.removeItem(k));
   },
@@ -73,14 +77,43 @@ export const storage = {
     this.set('question-stats', stats);
   },
 
+  // Quiz draft (auto-save progress)
+  saveDraft(sectionId, data) {
+    this.set(`quiz-draft-${sectionId}`, data);
+  },
+
+  getDraft(sectionId) {
+    return this.get(`quiz-draft-${sectionId}`);
+  },
+
+  clearDraft(sectionId) {
+    this.remove(`quiz-draft-${sectionId}`);
+  },
+
+  // Question ratings (persistent across sessions)
+  getQuestionRatings() {
+    return this.get('question-ratings') || {};
+  },
+
+  rateQuestion(questionId, type) {
+    const ratings = this.getQuestionRatings();
+    if (ratings[questionId] === type) {
+      delete ratings[questionId];
+    } else {
+      ratings[questionId] = type;
+    }
+    this.set('question-ratings', ratings);
+    return ratings;
+  },
+
   // Export all data
   exportAll() {
     const data = { version: DATA_VERSION, exportDate: new Date().toISOString() };
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
-      if (k.startsWith(PREFIX)) {
-        try { data[k.slice(PREFIX.length)] = JSON.parse(localStorage.getItem(k)); }
-        catch { data[k.slice(PREFIX.length)] = localStorage.getItem(k); }
+      if (k.startsWith(ACTIVE_PREFIX)) {
+        try { data[k.slice(ACTIVE_PREFIX.length)] = JSON.parse(localStorage.getItem(k)); }
+        catch { data[k.slice(ACTIVE_PREFIX.length)] = localStorage.getItem(k); }
       }
     }
     return data;

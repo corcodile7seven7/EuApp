@@ -1,12 +1,16 @@
 import { useState, useRef, useCallback } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { useLanguage } from '../../context/LanguageContext';
 import { useTheme } from '../../context/ThemeContext';
 import { storage } from '../../utils/storage';
 import { getStoredApiKey, setApiKey, testConnection } from '../../utils/deepseek';
+import { getTotalGeneratedCount } from '../../utils/questionStorage';
 
 export default function Settings() {
+  const navigate = useNavigate();
   const { lang, setLang, quizLang, setQuizLang, t } = useLanguage();
   const { dark, toggleDark } = useTheme();
+  const [totalGenerated] = useState(() => getTotalGeneratedCount());
   const [showResetConfirm, setShowResetConfirm] = useState(false);
   const fileInputRef = useRef(null);
   const [apiKey, setApiKeyState] = useState(() => getStoredApiKey());
@@ -168,6 +172,27 @@ export default function Settings() {
             {testResult === 'ok' ? t('settings.connection_ok') : `${t('settings.connection_error')}: ${testResult}`}
           </p>
         )}
+      </div>
+
+      {/* AI Question Generator */}
+      <div className="bg-white dark:bg-dark-surface rounded-xl p-4 border border-gray-200 dark:border-dark-border space-y-3">
+        <div className="flex items-start justify-between gap-3">
+          <div className="flex-1">
+            <h3 className="text-sm font-bold text-gray-700 dark:text-gray-300">{t('generator.settings_card_title')}</h3>
+            <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">{t('generator.settings_card_desc')}</p>
+          </div>
+          {totalGenerated > 0 && (
+            <span className="shrink-0 text-xs bg-eu-blue text-white rounded-full px-2 py-0.5 font-medium">
+              {totalGenerated} {t('generator.total_generated')}
+            </span>
+          )}
+        </div>
+        <button
+          onClick={() => navigate('/question-generator')}
+          className="w-full py-2.5 rounded-lg text-sm font-medium bg-purple-50 dark:bg-purple-900/20 text-purple-700 dark:text-purple-300 hover:bg-purple-100 dark:hover:bg-purple-900/40 transition-colors"
+        >
+          {t('generator.settings_card_btn')}
+        </button>
       </div>
 
       {/* Data management */}

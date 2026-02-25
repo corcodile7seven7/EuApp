@@ -1,13 +1,14 @@
 /* eslint-disable react-refresh/only-export-components */
 import { createContext, useContext, useState, useEffect } from 'react';
+import { storage } from '../utils/storage';
 
 const ThemeContext = createContext();
 
 export function ThemeProvider({ children }) {
-  const [dark, setDark] = useState(() => localStorage.getItem('epso-dark') === 'true');
+  const [dark, setDark] = useState(() => storage.get('dark') === true);
 
   useEffect(() => {
-    localStorage.setItem('epso-dark', dark);
+    storage.set('dark', dark);
     document.documentElement.classList.toggle('dark', dark);
   }, [dark]);
 
